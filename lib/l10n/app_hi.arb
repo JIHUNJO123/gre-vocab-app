@@ -83,4 +83,14 @@
   "levelB1": "मधयवरत",
   "levelB2": "उचच मधयवरत",
   "levelC1": "उननत"
+,
+  "excellent": "उतकषट!",
+  "finish": "समपत",
+  "meaningToWord": "अरथ स शबद",
+  "noPurchaseFound": "कई खरदर नह मल",
+  "restoreComplete": "पनरसथपन परण",
+  "restorePurchaseDesc": "पहल क खरदर पनरसथपत कर",
+  "score": "सकर",
+  "showResult": "परणम दखए",
+  "wordToMeaning": "शबद स अरथ"
 }

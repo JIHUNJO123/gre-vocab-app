@@ -188,28 +188,28 @@ class AppLocalizationsHi extends AppLocalizations {
   String get question => 'परशन';
 
   @override
-  String get score => 'Score';
+  String get score => 'सकर';
 
   @override
   String get quizComplete => 'कवज परण!';
 
   @override
-  String get finish => 'Finish';
+  String get finish => 'समपत';
 
   @override
   String get tryAgain => 'फर स परयस कर';
 
   @override
-  String get showResult => 'Show Result';
+  String get showResult => 'परणम दखए';
 
   @override
-  String get wordToMeaning => 'Word to Meaning';
+  String get wordToMeaning => 'शबद स अरथ';
 
   @override
-  String get meaningToWord => 'Meaning to Word';
+  String get meaningToWord => 'अरथ स शबद';
 
   @override
-  String get excellent => 'Excellent! Perfect score!';
+  String get excellent => 'उतकषट!';
 
   @override
   String get great => 'बहत अचछ!';
@@ -239,11 +239,11 @@ class AppLocalizationsHi extends AppLocalizations {
   String get privacyPolicyContent => 'यह ऐप कई वयकतगत जनकर एकतर नह करत ह';
 
   @override
-  String get restorePurchaseDesc => 'If you have previously purchased ad removal on another device or after reinstalling the app, tap here to restore your purchase.';
+  String get restorePurchaseDesc => 'पहल क खरदर पनरसथपत कर';
 
   @override
-  String get restoreComplete => 'Restore complete';
+  String get restoreComplete => 'पनरसथपन परण';
 
   @override
-  String get noPurchaseFound => 'No previous purchase found';
+  String get noPurchaseFound => 'कई खरदर नह मल';
 }
