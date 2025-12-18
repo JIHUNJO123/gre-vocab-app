@@ -9,140 +9,140 @@ class AppLocalizationsHi extends AppLocalizations {
   AppLocalizationsHi([String locale = 'hi']) : super(locale);
 
   @override
-  String get appTitle => 'GRE Vocabulary Master';
+  String get appTitle => 'GRE शबदवल मसटर';
 
   @override
-  String get todayWord => 'Today\'s Word';
+  String get todayWord => 'आज क शबद';
 
   @override
-  String get learning => 'Learning';
+  String get learning => 'सखन';
 
   @override
-  String get levelLearning => 'Difficulty Level';
+  String get levelLearning => 'कठनई सतर';
 
   @override
-  String get allWords => 'All Words';
+  String get allWords => 'सभ शबद';
 
   @override
-  String get viewAllWords => 'View all vocabulary';
+  String get viewAllWords => 'सभ शबदवल दख';
 
   @override
-  String get favorites => 'Favorites';
+  String get favorites => 'पसदद';
 
   @override
-  String get savedWords => 'Saved words';
+  String get savedWords => 'सहज गए शबद';
 
   @override
-  String get flashcard => 'Flashcard';
+  String get flashcard => 'फलशकरड';
 
   @override
-  String get cardLearning => 'Card learning';
+  String get cardLearning => 'करड लरनग';
 
   @override
-  String get quiz => 'Quiz';
+  String get quiz => 'कवज';
 
   @override
-  String get testYourself => 'Test yourself';
+  String get testYourself => 'खद क परख';
 
   @override
-  String get settings => 'Settings';
+  String get settings => 'सटगस';
 
   @override
-  String get language => 'Language';
+  String get language => 'भष';
 
   @override
-  String get displayLanguage => 'Display Language';
+  String get displayLanguage => 'परदरशन भष';
 
   @override
-  String get selectLanguage => 'Select Language';
+  String get selectLanguage => 'भष चन';
 
   @override
-  String get display => 'Display';
+  String get display => 'परदरशन';
 
   @override
-  String get darkMode => 'Dark Mode';
+  String get darkMode => 'डरक मड';
 
   @override
-  String get fontSize => 'Font Size';
+  String get fontSize => 'फनट आकर';
 
   @override
-  String get notifications => 'Notifications';
+  String get notifications => 'सचनए';
 
   @override
-  String get dailyReminder => 'Daily Reminder';
+  String get dailyReminder => 'दनक रमइडर';
 
   @override
-  String get dailyReminderDesc => 'Get reminded to study every day';
+  String get dailyReminderDesc => 'हर दन अधययन क यद दलए';
 
   @override
-  String get removeAds => 'Remove Ads';
+  String get removeAds => 'वजञपन हटए';
 
   @override
-  String get adsRemoved => 'Ads Removed';
+  String get adsRemoved => 'वजञपन हट दए गए';
 
   @override
-  String get thankYou => 'Thank you for your support!';
+  String get thankYou => 'आपक समरथन क लए धनयवद!';
 
   @override
-  String get buy => 'Buy';
+  String get buy => 'खरद';
 
   @override
-  String get restorePurchase => 'Restore Purchase';
+  String get restorePurchase => 'खरदर पनरसथपत कर';
 
   @override
-  String get restoring => 'Restoring...';
+  String get restoring => 'पनरसथपत ह रह ह...';
 
   @override
-  String get purchaseSuccess => 'Purchase successful!';
+  String get purchaseSuccess => 'खरदर सफल!';
 
   @override
-  String get loading => 'Loading...';
+  String get loading => 'लड ह रह ह...';
 
   @override
-  String get notAvailable => 'Not available';
+  String get notAvailable => 'उपलबध नह';
 
   @override
-  String get info => 'Info';
+  String get info => 'जनकर';
 
   @override
-  String get version => 'Version';
+  String get version => 'ससकरण';
 
   @override
-  String get disclaimer => 'Disclaimer';
+  String get disclaimer => 'असवकरण';
 
   @override
-  String get disclaimerText => 'This app is an independent GRE preparation tool and is not affiliated with, endorsed by, or approved by ETS (Educational Testing Service).';
+  String get disclaimerText => 'यह ऐप एक सवततर GRE तयर टल ह और ETS स सबदध नह ह';
 
   @override
-  String get privacyPolicy => 'Privacy Policy';
+  String get privacyPolicy => 'गपनयत नत';
 
   @override
-  String get cannotLoadWords => 'Cannot load words';
+  String get cannotLoadWords => 'शबद लड नह ह सकत';
 
   @override
-  String get noFavoritesYet => 'No favorites yet';
+  String get noFavoritesYet => 'अभ कई पसदद नह';
 
   @override
-  String get tapHeartToSave => 'Tap the heart icon to save words';
+  String get tapHeartToSave => 'शबद सहजन क लए हरट टप कर';
 
   @override
-  String get addedToFavorites => 'Added to favorites';
+  String get addedToFavorites => 'पसदद म जड गय';
 
   @override
-  String get removedFromFavorites => 'Removed from favorites';
+  String get removedFromFavorites => 'पसदद स हटय गय';
 
   @override
-  String get wordDetail => 'Word Detail';
+  String get wordDetail => 'शबद ववरण';
 
   @override
-  String get definition => 'Definition';
+  String get definition => 'परभष';
 
   @override
-  String get example => 'Example';
+  String get example => 'उदहरण';
 
   @override
   String levelWords(String level) {
-    return '$level Words';
+    return '$level शबद';
   }
 
   @override
@@ -155,7 +155,7 @@ class AppLocalizationsHi extends AppLocalizations {
   String get common => 'समनय';
 
   @override
-  String get commonDesc => 'अकसर परकषत - 1,000 शब्द';
+  String get commonDesc => 'अकसर परकषत - 1,000 शबद';
 
   @override
   String get advanced => 'उननत';
@@ -167,37 +167,37 @@ class AppLocalizationsHi extends AppLocalizations {
   String get expert => 'वशषजञ';
 
   @override
-  String get expertDesc => 'कठन शब्दवल - 500 शबद';
+  String get expertDesc => 'कठन शबदवल - 500 शबद';
 
   @override
-  String get alphabetical => 'Alphabetical';
+  String get alphabetical => 'वरणनकरम';
 
   @override
-  String get random => 'Random';
+  String get random => 'यदचछक';
 
   @override
-  String get tapToFlip => 'Tap to flip';
+  String get tapToFlip => 'पलटन क लए टप कर';
 
   @override
-  String get previous => 'Previous';
+  String get previous => 'पछल';
 
   @override
-  String get next => 'Next';
+  String get next => 'अगल';
 
   @override
-  String get question => 'Question';
+  String get question => 'परशन';
 
   @override
   String get score => 'Score';
 
   @override
-  String get quizComplete => 'Quiz Complete!';
+  String get quizComplete => 'कवज परण!';
 
   @override
   String get finish => 'Finish';
 
   @override
-  String get tryAgain => 'Try Again';
+  String get tryAgain => 'फर स परयस कर';
 
   @override
   String get showResult => 'Show Result';
@@ -212,31 +212,31 @@ class AppLocalizationsHi extends AppLocalizations {
   String get excellent => 'Excellent! Perfect score!';
 
   @override
-  String get great => 'Great job! Keep it up!';
+  String get great => 'बहत अचछ!';
 
   @override
-  String get good => 'Good effort! Keep practicing!';
+  String get good => 'अचछ कम!';
 
   @override
-  String get keepPracticing => 'Keep practicing! You will improve!';
+  String get keepPracticing => 'अभयस जर रख!';
 
   @override
-  String get levelA1 => 'Beginner';
+  String get levelA1 => 'शरआत';
 
   @override
-  String get levelA2 => 'Elementary';
+  String get levelA2 => 'परथमक';
 
   @override
-  String get levelB1 => 'Intermediate';
+  String get levelB1 => 'मधयवरत';
 
   @override
-  String get levelB2 => 'Upper Intermediate';
+  String get levelB2 => 'उचच मधयवरत';
 
   @override
-  String get levelC1 => 'Advanced';
+  String get levelC1 => 'उननत';
 
   @override
-  String get privacyPolicyContent => 'This app does not collect, store, or share any personal information. Your learning progress and favorites are stored only on your device. No data is transmitted to external servers.';
+  String get privacyPolicyContent => 'यह ऐप कई वयकतगत जनकर एकतर नह करत ह';
 
   @override
   String get restorePurchaseDesc => 'If you have previously purchased ad removal on another device or after reinstalling the app, tap here to restore your purchase.';

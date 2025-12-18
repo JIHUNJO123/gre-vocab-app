@@ -2,7 +2,7 @@
 description: "GRE Vocabulary - Master GRE words for your graduate school admission"
 publish_to: 'none'
 
-version: 1.0.1+4
+version: 1.0.1+5
 
 environment:
   sdk: ^3.7.0
@@ -65,4 +65,5 @@ flutter:
     - assets/data/common_words.json
     - assets/data/advanced_words.json
     - assets/data/expert_words.json
+
 
