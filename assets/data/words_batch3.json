@@ -1,0 +1,702 @@
+[
+  {
+    "id": 151,
+    "word": "lethargic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sluggish and apathetic",
+    "example": "The lethargic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무기력하고 무관심한",
+      "zh": "迟钝和冷漠",
+      "hi": "सुस्त और उदासीन"
+    }
+  },
+  {
+    "id": 152,
+    "word": "levity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "humor or lack of seriousness",
+    "example": "The levity situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "유머 또는 진지함의 부족",
+      "zh": "幽默或不严肃",
+      "hi": "हास्य या गंभीरता की कमी"
+    }
+  },
+  {
+    "id": 153,
+    "word": "limpid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "clear and transparent",
+    "example": "The limpid situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하고 투명함",
+      "zh": "清晰透明",
+      "hi": "स्पष्ट और पारदर्शी"
+    }
+  },
+  {
+    "id": 154,
+    "word": "lissome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "thin and graceful",
+    "example": "The lissome situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "가늘고 우아함",
+      "zh": "纤细而优雅",
+      "hi": "पतली और आकर्षक"
+    }
+  },
+  {
+    "id": 155,
+    "word": "litigious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "prone to engage in lawsuits",
+    "example": "The litigious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "소송에 휘말리기 쉬운",
+      "zh": "容易卷入诉讼",
+      "hi": "मुकदमेबाजी में शामिल होने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 156,
+    "word": "loquacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tending to talk a great deal",
+    "example": "The loquacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "말을 많이 하는 경향이 있다",
+      "zh": "话很多",
+      "hi": "बहुत ज्यादा बोलने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 157,
+    "word": "lucid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "expressed clearly",
+    "example": "The lucid situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하게 표현됨",
+      "zh": "表达清晰",
+      "hi": "स्पष्ट रूप से व्यक्त किया गया"
+    }
+  },
+  {
+    "id": 158,
+    "word": "lugubrious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "looking sad and dismal",
+    "example": "The lugubrious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "슬프고 우울해 보인다",
+      "zh": "看起来悲伤沮丧",
+      "hi": "उदास और निराश दिख रहा है"
+    }
+  },
+  {
+    "id": 159,
+    "word": "magnanimous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "generous or forgiving",
+    "example": "The magnanimous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "관대한 또는 용서하는",
+      "zh": "慷慨或宽容",
+      "hi": "उदार या क्षमाशील"
+    }
+  },
+  {
+    "id": 160,
+    "word": "maladroit",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "ineffective or bungling",
+    "example": "The maladroit situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "비효율적이거나 서투른",
+      "zh": "无效或拙劣",
+      "hi": "अप्रभावी या गड़बड़"
+    }
+  },
+  {
+    "id": 161,
+    "word": "malinger",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to pretend to be ill",
+    "example": "The malinger situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "아픈 척하다",
+      "zh": "装病",
+      "hi": "बीमार होने का नाटक करना"
+    }
+  },
+  {
+    "id": 162,
+    "word": "malleable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily influenced",
+    "example": "The malleable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 영향을 받는",
+      "zh": "容易受到影响",
+      "hi": "आसानी से प्रभावित होने वाला"
+    }
+  },
+  {
+    "id": 163,
+    "word": "maverick",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "independent-minded person",
+    "example": "The maverick situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "독립적인 성향의 사람",
+      "zh": "独立思考的人",
+      "hi": "स्वतंत्र विचारों वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 164,
+    "word": "mendacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not telling the truth",
+    "example": "The mendacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 말하지 않음",
+      "zh": "没有说实话",
+      "hi": "सच नहीं बोल रहे"
+    }
+  },
+  {
+    "id": 165,
+    "word": "mercurial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "subject to sudden changes",
+    "example": "The mercurial situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 변화에 취약함",
+      "zh": "易受突发变化影响",
+      "hi": "अचानक परिवर्तनों के अधीन"
+    }
+  },
+  {
+    "id": 166,
+    "word": "meretricious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "attractive but valueless",
+    "example": "The meretricious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "매력적이지만 가치가 없다",
+      "zh": "有吸引力但没价值",
+      "hi": "आकर्षक लेकिन बेकार"
+    }
+  },
+  {
+    "id": 167,
+    "word": "meticulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very careful about details",
+    "example": "The meticulous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "세부 사항에 매우 꼼꼼하다",
+      "zh": "非常注重细节",
+      "hi": "विवरणों के प्रति बहुत सावधान"
+    }
+  },
+  {
+    "id": 168,
+    "word": "milieu",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "social environment",
+    "example": "The milieu situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "사회적 환경",
+      "zh": "社会环境",
+      "hi": "सामाजिक वातावरण"
+    }
+  },
+  {
+    "id": 169,
+    "word": "misanthrope",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who dislikes mankind",
+    "example": "The misanthrope situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "인류를 싫어하는 사람",
+      "zh": "厌恶人类的人",
+      "hi": "वह व्यक्ति जो मानवता को नापसंद करता है"
+    }
+  },
+  {
+    "id": 170,
+    "word": "mitigate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make less severe",
+    "example": "The mitigate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "심각성을 줄이기 위해",
+      "zh": "减轻严重程度",
+      "hi": "कम गंभीर बनाना"
+    }
+  },
+  {
+    "id": 171,
+    "word": "mollify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to calm someone's anger",
+    "example": "The mollify situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "누군가의 분노를 가라앉히다",
+      "zh": "平息某人的愤怒",
+      "hi": "किसी के गुस्से को शांत करना"
+    }
+  },
+  {
+    "id": 172,
+    "word": "moribund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "at point of death",
+    "example": "The moribund situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "사망 직전",
+      "zh": "死亡之时",
+      "hi": "मृत्यु के समय"
+    }
+  },
+  {
+    "id": 173,
+    "word": "multifarious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "many and various",
+    "example": "The multifarious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "다양하고 많은",
+      "zh": "许多种类",
+      "hi": "अनेक और विविध"
+    }
+  },
+  {
+    "id": 174,
+    "word": "mundane",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking interest; ordinary",
+    "example": "The mundane situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "흥미가 없는; 평범한",
+      "zh": "缺乏兴趣；普通",
+      "hi": "रुचिहीन; साधारण"
+    }
+  },
+  {
+    "id": 175,
+    "word": "munificent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "very generous",
+    "example": "The munificent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 관대한",
+      "zh": "非常慷慨",
+      "hi": "बहुत उदार"
+    }
+  },
+  {
+    "id": 176,
+    "word": "nascent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "just beginning to develop",
+    "example": "The nascent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이제 막 개발되기 시작했어요",
+      "zh": "刚刚开始发展",
+      "hi": "अभी विकास शुरू हो रहा है"
+    }
+  },
+  {
+    "id": 177,
+    "word": "nefarious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wicked or criminal",
+    "example": "The nefarious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "악하거나 범죄적인",
+      "zh": "邪恶的或犯罪的",
+      "hi": "दुष्ट या अपराधी"
+    }
+  },
+  {
+    "id": 178,
+    "word": "neophyte",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "beginner or novice",
+    "example": "The neophyte situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "초보자 또는 입문자",
+      "zh": "初学者或新手",
+      "hi": "शुरुआती या नौसिखिया"
+    }
+  },
+  {
+    "id": 179,
+    "word": "nettlesome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "causing annoyance",
+    "example": "The nettlesome situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증을 유발하다",
+      "zh": "引起烦恼",
+      "hi": "झुंझलाहट पैदा करना"
+    }
+  },
+  {
+    "id": 180,
+    "word": "noisome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having offensive smell",
+    "example": "The noisome situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 냄새가 나는",
+      "zh": "散发难闻的气味",
+      "hi": "दुर्गंधयुक्त"
+    }
+  },
+  {
+    "id": 181,
+    "word": "nonchalant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "calm and relaxed",
+    "example": "The nonchalant situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "차분하고 편안한",
+      "zh": "平静放松",
+      "hi": "शांत और तनावमुक्त"
+    }
+  },
+  {
+    "id": 182,
+    "word": "nonplussed",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "surprised and confused",
+    "example": "The nonplussed situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "놀라고 당황스럽다",
+      "zh": "惊讶和困惑",
+      "hi": "आश्चर्यचकित और भ्रमित"
+    }
+  },
+  {
+    "id": 183,
+    "word": "notorious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "famous for something bad",
+    "example": "The notorious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "나쁜 일로 유명한",
+      "zh": "因某件坏事而闻名",
+      "hi": "किसी बुरी बात के लिए मशहूर"
+    }
+  },
+  {
+    "id": 184,
+    "word": "obdurate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly refusing to change",
+    "example": "The obdurate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "변화를 완강히 거부하며",
+      "zh": "顽固地拒绝改变",
+      "hi": "बदलाव से हठपूर्वक इनकार करना"
+    }
+  },
+  {
+    "id": 185,
+    "word": "obfuscate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make unclear",
+    "example": "The obfuscate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "불분명하게 만들다",
+      "zh": "使不清楚",
+      "hi": "अस्पष्ट करना"
+    }
+  },
+  {
+    "id": 186,
+    "word": "obsequious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively compliant",
+    "example": "The obsequious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 순종적인",
+      "zh": "过度顺从",
+      "hi": "अत्यधिक आज्ञाकारी"
+    }
+  },
+  {
+    "id": 187,
+    "word": "obstinate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly refusing to change",
+    "example": "The obstinate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "변화를 완강히 거부하며",
+      "zh": "顽固地拒绝改变",
+      "hi": "बदलाव से हठपूर्वक इनकार करना"
+    }
+  },
+  {
+    "id": 188,
+    "word": "obviate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to remove a need or difficulty",
+    "example": "The obviate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "필요나 어려움을 없애다",
+      "zh": "消除需求或困难",
+      "hi": "किसी आवश्यकता या कठिनाई को दूर करना"
+    }
+  },
+  {
+    "id": 189,
+    "word": "occlude",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to stop or close up",
+    "example": "The occlude situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "멈추거나 닫다",
+      "zh": "停止或关闭",
+      "hi": "रोकना या बंद करना"
+    }
+  },
+  {
+    "id": 190,
+    "word": "odious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely unpleasant",
+    "example": "The odious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 불쾌함",
+      "zh": "极其不愉快",
+      "hi": "बेहद अप्रिय"
+    }
+  },
+  {
+    "id": 191,
+    "word": "officious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "assertive in interfering",
+    "example": "The officious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "간섭하는 데 적극적이다",
+      "zh": "积极干预",
+      "hi": "हस्तक्षेप करने में मुखर"
+    }
+  },
+  {
+    "id": 192,
+    "word": "onerous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving heavy obligation",
+    "example": "The onerous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무거운 의무를 수반하는",
+      "zh": "涉及重大义务",
+      "hi": "भारी दायित्व से जुड़ा हुआ"
+    }
+  },
+  {
+    "id": 193,
+    "word": "opaque",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not transparent; unclear",
+    "example": "The opaque situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "투명하지 않음; 불분명함",
+      "zh": "不透明；不清楚",
+      "hi": "पारदर्शी नहीं; अस्पष्ट"
+    }
+  },
+  {
+    "id": 194,
+    "word": "opprobrious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing contempt",
+    "example": "The opprobrious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "경멸을 표현하며",
+      "zh": "表示蔑视",
+      "hi": "अवमानना व्यक्त करना"
+    }
+  },
+  {
+    "id": 195,
+    "word": "oscillate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to swing back and forth",
+    "example": "The oscillate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "앞뒤로 흔들리다",
+      "zh": "来回摆动",
+      "hi": "आगे-पीछे झूलना"
+    }
+  },
+  {
+    "id": 196,
+    "word": "ossified",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "rigid; unable to change",
+    "example": "The ossified situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "경직된; 변화할 수 없는",
+      "zh": "僵硬的；无法改变",
+      "hi": "कठोर; परिवर्तन करने में असमर्थ"
+    }
+  },
+  {
+    "id": 197,
+    "word": "ostentatious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showy and pretentious",
+    "example": "The ostentatious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "과시적이고 허세스러운",
+      "zh": "炫耀和自命不凡",
+      "hi": "दिखावटी और आडंबरपूर्ण"
+    }
+  },
+  {
+    "id": 198,
+    "word": "palliate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make less severe",
+    "example": "The palliate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "심각성을 줄이기 위해",
+      "zh": "减轻严重程度",
+      "hi": "कम गंभीर बनाना"
+    }
+  },
+  {
+    "id": 199,
+    "word": "panacea",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "solution for all problems",
+    "example": "The panacea situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "모든 문제에 대한 해결책",
+      "zh": "所有问题的解决方案",
+      "hi": "सभी समस्याओं का समाधान"
+    }
+  },
+  {
+    "id": 200,
+    "word": "paradigm",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "typical example or pattern",
+    "example": "The paradigm situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "전형적인 예 또는 패턴",
+      "zh": "典型例子或模式",
+      "hi": "विशिष्ट उदाहरण या प्रतिरूप"
+    }
+  }
+]

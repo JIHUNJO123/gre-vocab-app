@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2101,
+    "word": "negligible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "so small as to be meaningless",
+    "example": "The negligible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 작아서 의미가 없다",
+      "zh": "小到毫无意义",
+      "hi": "इतना छोटा कि अर्थहीन"
+    }
+  },
+  {
+    "id": 2102,
+    "word": "neologism",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "newly coined word",
+    "example": "The neologism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "새로 만들어진 단어",
+      "zh": "新造词",
+      "hi": "नवनिर्मित शब्द"
+    }
+  },
+  {
+    "id": 2103,
+    "word": "neophyte",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who is new to subject",
+    "example": "The neophyte quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "해당 분야에 처음 접하는 사람",
+      "zh": "对这个主题不熟悉的人",
+      "hi": "जो व्यक्ति इस विषय में नया है"
+    }
+  },
+  {
+    "id": 2104,
+    "word": "nepotism",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "favoritism shown to relatives",
+    "example": "The nepotism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "친척에게 보이는 편애",
+      "zh": "对亲属表现出的偏袒",
+      "hi": "रिश्तेदारों के प्रति पक्षपात दिखाना"
+    }
+  },
+  {
+    "id": 2105,
+    "word": "nettle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to irritate or annoy",
+    "example": "The nettle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증나게 하다, 성가시게 하다",
+      "zh": "激怒或惹恼",
+      "hi": "चिढ़ाने या परेशान करने के लिए"
+    }
+  },
+  {
+    "id": 2106,
+    "word": "neutral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not supporting either side",
+    "example": "The neutral quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어느 쪽도 지지하지 않음",
+      "zh": "不支持任何一方",
+      "hi": "किसी भी पक्ष का समर्थन नहीं कर रहा हूँ"
+    }
+  },
+  {
+    "id": 2107,
+    "word": "nexus",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "connection or series",
+    "example": "The nexus quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "연결 또는 시리즈",
+      "zh": "连接或系列",
+      "hi": "संबंध या श्रृंखला"
+    }
+  },
+  {
+    "id": 2108,
+    "word": "niche",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "specialized segment",
+    "example": "The niche quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "전문 분야",
+      "zh": "专业领域",
+      "hi": "विशेषीकृत खंड"
+    }
+  },
+  {
+    "id": 2109,
+    "word": "niggling",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing slight irritation",
+    "example": "The niggling quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "약간의 자극을 유발함",
+      "zh": "引起轻微刺激",
+      "hi": "जिससे हल्की जलन होती है"
+    }
+  },
+  {
+    "id": 2110,
+    "word": "nihilism",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "rejection of principles",
+    "example": "The nihilism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "원칙의 거부",
+      "zh": "拒绝原则",
+      "hi": "सिद्धांतों की अस्वीकृति"
+    }
+  },
+  {
+    "id": 2111,
+    "word": "nimble",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "quick and light",
+    "example": "The nimble quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "빠르고 가벼움",
+      "zh": "快速轻便",
+      "hi": "तेज़ और हल्का"
+    }
+  },
+  {
+    "id": 2112,
+    "word": "nocturnal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "done or active at night",
+    "example": "The nocturnal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "밤에 하거나 활동하는",
+      "zh": "夜间完成或活动",
+      "hi": "रात में किया गया या सक्रिय"
+    }
+  },
+  {
+    "id": 2113,
+    "word": "noisome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having offensive smell",
+    "example": "The noisome quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 냄새가 나는",
+      "zh": "散发难闻的气味",
+      "hi": "दुर्गंधयुक्त"
+    }
+  },
+  {
+    "id": 2114,
+    "word": "nomadic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "roaming from place to place",
+    "example": "The nomadic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "이곳저곳을 떠돌아다니는",
+      "zh": "四处游荡",
+      "hi": "एक स्थान से दूसरे स्थान पर घूमना"
+    }
+  },
+  {
+    "id": 2115,
+    "word": "nominal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "in name only",
+    "example": "The nominal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "이름만 그럴 뿐",
+      "zh": "名义上",
+      "hi": "नाम मात्र का"
+    }
+  },
+  {
+    "id": 2116,
+    "word": "nonchalant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling calm and relaxed",
+    "example": "The nonchalant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "차분하고 편안한 느낌",
+      "zh": "感到平静和放松",
+      "hi": "शांत और तनावमुक्त महसूस करना"
+    }
+  },
+  {
+    "id": 2117,
+    "word": "noncommittal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not expressing opinion",
+    "example": "The noncommittal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "의견을 표명하지 않음",
+      "zh": "不表达意见",
+      "hi": "राय व्यक्त नहीं करना"
+    }
+  },
+  {
+    "id": 2118,
+    "word": "nonentity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person of no importance",
+    "example": "The nonentity quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "중요하지 않은 사람",
+      "zh": "无足轻重的人",
+      "hi": "महत्वहीन व्यक्ति"
+    }
+  },
+  {
+    "id": 2119,
+    "word": "nonpareil",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having no match or equal",
+    "example": "The nonpareil quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "상대나 동등한 대상이 없음",
+      "zh": "没有匹敌或同等条件",
+      "hi": "जिसका कोई मेल या बराबरी न हो"
+    }
+  },
+  {
+    "id": 2120,
+    "word": "nonplussed",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "surprised and confused",
+    "example": "The nonplussed quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "놀라고 당황스럽다",
+      "zh": "惊讶和困惑",
+      "hi": "आश्चर्यचकित और भ्रमित"
+    }
+  },
+  {
+    "id": 2121,
+    "word": "nostalgia",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "longing for the past",
+    "example": "The nostalgia quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "과거에 대한 그리움",
+      "zh": "对过去的怀念",
+      "hi": "अतीत की लालसा"
+    }
+  },
+  {
+    "id": 2122,
+    "word": "notable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "worthy of attention",
+    "example": "The notable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "주목할 만한 가치가 있다",
+      "zh": "值得关注",
+      "hi": "ध्यान देने योग्य"
+    }
+  },
+  {
+    "id": 2123,
+    "word": "notoriety",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "fame for something bad",
+    "example": "The notoriety quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "나쁜 일로 유명해짐",
+      "zh": "因坏事而出名",
+      "hi": "किसी बुरी बात के लिए प्रसिद्धि"
+    }
+  },
+  {
+    "id": 2124,
+    "word": "notorious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "famous for something bad",
+    "example": "The notorious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "나쁜 일로 유명한",
+      "zh": "因某件坏事而闻名",
+      "hi": "किसी बुरी बात के लिए मशहूर"
+    }
+  },
+  {
+    "id": 2125,
+    "word": "novel",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "new and original",
+    "example": "The novel quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "새롭고 독창적인",
+      "zh": "全新正品",
+      "hi": "नया और असली"
+    }
+  },
+  {
+    "id": 2126,
+    "word": "novice",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person new to field",
+    "example": "The novice quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "해당 분야에 새로 입문한 사람",
+      "zh": "刚入行的人",
+      "hi": "क्षेत्र में नया व्यक्ति"
+    }
+  },
+  {
+    "id": 2127,
+    "word": "noxious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "harmful or poisonous",
+    "example": "The noxious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "해롭거나 독성이 있는",
+      "zh": "有害的或有毒的",
+      "hi": "हानिकारक या विषैला"
+    }
+  },
+  {
+    "id": 2128,
+    "word": "nuance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "subtle difference",
+    "example": "The nuance quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "미묘한 차이",
+      "zh": "细微差别",
+      "hi": "सूक्ष्म अंतर"
+    }
+  },
+  {
+    "id": 2129,
+    "word": "nullify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make legally null",
+    "example": "The nullify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "법적으로 무효화하다",
+      "zh": "使其在法律上无效",
+      "hi": "कानूनी रूप से अमान्य करना"
+    }
+  },
+  {
+    "id": 2130,
+    "word": "nurture",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to care for and encourage",
+    "example": "The nurture quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "돌보고 격려하다",
+      "zh": "照顾和鼓励",
+      "hi": "देखभाल करना और प्रोत्साहित करना"
+    }
+  },
+  {
+    "id": 2131,
+    "word": "obdurate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly refusing to change",
+    "example": "The obdurate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "변화를 완강히 거부하며",
+      "zh": "顽固地拒绝改变",
+      "hi": "बदलाव से हठपूर्वक इनकार करना"
+    }
+  },
+  {
+    "id": 2132,
+    "word": "obeisance",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "deferential respect",
+    "example": "The obeisance quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공손한 존중",
+      "zh": "恭敬",
+      "hi": "आदरपूर्ण सम्मान"
+    }
+  },
+  {
+    "id": 2133,
+    "word": "obfuscate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make obscure",
+    "example": "The obfuscate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "모호하게 만들다",
+      "zh": "使模糊不清",
+      "hi": "अस्पष्ट बनाना"
+    }
+  },
+  {
+    "id": 2134,
+    "word": "objective",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not influenced by feelings",
+    "example": "The objective quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "감정에 영향을 받지 않음",
+      "zh": "不受情绪影响",
+      "hi": "भावनाओं से प्रभावित नहीं"
+    }
+  },
+  {
+    "id": 2135,
+    "word": "obligatory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "required by law or rules",
+    "example": "The obligatory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "법률이나 규칙에 의해 요구되는",
+      "zh": "法律或规则要求",
+      "hi": "कानून या नियमों द्वारा आवश्यक"
+    }
+  },
+  {
+    "id": 2136,
+    "word": "oblique",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not explicit or direct",
+    "example": "The oblique quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "명시적이거나 직접적이지 않음",
+      "zh": "不明确或直接",
+      "hi": "स्पष्ट या प्रत्यक्ष नहीं"
+    }
+  },
+  {
+    "id": 2137,
+    "word": "obliterate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to destroy utterly",
+    "example": "The obliterate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 파괴하다",
+      "zh": "彻底摧毁",
+      "hi": "पूरी तरह से नष्ट करना"
+    }
+  },
+  {
+    "id": 2138,
+    "word": "oblivion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of being unaware",
+    "example": "The oblivion quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "알지 못하는 상태",
+      "zh": "无知状态",
+      "hi": "अनभिज्ञ होने की अवस्था"
+    }
+  },
+  {
+    "id": 2139,
+    "word": "oblivious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not aware of",
+    "example": "The oblivious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "알지 못함",
+      "zh": "不知情",
+      "hi": "के बारे में पता नहीं"
+    }
+  },
+  {
+    "id": 2140,
+    "word": "obloquy",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "strong public criticism",
+    "example": "The obloquy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강력한 대중적 비판",
+      "zh": "强烈的公众批评",
+      "hi": "जनता की ओर से कड़ी आलोचना"
+    }
+  },
+  {
+    "id": 2141,
+    "word": "obscure",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not discovered or known",
+    "example": "The obscure quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "발견되지 않았거나 알려지지 않음",
+      "zh": "尚未发现或已知",
+      "hi": "खोजा या ज्ञात नहीं"
+    }
+  },
+  {
+    "id": 2142,
+    "word": "obsequious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively compliant",
+    "example": "The obsequious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 순종적인",
+      "zh": "过度顺从",
+      "hi": "अत्यधिक आज्ञाकारी"
+    }
+  },
+  {
+    "id": 2143,
+    "word": "observant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "quick to notice things",
+    "example": "The observant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사물을 빠르게 알아차린다",
+      "zh": "善于观察事物",
+      "hi": "चीजों को जल्दी नोटिस करने वाला"
+    }
+  },
+  {
+    "id": 2144,
+    "word": "obsolete",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "no longer produced or used",
+    "example": "The obsolete quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "더 이상 생산되거나 사용되지 않음",
+      "zh": "已停产或使用",
+      "hi": "अब इसका उत्पादन या उपयोग नहीं होता है"
+    }
+  },
+  {
+    "id": 2145,
+    "word": "obstinate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly refusing to change",
+    "example": "The obstinate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "변화를 완강히 거부하며",
+      "zh": "顽固地拒绝改变",
+      "hi": "बदलाव से हठपूर्वक इनकार करना"
+    }
+  },
+  {
+    "id": 2146,
+    "word": "obstreperous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "noisy and difficult to control",
+    "example": "The obstreperous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "시끄럽고 제어하기 어렵다",
+      "zh": "噪音大且难以控制",
+      "hi": "शोरगुल भरा और नियंत्रित करना मुश्किल"
+    }
+  },
+  {
+    "id": 2147,
+    "word": "obstruct",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to block",
+    "example": "The obstruct quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "차단하다",
+      "zh": "阻止",
+      "hi": "ब्लौक करने के लिए"
+    }
+  },
+  {
+    "id": 2148,
+    "word": "obtrusive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "noticeable in unwelcome way",
+    "example": "The obtrusive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "달갑지 않은 방식으로 눈에 띈다",
+      "zh": "以一种令人不快的方式引人注目",
+      "hi": "अप्रिय तरीके से ध्यान देने योग्य"
+    }
+  },
+  {
+    "id": 2149,
+    "word": "obtuse",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "annoyingly insensitive",
+    "example": "The obtuse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증나도록 무감각하다",
+      "zh": "令人恼火的麻木不仁",
+      "hi": "बेहद असंवेदनशील"
+    }
+  },
+  {
+    "id": 2150,
+    "word": "obviate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to remove need for",
+    "example": "The obviate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "필요성을 없애기 위해",
+      "zh": "消除对……的需求",
+      "hi": "आवश्यकता को दूर करने के लिए"
+    }
+  },
+  {
+    "id": 2151,
+    "word": "occlude",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to stop or close up",
+    "example": "The occlude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "멈추거나 닫다",
+      "zh": "停止或关闭",
+      "hi": "रोकना या बंद करना"
+    }
+  },
+  {
+    "id": 2152,
+    "word": "occult",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "supernatural or mystical",
+    "example": "The occult quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "초자연적이거나 신비로운",
+      "zh": "超自然的或神秘的",
+      "hi": "अलौकिक या रहस्यमय"
+    }
+  },
+  {
+    "id": 2153,
+    "word": "odious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely unpleasant",
+    "example": "The odious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 불쾌함",
+      "zh": "极其不愉快",
+      "hi": "बेहद अप्रिय"
+    }
+  },
+  {
+    "id": 2154,
+    "word": "odyssey",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "long eventful journey",
+    "example": "The odyssey quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "길고 파란만장한 여정",
+      "zh": "漫长而充满波折的旅程",
+      "hi": "लंबी और रोमांचक यात्रा"
+    }
+  },
+  {
+    "id": 2155,
+    "word": "officious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "asserting authority in domineering way",
+    "example": "The officious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "지배적인 방식으로 권위를 주장하다",
+      "zh": "以专横跋扈的方式行使权威",
+      "hi": "दबंग तरीके से अधिकार जताना"
+    }
+  },
+  {
+    "id": 2156,
+    "word": "olfactory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to sense of smell",
+    "example": "The olfactory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "후각과 관련된",
+      "zh": "与嗅觉有关",
+      "hi": "गंध की भावना से संबंधित"
+    }
+  },
+  {
+    "id": 2157,
+    "word": "ominous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "giving impression of bad omen",
+    "example": "The ominous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불길한 징조를 암시하는",
+      "zh": "给人一种不祥之兆的感觉",
+      "hi": "अपशगुन का आभास देना"
+    }
+  },
+  {
+    "id": 2158,
+    "word": "omnipotent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having unlimited power",
+    "example": "The omnipotent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무한한 힘을 가지고",
+      "zh": "拥有无限的权力",
+      "hi": "असीमित शक्ति होना"
+    }
+  },
+  {
+    "id": 2159,
+    "word": "omnipresent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "present everywhere",
+    "example": "The omnipresent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어디에나 존재한다",
+      "zh": "无处不在",
+      "hi": "हर जगह मौजूद"
+    }
+  },
+  {
+    "id": 2160,
+    "word": "omniscient",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "knowing everything",
+    "example": "The omniscient quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "모든 것을 아는 것",
+      "zh": "知道一切",
+      "hi": "सब कुछ जानते हुए"
+    }
+  },
+  {
+    "id": 2161,
+    "word": "onerous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving heavy obligation",
+    "example": "The onerous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무거운 의무를 수반하는",
+      "zh": "涉及重大义务",
+      "hi": "भारी दायित्व से जुड़ा हुआ"
+    }
+  },
+  {
+    "id": 2162,
+    "word": "opaque",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be seen through",
+    "example": "The opaque quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "속이 비치지 않음",
+      "zh": "无法透过",
+      "hi": "जिसके आर-पार नहीं देखा जा सकता"
+    }
+  },
+  {
+    "id": 2163,
+    "word": "opportune",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "well-chosen or favorable time",
+    "example": "The opportune quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "잘 선택된 또는 유리한 시간",
+      "zh": "精心挑选或有利的时机",
+      "hi": "सुनियोजित या अनुकूल समय"
+    }
+  },
+  {
+    "id": 2164,
+    "word": "opportunist",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who exploits circumstances",
+    "example": "The opportunist quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "상황을 악용하는 사람",
+      "zh": "利用环境的人",
+      "hi": "वह व्यक्ति जो परिस्थितियों का फायदा उठाता है"
+    }
+  },
+  {
+    "id": 2165,
+    "word": "oppressive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unjustly harsh",
+    "example": "The oppressive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부당하게 가혹하다",
+      "zh": "过于苛刻",
+      "hi": "अन्यायपूर्ण रूप से कठोर"
+    }
+  },
+  {
+    "id": 2166,
+    "word": "opprobrious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing scorn or criticism",
+    "example": "The opprobrious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경멸이나 비판을 표현하다",
+      "zh": "表达蔑视或批评",
+      "hi": "तिरस्कार या आलोचना व्यक्त करना"
+    }
+  },
+  {
+    "id": 2167,
+    "word": "optimal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "best or most favorable",
+    "example": "The optimal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "가장 좋거나 가장 유리한",
+      "zh": "最佳或最有利",
+      "hi": "सर्वोत्तम या सबसे अनुकूल"
+    }
+  },
+  {
+    "id": 2168,
+    "word": "optimum",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "most favorable conditions",
+    "example": "The optimum quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "가장 유리한 조건",
+      "zh": "最有利的条件",
+      "hi": "सबसे अनुकूल परिस्थितियाँ"
+    }
+  },
+  {
+    "id": 2169,
+    "word": "opulent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "ostentatiously rich",
+    "example": "The opulent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "과시적으로 부유한",
+      "zh": "炫耀财富",
+      "hi": "दिखावटी रूप से अमीर"
+    }
+  },
+  {
+    "id": 2170,
+    "word": "oracle",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "priest through whom god spoke",
+    "example": "The oracle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "하나님이 말씀하신 사제",
+      "zh": "神藉着一位祭司说话",
+      "hi": "वह पुरोहित जिसके माध्यम से ईश्वर ने बात की"
+    }
+  },
+  {
+    "id": 2171,
+    "word": "orate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make a speech",
+    "example": "The orate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "연설을 하다",
+      "zh": "发表演讲",
+      "hi": "भाषण देना"
+    }
+  },
+  {
+    "id": 2172,
+    "word": "orchestrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to arrange or direct",
+    "example": "The orchestrate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "준비하거나 지시하다",
+      "zh": "安排或指导",
+      "hi": "व्यवस्था करना या निर्देशित करना"
+    }
+  },
+  {
+    "id": 2173,
+    "word": "ordain",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to order officially",
+    "example": "The ordain quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공식적으로 주문하다",
+      "zh": "正式下令",
+      "hi": "आधिकारिक तौर पर आदेश देने के लिए"
+    }
+  },
+  {
+    "id": 2174,
+    "word": "ordeal",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "painful or horrific experience",
+    "example": "The ordeal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "고통스럽거나 끔찍한 경험",
+      "zh": "痛苦或可怕的经历",
+      "hi": "दर्दनाक या भयावह अनुभव"
+    }
+  },
+  {
+    "id": 2175,
+    "word": "orthodox",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "conforming to established doctrine",
+    "example": "The orthodox quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "확립된 교리에 부합함",
+      "zh": "符合既定原则",
+      "hi": "स्थापित सिद्धांत के अनुरूप"
+    }
+  },
+  {
+    "id": 2176,
+    "word": "oscillate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to move back and forth",
+    "example": "The oscillate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "앞뒤로 움직이다",
+      "zh": "来回移动",
+      "hi": "आगे-पीछे हिलना"
+    }
+  },
+  {
+    "id": 2177,
+    "word": "ossify",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to turn into bone",
+    "example": "The ossify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "뼈로 변하다",
+      "zh": "变成骨头",
+      "hi": "हड्डी में बदलना"
+    }
+  },
+  {
+    "id": 2178,
+    "word": "ostensible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "stated or appearing to be true",
+    "example": "The ostensible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사실이라고 진술되었거나 사실처럼 보이는",
+      "zh": "已陈述或看似真实的",
+      "hi": "कहा गया या सत्य प्रतीत होना"
+    }
+  },
+  {
+    "id": 2179,
+    "word": "ostentatious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "designed to impress",
+    "example": "The ostentatious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "깊은 인상을 주기 위해 디자인되었습니다",
+      "zh": "旨在给人留下深刻印象",
+      "hi": "प्रभावित करने के लिए डिज़ाइन किया गया"
+    }
+  },
+  {
+    "id": 2180,
+    "word": "ostracize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to exclude from society",
+    "example": "The ostracize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사회에서 배제하다",
+      "zh": "将他人排除在社会之外",
+      "hi": "समाज से बहिष्कृत करना"
+    }
+  },
+  {
+    "id": 2181,
+    "word": "oust",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to drive out from position",
+    "example": "The oust quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "그 위치에서 쫓아내다",
+      "zh": "从位置驶出",
+      "hi": "अपनी स्थिति से बाहर निकालने के लिए"
+    }
+  },
+  {
+    "id": 2182,
+    "word": "outlandish",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "looking bizarre",
+    "example": "The outlandish quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "기괴해 보인다",
+      "zh": "看起来很怪异",
+      "hi": "अजीब लग रहा है"
+    }
+  },
+  {
+    "id": 2183,
+    "word": "outmoded",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "old-fashioned",
+    "example": "The outmoded quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "구식의",
+      "zh": "老式的",
+      "hi": "पुराने जमाने का"
+    }
+  },
+  {
+    "id": 2184,
+    "word": "outspoken",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "frank in stating opinions",
+    "example": "The outspoken quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "솔직하게 의견을 밝히는 것",
+      "zh": "坦率地表达观点",
+      "hi": "अपनी राय खुलकर व्यक्त करने में"
+    }
+  },
+  {
+    "id": 2185,
+    "word": "outstrip",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to move faster or surpass",
+    "example": "The outstrip quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "더 빠르게 움직이거나 능가하다",
+      "zh": "移动得更快或超越",
+      "hi": "तेजी से आगे बढ़ना या पार करना"
+    }
+  },
+  {
+    "id": 2186,
+    "word": "overbearing",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unpleasantly domineering",
+    "example": "The overbearing quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌할 정도로 지배적인",
+      "zh": "令人不快的专横跋扈",
+      "hi": "अप्रिय रूप से दबंग"
+    }
+  },
+  {
+    "id": 2187,
+    "word": "overhaul",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to take apart and examine",
+    "example": "The overhaul quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "분해하고 검사하다",
+      "zh": "拆解和检查",
+      "hi": "अलग करना और जांच करना"
+    }
+  },
+  {
+    "id": 2188,
+    "word": "overt",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "done openly",
+    "example": "The overt quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적으로 행해졌다",
+      "zh": "公开进行",
+      "hi": "खुलेआम किया गया"
+    }
+  },
+  {
+    "id": 2189,
+    "word": "overwrought",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "in highly emotional state",
+    "example": "The overwrought quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 감정적인 상태",
+      "zh": "处于高度情绪化状态",
+      "hi": "अत्यधिक भावनात्मक अवस्था में"
+    }
+  },
+  {
+    "id": 2190,
+    "word": "pacify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to bring peace to",
+    "example": "The pacify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "평화를 가져오기 위해",
+      "zh": "为世界带来和平",
+      "hi": "शांति लाने के लिए"
+    }
+  },
+  {
+    "id": 2191,
+    "word": "painstaking",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "done with great care",
+    "example": "The painstaking quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 세심하게 작업했습니다",
+      "zh": "精心制作",
+      "hi": "बहुत सावधानी से किया गया"
+    }
+  },
+  {
+    "id": 2192,
+    "word": "palatable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "pleasant to taste",
+    "example": "The palatable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "맛이 좋다",
+      "zh": "口感宜人",
+      "hi": "स्वाद में सुखद"
+    }
+  },
+  {
+    "id": 2193,
+    "word": "palatial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "resembling a palace",
+    "example": "The palatial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "궁전과 닮은",
+      "zh": "像一座宫殿",
+      "hi": "महल जैसा"
+    }
+  },
+  {
+    "id": 2194,
+    "word": "palliate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make less severe",
+    "example": "The palliate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "심각성을 줄이기 위해",
+      "zh": "减轻严重程度",
+      "hi": "कम गंभीर बनाना"
+    }
+  },
+  {
+    "id": 2195,
+    "word": "pallid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "pale and unhealthy",
+    "example": "The pallid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "창백하고 건강하지 못한",
+      "zh": "面色苍白，不健康",
+      "hi": "पीला और अस्वस्थ"
+    }
+  },
+  {
+    "id": 2196,
+    "word": "palpable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "able to be touched",
+    "example": "The palpable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "만질 수 있는",
+      "zh": "可以触摸",
+      "hi": "स्पर्श करने योग्य"
+    }
+  },
+  {
+    "id": 2197,
+    "word": "paltry",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "small or meager",
+    "example": "The paltry quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "작거나 빈약한",
+      "zh": "小的或微不足道的",
+      "hi": "छोटा या अल्प"
+    }
+  },
+  {
+    "id": 2198,
+    "word": "panacea",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "solution for all difficulties",
+    "example": "The panacea quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "모든 어려움에 대한 해결책",
+      "zh": "解决所有难题",
+      "hi": "सभी कठिनाइयों का समाधान"
+    }
+  },
+  {
+    "id": 2199,
+    "word": "panache",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "flamboyant confidence",
+    "example": "The panache quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "화려한 자신감",
+      "zh": "耀眼的自信",
+      "hi": "शानदार आत्मविश्वास"
+    }
+  },
+  {
+    "id": 2200,
+    "word": "pandemic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "prevalent over whole area",
+    "example": "The pandemic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "전 지역에 널리 퍼져 있음",
+      "zh": "整个区域普遍存在",
+      "hi": "पूरे क्षेत्र में प्रचलित"
+    }
+  }
+]

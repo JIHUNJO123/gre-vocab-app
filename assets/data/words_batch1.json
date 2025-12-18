@@ -1,0 +1,702 @@
+[
+  {
+    "id": 51,
+    "word": "efficacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "effective; producing desired result",
+    "example": "The professor used the word efficacious in context.",
+    "category": "General",
+    "translations": {
+      "ko": "효과적인; 원하는 결과를 내는",
+      "zh": "有效；产生预期结果",
+      "hi": "प्रभावी; वांछित परिणाम उत्पन्न करने वाला"
+    }
+  },
+  {
+    "id": 52,
+    "word": "effrontery",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "shameless boldness",
+    "example": "The professor used the word effrontery in context.",
+    "category": "General",
+    "translations": {
+      "ko": "뻔뻔스러운 대담함",
+      "zh": "无耻的胆大妄为",
+      "hi": "निर्लज्ज दुस्साहस"
+    }
+  },
+  {
+    "id": 53,
+    "word": "egregious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "outstandingly bad",
+    "example": "The professor used the word egregious in context.",
+    "category": "General",
+    "translations": {
+      "ko": "엄청나게 나쁘다",
+      "zh": "极其糟糕",
+      "hi": "बेहद बुरा"
+    }
+  },
+  {
+    "id": 54,
+    "word": "elegy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "a mournful poem for the dead",
+    "example": "The professor used the word elegy in context.",
+    "category": "General",
+    "translations": {
+      "ko": "죽은 자를 위한 애도의 시",
+      "zh": "一首悼念亡者的哀诗",
+      "hi": "मृतकों के लिए एक शोकपूर्ण कविता"
+    }
+  },
+  {
+    "id": 55,
+    "word": "elucidate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make clear; explain",
+    "example": "The professor used the word elucidate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "명확히 하다; 설명하다",
+      "zh": "阐明；解释",
+      "hi": "स्पष्ट करना; समझाना"
+    }
+  },
+  {
+    "id": 56,
+    "word": "emollient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "softening or soothing",
+    "example": "The professor used the word emollient in context.",
+    "category": "General",
+    "translations": {
+      "ko": "부드럽게 또는 진정시키는",
+      "zh": "软化或舒缓",
+      "hi": "नरम या सुखदायक"
+    }
+  },
+  {
+    "id": 57,
+    "word": "encomium",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "formal expression of praise",
+    "example": "The professor used the word encomium in context.",
+    "category": "General",
+    "translations": {
+      "ko": "칭찬의 공식적인 표현",
+      "zh": "正式的赞扬",
+      "hi": "प्रशंसा की औपचारिक अभिव्यक्ति"
+    }
+  },
+  {
+    "id": 58,
+    "word": "endemic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "native to a particular region",
+    "example": "The professor used the word endemic in context.",
+    "category": "General",
+    "translations": {
+      "ko": "특정 지역의 토착민",
+      "zh": "原产于特定地区",
+      "hi": "किसी विशेष क्षेत्र का मूल निवासी"
+    }
+  },
+  {
+    "id": 59,
+    "word": "enervate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to weaken or drain energy",
+    "example": "The professor used the word enervate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "에너지를 약화시키거나 고갈시키다",
+      "zh": "削弱或消耗能量",
+      "hi": "ऊर्जा को कमजोर करना या कम करना"
+    }
+  },
+  {
+    "id": 60,
+    "word": "engender",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause or give rise to",
+    "example": "The professor used the word engender in context.",
+    "category": "General",
+    "translations": {
+      "ko": "야기하다 또는 발생시키다",
+      "zh": "导致或引起",
+      "hi": "कारण बनना या उत्पन्न करना"
+    }
+  },
+  {
+    "id": 61,
+    "word": "ephemeral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lasting a very short time",
+    "example": "The professor used the word ephemeral in context.",
+    "category": "General",
+    "translations": {
+      "ko": "아주 짧은 시간 동안 지속되는",
+      "zh": "持续时间很短",
+      "hi": "बहुत कम समय तक चलने वाला"
+    }
+  },
+  {
+    "id": 62,
+    "word": "equanimity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "calmness of mind",
+    "example": "The professor used the word equanimity in context.",
+    "category": "General",
+    "translations": {
+      "ko": "마음의 평온",
+      "zh": "内心的平静",
+      "hi": "मन की शांति"
+    }
+  },
+  {
+    "id": 63,
+    "word": "equivocate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to use ambiguous language",
+    "example": "The professor used the word equivocate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "모호한 언어를 사용하다",
+      "zh": "使用含糊不清的语言",
+      "hi": "अस्पष्ट भाषा का प्रयोग करना"
+    }
+  },
+  {
+    "id": 64,
+    "word": "erudite",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having great knowledge",
+    "example": "The professor used the word erudite in context.",
+    "category": "General",
+    "translations": {
+      "ko": "뛰어난 지식을 가지고",
+      "zh": "拥有丰富的知识",
+      "hi": "बहुत ज्ञान होना"
+    }
+  },
+  {
+    "id": 65,
+    "word": "eschew",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deliberately avoid",
+    "example": "The professor used the word eschew in context.",
+    "category": "General",
+    "translations": {
+      "ko": "의도적으로 피하다",
+      "zh": "故意避免",
+      "hi": "जानबूझकर बचने के लिए"
+    }
+  },
+  {
+    "id": 66,
+    "word": "esoteric",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "understood by few",
+    "example": "The professor used the word esoteric in context.",
+    "category": "General",
+    "translations": {
+      "ko": "소수만이 이해함",
+      "zh": "少数人了解",
+      "hi": "कुछ ही लोगों द्वारा समझा गया"
+    }
+  },
+  {
+    "id": 67,
+    "word": "exacerbate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make worse",
+    "example": "The professor used the word exacerbate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "더 악화시키다",
+      "zh": "情况变得更糟",
+      "hi": "स्थिति और खराब करने के लिए"
+    }
+  },
+  {
+    "id": 68,
+    "word": "excoriate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to criticize severely",
+    "example": "The professor used the word excoriate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "심하게 비판하다",
+      "zh": "严厉批评",
+      "hi": "कड़ी आलोचना करना"
+    }
+  },
+  {
+    "id": 69,
+    "word": "exculpate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to clear from blame",
+    "example": "The professor used the word exculpate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "비난에서 벗어나기 위해",
+      "zh": "洗清罪责",
+      "hi": "दोषमुक्त करना"
+    }
+  },
+  {
+    "id": 70,
+    "word": "exigent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "requiring immediate action",
+    "example": "The professor used the word exigent in context.",
+    "category": "General",
+    "translations": {
+      "ko": "즉각적인 조치가 필요한",
+      "zh": "需要立即采取行动",
+      "hi": "तत्काल कार्रवाई की आवश्यकता है"
+    }
+  },
+  {
+    "id": 71,
+    "word": "exonerate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to clear of blame",
+    "example": "The professor used the word exonerate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "비난을 없애기 위해",
+      "zh": "洗清罪责",
+      "hi": "दोषमुक्त करना"
+    }
+  },
+  {
+    "id": 72,
+    "word": "expatiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to speak or write at length",
+    "example": "The professor used the word expatiate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "길게 말하거나 길게 쓰다",
+      "zh": "长篇大论地说话或写作",
+      "hi": "विस्तार से बोलना या लिखना"
+    }
+  },
+  {
+    "id": 73,
+    "word": "expiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make amends for",
+    "example": "The professor used the word expiate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "보상하기 위해",
+      "zh": "弥补过失",
+      "hi": "क्षतिपूर्ति करने के लिए"
+    }
+  },
+  {
+    "id": 74,
+    "word": "extirpate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to destroy completely",
+    "example": "The professor used the word extirpate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 파괴하다",
+      "zh": "彻底摧毁",
+      "hi": "ईंट से ईंट बज जाना"
+    }
+  },
+  {
+    "id": 75,
+    "word": "facetious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "treating serious issues with humor",
+    "example": "The professor used the word facetious in context.",
+    "category": "General",
+    "translations": {
+      "ko": "심각한 문제를 유머로 다루는 것",
+      "zh": "用幽默的方式处理严肃问题",
+      "hi": "गंभीर मुद्दों को हास्य के साथ प्रस्तुत करना"
+    }
+  },
+  {
+    "id": 76,
+    "word": "fallacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "based on false reasoning",
+    "example": "The professor used the word fallacious in context.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못된 추론에 근거함",
+      "zh": "基于错误推理",
+      "hi": "गलत तर्क पर आधारित"
+    }
+  },
+  {
+    "id": 77,
+    "word": "fastidious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very attentive to detail",
+    "example": "The professor used the word fastidious in context.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 세심하고 꼼꼼한",
+      "zh": "非常注重细节",
+      "hi": "बारीकियों पर बहुत ध्यान देता है"
+    }
+  },
+  {
+    "id": 78,
+    "word": "fatuous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "silly and pointless",
+    "example": "The professor used the word fatuous in context.",
+    "category": "General",
+    "translations": {
+      "ko": "어리석고 무의미한",
+      "zh": "愚蠢且毫无意义",
+      "hi": "मूर्खतापूर्ण और निरर्थक"
+    }
+  },
+  {
+    "id": 79,
+    "word": "fecund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "fertile; intellectually productive",
+    "example": "The professor used the word fecund in context.",
+    "category": "General",
+    "translations": {
+      "ko": "비옥한; 지적으로 생산적인",
+      "zh": "富有创造力的；智力丰富的",
+      "hi": "उपजाऊ; बौद्धिक रूप से उत्पादक"
+    }
+  },
+  {
+    "id": 80,
+    "word": "felicitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "well-suited; apt",
+    "example": "The professor used the word felicitous in context.",
+    "category": "General",
+    "translations": {
+      "ko": "적합한; 적절한",
+      "zh": "非常合适；恰当",
+      "hi": "उपयुक्त; उचित"
+    }
+  },
+  {
+    "id": 81,
+    "word": "fervent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing passionate intensity",
+    "example": "The professor used the word fervent in context.",
+    "category": "General",
+    "translations": {
+      "ko": "열정적인 강렬함을 보여주는",
+      "zh": "展现出强烈的热情",
+      "hi": "जोशीली तीव्रता दिखाना"
+    }
+  },
+  {
+    "id": 82,
+    "word": "fetter",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to restrain or restrict",
+    "example": "The professor used the word fetter in context.",
+    "category": "General",
+    "translations": {
+      "ko": "억제하거나 제한하다",
+      "zh": "限制或约束",
+      "hi": "रोकना या प्रतिबंधित करना"
+    }
+  },
+  {
+    "id": 83,
+    "word": "flag",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to become tired or weak",
+    "example": "The professor used the word flag in context.",
+    "category": "General",
+    "translations": {
+      "ko": "피곤해지거나 약해지다",
+      "zh": "感到疲倦或虚弱",
+      "hi": "थक जाना या कमजोर हो जाना"
+    }
+  },
+  {
+    "id": 84,
+    "word": "florid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "elaborate; ruddy complexion",
+    "example": "The professor used the word florid in context.",
+    "category": "General",
+    "translations": {
+      "ko": "정교한; 붉은 안색",
+      "zh": "精致的；红润的肤色",
+      "hi": "विस्तृत; लालिमायुक्त रंग"
+    }
+  },
+  {
+    "id": 85,
+    "word": "foment",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to instigate or stir up",
+    "example": "The professor used the word foment in context.",
+    "category": "General",
+    "translations": {
+      "ko": "선동하거나 부추기다",
+      "zh": "煽动或挑起",
+      "hi": "उकसाना या भड़काना"
+    }
+  },
+  {
+    "id": 86,
+    "word": "forestall",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prevent by taking action",
+    "example": "The professor used the word forestall in context.",
+    "category": "General",
+    "translations": {
+      "ko": "조치를 취함으로써 예방하다",
+      "zh": "通过采取行动来预防",
+      "hi": "कार्रवाई करके रोकना"
+    }
+  },
+  {
+    "id": 87,
+    "word": "fortuitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "happening by chance",
+    "example": "The professor used the word fortuitous in context.",
+    "category": "General",
+    "translations": {
+      "ko": "우연히 발생함",
+      "zh": "偶然发生",
+      "hi": "संयोग से घटित होना"
+    }
+  },
+  {
+    "id": 88,
+    "word": "fractious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "irritable and quarrelsome",
+    "example": "The professor used the word fractious in context.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증스럽고 다투기를 좋아하는",
+      "zh": "易怒且爱争吵",
+      "hi": "चिड़चिड़ा और झगड़ालू"
+    }
+  },
+  {
+    "id": 89,
+    "word": "fulminate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to protest strongly",
+    "example": "The professor used the word fulminate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "강력하게 항의하다",
+      "zh": "强烈抗议",
+      "hi": "कड़ा विरोध करना"
+    }
+  },
+  {
+    "id": 90,
+    "word": "furtive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "attempting to avoid notice",
+    "example": "The professor used the word furtive in context.",
+    "category": "General",
+    "translations": {
+      "ko": "통지를 피하려고 시도함",
+      "zh": "试图逃避通知",
+      "hi": "ध्यान से बचने का प्रयास करना"
+    }
+  },
+  {
+    "id": 91,
+    "word": "gainsay",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to deny or contradict",
+    "example": "The professor used the word gainsay in context.",
+    "category": "General",
+    "translations": {
+      "ko": "부정하거나 반박하다",
+      "zh": "否认或反驳",
+      "hi": "अस्वीकार करना या खंडन करना"
+    }
+  },
+  {
+    "id": 92,
+    "word": "garrulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively talkative",
+    "example": "The professor used the word garrulous in context.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 수다스러운",
+      "zh": "话痨",
+      "hi": "अत्यधिक बातूनी"
+    }
+  },
+  {
+    "id": 93,
+    "word": "germane",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relevant to the subject",
+    "example": "The professor used the word germane in context.",
+    "category": "General",
+    "translations": {
+      "ko": "주제와 관련된",
+      "zh": "与主题相关",
+      "hi": "विषय से संबंधित"
+    }
+  },
+  {
+    "id": 94,
+    "word": "glib",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fluent but insincere",
+    "example": "The professor used the word glib in context.",
+    "category": "General",
+    "translations": {
+      "ko": "유창하지만 진실되지 않음",
+      "zh": "口齿伶俐但虚伪",
+      "hi": "धाराप्रवाह लेकिन बेईमान"
+    }
+  },
+  {
+    "id": 95,
+    "word": "gossamer",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "light, delicate, insubstantial",
+    "example": "The professor used the word gossamer in context.",
+    "category": "General",
+    "translations": {
+      "ko": "가볍고, 섬세하고, 실체가 없다",
+      "zh": "轻盈、精致、轻薄",
+      "hi": "हल्का, नाजुक, सारहीन"
+    }
+  },
+  {
+    "id": 96,
+    "word": "grandiloquent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "pompous in speech",
+    "example": "The professor used the word grandiloquent in context.",
+    "category": "General",
+    "translations": {
+      "ko": "말솜씨가 거만하다",
+      "zh": "说话傲慢",
+      "hi": "भाषण में आडंबरपूर्ण"
+    }
+  },
+  {
+    "id": 97,
+    "word": "gratuitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "uncalled for; unwarranted",
+    "example": "The professor used the word gratuitous in context.",
+    "category": "General",
+    "translations": {
+      "ko": "불필요한; 부당한",
+      "zh": "不必要的；无理的",
+      "hi": "अनावश्यक; अनुचित"
+    }
+  },
+  {
+    "id": 98,
+    "word": "gregarious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fond of company",
+    "example": "The professor used the word gregarious in context.",
+    "category": "General",
+    "translations": {
+      "ko": "사람들과 어울리는 것을 좋아합니다",
+      "zh": "喜欢陪伴",
+      "hi": "संगति पसंद करने वाला"
+    }
+  },
+  {
+    "id": 99,
+    "word": "hackneyed",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "overused and unoriginal",
+    "example": "The professor used the word hackneyed in context.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 흔하고 독창성이 없다",
+      "zh": "用滥且缺乏新意",
+      "hi": "अति प्रयोगित और मौलिकताहीन"
+    }
+  },
+  {
+    "id": 100,
+    "word": "halcyon",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "happy, golden, peaceful",
+    "example": "The professor used the word halcyon in context.",
+    "category": "General",
+    "translations": {
+      "ko": "행복하고, 황금빛이고, 평화로운",
+      "zh": "快乐、金色、宁静",
+      "hi": "खुशहाल, सुनहरा, शांतिपूर्ण"
+    }
+  }
+]

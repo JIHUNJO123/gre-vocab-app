@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1701,
+    "word": "indignant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling or showing anger",
+    "example": "The indignant aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "분노를 느끼거나 표현하는 것",
+      "zh": "感到或表现出愤怒",
+      "hi": "क्रोध महसूस करना या दिखाना"
+    }
+  },
+  {
+    "id": 1702,
+    "word": "indignity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "treatment causing shame",
+    "example": "The indignity aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "수치심을 유발하는 치료",
+      "zh": "令人羞耻的待遇",
+      "hi": "शर्मिंदगी पैदा करने वाला व्यवहार"
+    }
+  },
+  {
+    "id": 1703,
+    "word": "indiscriminate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "done at random",
+    "example": "The indiscriminate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "무작위로 수행됨",
+      "zh": "随机进行",
+      "hi": "यादृच्छिक रूप से किया गया"
+    }
+  },
+  {
+    "id": 1704,
+    "word": "indispensable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "absolutely necessary",
+    "example": "The indispensable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "절대적으로 필요합니다",
+      "zh": "绝对必要",
+      "hi": "बिल्कुल जरूरी"
+    }
+  },
+  {
+    "id": 1705,
+    "word": "indisputable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be challenged",
+    "example": "The indisputable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "반박할 수 없는",
+      "zh": "无法质疑",
+      "hi": "चुनौती देने में असमर्थ"
+    }
+  },
+  {
+    "id": 1706,
+    "word": "indistinct",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not clear or sharply defined",
+    "example": "The indistinct aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "불분명하거나 명확하게 정의되지 않음",
+      "zh": "不清晰或定义不明确",
+      "hi": "स्पष्ट या सटीक रूप से परिभाषित नहीं"
+    }
+  },
+  {
+    "id": 1707,
+    "word": "indoctrinate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to teach to accept beliefs",
+    "example": "The indoctrinate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "신념을 받아들이도록 가르치다",
+      "zh": "教导人们接受信仰",
+      "hi": "मान्यताओं को स्वीकार करना सिखाना"
+    }
+  },
+  {
+    "id": 1708,
+    "word": "indolent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wanting to avoid activity",
+    "example": "The indolent aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "활동을 피하고 싶어함",
+      "zh": "想要避免活动",
+      "hi": "गतिविधि से बचना चाहते हैं"
+    }
+  },
+  {
+    "id": 1709,
+    "word": "indomitable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to subdue",
+    "example": "The indomitable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "제압할 수 없다",
+      "zh": "无法征服",
+      "hi": "वश में करना असंभव है"
+    }
+  },
+  {
+    "id": 1710,
+    "word": "induce",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to succeed in persuading",
+    "example": "The induce aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "설득에 성공하다",
+      "zh": "成功说服",
+      "hi": "राजी करने में सफल होने के लिए"
+    }
+  },
+  {
+    "id": 1711,
+    "word": "indulge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to allow oneself to enjoy",
+    "example": "The indulge aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "즐기도록 스스로에게 허락하다",
+      "zh": "让自己尽情享受",
+      "hi": "स्वयं को आनंद लेने की अनुमति देना"
+    }
+  },
+  {
+    "id": 1712,
+    "word": "industrious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "diligent and hardworking",
+    "example": "The industrious aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "성실하고 근면한",
+      "zh": "勤奋努力",
+      "hi": "मेहनती और परिश्रमी"
+    }
+  },
+  {
+    "id": 1713,
+    "word": "ineffable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "too great to be expressed",
+    "example": "The ineffable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "말로 다 표현할 수 없을 만큼 훌륭합니다.",
+      "zh": "太过伟大，难以言表。",
+      "hi": "इतना महान कि व्यक्त नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 1714,
+    "word": "ineffectual",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not producing desired effect",
+    "example": "The ineffectual aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "원하는 효과를 내지 못함",
+      "zh": "未产生预期效果",
+      "hi": "वांछित प्रभाव उत्पन्न नहीं हो रहा है"
+    }
+  },
+  {
+    "id": 1715,
+    "word": "ineluctable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be resisted",
+    "example": "The ineluctable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "저항할 수 없는",
+      "zh": "无法抗拒",
+      "hi": "जिसका प्रतिरोध नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 1716,
+    "word": "inept",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having no skill",
+    "example": "The inept aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "기술이 없는",
+      "zh": "没有技能",
+      "hi": "कोई कौशल न होना"
+    }
+  },
+  {
+    "id": 1717,
+    "word": "inequity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "lack of fairness",
+    "example": "The inequity aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "불공정성",
+      "zh": "缺乏公平性",
+      "hi": "निष्पक्षता का अभाव"
+    }
+  },
+  {
+    "id": 1718,
+    "word": "inert",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking ability to move",
+    "example": "The inert aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "움직일 수 없는 능력",
+      "zh": "缺乏移动能力",
+      "hi": "चलने-फिरने की क्षमता का अभाव"
+    }
+  },
+  {
+    "id": 1719,
+    "word": "inertia",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "tendency to do nothing",
+    "example": "The inertia aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "아무것도 하지 않는 경향",
+      "zh": "倾向于无所事事",
+      "hi": "कुछ न करने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1720,
+    "word": "inevitable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "certain to happen",
+    "example": "The inevitable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "반드시 일어날 일이다",
+      "zh": "肯定会发生",
+      "hi": "निश्चित रूप से होगा"
+    }
+  },
+  {
+    "id": 1721,
+    "word": "inexorable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to stop",
+    "example": "The inexorable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "멈출 수 없다",
+      "zh": "无法阻止",
+      "hi": "रोकना असंभव है"
+    }
+  },
+  {
+    "id": 1722,
+    "word": "inexplicable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be explained",
+    "example": "The inexplicable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "설명할 수 없음",
+      "zh": "无法解释",
+      "hi": "व्याख्या करने में असमर्थ"
+    }
+  },
+  {
+    "id": 1723,
+    "word": "inextricable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to disentangle",
+    "example": "The inextricable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "풀 수 없다",
+      "zh": "无法理清",
+      "hi": "अलग करना असंभव है"
+    }
+  },
+  {
+    "id": 1724,
+    "word": "infallible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "incapable of making mistakes",
+    "example": "The infallible aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "실수를 할 수 없는",
+      "zh": "不会犯错",
+      "hi": "गलतियाँ करने में असमर्थ"
+    }
+  },
+  {
+    "id": 1725,
+    "word": "infamous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "well known for bad quality",
+    "example": "The infamous aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "품질이 나쁘기로 악명이 높습니다.",
+      "zh": "以质量差而闻名",
+      "hi": "खराब गुणवत्ता के लिए कुख्यात"
+    }
+  },
+  {
+    "id": 1726,
+    "word": "infantile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of or occurring among babies",
+    "example": "The infantile aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "아기들 사이에서 발생하는 또는 아기들 사이에서 일어나는",
+      "zh": "婴儿的或发生在婴儿身上的",
+      "hi": "शिशुओं से संबंधित या शिशुओं में होने वाली घटना"
+    }
+  },
+  {
+    "id": 1727,
+    "word": "infatuated",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "possessed with intense passion",
+    "example": "The infatuated aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "강렬한 열정에 사로잡혀",
+      "zh": "充满强烈的激情",
+      "hi": "तीव्र जुनून से ओतप्रोत"
+    }
+  },
+  {
+    "id": 1728,
+    "word": "infer",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deduce from evidence",
+    "example": "The infer aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "증거로부터 추론하다",
+      "zh": "从证据中推断",
+      "hi": "साक्ष्य से निष्कर्ष निकालना"
+    }
+  },
+  {
+    "id": 1729,
+    "word": "inferior",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lower in rank or quality",
+    "example": "The inferior aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "순위나 품질이 더 낮은",
+      "zh": "等级或质量较低",
+      "hi": "पद या गुणवत्ता में निम्न"
+    }
+  },
+  {
+    "id": 1730,
+    "word": "infernal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to hell",
+    "example": "The infernal aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "지옥과 관련된",
+      "zh": "与地狱有关",
+      "hi": "नरक से संबंधित"
+    }
+  },
+  {
+    "id": 1731,
+    "word": "infest",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be present in large numbers",
+    "example": "The infest aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 수로 존재하다",
+      "zh": "大量出席",
+      "hi": "बड़ी संख्या में उपस्थित होना"
+    }
+  },
+  {
+    "id": 1732,
+    "word": "infiltrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to enter or gain access",
+    "example": "The infiltrate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "들어가거나 접근 권한을 얻다",
+      "zh": "进入或获得访问权限",
+      "hi": "प्रवेश करना या पहुँच प्राप्त करना"
+    }
+  },
+  {
+    "id": 1733,
+    "word": "infinite",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "limitless or endless",
+    "example": "The infinite aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "무한한 또는 끝없는",
+      "zh": "无限的或无尽的",
+      "hi": "असीमित या अनंत"
+    }
+  },
+  {
+    "id": 1734,
+    "word": "infinitesimal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely small",
+    "example": "The infinitesimal aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "극히 작은",
+      "zh": "极小",
+      "hi": "अत्यंत छोटा"
+    }
+  },
+  {
+    "id": 1735,
+    "word": "infirm",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not physically strong",
+    "example": "The infirm aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "신체적으로 강하지 않음",
+      "zh": "身体不够强壮",
+      "hi": "शारीरिक रूप से मजबूत नहीं"
+    }
+  },
+  {
+    "id": 1736,
+    "word": "inflame",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to provoke strong feelings",
+    "example": "The inflame aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "강한 감정을 불러일으키다",
+      "zh": "激起强烈的情感",
+      "hi": "तीव्र भावनाओं को भड़काना"
+    }
+  },
+  {
+    "id": 1737,
+    "word": "inflated",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively increased",
+    "example": "The inflated aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "과도하게 증가함",
+      "zh": "过度增加",
+      "hi": "अत्यधिक वृद्धि"
+    }
+  },
+  {
+    "id": 1738,
+    "word": "inflexible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling to change",
+    "example": "The inflexible aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "변화를 원하지 않음",
+      "zh": "不愿改变",
+      "hi": "परिवर्तन के लिए अनिच्छुक"
+    }
+  },
+  {
+    "id": 1739,
+    "word": "inflict",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to be suffered",
+    "example": "The inflict aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "고통을 주다",
+      "zh": "使遭受",
+      "hi": "कष्ट सहने का कारण"
+    }
+  },
+  {
+    "id": 1740,
+    "word": "influential",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having great influence",
+    "example": "The influential aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 영향력을 가지다",
+      "zh": "具有巨大影响力",
+      "hi": "बहुत अधिक प्रभाव होना"
+    }
+  },
+  {
+    "id": 1741,
+    "word": "influx",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "arrival of large numbers",
+    "example": "The influx aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 수의 도착",
+      "zh": "大量人员抵达",
+      "hi": "बड़ी संख्या में आगमन"
+    }
+  },
+  {
+    "id": 1742,
+    "word": "infraction",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "violation of law or rule",
+    "example": "The infraction aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "법률 또는 규칙 위반",
+      "zh": "违反法律或规则",
+      "hi": "कानून या नियम का उल्लंघन"
+    }
+  },
+  {
+    "id": 1743,
+    "word": "infringe",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to actively break terms",
+    "example": "The infringe aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "약관을 적극적으로 위반하다",
+      "zh": "主动违反条款",
+      "hi": "शर्तों को सक्रिय रूप से तोड़ना"
+    }
+  },
+  {
+    "id": 1744,
+    "word": "infuriate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make extremely angry",
+    "example": "The infuriate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 화나게 하다",
+      "zh": "使人极其生气",
+      "hi": "बहुत गुस्सा दिलाना"
+    }
+  },
+  {
+    "id": 1745,
+    "word": "infuse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to fill with quality",
+    "example": "The infuse aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "질 좋은 것으로 채우다",
+      "zh": "充满品质",
+      "hi": "गुणवत्ता से भरने के लिए"
+    }
+  },
+  {
+    "id": 1746,
+    "word": "ingenious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "clever and inventive",
+    "example": "The ingenious aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "영리하고 창의적인",
+      "zh": "聪明且富有创造力",
+      "hi": "चतुर और आविष्कारशील"
+    }
+  },
+  {
+    "id": 1747,
+    "word": "ingenuity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "quality of being clever",
+    "example": "The ingenuity aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "영리함의 특성",
+      "zh": "聪明的品质",
+      "hi": "चतुर होने का गुण"
+    }
+  },
+  {
+    "id": 1748,
+    "word": "ingenuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "innocent and unsuspecting",
+    "example": "The ingenuous aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "순진하고 의심하지 않는",
+      "zh": "天真无邪、毫无戒心",
+      "hi": "निर्दोष और अनभिज्ञ"
+    }
+  },
+  {
+    "id": 1749,
+    "word": "inglorious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "causing shame",
+    "example": "The inglorious aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "수치심을 유발함",
+      "zh": "令人羞耻",
+      "hi": "शर्मिंदगी का कारण"
+    }
+  },
+  {
+    "id": 1750,
+    "word": "ingrained",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "firmly fixed",
+    "example": "The ingrained aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "단단히 고정됨",
+      "zh": "牢固固定",
+      "hi": "मजबूती से तय"
+    }
+  },
+  {
+    "id": 1751,
+    "word": "ingratiate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to gain favor with",
+    "example": "The ingratiate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "호감을 얻기 위해",
+      "zh": "博得好感",
+      "hi": "किसी का पक्ष प्राप्त करने के लिए"
+    }
+  },
+  {
+    "id": 1752,
+    "word": "inherent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "existing in something as permanent",
+    "example": "The inherent aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것에 영구적으로 존재하는 것",
+      "zh": "存在于某种永久状态之中",
+      "hi": "किसी चीज में स्थायी रूप से विद्यमान"
+    }
+  },
+  {
+    "id": 1753,
+    "word": "inhibit",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to hinder or restrain",
+    "example": "The inhibit aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "방해하거나 제한하다",
+      "zh": "阻碍或限制",
+      "hi": "बाधा डालना या रोकना"
+    }
+  },
+  {
+    "id": 1754,
+    "word": "inimical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tending to obstruct",
+    "example": "The inimical aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "방해하는 경향이 있는",
+      "zh": "倾向于阻碍",
+      "hi": "अवरोध उत्पन्न करने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1755,
+    "word": "inimitable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "so good as to be impossible to imitate",
+    "example": "The inimitable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "너무나 훌륭해서 모방이 불가능하다",
+      "zh": "好到无法模仿",
+      "hi": "इतना अच्छा कि नकल करना असंभव है"
+    }
+  },
+  {
+    "id": 1756,
+    "word": "iniquitous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "grossly unfair",
+    "example": "The iniquitous aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 불공평함",
+      "zh": "极不公平",
+      "hi": "घोर अन्यायपूर्ण"
+    }
+  },
+  {
+    "id": 1757,
+    "word": "initiate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to begin",
+    "example": "The initiate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "시작하게 하다",
+      "zh": "使开始",
+      "hi": "शुरू करने का कारण बनना"
+    }
+  },
+  {
+    "id": 1758,
+    "word": "injunction",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "authoritative warning",
+    "example": "The injunction aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "권위 있는 경고",
+      "zh": "权威警告",
+      "hi": "आधिकारिक चेतावनी"
+    }
+  },
+  {
+    "id": 1759,
+    "word": "innate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "inborn or natural",
+    "example": "The innate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "선천적이거나 자연적인",
+      "zh": "天生的或自然的",
+      "hi": "जन्मजात या प्राकृतिक"
+    }
+  },
+  {
+    "id": 1760,
+    "word": "innocuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not harmful or offensive",
+    "example": "The innocuous aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "무해하거나 불쾌하지 않음",
+      "zh": "不具伤害性或冒犯性",
+      "hi": "हानिकारक या आपत्तिजनक नहीं"
+    }
+  },
+  {
+    "id": 1761,
+    "word": "innovate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make changes in something",
+    "example": "The innovate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가를 바꾸다",
+      "zh": "对某事物进行更改",
+      "hi": "किसी चीज में बदलाव करना"
+    }
+  },
+  {
+    "id": 1762,
+    "word": "innuendo",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "allusive or oblique remark",
+    "example": "The innuendo aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "암시적이거나 간접적인 발언",
+      "zh": "含蓄或隐晦的言辞",
+      "hi": "अप्रत्यक्ष या व्यंजक टिप्पणी"
+    }
+  },
+  {
+    "id": 1763,
+    "word": "inordinate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unusually or disproportionately large",
+    "example": "The inordinate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "비정상적으로 또는 불균형적으로 큰",
+      "zh": "异常或不成比例的大",
+      "hi": "असामान्य रूप से या अनुपातहीन रूप से बड़ा"
+    }
+  },
+  {
+    "id": 1764,
+    "word": "inquest",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "judicial inquiry",
+    "example": "The inquest aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "사법 조사",
+      "zh": "司法调查",
+      "hi": "न्यायिक जांच"
+    }
+  },
+  {
+    "id": 1765,
+    "word": "inquire",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to ask for information",
+    "example": "The inquire aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "정보를 요청하다",
+      "zh": "询问信息",
+      "hi": "जानकारी मांगने के लिए"
+    }
+  },
+  {
+    "id": 1766,
+    "word": "inquisitive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "curious or inquiring",
+    "example": "The inquisitive aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "호기심 많은 또는 질문하는",
+      "zh": "好奇的或爱问的",
+      "hi": "जिज्ञासु या पूछताछ करने वाला"
+    }
+  },
+  {
+    "id": 1767,
+    "word": "insatiable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to satisfy",
+    "example": "The insatiable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "만족시킬 수 없다",
+      "zh": "无法满足",
+      "hi": "संतुष्ट करना असंभव है"
+    }
+  },
+  {
+    "id": 1768,
+    "word": "inscribe",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to write or carve",
+    "example": "The inscribe aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "쓰거나 새기다",
+      "zh": "书写或雕刻",
+      "hi": "लिखना या उत्कीर्ण करना"
+    }
+  },
+  {
+    "id": 1769,
+    "word": "inscrutable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to understand",
+    "example": "The inscrutable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "이해할 수 없음",
+      "zh": "难以理解",
+      "hi": "समझना असंभव है"
+    }
+  },
+  {
+    "id": 1770,
+    "word": "insensible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "without physical sensation",
+    "example": "The insensible aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "신체적 감각 없이",
+      "zh": "没有身体感觉",
+      "hi": "बिना किसी शारीरिक संवेदना के"
+    }
+  },
+  {
+    "id": 1771,
+    "word": "insidious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "proceeding in gradual way",
+    "example": "The insidious aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "점진적으로 진행",
+      "zh": "逐步进行",
+      "hi": "धीरे-धीरे आगे बढ़ते हुए"
+    }
+  },
+  {
+    "id": 1772,
+    "word": "insight",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "accurate understanding",
+    "example": "The insight aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "정확한 이해",
+      "zh": "准确理解",
+      "hi": "सटीक समझ"
+    }
+  },
+  {
+    "id": 1773,
+    "word": "insightful",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having deep understanding",
+    "example": "The insightful aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "깊은 이해를 가지고",
+      "zh": "有深刻的理解",
+      "hi": "गहरी समझ होना"
+    }
+  },
+  {
+    "id": 1774,
+    "word": "insinuate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to suggest or hint",
+    "example": "The insinuate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "암시하거나 암시하다",
+      "zh": "暗示或提示",
+      "hi": "सुझाव देना या संकेत देना"
+    }
+  },
+  {
+    "id": 1775,
+    "word": "insipid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking flavor or interest",
+    "example": "The insipid aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "맛이나 흥미가 부족하다",
+      "zh": "缺乏味道或趣味",
+      "hi": "स्वाद या रुचि का अभाव"
+    }
+  },
+  {
+    "id": 1776,
+    "word": "insistent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "demanding attention",
+    "example": "The insistent aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "관심을 요구하는",
+      "zh": "引人注目",
+      "hi": "ध्यान आकर्षित करना"
+    }
+  },
+  {
+    "id": 1777,
+    "word": "insolent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing rude disrespect",
+    "example": "The insolent aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "무례하고 존중 없는 태도를 보이는 것",
+      "zh": "表现出粗鲁无礼",
+      "hi": "अभद्र और अपमानजनक व्यवहार प्रदर्शित करना"
+    }
+  },
+  {
+    "id": 1778,
+    "word": "insolvent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to pay debts",
+    "example": "The insolvent aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "빚을 갚을 수 없는",
+      "zh": "无力偿还债务",
+      "hi": "ऋण चुकाने में असमर्थ"
+    }
+  },
+  {
+    "id": 1779,
+    "word": "insomnia",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "habitual sleeplessness",
+    "example": "The insomnia aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "습관적인 불면증",
+      "zh": "习惯性失眠",
+      "hi": "आदतन अनिद्रा"
+    }
+  },
+  {
+    "id": 1780,
+    "word": "insouciance",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "casual lack of concern",
+    "example": "The insouciance aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "무관심한 태도",
+      "zh": "漫不经心的漠不关心",
+      "hi": "लापरवाही से चिंता की कमी"
+    }
+  },
+  {
+    "id": 1781,
+    "word": "inspire",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to fill with urge to do",
+    "example": "The inspire aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "하고 싶은 충동으로 가득 차다",
+      "zh": "充满做某事的冲动",
+      "hi": "किसी कार्य को करने की तीव्र इच्छा से भर देना"
+    }
+  },
+  {
+    "id": 1782,
+    "word": "instability",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "lack of stability",
+    "example": "The instability aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "안정성 부족",
+      "zh": "缺乏稳定性",
+      "hi": "अस्थिरता का अभाव"
+    }
+  },
+  {
+    "id": 1783,
+    "word": "instigate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to bring about",
+    "example": "The instigate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "~을 가져오다",
+      "zh": "促成",
+      "hi": "बांधने"
+    }
+  },
+  {
+    "id": 1784,
+    "word": "instill",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to gradually establish idea",
+    "example": "The instill aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "점진적으로 아이디어를 확립하다",
+      "zh": "逐步确立理念",
+      "hi": "धीरे-धीरे विचार स्थापित करना"
+    }
+  },
+  {
+    "id": 1785,
+    "word": "instinctive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to innate behavior",
+    "example": "The instinctive aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "선천적 행동과 관련된",
+      "zh": "与先天行为有关",
+      "hi": "जन्मजात व्यवहार से संबंधित"
+    }
+  },
+  {
+    "id": 1786,
+    "word": "institute",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to set in motion",
+    "example": "The institute aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "움직이게 하다",
+      "zh": "启动",
+      "hi": "किसी कार्य को शुरू करने के लिए"
+    }
+  },
+  {
+    "id": 1787,
+    "word": "instrumental",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "serving as means",
+    "example": "The instrumental aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "수단으로 작용함",
+      "zh": "作为手段",
+      "hi": "साधन के रूप में कार्य करना"
+    }
+  },
+  {
+    "id": 1788,
+    "word": "insubordinate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "defiant of authority",
+    "example": "The insubordinate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "권위에 반항하는",
+      "zh": "蔑视权威",
+      "hi": "सत्ता का अवज्ञाकारी"
+    }
+  },
+  {
+    "id": 1789,
+    "word": "insubstantial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking strength and solidity",
+    "example": "The insubstantial aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "힘과 견고함이 부족함",
+      "zh": "缺乏强度和稳固性",
+      "hi": "शक्ति और दृढ़ता का अभाव"
+    }
+  },
+  {
+    "id": 1790,
+    "word": "insufferable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "too extreme to bear",
+    "example": "The insufferable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 극단적이어서 견딜 수 없어",
+      "zh": "太过极端，令人难以承受",
+      "hi": "असहनीय रूप से चरम"
+    }
+  },
+  {
+    "id": 1791,
+    "word": "insular",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "ignorant of outside world",
+    "example": "The insular aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "외부 세계에 대해 무지한",
+      "zh": "对外部世界一无所知",
+      "hi": "बाहरी दुनिया से अनभिज्ञ"
+    }
+  },
+  {
+    "id": 1792,
+    "word": "insulate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to protect from unpleasant influences",
+    "example": "The insulate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 영향으로부터 보호하기 위해",
+      "zh": "防止受到不良影响",
+      "hi": "अप्रिय प्रभावों से बचाने के लिए"
+    }
+  },
+  {
+    "id": 1793,
+    "word": "insurgent",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "rebel or revolutionary",
+    "example": "The insurgent aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "반역자 또는 혁명가",
+      "zh": "叛军或革命者",
+      "hi": "विद्रोही या क्रांतिकारी"
+    }
+  },
+  {
+    "id": 1794,
+    "word": "insurmountable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "too great to be overcome",
+    "example": "The insurmountable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "극복하기엔 너무 크다",
+      "zh": "太过强大，无法克服",
+      "hi": "इतनी महान कि उस पर काबू पाना असंभव है"
+    }
+  },
+  {
+    "id": 1795,
+    "word": "insurrection",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "violent uprising",
+    "example": "The insurrection aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "폭력적인 봉기",
+      "zh": "暴力起义",
+      "hi": "हिंसक विद्रोह"
+    }
+  },
+  {
+    "id": 1796,
+    "word": "intact",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not damaged in any way",
+    "example": "The intact aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 손상도 입지 않았습니다.",
+      "zh": "未受到任何损坏",
+      "hi": "किसी भी तरह से क्षतिग्रस्त नहीं हुआ है"
+    }
+  },
+  {
+    "id": 1797,
+    "word": "integral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "necessary for completeness",
+    "example": "The integral aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "완전성을 위해 필요합니다",
+      "zh": "为完整性所必需",
+      "hi": "पूर्णता के लिए आवश्यक"
+    }
+  },
+  {
+    "id": 1798,
+    "word": "integrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to combine to form whole",
+    "example": "The integrate aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "전체를 형성하기 위해 결합하다",
+      "zh": "合并成整体",
+      "hi": "किसी को मिलाकर संपूर्ण बनाना"
+    }
+  },
+  {
+    "id": 1799,
+    "word": "integrity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "quality of being honest",
+    "example": "The integrity aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "정직함이라는 자질",
+      "zh": "诚实的品质",
+      "hi": "ईमानदार होने का गुण"
+    }
+  },
+  {
+    "id": 1800,
+    "word": "intellect",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "faculty of reasoning",
+    "example": "The intellect aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "추론 능력",
+      "zh": "推理能力",
+      "hi": "तर्क शक्ति"
+    }
+  }
+]

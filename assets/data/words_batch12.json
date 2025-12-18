@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 901,
+    "word": "disconcert",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to disturb composure",
+    "example": "The disconcert approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "평정심을 흐트러뜨리다",
+      "zh": "扰乱平静",
+      "hi": "शांति भंग करना"
+    }
+  },
+  {
+    "id": 902,
+    "word": "discord",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "disagreement between people",
+    "example": "The discord approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "사람들 사이의 의견 불일치",
+      "zh": "人们之间的分歧",
+      "hi": "लोगों के बीच असहमति"
+    }
+  },
+  {
+    "id": 903,
+    "word": "discordant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "disagreeing or incongruous",
+    "example": "The discordant approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "동의하지 않거나 어울리지 않는",
+      "zh": "不一致或不协调",
+      "hi": "असहमत या असंगत"
+    }
+  },
+  {
+    "id": 904,
+    "word": "discount",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to disregard as unimportant",
+    "example": "The discount approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "중요하지 않다고 여겨 무시하다",
+      "zh": "忽略，认为无关紧要",
+      "hi": "महत्वहीन समझकर उपेक्षित करना"
+    }
+  },
+  {
+    "id": 905,
+    "word": "discourse",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "written or spoken communication",
+    "example": "The discourse approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "서면 또는 구두 의사소통",
+      "zh": "书面或口头沟通",
+      "hi": "लिखित या मौखिक संचार"
+    }
+  },
+  {
+    "id": 906,
+    "word": "discredit",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to harm reputation",
+    "example": "The discredit approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "평판을 손상시키다",
+      "zh": "损害名誉",
+      "hi": "प्रतिष्ठा को नुकसान पहुँचाना"
+    }
+  },
+  {
+    "id": 907,
+    "word": "discreet",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "careful and circumspect",
+    "example": "The discreet approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "신중하고 조심스러운",
+      "zh": "谨慎小心",
+      "hi": "सावधान और सतर्क"
+    }
+  },
+  {
+    "id": 908,
+    "word": "discrepancy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "lack of compatibility",
+    "example": "The discrepancy approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "호환성 부족",
+      "zh": "缺乏兼容性",
+      "hi": "अनुकूलता का अभाव"
+    }
+  },
+  {
+    "id": 909,
+    "word": "discrete",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "individually separate",
+    "example": "The discrete approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "개별적으로 분리됨",
+      "zh": "单独",
+      "hi": "व्यक्तिगत रूप से अलग"
+    }
+  },
+  {
+    "id": 910,
+    "word": "discretion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "quality of behaving prudently",
+    "example": "The discretion approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "신중하게 행동하는 자질",
+      "zh": "谨慎行事的品质",
+      "hi": "विवेकपूर्ण व्यवहार करने का गुण"
+    }
+  },
+  {
+    "id": 911,
+    "word": "discriminate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to recognize distinction",
+    "example": "The discriminate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "차이점을 인식하기 위해",
+      "zh": "表彰卓越",
+      "hi": "अंतर को पहचानना"
+    }
+  },
+  {
+    "id": 912,
+    "word": "discursive",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "digressing from subject",
+    "example": "The discursive approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "주제에서 벗어난 이야기",
+      "zh": "跑题了",
+      "hi": "विषय से भटकना"
+    }
+  },
+  {
+    "id": 913,
+    "word": "disdain",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "feeling of contempt",
+    "example": "The disdain approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "경멸감",
+      "zh": "轻蔑之感",
+      "hi": "तिरस्कार की भावना"
+    }
+  },
+  {
+    "id": 914,
+    "word": "disenchanted",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "disappointed",
+    "example": "The disenchanted approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "실망한",
+      "zh": "失望的",
+      "hi": "निराश"
+    }
+  },
+  {
+    "id": 915,
+    "word": "disenfranchise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deprive of right",
+    "example": "The disenfranchise approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "권리를 박탈하다",
+      "zh": "剥夺权利",
+      "hi": "अधिकार से वंचित करना"
+    }
+  },
+  {
+    "id": 916,
+    "word": "disengage",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to separate or release",
+    "example": "The disengage approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "분리하거나 풀어주다",
+      "zh": "分离或释放",
+      "hi": "अलग करना या मुक्त करना"
+    }
+  },
+  {
+    "id": 917,
+    "word": "disfigure",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to spoil appearance",
+    "example": "The disfigure approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "외모를 망치다",
+      "zh": "破坏外观",
+      "hi": "दिखावट बिगाड़ने के लिए"
+    }
+  },
+  {
+    "id": 918,
+    "word": "disgorge",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to pour forth",
+    "example": "The disgorge approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "쏟아붓다",
+      "zh": "倾泻而出",
+      "hi": "उड़ेलना"
+    }
+  },
+  {
+    "id": 919,
+    "word": "disgrace",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "loss of reputation",
+    "example": "The disgrace approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "평판 손실",
+      "zh": "声誉受损",
+      "hi": "प्रतिष्ठा की हानि"
+    }
+  },
+  {
+    "id": 920,
+    "word": "disguise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to alter appearance",
+    "example": "The disguise approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "외모를 바꾸다",
+      "zh": "改变外观",
+      "hi": "रूप बदलने के लिए"
+    }
+  },
+  {
+    "id": 921,
+    "word": "dishearten",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to lose determination",
+    "example": "The dishearten approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "결의를 잃게 하다",
+      "zh": "使丧失决心",
+      "hi": "दृढ़ संकल्प खोने का कारण बनना"
+    }
+  },
+  {
+    "id": 922,
+    "word": "disheveled",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "untidy in appearance",
+    "example": "The disheveled approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "단정하지 않은 외모",
+      "zh": "外表邋遢",
+      "hi": "देखने में अव्यवस्थित"
+    }
+  },
+  {
+    "id": 923,
+    "word": "disillusioned",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "disappointed in someone",
+    "example": "The disillusioned approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "누군가에게 실망했다",
+      "zh": "对某人感到失望",
+      "hi": "किसी से निराश"
+    }
+  },
+  {
+    "id": 924,
+    "word": "disinclination",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "reluctance or unwillingness",
+    "example": "The disinclination approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "꺼림 또는 거부감",
+      "zh": "不情愿或不愿意",
+      "hi": "अनिच्छा या अरुचि"
+    }
+  },
+  {
+    "id": 925,
+    "word": "disingenuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not candid or sincere",
+    "example": "The disingenuous approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "솔직하지 않거나 진실하지 않은",
+      "zh": "不坦诚也不真诚",
+      "hi": "स्पष्टवादी या ईमानदार नहीं"
+    }
+  },
+  {
+    "id": 926,
+    "word": "disintegrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to break into small parts",
+    "example": "The disintegrate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "작은 부분으로 나누다",
+      "zh": "分解成小块",
+      "hi": "छोटे-छोटे हिस्सों में तोड़ना"
+    }
+  },
+  {
+    "id": 927,
+    "word": "disinterested",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not influenced by considerations",
+    "example": "The disinterested approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "고려 사항에 영향을 받지 않음",
+      "zh": "不受任何因素影响",
+      "hi": "विचार से प्रभावित नहीं"
+    }
+  },
+  {
+    "id": 928,
+    "word": "disjointed",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking coherent sequence",
+    "example": "The disjointed approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "일관성 없는 순서",
+      "zh": "缺乏连贯的序列",
+      "hi": "सुसंगत अनुक्रम का अभाव"
+    }
+  },
+  {
+    "id": 929,
+    "word": "dismiss",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to order to leave",
+    "example": "The dismiss approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "떠나라고 명령하다",
+      "zh": "下令离开",
+      "hi": "जाने का आदेश देना"
+    }
+  },
+  {
+    "id": 930,
+    "word": "dismissive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling that something is unworthy",
+    "example": "The dismissive approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가가 가치 없다고 느끼는 것",
+      "zh": "感觉某物不值得",
+      "hi": "किसी चीज को अयोग्य महसूस करना"
+    }
+  },
+  {
+    "id": 931,
+    "word": "disparage",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to regard as being of little worth",
+    "example": "The disparage approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "가치가 거의 없다고 여기다",
+      "zh": "认为其价值微不足道",
+      "hi": "किसी चीज को कम महत्व का समझना"
+    }
+  },
+  {
+    "id": 932,
+    "word": "disparate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "essentially different",
+    "example": "The disparate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "본질적으로 다릅니다",
+      "zh": "本质上不同",
+      "hi": "अनिवार्य रूप से भिन्न"
+    }
+  },
+  {
+    "id": 933,
+    "word": "disparity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "great difference",
+    "example": "The disparity approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 차이",
+      "zh": "差别很大",
+      "hi": "बड़ा अंतर"
+    }
+  },
+  {
+    "id": 934,
+    "word": "dispassionate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not influenced by emotion",
+    "example": "The dispassionate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "감정의 영향을 받지 않음",
+      "zh": "不受情绪影响",
+      "hi": "भावनाओं से प्रभावित नहीं"
+    }
+  },
+  {
+    "id": 935,
+    "word": "dispatch",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to send off to destination",
+    "example": "The dispatch approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "목적지로 보내다",
+      "zh": "寄往目的地",
+      "hi": "गंतव्य तक भेजना"
+    }
+  },
+  {
+    "id": 936,
+    "word": "dispel",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make disappear",
+    "example": "The dispel approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "사라지게 하다",
+      "zh": "使消失",
+      "hi": "गायब करना"
+    }
+  },
+  {
+    "id": 937,
+    "word": "dispensation",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "exemption from rule",
+    "example": "The dispensation approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "규칙 면제",
+      "zh": "规则豁免",
+      "hi": "नियम से छूट"
+    }
+  },
+  {
+    "id": 938,
+    "word": "dispense",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to distribute or provide",
+    "example": "The dispense approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "배포하거나 제공하기 위해",
+      "zh": "分发或提供",
+      "hi": "वितरित करना या प्रदान करना"
+    }
+  },
+  {
+    "id": 939,
+    "word": "disperse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to distribute over wide area",
+    "example": "The disperse approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "넓은 지역에 배포하기 위해",
+      "zh": "分布到广阔区域",
+      "hi": "विस्तृत क्षेत्र में वितरित करना"
+    }
+  },
+  {
+    "id": 940,
+    "word": "displace",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to take over position",
+    "example": "The displace approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "직책을 맡다",
+      "zh": "接管位置",
+      "hi": "पदभार ग्रहण करने के लिए"
+    }
+  },
+  {
+    "id": 941,
+    "word": "disposition",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person's inherent qualities",
+    "example": "The disposition approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "사람의 타고난 자질",
+      "zh": "人的内在品质",
+      "hi": "व्यक्ति के अंतर्निहित गुण"
+    }
+  },
+  {
+    "id": 942,
+    "word": "dispossess",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deprive of land",
+    "example": "The dispossess approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "토지를 박탈하다",
+      "zh": "剥夺土地",
+      "hi": "भूमि से वंचित करना"
+    }
+  },
+  {
+    "id": 943,
+    "word": "disproportionate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "too large or small",
+    "example": "The disproportionate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 크거나 작다",
+      "zh": "太大或太小",
+      "hi": "बहुत बड़ा या बहुत छोटा"
+    }
+  },
+  {
+    "id": 944,
+    "word": "disprove",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prove that something is false",
+    "example": "The disprove approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것이 거짓임을 증명하기 위해",
+      "zh": "证明某事是错误的",
+      "hi": "किसी बात के असत्य होने का प्रमाण देना"
+    }
+  },
+  {
+    "id": 945,
+    "word": "dispute",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "disagreement or argument",
+    "example": "The dispute approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "의견 불일치 또는 논쟁",
+      "zh": "分歧或争论",
+      "hi": "असहमति या बहस"
+    }
+  },
+  {
+    "id": 946,
+    "word": "disquiet",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "feeling of anxiety",
+    "example": "The disquiet approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "불안감",
+      "zh": "愁思",
+      "hi": "चिंता की भावना"
+    }
+  },
+  {
+    "id": 947,
+    "word": "disregard",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to pay no attention to",
+    "example": "The disregard approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "주의를 기울이지 않다",
+      "zh": "对……不予理会",
+      "hi": "ध्यान न देना"
+    }
+  },
+  {
+    "id": 948,
+    "word": "disreputable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not respectable",
+    "example": "The disreputable approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "존경할 만하지 않다",
+      "zh": "不体面",
+      "hi": "सम्माननीय नहीं"
+    }
+  },
+  {
+    "id": 949,
+    "word": "disrepute",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of being held in low esteem",
+    "example": "The disrepute approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "낮게 평가받는 상태",
+      "zh": "被轻视的状态",
+      "hi": "कम सम्मान की स्थिति"
+    }
+  },
+  {
+    "id": 950,
+    "word": "disrupt",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to interrupt by causing disturbance",
+    "example": "The disrupt approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "방해를 일으켜 중단시키다",
+      "zh": "通过制造干扰来打断他人",
+      "hi": "व्यवधान उत्पन्न करके बाधा डालना"
+    }
+  },
+  {
+    "id": 951,
+    "word": "dissect",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cut up methodically",
+    "example": "The dissect approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "체계적으로 잘라내다",
+      "zh": "有条不紊地切割",
+      "hi": "व्यवस्थित रूप से काटना"
+    }
+  },
+  {
+    "id": 952,
+    "word": "dissemble",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to conceal one's true motives",
+    "example": "The dissemble approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "자신의 진정한 동기를 숨기다",
+      "zh": "掩盖自己的真实动机",
+      "hi": "अपने असली इरादों को छिपाना"
+    }
+  },
+  {
+    "id": 953,
+    "word": "disseminate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to spread widely",
+    "example": "The disseminate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "널리 퍼지다",
+      "zh": "广泛传播",
+      "hi": "व्यापक रूप से फैलना"
+    }
+  },
+  {
+    "id": 954,
+    "word": "dissension",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "disagreement that leads to discord",
+    "example": "The dissension approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "의견 불일치가 불화로 이어짐",
+      "zh": "导致不和的分歧",
+      "hi": "असहमति जो कलह की ओर ले जाती है"
+    }
+  },
+  {
+    "id": 955,
+    "word": "dissent",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "holding of different opinion",
+    "example": "The dissent approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "서로 다른 의견을 갖는 것",
+      "zh": "持有不同意见",
+      "hi": "अलग राय रखना"
+    }
+  },
+  {
+    "id": 956,
+    "word": "dissertation",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "long essay on subject",
+    "example": "The dissertation approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "주제에 관한 긴 에세이",
+      "zh": "关于该主题的长篇论文",
+      "hi": "इस विषय पर लंबा निबंध"
+    }
+  },
+  {
+    "id": 957,
+    "word": "disservice",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "harmful action",
+    "example": "The disservice approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "유해한 행동",
+      "zh": "有害行为",
+      "hi": "हानिकारक कार्रवाई"
+    }
+  },
+  {
+    "id": 958,
+    "word": "dissident",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person opposing official policy",
+    "example": "The dissident approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "공식 정책에 반대하는 사람",
+      "zh": "反对官方政策的人",
+      "hi": "आधिकारिक नीति का विरोध करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 959,
+    "word": "dissipate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to dispel or disperse",
+    "example": "The dissipate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "없애거나 흩어지게 하다",
+      "zh": "驱散或驱散",
+      "hi": "दूर करना या बिखेरना"
+    }
+  },
+  {
+    "id": 960,
+    "word": "dissociate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to disconnect or separate",
+    "example": "The dissociate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "연결을 끊거나 분리하다",
+      "zh": "断开或分离",
+      "hi": "अलग करना या पृथक करना"
+    }
+  },
+  {
+    "id": 961,
+    "word": "dissolute",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "lacking moral restraint",
+    "example": "The dissolute approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적 자제력이 부족함",
+      "zh": "缺乏道德约束",
+      "hi": "नैतिक संयम का अभाव"
+    }
+  },
+  {
+    "id": 962,
+    "word": "dissolution",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "act of dissolving",
+    "example": "The dissolution approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "해산 행위",
+      "zh": "解散行为",
+      "hi": "घुलने की क्रिया"
+    }
+  },
+  {
+    "id": 963,
+    "word": "dissonance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "lack of harmony",
+    "example": "The dissonance approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "조화의 부족",
+      "zh": "缺乏和谐",
+      "hi": "सामंजस्य की कमी"
+    }
+  },
+  {
+    "id": 964,
+    "word": "dissuade",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to persuade not to",
+    "example": "The dissuade approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "하지 않도록 설득하다",
+      "zh": "劝阻不要",
+      "hi": "राजी करने के लिए"
+    }
+  },
+  {
+    "id": 965,
+    "word": "distant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "far away in space",
+    "example": "The distant approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "우주 저 멀리",
+      "zh": "在遥远的太空",
+      "hi": "अंतरिक्ष में बहुत दूर"
+    }
+  },
+  {
+    "id": 966,
+    "word": "distend",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to swell by pressure",
+    "example": "The distend approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "압력에 의해 부풀어 오르다",
+      "zh": "因压力而膨胀",
+      "hi": "दबाव से फूल जाना"
+    }
+  },
+  {
+    "id": 967,
+    "word": "distill",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to extract essential meaning",
+    "example": "The distill approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "핵심 의미를 추출하기 위해",
+      "zh": "提取本质含义",
+      "hi": "आवश्यक अर्थ निकालने के लिए"
+    }
+  },
+  {
+    "id": 968,
+    "word": "distinct",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "recognizably different",
+    "example": "The distinct approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "확연히 다른",
+      "zh": "明显不同",
+      "hi": "स्पष्ट रूप से भिन्न"
+    }
+  },
+  {
+    "id": 969,
+    "word": "distinction",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "difference or contrast",
+    "example": "The distinction approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "차이 또는 대조",
+      "zh": "差异或对比",
+      "hi": "अंतर या विरोधाभास"
+    }
+  },
+  {
+    "id": 970,
+    "word": "distinctive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "characteristic of one person",
+    "example": "The distinctive approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "한 사람의 특징",
+      "zh": "一个人的特征",
+      "hi": "किसी व्यक्ति की विशेषता"
+    }
+  },
+  {
+    "id": 971,
+    "word": "distinguish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to recognize as different",
+    "example": "The distinguish approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "서로 다르다고 인식하다",
+      "zh": "识别为不同",
+      "hi": "अलग के रूप में पहचानना"
+    }
+  },
+  {
+    "id": 972,
+    "word": "distort",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to pull out of shape",
+    "example": "The distort approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "형태가 변형되다",
+      "zh": "变形",
+      "hi": "आकार बिगाड़ना"
+    }
+  },
+  {
+    "id": 973,
+    "word": "distract",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prevent from giving attention",
+    "example": "The distract approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "관심을 주지 않도록 하기 위해",
+      "zh": "防止引起注意",
+      "hi": "ध्यान देने से रोकने के लिए"
+    }
+  },
+  {
+    "id": 974,
+    "word": "distraught",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deeply upset and agitated",
+    "example": "The distraught approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 화가 나고 동요된",
+      "zh": "深感不安和激动",
+      "hi": "बेहद परेशान और उत्तेजित"
+    }
+  },
+  {
+    "id": 975,
+    "word": "diverge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to separate from route",
+    "example": "The diverge approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "경로에서 분리하다",
+      "zh": "与路线分离",
+      "hi": "मार्ग से अलग होना"
+    }
+  },
+  {
+    "id": 976,
+    "word": "divergent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tending to be different",
+    "example": "The divergent approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "다르게 되는 경향이 있다",
+      "zh": "往往有所不同",
+      "hi": "अलग होने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 977,
+    "word": "diverse",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing variety",
+    "example": "The diverse approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "다양성을 보여주는",
+      "zh": "展现多样性",
+      "hi": "विविधता दिखाना"
+    }
+  },
+  {
+    "id": 978,
+    "word": "diversion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "instance of turning aside",
+    "example": "The diversion approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "외면하는 경우",
+      "zh": "转身的例子",
+      "hi": "एक तरफ मुड़ने का उदाहरण"
+    }
+  },
+  {
+    "id": 979,
+    "word": "divest",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deprive of power",
+    "example": "The divest approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "권력을 박탈하다",
+      "zh": "剥夺权力",
+      "hi": "सत्ता से वंचित करना"
+    }
+  },
+  {
+    "id": 980,
+    "word": "divine",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of or from god",
+    "example": "The divine approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "신의 또는 신으로부터",
+      "zh": "神的或来自神的",
+      "hi": "ईश्वर का या ईश्वर से"
+    }
+  },
+  {
+    "id": 981,
+    "word": "divisive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tending to cause disagreement",
+    "example": "The divisive approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "의견 불일치를 야기하는 경향이 있는",
+      "zh": "容易引起分歧",
+      "hi": "असहमति पैदा करने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 982,
+    "word": "divulge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make known",
+    "example": "The divulge approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "알리다",
+      "zh": "让大家知道",
+      "hi": "परिचित चीज़ बनाने के लिए"
+    }
+  },
+  {
+    "id": 983,
+    "word": "docile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "ready to accept control",
+    "example": "The docile approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "통제권을 받아들일 준비가 되었습니다",
+      "zh": "准备接受控制",
+      "hi": "नियंत्रण स्वीकार करने के लिए तैयार"
+    }
+  },
+  {
+    "id": 984,
+    "word": "doctrine",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "belief or set of beliefs",
+    "example": "The doctrine approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "신념 또는 신념 체계",
+      "zh": "信仰或一系列信仰",
+      "hi": "विश्वास या विश्वासों का समूह"
+    }
+  },
+  {
+    "id": 985,
+    "word": "document",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to record in written form",
+    "example": "The document approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "서면으로 기록하다",
+      "zh": "以书面形式记录",
+      "hi": "लिखित रूप में दर्ज करना"
+    }
+  },
+  {
+    "id": 986,
+    "word": "dodgy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "dishonest or unreliable",
+    "example": "The dodgy approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "부정직하거나 신뢰할 수 없는",
+      "zh": "不诚实或不可靠的",
+      "hi": "बेईमान या अविश्वसनीय"
+    }
+  },
+  {
+    "id": 987,
+    "word": "dogma",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "principle laid down by authority",
+    "example": "The dogma approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "권위자가 정한 원칙",
+      "zh": "权威人士制定的原则",
+      "hi": "प्राधिकारी द्वारा निर्धारित सिद्धांत"
+    }
+  },
+  {
+    "id": 988,
+    "word": "dogmatic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "inclined to lay down principles",
+    "example": "The dogmatic approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "원칙을 세우는 경향이 있다",
+      "zh": "倾向于制定原则",
+      "hi": "सिद्धांतों को स्थापित करने के लिए इच्छुक"
+    }
+  },
+  {
+    "id": 989,
+    "word": "doldrums",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of inactivity",
+    "example": "The doldrums approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "비활성 상태",
+      "zh": "不活动状态",
+      "hi": "निष्क्रियता की स्थिति"
+    }
+  },
+  {
+    "id": 990,
+    "word": "doleful",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing sorrow",
+    "example": "The doleful approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "슬픔을 표현하며",
+      "zh": "表达悲伤",
+      "hi": "शोक व्यक्त करना"
+    }
+  },
+  {
+    "id": 991,
+    "word": "domain",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "area of territory",
+    "example": "The domain approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "영토 영역",
+      "zh": "领土范围",
+      "hi": "क्षेत्र"
+    }
+  },
+  {
+    "id": 992,
+    "word": "dominate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to have commanding influence",
+    "example": "The dominate approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "지배적인 영향력을 가지다",
+      "zh": "拥有支配性影响力",
+      "hi": "प्रभावशाली प्रभाव रखना"
+    }
+  },
+  {
+    "id": 993,
+    "word": "domineer",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to assert one's will",
+    "example": "The domineer approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "자신의 의지를 주장하다",
+      "zh": "坚持自己的意愿",
+      "hi": "अपनी इच्छा को व्यक्त करना"
+    }
+  },
+  {
+    "id": 994,
+    "word": "dormant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "temporarily inactive",
+    "example": "The dormant approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "일시적으로 비활성화됨",
+      "zh": "暂时停用",
+      "hi": "अस्थायी रूप से निष्क्रिय"
+    }
+  },
+  {
+    "id": 995,
+    "word": "dote",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be extremely fond",
+    "example": "The dote approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 좋아하다",
+      "zh": "非常喜欢",
+      "hi": "किसी चीज़ के प्रति अत्यधिक लगाव होना"
+    }
+  },
+  {
+    "id": 996,
+    "word": "dour",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relentlessly severe",
+    "example": "The dour approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "가차없이 가혹한",
+      "zh": "无情地严厉",
+      "hi": "लगातार गंभीर"
+    }
+  },
+  {
+    "id": 997,
+    "word": "draconian",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively harsh",
+    "example": "The draconian approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 가혹한",
+      "zh": "过于苛刻",
+      "hi": "अत्यधिक कठोर"
+    }
+  },
+  {
+    "id": 998,
+    "word": "drawback",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "disadvantage or problem",
+    "example": "The drawback approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "단점 또는 문제점",
+      "zh": "缺点或问题",
+      "hi": "हानि या समस्या"
+    }
+  },
+  {
+    "id": 999,
+    "word": "dread",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "great fear or apprehension",
+    "example": "The dread approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 두려움 또는 불안감",
+      "zh": "极度的恐惧或忧虑",
+      "hi": "बहुत डर या आशंका"
+    }
+  },
+  {
+    "id": 1000,
+    "word": "dreary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "dull and depressing",
+    "example": "The dreary approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "지루하고 우울한",
+      "zh": "沉闷压抑",
+      "hi": "नीरस और निराशाजनक"
+    }
+  }
+]

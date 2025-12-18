@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 601,
+    "word": "cede",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give up power or territory",
+    "example": "The expert showed a cede approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "권력이나 영토를 포기하다",
+      "zh": "放弃权力或领土",
+      "hi": "सत्ता या क्षेत्र त्याग देना"
+    }
+  },
+  {
+    "id": 602,
+    "word": "censure",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to express severe disapproval",
+    "example": "The expert showed a censure approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "심한 불만을 표현하다",
+      "zh": "表示强烈不满",
+      "hi": "घोर असहमति व्यक्त करना"
+    }
+  },
+  {
+    "id": 603,
+    "word": "cerebral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "intellectual rather than emotional",
+    "example": "The expert showed a cerebral approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "감정적이기보다는 지적으로",
+      "zh": "理性的而非感性的",
+      "hi": "भावनात्मक की बजाय बौद्धिक"
+    }
+  },
+  {
+    "id": 604,
+    "word": "certitude",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "absolute certainty",
+    "example": "The expert showed a certitude approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "절대적인 확신",
+      "zh": "绝对确定性",
+      "hi": "पूर्ण निश्चितता"
+    }
+  },
+  {
+    "id": 605,
+    "word": "chagrin",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "distress caused by humiliation",
+    "example": "The expert showed a chagrin approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "굴욕감으로 인한 고통",
+      "zh": "羞辱带来的痛苦",
+      "hi": "अपमान के कारण उत्पन्न पीड़ा"
+    }
+  },
+  {
+    "id": 606,
+    "word": "champion",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to support cause vigorously",
+    "example": "The expert showed a champion approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "대의를 적극적으로 지지하다",
+      "zh": "大力支持这项事业",
+      "hi": "किसी उद्देश्य का जोरदार समर्थन करने के लिए"
+    }
+  },
+  {
+    "id": 607,
+    "word": "chaotic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "in state of disorder",
+    "example": "The expert showed a chaotic approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "무질서한 상태",
+      "zh": "处于混乱状态",
+      "hi": "अव्यवस्था की स्थिति में"
+    }
+  },
+  {
+    "id": 608,
+    "word": "charlatan",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person falsely claiming expertise",
+    "example": "The expert showed a charlatan approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "전문가라고 거짓 주장하는 사람",
+      "zh": "虚假声称自己具备专业知识的人",
+      "hi": "विशेषज्ञता का झूठा दावा करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 609,
+    "word": "chary",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "cautious about something",
+    "example": "The expert showed a chary approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가에 대해 조심하세요",
+      "zh": "对某事保持谨慎",
+      "hi": "किसी बात को लेकर सतर्क रहना"
+    }
+  },
+  {
+    "id": 610,
+    "word": "chastise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to rebuke severely",
+    "example": "The expert showed a chastise approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "심하게 꾸짖다",
+      "zh": "严厉斥责",
+      "hi": "कड़ी फटकार लगाना"
+    }
+  },
+  {
+    "id": 611,
+    "word": "chicanery",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "use of trickery",
+    "example": "The expert showed a chicanery approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "속임수의 사용",
+      "zh": "使用诡计",
+      "hi": "छल-कपट का प्रयोग"
+    }
+  },
+  {
+    "id": 612,
+    "word": "chide",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to scold or rebuke",
+    "example": "The expert showed a chide approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "꾸짖거나 질책하다",
+      "zh": "责骂或斥责",
+      "hi": "डांटना या फटकारना"
+    }
+  },
+  {
+    "id": 613,
+    "word": "chimera",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "thing hoped for but illusory",
+    "example": "The expert showed a chimera approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "바랐지만 허상이었던 것",
+      "zh": "所期盼的，却是虚幻的。",
+      "hi": "आशा की गई वस्तु, लेकिन भ्रामक"
+    }
+  },
+  {
+    "id": 614,
+    "word": "choleric",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "bad-tempered or irritable",
+    "example": "The expert showed a choleric approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "성질이 나쁘거나 짜증을 잘 내는",
+      "zh": "脾气暴躁或易怒",
+      "hi": "बदमिजाज या चिड़चिड़ा"
+    }
+  },
+  {
+    "id": 615,
+    "word": "chronicle",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "factual account of events",
+    "example": "The expert showed a chronicle approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "사건에 대한 사실적인 설명",
+      "zh": "对事件的真实描述",
+      "hi": "घटनाओं का तथ्यात्मक विवरण"
+    }
+  },
+  {
+    "id": 616,
+    "word": "circuitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "longer than most direct way",
+    "example": "The expert showed a circuitous approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "가장 빠른 길보다 더 오래 걸립니다.",
+      "zh": "比最直接的方式更长",
+      "hi": "सबसे सीधे रास्ते से लंबा"
+    }
+  },
+  {
+    "id": 617,
+    "word": "circumlocution",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "use of many words",
+    "example": "The expert showed a circumlocution approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 단어의 사용",
+      "zh": "使用大量词语",
+      "hi": "कई शब्दों का प्रयोग"
+    }
+  },
+  {
+    "id": 618,
+    "word": "circumscribe",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to restrict or limit",
+    "example": "The expert showed a circumscribe approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "제한하거나 한정하다",
+      "zh": "限制或约束",
+      "hi": "प्रतिबंधित करना या सीमित करना"
+    }
+  },
+  {
+    "id": 619,
+    "word": "circumspect",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wary and unwilling to take risks",
+    "example": "The expert showed a circumspect approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "조심스럽고 위험을 감수하기를 꺼린다",
+      "zh": "谨慎且不愿冒险",
+      "hi": "सतर्क और जोखिम लेने से हिचकिचाने वाला"
+    }
+  },
+  {
+    "id": 620,
+    "word": "circumvent",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to find way around",
+    "example": "The expert showed a circumvent approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "주변을 둘러보다",
+      "zh": "找到绕行路线",
+      "hi": "रास्ता खोजने के लिए"
+    }
+  },
+  {
+    "id": 621,
+    "word": "citadel",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "fortress protecting city",
+    "example": "The expert showed a citadel approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "도시를 보호하는 요새",
+      "zh": "保护城市的堡垒",
+      "hi": "शहर की रक्षा करने वाला किला"
+    }
+  },
+  {
+    "id": 622,
+    "word": "cite",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to quote as evidence",
+    "example": "The expert showed a cite approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "증거로 인용하다",
+      "zh": "引用作为证据",
+      "hi": "साक्ष्य के रूप में उद्धृत करना"
+    }
+  },
+  {
+    "id": 623,
+    "word": "clairvoyant",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person claiming supernatural insight",
+    "example": "The expert showed a clairvoyant approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "초자연적인 통찰력을 주장하는 사람",
+      "zh": "声称拥有超自然洞察力的人",
+      "hi": "अलौकिक अंतर्दृष्टि का दावा करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 624,
+    "word": "clamor",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "loud and confused noise",
+    "example": "The expert showed a clamor approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "시끄럽고 혼란스러운 소음",
+      "zh": "嘈杂混乱的声音",
+      "hi": "तेज और उलझन भरी आवाज"
+    }
+  },
+  {
+    "id": 625,
+    "word": "clandestine",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "kept secret",
+    "example": "The expert showed a clandestine approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "비밀로 유지됨",
+      "zh": "保密",
+      "hi": "गोपनीय रखा"
+    }
+  },
+  {
+    "id": 626,
+    "word": "clemency",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "mercy or leniency",
+    "example": "The expert showed a clemency approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "자비 또는 관용",
+      "zh": "仁慈或宽恕",
+      "hi": "दया या नरमी"
+    }
+  },
+  {
+    "id": 627,
+    "word": "cliche",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "overused phrase",
+    "example": "The expert showed a cliche approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "과도하게 사용되는 표현",
+      "zh": "用滥的短语",
+      "hi": "अति प्रयोग किया गया वाक्यांश"
+    }
+  },
+  {
+    "id": 628,
+    "word": "clientele",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "clients collectively",
+    "example": "The expert showed a clientele approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "고객들 전체",
+      "zh": "客户群体",
+      "hi": "ग्राहक सामूहिक रूप से"
+    }
+  },
+  {
+    "id": 629,
+    "word": "climactic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to climax",
+    "example": "The expert showed a climactic approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "절정과 관련된",
+      "zh": "与高潮有关",
+      "hi": "चरमोत्कर्ष से संबंधित"
+    }
+  },
+  {
+    "id": 630,
+    "word": "clique",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "exclusive group of people",
+    "example": "The expert showed a clique approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "소수의 사람들",
+      "zh": "一个独特的群体",
+      "hi": "लोगों का विशिष्ट समूह"
+    }
+  },
+  {
+    "id": 631,
+    "word": "clout",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "influence or power",
+    "example": "The expert showed a clout approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "영향력 또는 권력",
+      "zh": "影响力或权力",
+      "hi": "प्रभाव या शक्ति"
+    }
+  },
+  {
+    "id": 632,
+    "word": "coalesce",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to come together to form one",
+    "example": "The expert showed a coalesce approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "하나로 모이다",
+      "zh": "聚集在一起形成一个",
+      "hi": "एक साथ आकर एक बनाना"
+    }
+  },
+  {
+    "id": 633,
+    "word": "codify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to arrange into systematic code",
+    "example": "The expert showed a codify approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "체계적인 코드로 정리하다",
+      "zh": "整理成系统代码",
+      "hi": "व्यवस्थित संहिता में व्यवस्थित करना"
+    }
+  },
+  {
+    "id": 634,
+    "word": "coerce",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to persuade by force",
+    "example": "The expert showed a coerce approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "힘으로 설득하다",
+      "zh": "以武力说服",
+      "hi": "बलपूर्वक राजी करना"
+    }
+  },
+  {
+    "id": 635,
+    "word": "cogent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "clear and convincing",
+    "example": "The expert showed a cogent approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하고 설득력 있는",
+      "zh": "清晰且令人信服",
+      "hi": "स्पष्ट और विश्वसनीय"
+    }
+  },
+  {
+    "id": 636,
+    "word": "cognizant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having knowledge or awareness",
+    "example": "The expert showed a cognizant approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "지식이나 인식을 갖는 것",
+      "zh": "具备知识或意识",
+      "hi": "ज्ञान या जागरूकता होना"
+    }
+  },
+  {
+    "id": 637,
+    "word": "coherent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "logical and consistent",
+    "example": "The expert showed a coherent approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "논리적이고 일관성 있는",
+      "zh": "逻辑清晰且前后一致",
+      "hi": "तार्किक और सुसंगत"
+    }
+  },
+  {
+    "id": 638,
+    "word": "cohesive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "forming united whole",
+    "example": "The expert showed a cohesive approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "통합된 전체를 형성하다",
+      "zh": "形成统一的整体",
+      "hi": "एक संयुक्त इकाई का निर्माण"
+    }
+  },
+  {
+    "id": 639,
+    "word": "coincide",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to occur at same time",
+    "example": "The expert showed a coincide approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "동시에 발생하다",
+      "zh": "同时发生",
+      "hi": "एक ही समय में घटित होना"
+    }
+  },
+  {
+    "id": 640,
+    "word": "collaborate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to work jointly",
+    "example": "The expert showed a collaborate approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "공동으로 일하다",
+      "zh": "共同努力",
+      "hi": "मिलकर काम करना"
+    }
+  },
+  {
+    "id": 641,
+    "word": "collateral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "additional but subordinate",
+    "example": "The expert showed a collateral approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "추가적이지만 종속적인",
+      "zh": "附加但从属",
+      "hi": "अतिरिक्त लेकिन अधीनस्थ"
+    }
+  },
+  {
+    "id": 642,
+    "word": "colloquial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "used in ordinary conversation",
+    "example": "The expert showed a colloquial approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "일상 대화에서 사용됨",
+      "zh": "用于日常对话",
+      "hi": "सामान्य बातचीत में प्रयुक्त"
+    }
+  },
+  {
+    "id": 643,
+    "word": "collusion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "secret agreement for fraud",
+    "example": "The expert showed a collusion approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "사기 관련 비밀 합의",
+      "zh": "秘密欺诈协议",
+      "hi": "धोखाधड़ी के लिए गुप्त समझौता"
+    }
+  },
+  {
+    "id": 644,
+    "word": "colossal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely large",
+    "example": "The expert showed a colossal approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 큰",
+      "zh": "极其巨大",
+      "hi": "अत्यंत बड़ा"
+    }
+  },
+  {
+    "id": 645,
+    "word": "combustible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "able to catch fire",
+    "example": "The expert showed a combustible approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "불이 붙을 수 있는",
+      "zh": "能够着火",
+      "hi": "आग पकड़ने में सक्षम"
+    }
+  },
+  {
+    "id": 646,
+    "word": "comely",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "pleasant to look at",
+    "example": "The expert showed a comely approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "보기에 즐겁다",
+      "zh": "赏心悦目",
+      "hi": "को देखकर खुशी हुई"
+    }
+  },
+  {
+    "id": 647,
+    "word": "commend",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to praise formally",
+    "example": "The expert showed a commend approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "공식적으로 칭찬하다",
+      "zh": "正式表扬",
+      "hi": "औपचारिक रूप से प्रशंसा करना"
+    }
+  },
+  {
+    "id": 648,
+    "word": "commensurate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "corresponding in size",
+    "example": "The expert showed a commensurate approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "크기가 동일함",
+      "zh": "尺寸对应",
+      "hi": "आकार में संगत"
+    }
+  },
+  {
+    "id": 649,
+    "word": "commodity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "raw material for trade",
+    "example": "The expert showed a commodity approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "무역용 원자재",
+      "zh": "贸易原材料",
+      "hi": "व्यापार के लिए कच्चा माल"
+    }
+  },
+  {
+    "id": 650,
+    "word": "communal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "shared by all members",
+    "example": "The expert showed a communal approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "모든 구성원이 공유함",
+      "zh": "所有成员共享",
+      "hi": "सभी सदस्यों द्वारा साझा किया गया"
+    }
+  },
+  {
+    "id": 651,
+    "word": "compelling",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "evoking interest or attention",
+    "example": "The expert showed a compelling approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "흥미나 관심을 불러일으키다",
+      "zh": "引起兴趣或注意",
+      "hi": "रुचि या ध्यान आकर्षित करना"
+    }
+  },
+  {
+    "id": 652,
+    "word": "compendium",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "collection of concise information",
+    "example": "The expert showed a compendium approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "간결한 정보 모음",
+      "zh": "简明信息的收集",
+      "hi": "संक्षिप्त जानकारी का संग्रह"
+    }
+  },
+  {
+    "id": 653,
+    "word": "compensate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give something to reduce effect",
+    "example": "The expert showed a compensate approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "효과를 줄이기 위해 무언가를 주다",
+      "zh": "给予某种东西以减轻效果",
+      "hi": "प्रभाव को कम करने के लिए कुछ देना"
+    }
+  },
+  {
+    "id": 654,
+    "word": "competent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having necessary ability",
+    "example": "The expert showed a competent approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "필요한 능력을 갖춘",
+      "zh": "具备必要的能力",
+      "hi": "आवश्यक क्षमता होना"
+    }
+  },
+  {
+    "id": 655,
+    "word": "complacent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "smugly self-satisfied",
+    "example": "The expert showed a complacent approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "자만심에 가득 찬 자기만족",
+      "zh": "自鸣得意、沾沾自喜",
+      "hi": "आत्मसंतुष्ट"
+    }
+  },
+  {
+    "id": 656,
+    "word": "complement",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to add to enhance",
+    "example": "The expert showed a complement approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "더하다 향상시키다",
+      "zh": "添加以增强",
+      "hi": "जोड़ने के लिए, बढ़ाने के लिए"
+    }
+  },
+  {
+    "id": 657,
+    "word": "compliance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "action of complying",
+    "example": "The expert showed a compliance approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "준수 행위",
+      "zh": "遵守行为",
+      "hi": "अनुपालन की कार्रवाई"
+    }
+  },
+  {
+    "id": 658,
+    "word": "compliant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "inclined to agree",
+    "example": "The expert showed a compliant approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "동의하는 경향이 있다",
+      "zh": "倾向于同意",
+      "hi": "सहमत होने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 659,
+    "word": "complicity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of being involved",
+    "example": "The expert showed a complicity approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "관여된 상태",
+      "zh": "参与状态",
+      "hi": "शामिल होने की स्थिति"
+    }
+  },
+  {
+    "id": 660,
+    "word": "composed",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having feelings in control",
+    "example": "The expert showed a composed approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "감정을 조절하는 것",
+      "zh": "能够控制自己的情绪",
+      "hi": "भावनाओं पर नियंत्रण रखना"
+    }
+  },
+  {
+    "id": 661,
+    "word": "compound",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make worse",
+    "example": "The expert showed a compound approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "더 악화시키다",
+      "zh": "情况变得更糟",
+      "hi": "स्थिति और खराब करने के लिए"
+    }
+  },
+  {
+    "id": 662,
+    "word": "comprehensive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "complete and including all",
+    "example": "The expert showed a comprehensive approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "완전하고 모든 것을 포함합니다",
+      "zh": "完整且包括所有",
+      "hi": "पूर्ण और सभी सहित"
+    }
+  },
+  {
+    "id": 663,
+    "word": "comprise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to consist of",
+    "example": "The expert showed a comprise approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "구성되다",
+      "zh": "由……组成",
+      "hi": "से बना होने के लिए"
+    }
+  },
+  {
+    "id": 664,
+    "word": "compromise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to settle by mutual concession",
+    "example": "The expert showed a compromise approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "상호 양보로 해결하다",
+      "zh": "通过相互让步解决问题",
+      "hi": "आपसी समझौते से निपटारा करना"
+    }
+  },
+  {
+    "id": 665,
+    "word": "compunction",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "feeling of guilt",
+    "example": "The expert showed a compunction approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "죄책감",
+      "zh": "内疚感",
+      "hi": "अपराधबोध की भावना"
+    }
+  },
+  {
+    "id": 666,
+    "word": "concede",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to admit that something is true",
+    "example": "The expert showed a concede approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것이 사실임을 인정하다",
+      "zh": "承认某事属实",
+      "hi": "किसी बात को सच मानना"
+    }
+  },
+  {
+    "id": 667,
+    "word": "conceit",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excessive pride",
+    "example": "The expert showed a conceit approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "지나친 자만심",
+      "zh": "过度骄傲",
+      "hi": "अत्यधिक गर्व"
+    }
+  },
+  {
+    "id": 668,
+    "word": "concerted",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "jointly arranged",
+    "example": "The expert showed a concerted approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "공동으로 준비한",
+      "zh": "共同安排",
+      "hi": "संयुक्त रूप से आयोजित"
+    }
+  },
+  {
+    "id": 669,
+    "word": "conciliatory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "intended to placate",
+    "example": "The expert showed a conciliatory approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "달래려고",
+      "zh": "旨在安抚",
+      "hi": "शांत करने के उद्देश्य से"
+    }
+  },
+  {
+    "id": 670,
+    "word": "concise",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "giving information clearly",
+    "example": "The expert showed a concise approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "정보를 명확하게 제공합니다",
+      "zh": "清晰地提供信息",
+      "hi": "जानकारी स्पष्ट रूप से देना"
+    }
+  },
+  {
+    "id": 671,
+    "word": "conclusive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "putting end to doubt",
+    "example": "The expert showed a conclusive approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "의심을 종식시키다",
+      "zh": "消除疑虑",
+      "hi": "संदेह का अंत करना"
+    }
+  },
+  {
+    "id": 672,
+    "word": "concoct",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to create by mixing",
+    "example": "The expert showed a concoct approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "혼합하여 생성하다",
+      "zh": "通过混合来创造",
+      "hi": "मिश्रण द्वारा बनाना"
+    }
+  },
+  {
+    "id": 673,
+    "word": "concomitant",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "naturally accompanying",
+    "example": "The expert showed a concomitant approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "자연스럽게 수반되는",
+      "zh": "自然伴随",
+      "hi": "स्वाभाविक रूप से साथ"
+    }
+  },
+  {
+    "id": 674,
+    "word": "concrete",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "existing in material form",
+    "example": "The expert showed a concrete approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "물질적 형태로 존재하는",
+      "zh": "以物质形式存在",
+      "hi": "भौतिक रूप में विद्यमान"
+    }
+  },
+  {
+    "id": 675,
+    "word": "concur",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be of same opinion",
+    "example": "The expert showed a concur approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "같은 의견을 갖다",
+      "zh": "意见一致",
+      "hi": "एक ही राय का होना"
+    }
+  },
+  {
+    "id": 676,
+    "word": "condemn",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to express disapproval",
+    "example": "The expert showed a condemn approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "불만을 표현하기 위해",
+      "zh": "表示不赞同",
+      "hi": "अस्वीकृति व्यक्त करने के लिए"
+    }
+  },
+  {
+    "id": 677,
+    "word": "condescend",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to show superiority",
+    "example": "The expert showed a condescend approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "우월함을 보여주기 위해",
+      "zh": "为了显示优越性",
+      "hi": "श्रेष्ठता दिखाने के लिए"
+    }
+  },
+  {
+    "id": 678,
+    "word": "condone",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to accept behavior",
+    "example": "The expert showed a condone approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "행동을 받아들이다",
+      "zh": "接受行为",
+      "hi": "व्यवहार को स्वीकार करना"
+    }
+  },
+  {
+    "id": 679,
+    "word": "conducive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "making likely to happen",
+    "example": "The expert showed a conducive approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "일어날 가능성을 높이다",
+      "zh": "使之成为可能",
+      "hi": "होने की संभावना पैदा करना"
+    }
+  },
+  {
+    "id": 680,
+    "word": "confide",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to tell someone secret",
+    "example": "The expert showed a confide approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "누군가에게 비밀을 말하다",
+      "zh": "告诉某人秘密",
+      "hi": "किसी को रहस्य बताना"
+    }
+  },
+  {
+    "id": 681,
+    "word": "configuration",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "arrangement of parts",
+    "example": "The expert showed a configuration approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "부품 배열",
+      "zh": "部件排列",
+      "hi": "भागों की व्यवस्था"
+    }
+  },
+  {
+    "id": 682,
+    "word": "confine",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to keep within limits",
+    "example": "The expert showed a confine approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "한계를 지키다",
+      "zh": "保持在限制范围内",
+      "hi": "सीमा के भीतर रहने के लिए"
+    }
+  },
+  {
+    "id": 683,
+    "word": "conflagration",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "extensive fire",
+    "example": "The expert showed a conflagration approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "대규모 화재",
+      "zh": "大火",
+      "hi": "व्यापक आग"
+    }
+  },
+  {
+    "id": 684,
+    "word": "conflate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to combine into one",
+    "example": "The expert showed a conflate approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "하나로 합치다",
+      "zh": "合并成一个",
+      "hi": "एक में संयोजित करना"
+    }
+  },
+  {
+    "id": 685,
+    "word": "confluence",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "junction of two rivers",
+    "example": "The expert showed a confluence approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "두 강이 만나는 지점",
+      "zh": "两条河流的交汇处",
+      "hi": "दो नदियों का संगम"
+    }
+  },
+  {
+    "id": 686,
+    "word": "conform",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to comply with rules",
+    "example": "The expert showed a conform approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "규칙을 준수하기 위해",
+      "zh": "遵守规则",
+      "hi": "नियमों का पालन करने के लिए"
+    }
+  },
+  {
+    "id": 687,
+    "word": "confound",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause surprise",
+    "example": "The expert showed a confound approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "놀라움을 일으키다",
+      "zh": "引起意外",
+      "hi": "आश्चर्य उत्पन्न करने के लिए"
+    }
+  },
+  {
+    "id": 688,
+    "word": "congenial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "pleasant because of similar interests",
+    "example": "The expert showed a congenial approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "관심사가 비슷해서 즐겁습니다.",
+      "zh": "因兴趣相投而感到愉快",
+      "hi": "समान रुचियों के कारण सुखद अनुभव"
+    }
+  },
+  {
+    "id": 689,
+    "word": "congenital",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "present from birth",
+    "example": "The expert showed a congenital approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "태어날 때부터 존재함",
+      "zh": "自出生起就存在",
+      "hi": "जन्म से मौजूद"
+    }
+  },
+  {
+    "id": 690,
+    "word": "conglomerate",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "corporation formed by merger",
+    "example": "The expert showed a conglomerate approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "합병으로 설립된 회사",
+      "zh": "由合并而成的公司",
+      "hi": "विलय द्वारा गठित निगम"
+    }
+  },
+  {
+    "id": 691,
+    "word": "conjecture",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "opinion based on incomplete information",
+    "example": "The expert showed a conjecture approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "불완전한 정보에 근거한 의견",
+      "zh": "基于不完整信息的观点",
+      "hi": "अधूरी जानकारी पर आधारित राय"
+    }
+  },
+  {
+    "id": 692,
+    "word": "conjure",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make appear by magic",
+    "example": "The expert showed a conjure approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "마법으로 나타나게 하다",
+      "zh": "用魔法使之显现",
+      "hi": "जादू से प्रकट करना"
+    }
+  },
+  {
+    "id": 693,
+    "word": "connive",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to secretly allow wrongdoing",
+    "example": "The expert showed a connive approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "부정행위를 비밀리에 묵인하다",
+      "zh": "暗中允许不法行为",
+      "hi": "गुप्त रूप से कुकर्म की अनुमति देना"
+    }
+  },
+  {
+    "id": 694,
+    "word": "connoisseur",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "expert judge of art",
+    "example": "The expert showed a connoisseur approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "미술 전문가 심사위원",
+      "zh": "艺术专家评委",
+      "hi": "कला के विशेषज्ञ निर्णायक"
+    }
+  },
+  {
+    "id": 695,
+    "word": "conscientious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wishing to do what is right",
+    "example": "The expert showed a conscientious approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "옳은 일을 하고 싶어함",
+      "zh": "渴望做正确的事",
+      "hi": "जो सही है वही करने की इच्छा रखना"
+    }
+  },
+  {
+    "id": 696,
+    "word": "consecrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make sacred",
+    "example": "The expert showed a consecrate approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "신성하게 만들다",
+      "zh": "使神圣",
+      "hi": "पवित्र बनाना"
+    }
+  },
+  {
+    "id": 697,
+    "word": "consensus",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "general agreement",
+    "example": "The expert showed a consensus approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "일반 합의",
+      "zh": "普遍协议",
+      "hi": "सामान्य सहमति"
+    }
+  },
+  {
+    "id": 698,
+    "word": "consequential",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "important or significant",
+    "example": "The expert showed a consequential approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "중요하거나 의미 있는",
+      "zh": "重要或显著",
+      "hi": "महत्वपूर्ण या खास"
+    }
+  },
+  {
+    "id": 699,
+    "word": "conserve",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to protect from harm",
+    "example": "The expert showed a conserve approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "해악으로부터 보호하기 위해",
+      "zh": "保护免受伤害",
+      "hi": "नुकसान से बचाने के लिए"
+    }
+  },
+  {
+    "id": 700,
+    "word": "considerable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "notably large",
+    "example": "The expert showed a considerable approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "눈에 띄게 큰",
+      "zh": "非常大",
+      "hi": "उल्लेखनीय रूप से बड़ा"
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1501,
+    "word": "heedless",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing lack of care",
+    "example": "The heedless character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "부주의함을 드러내는 것",
+      "zh": "表现出缺乏关心",
+      "hi": "लापरवाही दर्शाना"
+    }
+  },
+  {
+    "id": 1502,
+    "word": "hegemony",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "leadership or dominance",
+    "example": "The hegemony character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "리더십 또는 지배력",
+      "zh": "领导地位或支配地位",
+      "hi": "नेतृत्व या प्रभुत्व"
+    }
+  },
+  {
+    "id": 1503,
+    "word": "heinous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "utterly odious",
+    "example": "The heinous character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 혐오스러운",
+      "zh": "极其令人厌恶",
+      "hi": "अत्यंत घृणित"
+    }
+  },
+  {
+    "id": 1504,
+    "word": "herald",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be sign of",
+    "example": "The herald character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "징조가 되다",
+      "zh": "成为……的标志",
+      "hi": "का संकेत होना"
+    }
+  },
+  {
+    "id": 1505,
+    "word": "heresy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "belief contrary to doctrine",
+    "example": "The heresy character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "교리에 반하는 믿음",
+      "zh": "与教义相悖的信念",
+      "hi": "यह विश्वास सिद्धांत के विपरीत है"
+    }
+  },
+  {
+    "id": 1506,
+    "word": "heretic",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person believing in heresy",
+    "example": "The heretic character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "이단을 믿는 사람",
+      "zh": "信奉异端邪说的人",
+      "hi": "विधर्म में विश्वास करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1507,
+    "word": "hermetic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "insulated or protected",
+    "example": "The hermetic character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "절연 또는 보호됨",
+      "zh": "绝缘或保护",
+      "hi": "इन्सुलेटेड या संरक्षित"
+    }
+  },
+  {
+    "id": 1508,
+    "word": "heterodox",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not conforming to standard",
+    "example": "The heterodox character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "표준에 부합하지 않음",
+      "zh": "不符合标准",
+      "hi": "मानक के अनुरूप नहीं"
+    }
+  },
+  {
+    "id": 1509,
+    "word": "heterogeneous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "diverse in character",
+    "example": "The heterogeneous character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "성격이 다양함",
+      "zh": "性格多样",
+      "hi": "चरित्र में विविधता"
+    }
+  },
+  {
+    "id": 1510,
+    "word": "hew",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to chop with axe",
+    "example": "The hew character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "도끼로 자르다",
+      "zh": "用斧头砍",
+      "hi": "कुल्हाड़ी से काटना"
+    }
+  },
+  {
+    "id": 1511,
+    "word": "hiatus",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "pause or gap",
+    "example": "The hiatus character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "일시 정지 또는 간격",
+      "zh": "停顿或间隙",
+      "hi": "विराम या अंतराल"
+    }
+  },
+  {
+    "id": 1512,
+    "word": "hidebound",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling to change",
+    "example": "The hidebound character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "변화를 원하지 않음",
+      "zh": "不愿改变",
+      "hi": "परिवर्तन के लिए अनिच्छुक"
+    }
+  },
+  {
+    "id": 1513,
+    "word": "hideous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "ugly or disgusting",
+    "example": "The hideous character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "못생기거나 역겨운",
+      "zh": "丑陋的或令人作呕的",
+      "hi": "बदसूरत या घिनौना"
+    }
+  },
+  {
+    "id": 1514,
+    "word": "hierarchy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "system of ranking",
+    "example": "The hierarchy character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "순위 시스템",
+      "zh": "排名系统",
+      "hi": "रैंकिंग की प्रणाली"
+    }
+  },
+  {
+    "id": 1515,
+    "word": "highlight",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to draw attention to",
+    "example": "The highlight character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "주목을 끌다",
+      "zh": "引起注意",
+      "hi": "ध्यान आकर्षित करने के लिए"
+    }
+  },
+  {
+    "id": 1516,
+    "word": "hilarious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely amusing",
+    "example": "The hilarious character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 재미있는",
+      "zh": "非常有趣",
+      "hi": "बेहद मनोरंजक"
+    }
+  },
+  {
+    "id": 1517,
+    "word": "hinder",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to create difficulties for",
+    "example": "The hinder character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "어려움을 만들기 위해",
+      "zh": "制造困难",
+      "hi": "मुश्किलें पैदा करने के लिए"
+    }
+  },
+  {
+    "id": 1518,
+    "word": "hindrance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing that provides resistance",
+    "example": "The hindrance character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "저항을 제공하는 것",
+      "zh": "提供阻力的因素",
+      "hi": "प्रतिरोध प्रदान करने वाली वस्तु"
+    }
+  },
+  {
+    "id": 1519,
+    "word": "hindsight",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "understanding after event",
+    "example": "The hindsight character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "사건 이후의 이해",
+      "zh": "事件后的理解",
+      "hi": "घटना के बाद समझ"
+    }
+  },
+  {
+    "id": 1520,
+    "word": "hinge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to depend entirely on",
+    "example": "The hinge character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "전적으로 의존하다",
+      "zh": "完全依赖于",
+      "hi": "पूरी तरह से निर्भर होना"
+    }
+  },
+  {
+    "id": 1521,
+    "word": "histrionic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "overly theatrical",
+    "example": "The histrionic character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 연극적인",
+      "zh": "过于戏剧化",
+      "hi": "अत्यधिक नाटकीय"
+    }
+  },
+  {
+    "id": 1522,
+    "word": "hoard",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to amass and hide",
+    "example": "The hoard character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "모아서 숨기다",
+      "zh": "积聚并隐藏",
+      "hi": "इकट्ठा करना और छिपाना"
+    }
+  },
+  {
+    "id": 1523,
+    "word": "hoary",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "grayish white",
+    "example": "The hoary character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "회백색",
+      "zh": "灰白色",
+      "hi": "धूसर सफेद"
+    }
+  },
+  {
+    "id": 1524,
+    "word": "hoax",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "humorous or malicious deception",
+    "example": "The hoax character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "유머러스하거나 악의적인 속임수",
+      "zh": "幽默或恶意欺骗",
+      "hi": "हास्यपूर्ण या दुर्भावनापूर्ण छल"
+    }
+  },
+  {
+    "id": 1525,
+    "word": "hodgepodge",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "confused mixture",
+    "example": "The hodgepodge character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "뒤섞인 혼합물",
+      "zh": "混乱的混合物",
+      "hi": "भ्रमित मिश्रण"
+    }
+  },
+  {
+    "id": 1526,
+    "word": "hollow",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having empty space inside",
+    "example": "The hollow character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "내부에 빈 공간이 있는",
+      "zh": "内部有空隙",
+      "hi": "अंदर खाली जगह होना"
+    }
+  },
+  {
+    "id": 1527,
+    "word": "homage",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "special honor or respect",
+    "example": "The homage character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "특별한 영예 또는 존경",
+      "zh": "特别的荣誉或尊重",
+      "hi": "विशेष सम्मान या आदर"
+    }
+  },
+  {
+    "id": 1528,
+    "word": "homogeneous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of same kind",
+    "example": "The homogeneous character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "같은 종류",
+      "zh": "同类",
+      "hi": "एक ही प्रकार के"
+    }
+  },
+  {
+    "id": 1529,
+    "word": "hone",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to sharpen blade",
+    "example": "The hone character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "칼날을 날카롭게 하다",
+      "zh": "磨利刀片",
+      "hi": "ब्लेड को तेज करने के लिए"
+    }
+  },
+  {
+    "id": 1530,
+    "word": "honesty",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "quality of being free from deceit",
+    "example": "The honesty character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "속임수로부터 자유로운 특성",
+      "zh": "不被欺骗的品质",
+      "hi": "छल से मुक्त होने का गुण"
+    }
+  },
+  {
+    "id": 1531,
+    "word": "hoodwink",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deceive or trick",
+    "example": "The hoodwink character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "속이거나 기만하다",
+      "zh": "欺骗或哄骗",
+      "hi": "धोखा देना या छल करना"
+    }
+  },
+  {
+    "id": 1532,
+    "word": "horizontal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "parallel to horizon",
+    "example": "The horizontal character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "지평선과 평행하게",
+      "zh": "平行于地平线",
+      "hi": "क्षितिज के समानांतर"
+    }
+  },
+  {
+    "id": 1533,
+    "word": "horrific",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing horror",
+    "example": "The horrific character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "공포를 유발함",
+      "zh": "造成恐怖",
+      "hi": "आतंक पैदा करना"
+    }
+  },
+  {
+    "id": 1534,
+    "word": "hospitable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "friendly to strangers",
+    "example": "The hospitable character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "낯선 사람에게 친절하다",
+      "zh": "对陌生人友好",
+      "hi": "अजनबियों के प्रति मैत्रीपूर्ण"
+    }
+  },
+  {
+    "id": 1535,
+    "word": "hostile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unfriendly and antagonistic",
+    "example": "The hostile character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "불친절하고 적대적인",
+      "zh": "不友好且敌对",
+      "hi": "अमित्र और शत्रुतापूर्ण"
+    }
+  },
+  {
+    "id": 1536,
+    "word": "hover",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to remain in one place",
+    "example": "The hover character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "한 곳에 머무르다",
+      "zh": "留在原地",
+      "hi": "एक ही स्थान पर रहना"
+    }
+  },
+  {
+    "id": 1537,
+    "word": "hubris",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excessive pride",
+    "example": "The hubris character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "지나친 자만심",
+      "zh": "过度骄傲",
+      "hi": "अत्यधिक गर्व"
+    }
+  },
+  {
+    "id": 1538,
+    "word": "hue",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "color or shade",
+    "example": "The hue character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "색상 또는 색조",
+      "zh": "颜色或色调",
+      "hi": "रंग या छाया"
+    }
+  },
+  {
+    "id": 1539,
+    "word": "humane",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having compassion",
+    "example": "The humane character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "연민을 갖는 것",
+      "zh": "富有同情心",
+      "hi": "करुणा होना"
+    }
+  },
+  {
+    "id": 1540,
+    "word": "humble",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having modest estimate",
+    "example": "The humble character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "겸손한 추정치를 가지고",
+      "zh": "保守估计",
+      "hi": "मामूली अनुमान होना"
+    }
+  },
+  {
+    "id": 1541,
+    "word": "humdrum",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking excitement",
+    "example": "The humdrum character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "흥미가 부족하다",
+      "zh": "缺乏激情",
+      "hi": "उत्साह की कमी"
+    }
+  },
+  {
+    "id": 1542,
+    "word": "humiliate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make feel ashamed",
+    "example": "The humiliate character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "수치심을 느끼게 하다",
+      "zh": "使人感到羞耻",
+      "hi": "शर्मिंदा महसूस कराना"
+    }
+  },
+  {
+    "id": 1543,
+    "word": "humility",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "modest view of importance",
+    "example": "The humility character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "중요성에 대한 겸손한 관점",
+      "zh": "对重要性的谦逊看法",
+      "hi": "महत्व के प्रति विनम्र दृष्टिकोण"
+    }
+  },
+  {
+    "id": 1544,
+    "word": "humor",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to comply with wishes",
+    "example": "The humor character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "소원을 따르다",
+      "zh": "遵从意愿",
+      "hi": "इच्छाओं का अनुपालन करने के लिए"
+    }
+  },
+  {
+    "id": 1545,
+    "word": "hurdle",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "obstacle or difficulty",
+    "example": "The hurdle character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "장애물 또는 어려움",
+      "zh": "障碍或困难",
+      "hi": "बाधा या कठिनाई"
+    }
+  },
+  {
+    "id": 1546,
+    "word": "husband",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to use resources economically",
+    "example": "The husband character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "자원을 경제적으로 사용하기",
+      "zh": "经济有效地利用资源",
+      "hi": "संसाधनों का मितव्ययी उपयोग करना"
+    }
+  },
+  {
+    "id": 1547,
+    "word": "husbandry",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "management of resources",
+    "example": "The husbandry character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "자원 관리",
+      "zh": "资源管理",
+      "hi": "संसाधनों का प्रबंधन"
+    }
+  },
+  {
+    "id": 1548,
+    "word": "hybrid",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing made by combining",
+    "example": "The hybrid character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "조합하여 만든 것",
+      "zh": "由以下组合而成的东西",
+      "hi": "संयोजन से बनी वस्तु"
+    }
+  },
+  {
+    "id": 1549,
+    "word": "hyperbole",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "exaggerated statements",
+    "example": "The hyperbole character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "과장된 진술",
+      "zh": "夸张的陈述",
+      "hi": "अतिरंजित कथन"
+    }
+  },
+  {
+    "id": 1550,
+    "word": "hypercritical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively critical",
+    "example": "The hypercritical character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 비판적임",
+      "zh": "过度批评",
+      "hi": "अत्यधिक आलोचनात्मक"
+    }
+  },
+  {
+    "id": 1551,
+    "word": "hypocritical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "behaving contrary to stated beliefs",
+    "example": "The hypocritical character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "명시된 신념과 반대로 행동하는 것",
+      "zh": "行为与既定信念相悖",
+      "hi": "अपने घोषित विश्वासों के विपरीत व्यवहार करना"
+    }
+  },
+  {
+    "id": 1552,
+    "word": "hypothetical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "based on possible situation",
+    "example": "The hypothetical character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "가능한 상황을 바탕으로",
+      "zh": "根据可能的情况",
+      "hi": "संभावित स्थिति के आधार पर"
+    }
+  },
+  {
+    "id": 1553,
+    "word": "iconoclast",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who attacks beliefs",
+    "example": "The iconoclast character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "신념을 공격하는 사람",
+      "zh": "攻击信仰的人",
+      "hi": "वह व्यक्ति जो मान्यताओं पर हमला करता है"
+    }
+  },
+  {
+    "id": 1554,
+    "word": "iconoclastic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "characterized by attack on beliefs",
+    "example": "The iconoclastic character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "신념에 대한 공격을 특징으로 함",
+      "zh": "以攻击信仰为特征",
+      "hi": "मान्यताओं पर हमले की विशेषता"
+    }
+  },
+  {
+    "id": 1555,
+    "word": "ideology",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "system of ideas",
+    "example": "The ideology character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "사상 체계",
+      "zh": "思想体系",
+      "hi": "विचारों की प्रणाली"
+    }
+  },
+  {
+    "id": 1556,
+    "word": "idiom",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "group of words with meaning",
+    "example": "The idiom character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "의미를 가진 단어들의 그룹",
+      "zh": "一组有意义的词",
+      "hi": "अर्थ सहित शब्दों का समूह"
+    }
+  },
+  {
+    "id": 1557,
+    "word": "idiosyncrasy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "mode of behavior peculiar to individual",
+    "example": "The idiosyncrasy character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "개인에게 특유한 행동 양식",
+      "zh": "个体特有的行为模式",
+      "hi": "व्यक्ति विशेष के व्यवहार का तरीका"
+    }
+  },
+  {
+    "id": 1558,
+    "word": "idiosyncratic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to idiosyncrasy",
+    "example": "The idiosyncratic character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "특이성과 관련된",
+      "zh": "与特质有关",
+      "hi": "विलक्षणता से संबंधित"
+    }
+  },
+  {
+    "id": 1559,
+    "word": "idle",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "avoiding work",
+    "example": "The idle character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "일을 피하다",
+      "zh": "逃避工作",
+      "hi": "काम से बचना"
+    }
+  },
+  {
+    "id": 1560,
+    "word": "idolize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to admire excessively",
+    "example": "The idolize character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 감탄하다",
+      "zh": "过度崇拜",
+      "hi": "अत्यधिक प्रशंसा करना"
+    }
+  },
+  {
+    "id": 1561,
+    "word": "ignoble",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not honorable",
+    "example": "The ignoble character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "존경할 만하지 않다",
+      "zh": "不光彩",
+      "hi": "सम्माननीय नहीं"
+    }
+  },
+  {
+    "id": 1562,
+    "word": "ignominy",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "public shame",
+    "example": "The ignominy character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적인 수치심",
+      "zh": "公开羞辱",
+      "hi": "सार्वजनिक शर्मिंदगी"
+    }
+  },
+  {
+    "id": 1563,
+    "word": "ignorant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking knowledge",
+    "example": "The ignorant character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "지식 부족",
+      "zh": "缺乏知识",
+      "hi": "ज्ञान का अभाव"
+    }
+  },
+  {
+    "id": 1564,
+    "word": "illicit",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "forbidden by law",
+    "example": "The illicit character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "법으로 금지됨",
+      "zh": "法律禁止",
+      "hi": "कानून द्वारा निषिद्ध"
+    }
+  },
+  {
+    "id": 1565,
+    "word": "illuminate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to light up",
+    "example": "The illuminate character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "불을 켜다",
+      "zh": "点亮",
+      "hi": "प्रज्वलित करना"
+    }
+  },
+  {
+    "id": 1566,
+    "word": "illusion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "false idea or belief",
+    "example": "The illusion character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못된 생각이나 믿음",
+      "zh": "错误的想法或信念",
+      "hi": "गलत विचार या विश्वास"
+    }
+  },
+  {
+    "id": 1567,
+    "word": "illusory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "based on illusion",
+    "example": "The illusory character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "환상에 기반함",
+      "zh": "基于错觉",
+      "hi": "भ्रम पर आधारित"
+    }
+  },
+  {
+    "id": 1568,
+    "word": "illustrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to explain by examples",
+    "example": "The illustrate character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "예시를 통해 설명하겠습니다",
+      "zh": "用例子解释",
+      "hi": "उदाहरणों द्वारा समझाना"
+    }
+  },
+  {
+    "id": 1569,
+    "word": "illustrious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "well known and esteemed",
+    "example": "The illustrious character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "널리 알려지고 존경받는",
+      "zh": "知名且受人尊敬",
+      "hi": "सुप्रसिद्ध और सम्मानित"
+    }
+  },
+  {
+    "id": 1570,
+    "word": "imbibe",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to drink alcohol",
+    "example": "The imbibe character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "술을 마시다",
+      "zh": "饮酒",
+      "hi": "शराब पीना"
+    }
+  },
+  {
+    "id": 1571,
+    "word": "imbroglio",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "extremely confused situation",
+    "example": "The imbroglio character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 혼란스러운 상황",
+      "zh": "极其混乱的局面",
+      "hi": "बेहद उलझन भरी स्थिति"
+    }
+  },
+  {
+    "id": 1572,
+    "word": "imbue",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to inspire with feeling",
+    "example": "The imbue character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "감정으로 영감을 주다",
+      "zh": "用情感激励",
+      "hi": "भावनाओं से प्रेरित करना"
+    }
+  },
+  {
+    "id": 1573,
+    "word": "immaculate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "perfectly clean",
+    "example": "The immaculate character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "완벽하게 깨끗함",
+      "zh": "完美清洁",
+      "hi": "पूर्णतः साफ"
+    }
+  },
+  {
+    "id": 1574,
+    "word": "immaterial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unimportant under circumstances",
+    "example": "The immaterial character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "상황에 따라 중요하지 않음",
+      "zh": "在这种情况下并不重要。",
+      "hi": "इन परिस्थितियों में महत्वहीन"
+    }
+  },
+  {
+    "id": 1575,
+    "word": "immature",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not fully developed",
+    "example": "The immature character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 개발되지 않음",
+      "zh": "尚未完全发育",
+      "hi": "पूरी तरह से विकसित नहीं"
+    }
+  },
+  {
+    "id": 1576,
+    "word": "immemorial",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "originating in distant past",
+    "example": "The immemorial character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "먼 과거에 기원함",
+      "zh": "起源于遥远的过去",
+      "hi": "सुदूर अतीत में उत्पन्न"
+    }
+  },
+  {
+    "id": 1577,
+    "word": "immense",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely large",
+    "example": "The immense character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 큰",
+      "zh": "极其巨大",
+      "hi": "अत्यंत बड़ा"
+    }
+  },
+  {
+    "id": 1578,
+    "word": "immerse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to dip or submerge",
+    "example": "The immerse character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "담그다 또는 잠기다",
+      "zh": "浸入或淹没",
+      "hi": "डुबोना या जलमग्न करना"
+    }
+  },
+  {
+    "id": 1579,
+    "word": "imminent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "about to happen",
+    "example": "The imminent character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "곧 일어날 일",
+      "zh": "即将发生",
+      "hi": "होने वाला"
+    }
+  },
+  {
+    "id": 1580,
+    "word": "immobile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not moving",
+    "example": "The immobile character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "움직이지 않음",
+      "zh": "不动",
+      "hi": "नहीं चलती है"
+    }
+  },
+  {
+    "id": 1581,
+    "word": "immoderate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not sensible",
+    "example": "The immoderate character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "분별력이 없다",
+      "zh": "不明智",
+      "hi": "समझदारी नहीं"
+    }
+  },
+  {
+    "id": 1582,
+    "word": "immolate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to kill as sacrifice",
+    "example": "The immolate character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "희생 제물로 죽이기",
+      "zh": "为祭而杀",
+      "hi": "बलिदान के रूप में मारना"
+    }
+  },
+  {
+    "id": 1583,
+    "word": "immortal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "living forever",
+    "example": "The immortal character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "영원히 사는 삶",
+      "zh": "永生",
+      "hi": "हमेशा जीवित रहना"
+    }
+  },
+  {
+    "id": 1584,
+    "word": "immune",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "resistant to disease",
+    "example": "The immune character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "질병에 저항력이 있음",
+      "zh": "对疾病有抵抗力",
+      "hi": "रोग प्रतिरोधक क्षमता"
+    }
+  },
+  {
+    "id": 1585,
+    "word": "immure",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to enclose within walls",
+    "example": "The immure character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "벽으로 둘러싸다",
+      "zh": "用墙体围起来",
+      "hi": "दीवारों के भीतर घेरना"
+    }
+  },
+  {
+    "id": 1586,
+    "word": "immutable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unchanging over time",
+    "example": "The immutable character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "시간이 지나도 변하지 않는",
+      "zh": "随时间保持不变",
+      "hi": "समय के साथ अपरिवर्तित"
+    }
+  },
+  {
+    "id": 1587,
+    "word": "impair",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to weaken or damage",
+    "example": "The impair character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "약화시키거나 손상시키다",
+      "zh": "削弱或损坏",
+      "hi": "कमजोर करना या नुकसान पहुंचाना"
+    }
+  },
+  {
+    "id": 1588,
+    "word": "impale",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to transfix with sharp instrument",
+    "example": "The impale character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "날카로운 도구로 꿰뚫다",
+      "zh": "用锋利的器械刺穿",
+      "hi": "किसी नुकीले औजार से छेद करना"
+    }
+  },
+  {
+    "id": 1589,
+    "word": "impart",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make information known",
+    "example": "The impart character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "정보를 알리다",
+      "zh": "公布信息",
+      "hi": "जानकारी को सार्वजनिक करना"
+    }
+  },
+  {
+    "id": 1590,
+    "word": "impartial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "treating all rivals equally",
+    "example": "The impartial character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "모든 경쟁자를 동등하게 대우하기",
+      "zh": "平等对待所有竞争对手",
+      "hi": "सभी प्रतिद्वंद्वियों के साथ समान व्यवहार करना"
+    }
+  },
+  {
+    "id": 1591,
+    "word": "impasse",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "situation with no progress",
+    "example": "The impasse character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "진전이 없는 상황",
+      "zh": "情况毫无进展",
+      "hi": "ऐसी स्थिति जिसमें कोई प्रगति नहीं हो रही है"
+    }
+  },
+  {
+    "id": 1592,
+    "word": "impassioned",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "filled with passion",
+    "example": "The impassioned character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "열정으로 가득 차",
+      "zh": "充满激情",
+      "hi": "जुनून से भरा हुआ"
+    }
+  },
+  {
+    "id": 1593,
+    "word": "impassive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not feeling emotion",
+    "example": "The impassive character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "감정을 느끼지 않음",
+      "zh": "没有情绪",
+      "hi": "भावना महसूस नहीं हो रही"
+    }
+  },
+  {
+    "id": 1594,
+    "word": "impeach",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to charge with misconduct",
+    "example": "The impeach character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "부정행위로 기소하다",
+      "zh": "指控行为不当",
+      "hi": "कदाचार का आरोप लगाना"
+    }
+  },
+  {
+    "id": 1595,
+    "word": "impeccable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "faultless in conforming to standard",
+    "example": "The impeccable character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "표준을 완벽하게 준수함",
+      "zh": "完全符合标准",
+      "hi": "मानक के अनुरूप त्रुटिहीन"
+    }
+  },
+  {
+    "id": 1596,
+    "word": "impecunious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having little money",
+    "example": "The impecunious character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "돈이 거의 없다",
+      "zh": "没多少钱",
+      "hi": "कम पैसे होना"
+    }
+  },
+  {
+    "id": 1597,
+    "word": "impede",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to delay or prevent",
+    "example": "The impede character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "지연시키거나 방지하다",
+      "zh": "延迟或阻止",
+      "hi": "विलंब करना या रोकना"
+    }
+  },
+  {
+    "id": 1598,
+    "word": "impediment",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "hindrance or obstruction",
+    "example": "The impediment character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "방해 또는 장애",
+      "zh": "阻碍或妨碍",
+      "hi": "बाधा या अवरोध"
+    }
+  },
+  {
+    "id": 1599,
+    "word": "impel",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to drive or urge forward",
+    "example": "The impel character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "앞으로 나아가도록 이끌거나 재촉하다",
+      "zh": "推动或催促向前",
+      "hi": "आगे बढ़ाना या प्रेरित करना"
+    }
+  },
+  {
+    "id": 1600,
+    "word": "impending",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "about to happen",
+    "example": "The impending character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "곧 일어날 일",
+      "zh": "即将发生",
+      "hi": "होने वाला"
+    }
+  }
+]

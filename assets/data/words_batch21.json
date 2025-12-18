@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1801,
+    "word": "intellectual",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to intellect",
+    "example": "The intellectual quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "지성과 관련된",
+      "zh": "与智力相关的",
+      "hi": "बुद्धि से संबंधित"
+    }
+  },
+  {
+    "id": 1802,
+    "word": "intelligible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "able to be understood",
+    "example": "The intelligible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "이해할 수 있는",
+      "zh": "能够理解",
+      "hi": "जिसे समझा जा सके"
+    }
+  },
+  {
+    "id": 1803,
+    "word": "intemperate",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having no self-control",
+    "example": "The intemperate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자기 통제력이 없는",
+      "zh": "缺乏自制力",
+      "hi": "आत्म-नियंत्रण का अभाव"
+    }
+  },
+  {
+    "id": 1804,
+    "word": "intensify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to become more intense",
+    "example": "The intensify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "더욱 강렬해지다",
+      "zh": "变得更加强烈",
+      "hi": "अधिक तीव्र होने के लिए"
+    }
+  },
+  {
+    "id": 1805,
+    "word": "intent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "resolved to do something",
+    "example": "The intent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가를 하기로 결심했다",
+      "zh": "决心做某事",
+      "hi": "कुछ करने का संकल्प लिया"
+    }
+  },
+  {
+    "id": 1806,
+    "word": "intercede",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to intervene on behalf",
+    "example": "The intercede quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "~을 대신하여 개입하다",
+      "zh": "代表其进行干预",
+      "hi": "किसी की ओर से हस्तक्षेप करने के लिए"
+    }
+  },
+  {
+    "id": 1807,
+    "word": "interdict",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to prohibit or forbid",
+    "example": "The interdict quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "금지하다, 저지하다",
+      "zh": "禁止或禁止",
+      "hi": "मना करना या निषेध करना"
+    }
+  },
+  {
+    "id": 1808,
+    "word": "interim",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "intervening time",
+    "example": "The interim quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "중간 시간",
+      "zh": "中间时间",
+      "hi": "बीच का समय"
+    }
+  },
+  {
+    "id": 1809,
+    "word": "interject",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to say abruptly",
+    "example": "The interject quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "갑자기 말하다",
+      "zh": "突然说道",
+      "hi": "अचानक कहना"
+    }
+  },
+  {
+    "id": 1810,
+    "word": "interlocutor",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who takes part in dialogue",
+    "example": "The interlocutor quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "대화에 참여하는 사람",
+      "zh": "参与对话的人",
+      "hi": "संवाद में भाग लेने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1811,
+    "word": "interloper",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who intrudes",
+    "example": "The interloper quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "침입자",
+      "zh": "闯入者",
+      "hi": "घुसपैठ करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1812,
+    "word": "interlude",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "intervening period",
+    "example": "The interlude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "중간 기간",
+      "zh": "过渡期",
+      "hi": "मध्यवर्ती अवधि"
+    }
+  },
+  {
+    "id": 1813,
+    "word": "intermediary",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who acts as link",
+    "example": "The intermediary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "연결고리 역할을 하는 사람",
+      "zh": "担任联络员的人",
+      "hi": "वह व्यक्ति जो संपर्क सूत्र का काम करता है"
+    }
+  },
+  {
+    "id": 1814,
+    "word": "interminable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "endless or tedious",
+    "example": "The interminable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "끝없는 또는 지루한",
+      "zh": "无休止的或乏味的",
+      "hi": "अंतहीन या थकाऊ"
+    }
+  },
+  {
+    "id": 1815,
+    "word": "intermittent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "occurring at irregular intervals",
+    "example": "The intermittent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불규칙적인 간격으로 발생함",
+      "zh": "不定期发生",
+      "hi": "अनियमित अंतरालों पर घटित होना"
+    }
+  },
+  {
+    "id": 1816,
+    "word": "internalize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make attitudes part of nature",
+    "example": "The internalize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "태도를 자연의 일부로 만들기",
+      "zh": "使态度成为自然的一部分",
+      "hi": "मनोवृत्तियों को प्रकृति का हिस्सा बनाना"
+    }
+  },
+  {
+    "id": 1817,
+    "word": "interpolate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to insert between parts",
+    "example": "The interpolate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부품 사이에 삽입하기 위해",
+      "zh": "插入部件之间",
+      "hi": "भागों के बीच डालने के लिए"
+    }
+  },
+  {
+    "id": 1818,
+    "word": "interpose",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to place between",
+    "example": "The interpose quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사이에 놓다",
+      "zh": "放置在",
+      "hi": "बीच में रखने के लिए"
+    }
+  },
+  {
+    "id": 1819,
+    "word": "interpret",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to explain meaning",
+    "example": "The interpret quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "의미를 설명하다",
+      "zh": "解释含义",
+      "hi": "अर्थ समझाने के लिए"
+    }
+  },
+  {
+    "id": 1820,
+    "word": "interrogate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to ask questions closely",
+    "example": "The interrogate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자세히 질문하기",
+      "zh": "仔细询问问题",
+      "hi": "बारीकी से प्रश्न पूछें"
+    }
+  },
+  {
+    "id": 1821,
+    "word": "intersect",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to divide by passing through",
+    "example": "The intersect quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "통과하여 나누다",
+      "zh": "通过穿过来分割",
+      "hi": "किसी के द्वारा विभाजित करना"
+    }
+  },
+  {
+    "id": 1822,
+    "word": "intersperse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to scatter among or between",
+    "example": "The intersperse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "흩뿌리다, ~사이에",
+      "zh": "散布在……之中或之间",
+      "hi": "के बीच बिखेरना"
+    }
+  },
+  {
+    "id": 1823,
+    "word": "intertwine",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to twist or twine together",
+    "example": "The intertwine quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "함께 꼬거나 엮다",
+      "zh": "扭在一起或缠绕在一起",
+      "hi": "आपस में मोड़ना या लपेटना"
+    }
+  },
+  {
+    "id": 1824,
+    "word": "intervene",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to come between",
+    "example": "The intervene quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사이에 끼어들다",
+      "zh": "介于两者之间",
+      "hi": "बीच में आना"
+    }
+  },
+  {
+    "id": 1825,
+    "word": "intimate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to imply or hint",
+    "example": "The intimate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "암시하거나 힌트를 주다",
+      "zh": "暗示或明示",
+      "hi": "संकेत देना या इशारा करना"
+    }
+  },
+  {
+    "id": 1826,
+    "word": "intimidate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to frighten or overawe",
+    "example": "The intimidate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "겁주거나 압도하다",
+      "zh": "使人感到害怕或畏惧",
+      "hi": "डराना या भयभीत करना"
+    }
+  },
+  {
+    "id": 1827,
+    "word": "intolerable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be endured",
+    "example": "The intolerable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "견딜 수 없는",
+      "zh": "无法忍受",
+      "hi": "सहन नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 1828,
+    "word": "intolerant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not tolerant of others",
+    "example": "The intolerant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "타인을 용납하지 않음",
+      "zh": "对他人缺乏宽容",
+      "hi": "दूसरों के प्रति सहनशील नहीं"
+    }
+  },
+  {
+    "id": 1829,
+    "word": "intractable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "hard to control",
+    "example": "The intractable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "제어하기 어렵다",
+      "zh": "难以控制",
+      "hi": "नियंत्रण करना कठिन है"
+    }
+  },
+  {
+    "id": 1830,
+    "word": "intransigent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling to change views",
+    "example": "The intransigent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "견해를 바꾸기를 꺼려함",
+      "zh": "不愿改变观点",
+      "hi": "अपने विचारों को बदलने के लिए अनिच्छुक"
+    }
+  },
+  {
+    "id": 1831,
+    "word": "intrepid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fearless and adventurous",
+    "example": "The intrepid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "두려움이 없고 모험심이 강한",
+      "zh": "无畏且富有冒险精神",
+      "hi": "निडर और साहसी"
+    }
+  },
+  {
+    "id": 1832,
+    "word": "intricate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very complicated",
+    "example": "The intricate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 복잡함",
+      "zh": "非常复杂",
+      "hi": "बहूत जटिल"
+    }
+  },
+  {
+    "id": 1833,
+    "word": "intrigue",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to arouse curiosity",
+    "example": "The intrigue quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "호기심을 불러일으키다",
+      "zh": "激发好奇心",
+      "hi": "जिज्ञासा जगाने के लिए"
+    }
+  },
+  {
+    "id": 1834,
+    "word": "intrinsic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "belonging naturally",
+    "example": "The intrinsic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자연스럽게 속하는",
+      "zh": "自然而然地属于",
+      "hi": "स्वाभाविक रूप से संबंधित होना"
+    }
+  },
+  {
+    "id": 1835,
+    "word": "introspective",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "given to examining own feelings",
+    "example": "The introspective quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자신의 감정을 살펴보는 경향이 있다",
+      "zh": "喜欢审视自己的感受",
+      "hi": "अपनी भावनाओं की जांच करने में लगा रहता हूँ"
+    }
+  },
+  {
+    "id": 1836,
+    "word": "introvert",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "shy and quiet person",
+    "example": "The introvert quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "수줍고 조용한 사람",
+      "zh": "害羞内向的人",
+      "hi": "शर्मीला और शांत स्वभाव का व्यक्ति"
+    }
+  },
+  {
+    "id": 1837,
+    "word": "intrude",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to put oneself into situation",
+    "example": "The intrude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자신을 상황에 놓다",
+      "zh": "让自己处于某种境地",
+      "hi": "स्वयं को परिस्थिति में डालना"
+    }
+  },
+  {
+    "id": 1838,
+    "word": "intrusive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing disruption",
+    "example": "The intrusive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "혼란을 야기함",
+      "zh": "造成干扰",
+      "hi": "व्यवधान उत्पन्न करना"
+    }
+  },
+  {
+    "id": 1839,
+    "word": "intuitive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "using instinctive feeling",
+    "example": "The intuitive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "본능적인 느낌을 이용하여",
+      "zh": "凭借本能的感觉",
+      "hi": "सहज भावना का उपयोग करना"
+    }
+  },
+  {
+    "id": 1840,
+    "word": "inundate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to overwhelm with things",
+    "example": "The inundate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "물건들로 압도하다",
+      "zh": "用各种事物淹没",
+      "hi": "चीजों से अभिभूत करना"
+    }
+  },
+  {
+    "id": 1841,
+    "word": "inure",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to accustom to something unpleasant",
+    "example": "The inure quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 것에 익숙해지다",
+      "zh": "习惯于不愉快的事情",
+      "hi": "किसी अप्रिय चीज़ की आदत डालना"
+    }
+  },
+  {
+    "id": 1842,
+    "word": "invade",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to enter as enemy",
+    "example": "The invade quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "적군으로 진입하다",
+      "zh": "以敌人身份进入",
+      "hi": "दुश्मन बनकर प्रवेश करना"
+    }
+  },
+  {
+    "id": 1843,
+    "word": "invalid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not legally recognized",
+    "example": "The invalid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "법적으로 인정되지 않음",
+      "zh": "不被法律认可",
+      "hi": "कानूनी तौर पर मान्यता प्राप्त नहीं"
+    }
+  },
+  {
+    "id": 1844,
+    "word": "invalidate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make invalid",
+    "example": "The invalidate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무효화하다",
+      "zh": "使其无效",
+      "hi": "अमान्य बनाना"
+    }
+  },
+  {
+    "id": 1845,
+    "word": "invaluable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely useful",
+    "example": "The invaluable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 유용함",
+      "zh": "非常有用",
+      "hi": "अत्यंत उपयोगी"
+    }
+  },
+  {
+    "id": 1846,
+    "word": "invariable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "never changing",
+    "example": "The invariable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "절대 변하지 않는",
+      "zh": "永不改变",
+      "hi": "कभी न बदलने वाला"
+    }
+  },
+  {
+    "id": 1847,
+    "word": "invasive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tending to spread",
+    "example": "The invasive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "퍼지는 경향이 있다",
+      "zh": "有扩散的趋势",
+      "hi": "फैलने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1848,
+    "word": "invective",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "insulting abusive language",
+    "example": "The invective quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "모욕적인 언어",
+      "zh": "侮辱性辱骂性语言",
+      "hi": "अपमानजनक अपशब्द"
+    }
+  },
+  {
+    "id": 1849,
+    "word": "inveigh",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to speak against strongly",
+    "example": "The inveigh quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강력하게 반대하다",
+      "zh": "强烈反对",
+      "hi": "जोरदार विरोध करने के लिए"
+    }
+  },
+  {
+    "id": 1850,
+    "word": "inveigle",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to persuade by deception",
+    "example": "The inveigle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "속임수로 설득하다",
+      "zh": "以欺骗手段说服",
+      "hi": "छल द्वारा राजी करना"
+    }
+  },
+  {
+    "id": 1851,
+    "word": "inventive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having ability to create",
+    "example": "The inventive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "창조할 수 있는 능력",
+      "zh": "具备创造能力",
+      "hi": "सृजन करने की क्षमता होना"
+    }
+  },
+  {
+    "id": 1852,
+    "word": "inverse",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "opposite in position",
+    "example": "The inverse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "반대 위치에 있습니다.",
+      "zh": "位置相反",
+      "hi": "विपरीत स्थिति में"
+    }
+  },
+  {
+    "id": 1853,
+    "word": "invert",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to put upside down",
+    "example": "The invert quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "거꾸로 놓다",
+      "zh": "倒置",
+      "hi": "उल्टा रखना"
+    }
+  },
+  {
+    "id": 1854,
+    "word": "inveterate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having particular habit",
+    "example": "The inveterate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "특정한 습관을 가지고",
+      "zh": "有特殊习惯",
+      "hi": "विशेष आदत होना"
+    }
+  },
+  {
+    "id": 1855,
+    "word": "invidious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "likely to arouse resentment",
+    "example": "The invidious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "반감을 불러일으킬 가능성이 높음",
+      "zh": "可能引起不满",
+      "hi": "जिससे नाराजगी उत्पन्न होने की संभावना है"
+    }
+  },
+  {
+    "id": 1856,
+    "word": "invigorate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give strength or energy",
+    "example": "The invigorate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "힘이나 에너지를 주다",
+      "zh": "赋予力量或能量",
+      "hi": "शक्ति या ऊर्जा प्रदान करना"
+    }
+  },
+  {
+    "id": 1857,
+    "word": "invincible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "too powerful to be defeated",
+    "example": "The invincible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 강력해서 패배시킬 수 없다",
+      "zh": "太过强大，无法被击败",
+      "hi": "इतना शक्तिशाली कि पराजित न हो सके"
+    }
+  },
+  {
+    "id": 1858,
+    "word": "inviolable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "never to be broken",
+    "example": "The inviolable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "절대 깨지지 않을",
+      "zh": "永不破损",
+      "hi": "कभी न टूटने वाला"
+    }
+  },
+  {
+    "id": 1859,
+    "word": "invoke",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cite as authority",
+    "example": "The invoke quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "권위 있는 근거로 인용하다",
+      "zh": "引用权威资料",
+      "hi": "प्रमाण के रूप में उद्धृत करना"
+    }
+  },
+  {
+    "id": 1860,
+    "word": "involuntary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "done without conscious control",
+    "example": "The involuntary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "의식적인 통제 없이 행해진다",
+      "zh": "无意识控制地完成",
+      "hi": "बिना सचेत नियंत्रण के किया गया"
+    }
+  },
+  {
+    "id": 1861,
+    "word": "involve",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to include as necessary part",
+    "example": "The involve quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "필수 부분으로 포함시키다",
+      "zh": "作为必要部分包含在内",
+      "hi": "आवश्यक भाग के रूप में शामिल करना"
+    }
+  },
+  {
+    "id": 1862,
+    "word": "invulnerable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to harm",
+    "example": "The invulnerable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "해칠 수 없다",
+      "zh": "不可能伤害",
+      "hi": "नुकसान पहुंचाना असंभव है"
+    }
+  },
+  {
+    "id": 1863,
+    "word": "iota",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "extremely small amount",
+    "example": "The iota quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극히 적은 양",
+      "zh": "极少量",
+      "hi": "अत्यंत कम मात्रा"
+    }
+  },
+  {
+    "id": 1864,
+    "word": "irascible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having tendency to be angry",
+    "example": "The irascible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "화를 잘 내는 경향이 있는",
+      "zh": "有易怒的倾向",
+      "hi": "क्रोध करने की प्रवृत्ति होना"
+    }
+  },
+  {
+    "id": 1865,
+    "word": "irate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling or showing anger",
+    "example": "The irate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "분노를 느끼거나 표현하는 것",
+      "zh": "感到或表现出愤怒",
+      "hi": "क्रोध महसूस करना या दिखाना"
+    }
+  },
+  {
+    "id": 1866,
+    "word": "iridescent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing luminous colors",
+    "example": "The iridescent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "빛나는 색상을 보여줍니다",
+      "zh": "呈现出明亮的色彩",
+      "hi": "चमकीले रंग प्रदर्शित करना"
+    }
+  },
+  {
+    "id": 1867,
+    "word": "irksome",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "irritating and tedious",
+    "example": "The irksome quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증나고 지루한",
+      "zh": "令人恼火且乏味",
+      "hi": "चिड़चिड़ा और उबाऊ"
+    }
+  },
+  {
+    "id": 1868,
+    "word": "ironic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "happening in opposite way",
+    "example": "The ironic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "정반대로 일어나는",
+      "zh": "相反地发生",
+      "hi": "विपरीत दिशा में घटित होना"
+    }
+  },
+  {
+    "id": 1869,
+    "word": "irony",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "expression of meaning through opposite",
+    "example": "The irony quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "반대되는 것을 통한 의미 표현",
+      "zh": "通过相反的方式表达意义",
+      "hi": "विपरीत के माध्यम से अर्थ की अभिव्यक्ति"
+    }
+  },
+  {
+    "id": 1870,
+    "word": "irrational",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not logical or reasonable",
+    "example": "The irrational quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "논리적이지도 않고 합리적이지도 않다",
+      "zh": "不合逻辑或不合理",
+      "hi": "तार्किक या उचित नहीं"
+    }
+  },
+  {
+    "id": 1871,
+    "word": "irreconcilable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "incompatible",
+    "example": "The irreconcilable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "호환되지 않음",
+      "zh": "不相容",
+      "hi": "असंगत"
+    }
+  },
+  {
+    "id": 1872,
+    "word": "irrefutable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to deny",
+    "example": "The irrefutable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부인할 수 없다",
+      "zh": "无法否认",
+      "hi": "इनकार करना असंभव है"
+    }
+  },
+  {
+    "id": 1873,
+    "word": "irrelevant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not connected with matter",
+    "example": "The irrelevant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "물질과 관련이 없음",
+      "zh": "与物质无关",
+      "hi": "पदार्थ से जुड़ा हुआ नहीं"
+    }
+  },
+  {
+    "id": 1874,
+    "word": "irremediable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to remedy",
+    "example": "The irremediable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "고칠 수 없다",
+      "zh": "无法补救",
+      "hi": "इसका उपचार असंभव है"
+    }
+  },
+  {
+    "id": 1875,
+    "word": "irreparable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to rectify",
+    "example": "The irreparable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "수정 불가능",
+      "zh": "无法纠正",
+      "hi": "सुधारना असंभव है"
+    }
+  },
+  {
+    "id": 1876,
+    "word": "irreproachable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "beyond criticism",
+    "example": "The irreproachable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "비판을 넘어서",
+      "zh": "超越批评",
+      "hi": "आलोचना से परे"
+    }
+  },
+  {
+    "id": 1877,
+    "word": "irresistible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "too attractive to resist",
+    "example": "The irresistible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 매력적이어서 저항할 수 없어",
+      "zh": "太有吸引力，无法抗拒",
+      "hi": "इतना आकर्षक कि इसका विरोध करना असंभव है"
+    }
+  },
+  {
+    "id": 1878,
+    "word": "irresolute",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing hesitancy",
+    "example": "The irresolute quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "주저하는 모습을 보임",
+      "zh": "表现出犹豫",
+      "hi": "हिचकिचाहट दिखाना"
+    }
+  },
+  {
+    "id": 1879,
+    "word": "irrespective",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not taking into account",
+    "example": "The irrespective quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "고려하지 않고",
+      "zh": "未考虑",
+      "hi": "ध्यान में नहीं रखते हुए"
+    }
+  },
+  {
+    "id": 1880,
+    "word": "irreverent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing lack of respect",
+    "example": "The irreverent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "존중심이 부족함을 드러내는 것",
+      "zh": "表现出缺乏尊重",
+      "hi": "अनादर प्रदर्शित करना"
+    }
+  },
+  {
+    "id": 1881,
+    "word": "irreversible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be undone",
+    "example": "The irreversible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "되돌릴 수 없는",
+      "zh": "无法撤销",
+      "hi": "जिसे पूर्ववत नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 1882,
+    "word": "irrevocable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be changed",
+    "example": "The irrevocable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "변경할 수 없음",
+      "zh": "无法更改",
+      "hi": "बदला नहीं जा सकता"
+    }
+  },
+  {
+    "id": 1883,
+    "word": "irritable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having tendency to be annoyed",
+    "example": "The irritable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증을 잘 내는 경향이 있는",
+      "zh": "容易烦躁",
+      "hi": "चिड़चिड़ाने की प्रवृत्ति होना"
+    }
+  },
+  {
+    "id": 1884,
+    "word": "isolate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to be alone",
+    "example": "The isolate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "혼자가 되게 하다",
+      "zh": "使自己独处",
+      "hi": "अकेले रहने का कारण बनना"
+    }
+  },
+  {
+    "id": 1885,
+    "word": "itinerant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "traveling from place to place",
+    "example": "The itinerant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "이곳저곳으로 여행하기",
+      "zh": "从一个地方到另一个地方",
+      "hi": "एक स्थान से दूसरे स्थान की यात्रा करना"
+    }
+  },
+  {
+    "id": 1886,
+    "word": "jaded",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tired and bored",
+    "example": "The jaded quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "피곤하고 지루해",
+      "zh": "疲惫和无聊",
+      "hi": "थका और ऊब चुका"
+    }
+  },
+  {
+    "id": 1887,
+    "word": "jargon",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "special words used by profession",
+    "example": "The jargon quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "해당 직종에서 사용하는 전문 용어",
+      "zh": "专业人士使用的专业术语",
+      "hi": "पेशे द्वारा प्रयुक्त विशेष शब्द"
+    }
+  },
+  {
+    "id": 1888,
+    "word": "jaundiced",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "affected by bitterness",
+    "example": "The jaundiced quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쓴맛에 영향을 받음",
+      "zh": "受苦味影响",
+      "hi": "कड़वाहट से प्रभावित"
+    }
+  },
+  {
+    "id": 1889,
+    "word": "jaunty",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having lively manner",
+    "example": "The jaunty quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "활발한 태도를 지닌",
+      "zh": "举止活泼",
+      "hi": "जीवंत स्वभाव वाला"
+    }
+  },
+  {
+    "id": 1890,
+    "word": "jeer",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make rude remarks",
+    "example": "The jeer quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무례한 말을 하다",
+      "zh": "发表粗鲁言论",
+      "hi": "अभद्र टिप्पणी करना"
+    }
+  },
+  {
+    "id": 1891,
+    "word": "jejune",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "naive and simplistic",
+    "example": "The jejune quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "순진하고 단순한",
+      "zh": "天真而单纯",
+      "hi": "भोला और सरल"
+    }
+  },
+  {
+    "id": 1892,
+    "word": "jeopardize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to put at risk",
+    "example": "The jeopardize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "위험에 빠뜨리다",
+      "zh": "使之处于危险之中",
+      "hi": "जोखिम में डालना"
+    }
+  },
+  {
+    "id": 1893,
+    "word": "jettison",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to throw or drop from aircraft",
+    "example": "The jettison quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "항공기에서 던지거나 떨어뜨리다",
+      "zh": "从飞机上扔或抛",
+      "hi": "विमान से फेंकना या गिराना"
+    }
+  },
+  {
+    "id": 1894,
+    "word": "jingoist",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "extreme patriot",
+    "example": "The jingoist quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극단적 애국자",
+      "zh": "极端爱国者",
+      "hi": "चरम देशभक्त"
+    }
+  },
+  {
+    "id": 1895,
+    "word": "jocular",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fond of joking",
+    "example": "The jocular quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "농담을 좋아하는",
+      "zh": "喜欢开玩笑",
+      "hi": "मजाक पसंद करने वाला"
+    }
+  },
+  {
+    "id": 1896,
+    "word": "jocund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "cheerful and lighthearted",
+    "example": "The jocund quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쾌활하고 쾌활한",
+      "zh": "开朗轻松",
+      "hi": "हंसमुख और हंसमुख"
+    }
+  },
+  {
+    "id": 1897,
+    "word": "jostle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to push roughly",
+    "example": "The jostle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "대략 밀다",
+      "zh": "粗暴地推",
+      "hi": "लगभग धक्का देने के लिए"
+    }
+  },
+  {
+    "id": 1898,
+    "word": "jovial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "cheerful and friendly",
+    "example": "The jovial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쾌활하고 친절함",
+      "zh": "开朗友善",
+      "hi": "हंसमुख और मिलनसार"
+    }
+  },
+  {
+    "id": 1899,
+    "word": "jubilant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling great happiness",
+    "example": "The jubilant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 행복감을 느끼고 있습니다",
+      "zh": "感到无比幸福",
+      "hi": "अत्यधिक खुशी महसूस हो रही है"
+    }
+  },
+  {
+    "id": 1900,
+    "word": "judicious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having good judgment",
+    "example": "The judicious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "좋은 판단력을 가지고",
+      "zh": "具备良好的判断力",
+      "hi": "अच्छा विवेक होना"
+    }
+  }
+]

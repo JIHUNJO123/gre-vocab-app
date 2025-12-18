@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1001,
+    "word": "drivel",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "silly nonsense",
+    "example": "Her drivel demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "어리석은 헛소리",
+      "zh": "愚蠢的胡言乱语",
+      "hi": "बेवकूफी भरी बकवास"
+    }
+  },
+  {
+    "id": 1002,
+    "word": "droll",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "amusing in odd way",
+    "example": "Her droll demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "묘하게 재미있다",
+      "zh": "以一种奇特的方式令人发笑",
+      "hi": "अजीब तरीके से मनोरंजक"
+    }
+  },
+  {
+    "id": 1003,
+    "word": "drought",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "prolonged period of dry weather",
+    "example": "Her drought demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "장기간의 건조한 날씨",
+      "zh": "持续干旱天气",
+      "hi": "लंबे समय तक शुष्क मौसम"
+    }
+  },
+  {
+    "id": 1004,
+    "word": "drudgery",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "hard menial work",
+    "example": "Her drudgery demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "고된 허드렛일",
+      "zh": "艰苦的体力劳动",
+      "hi": "कठिन मामूली काम"
+    }
+  },
+  {
+    "id": 1005,
+    "word": "dubious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "hesitating or doubting",
+    "example": "Her dubious demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "망설이거나 의심하는",
+      "zh": "犹豫或怀疑",
+      "hi": "संकोच करना या संदेह करना"
+    }
+  },
+  {
+    "id": 1006,
+    "word": "dupe",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who is deceived",
+    "example": "Her dupe demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "속임을 당한 사람",
+      "zh": "受骗的人",
+      "hi": "धोखा खाया हुआ व्यक्ति"
+    }
+  },
+  {
+    "id": 1007,
+    "word": "duplicity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "deceitfulness",
+    "example": "Her duplicity demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "사기",
+      "zh": "欺骗",
+      "hi": "छल"
+    }
+  },
+  {
+    "id": 1008,
+    "word": "durable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "able to withstand wear",
+    "example": "Her durable demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "마모를 견딜 수 있는",
+      "zh": "能够承受磨损",
+      "hi": "घिसावट सहन करने में सक्षम"
+    }
+  },
+  {
+    "id": 1009,
+    "word": "duress",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "threats or violence",
+    "example": "Her duress demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "위협이나 폭력",
+      "zh": "威胁或暴力",
+      "hi": "धमकियाँ या हिंसा"
+    }
+  },
+  {
+    "id": 1010,
+    "word": "dynamic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "characterized by constant change",
+    "example": "Her dynamic demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "끊임없는 변화를 특징으로 함",
+      "zh": "以不断变化为特征",
+      "hi": "निरंतर परिवर्तन की विशेषता"
+    }
+  },
+  {
+    "id": 1011,
+    "word": "earnest",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "resulting from serious intent",
+    "example": "Her earnest demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "심각한 의도로 인한 결과",
+      "zh": "因严重意图而导致",
+      "hi": "गंभीर इरादे के परिणामस्वरूप"
+    }
+  },
+  {
+    "id": 1012,
+    "word": "ebb",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to move away from land",
+    "example": "Her ebb demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "육지에서 멀리 이동하다",
+      "zh": "离开陆地",
+      "hi": "भूमि से दूर जाना"
+    }
+  },
+  {
+    "id": 1013,
+    "word": "ebullient",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "cheerful and full of energy",
+    "example": "Her ebullient demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "쾌활하고 활기 넘치는",
+      "zh": "开朗活泼，充满活力",
+      "hi": "हंसमुख और ऊर्जा से भरपूर"
+    }
+  },
+  {
+    "id": 1014,
+    "word": "eccentric",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unconventional and strange",
+    "example": "Her eccentric demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "틀에 얽매이지 않고 특이한",
+      "zh": "非传统且怪异",
+      "hi": "अपरंपरागत और विचित्र"
+    }
+  },
+  {
+    "id": 1015,
+    "word": "eclectic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deriving from various sources",
+    "example": "Her eclectic demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "다양한 출처에서 유래함",
+      "zh": "源自多种来源",
+      "hi": "विभिन्न स्रोतों से प्राप्त"
+    }
+  },
+  {
+    "id": 1016,
+    "word": "eclipse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deprive of significance",
+    "example": "Her eclipse demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "중요성을 박탈하다",
+      "zh": "剥夺意义",
+      "hi": "महत्व से वंचित करना"
+    }
+  },
+  {
+    "id": 1017,
+    "word": "economical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "giving good value",
+    "example": "Her economical demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "좋은 가치를 제공합니다",
+      "zh": "物超所值",
+      "hi": "अच्छा मूल्य प्रदान करना"
+    }
+  },
+  {
+    "id": 1018,
+    "word": "ecstatic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling overwhelming happiness",
+    "example": "Her ecstatic demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "벅찬 행복감을 느낀다",
+      "zh": "感到无比幸福",
+      "hi": "अत्यधिक खुशी महसूस करना"
+    }
+  },
+  {
+    "id": 1019,
+    "word": "edify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to instruct and improve morally",
+    "example": "Her edify demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적으로 가르치고 향상시키기 위해",
+      "zh": "教导和提升道德修养",
+      "hi": "नैतिक रूप से शिक्षा देना और सुधार करना"
+    }
+  },
+  {
+    "id": 1020,
+    "word": "edifice",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "large imposing building",
+    "example": "Her edifice demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "크고 웅장한 건물",
+      "zh": "宏伟的大型建筑",
+      "hi": "विशाल और भव्य इमारत"
+    }
+  },
+  {
+    "id": 1021,
+    "word": "efface",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to erase or remove",
+    "example": "Her efface demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "지우거나 제거하다",
+      "zh": "擦除或移除",
+      "hi": "मिटाना या हटाना"
+    }
+  },
+  {
+    "id": 1022,
+    "word": "effectuate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to put into force",
+    "example": "Her effectuate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "시행하다",
+      "zh": "生效",
+      "hi": "लागू करना"
+    }
+  },
+  {
+    "id": 1023,
+    "word": "effervescent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "vivacious and enthusiastic",
+    "example": "Her effervescent demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "활기차고 열정적인",
+      "zh": "活泼热情",
+      "hi": "जीवंत और उत्साही"
+    }
+  },
+  {
+    "id": 1024,
+    "word": "effete",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "affected or overrefined",
+    "example": "Her effete demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "영향을 받았거나 지나치게 정제된",
+      "zh": "受影响或过度精炼",
+      "hi": "प्रभावित या अतिपरिष्कृत"
+    }
+  },
+  {
+    "id": 1025,
+    "word": "efficacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "successful in producing result",
+    "example": "Her efficacious demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "결과를 내는 데 성공적임",
+      "zh": "成功取得成果",
+      "hi": "परिणाम उत्पन्न करने में सफल"
+    }
+  },
+  {
+    "id": 1026,
+    "word": "effrontery",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "insolent boldness",
+    "example": "Her effrontery demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "뻔뻔스러운 대담함",
+      "zh": "傲慢的胆大妄为",
+      "hi": "उद्दंड दुस्साहस"
+    }
+  },
+  {
+    "id": 1027,
+    "word": "effulgent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "shining brightly",
+    "example": "Her effulgent demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "밝게 빛나다",
+      "zh": "闪闪发光",
+      "hi": "काफी तेज चमकना"
+    }
+  },
+  {
+    "id": 1028,
+    "word": "effusive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "expressing gratitude excessively",
+    "example": "Her effusive demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "감사를 과도하게 표현하는 것",
+      "zh": "过度表达感激之情",
+      "hi": "अत्यधिक कृतज्ञता व्यक्त करना"
+    }
+  },
+  {
+    "id": 1029,
+    "word": "egalitarian",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to equal rights",
+    "example": "Her egalitarian demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "평등권과 관련된",
+      "zh": "与平等权利有关",
+      "hi": "समान अधिकारों से संबंधित"
+    }
+  },
+  {
+    "id": 1030,
+    "word": "egocentric",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "thinking only of oneself",
+    "example": "Her egocentric demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "오직 자신만을 생각하는 것",
+      "zh": "只想着自己",
+      "hi": "केवल अपने बारे में सोचना"
+    }
+  },
+  {
+    "id": 1031,
+    "word": "egregious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "outstandingly bad",
+    "example": "Her egregious demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "엄청나게 나쁘다",
+      "zh": "极其糟糕",
+      "hi": "बेहद खराब"
+    }
+  },
+  {
+    "id": 1032,
+    "word": "elaborate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving many details",
+    "example": "Her elaborate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 세부 사항을 포함하는",
+      "zh": "涉及诸多细节",
+      "hi": "कई विवरणों को शामिल करना"
+    }
+  },
+  {
+    "id": 1033,
+    "word": "elated",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "ecstatically happy",
+    "example": "Her elated demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "황홀할 정도로 행복하다",
+      "zh": "欣喜若狂",
+      "hi": "अत्यंत प्रसन्न"
+    }
+  },
+  {
+    "id": 1034,
+    "word": "elation",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "great happiness",
+    "example": "Her elation demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 행복",
+      "zh": "非常幸福",
+      "hi": "महान खुशी"
+    }
+  },
+  {
+    "id": 1035,
+    "word": "elegy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "poem of serious reflection",
+    "example": "Her elegy demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "진지한 성찰을 담은 시",
+      "zh": "一首严肃的沉思诗",
+      "hi": "गंभीर चिंतन की कविता"
+    }
+  },
+  {
+    "id": 1036,
+    "word": "elicit",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to evoke or draw out",
+    "example": "Her elicit demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "불러일으키거나 이끌어내다",
+      "zh": "唤起或引出",
+      "hi": "जगाना या बाहर निकालना"
+    }
+  },
+  {
+    "id": 1037,
+    "word": "elite",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "group regarded as superior",
+    "example": "Her elite demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "우월하다고 여겨지는 그룹",
+      "zh": "被视为优越的群体",
+      "hi": "समूह को श्रेष्ठ माना जाता है"
+    }
+  },
+  {
+    "id": 1038,
+    "word": "elocution",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "skill of clear speech",
+    "example": "Her elocution demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "명확한 언어 구사 능력",
+      "zh": "清晰的演讲能力",
+      "hi": "स्पष्ट बोलने का कौशल"
+    }
+  },
+  {
+    "id": 1039,
+    "word": "eloquent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fluent or persuasive",
+    "example": "Her eloquent demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "유창하거나 설득력 있는",
+      "zh": "流利的或有说服力的",
+      "hi": "धाराप्रवाह या प्रेरक"
+    }
+  },
+  {
+    "id": 1040,
+    "word": "elucidate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make clear",
+    "example": "Her elucidate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "명확히 하기 위해",
+      "zh": "为了明确",
+      "hi": "स्पष्ट करने के लिए"
+    }
+  },
+  {
+    "id": 1041,
+    "word": "elude",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to evade or escape from",
+    "example": "Her elude demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "~을 피하거나 탈출하다",
+      "zh": "躲避或逃脱",
+      "hi": "किसी से बचना या भाग जाना"
+    }
+  },
+  {
+    "id": 1042,
+    "word": "elusive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "difficult to find",
+    "example": "Her elusive demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "찾기 어려움",
+      "zh": "很难找到",
+      "hi": "ढूँढना मुश्किल है"
+    }
+  },
+  {
+    "id": 1043,
+    "word": "emaciated",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "abnormally thin",
+    "example": "Her emaciated demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "비정상적으로 마른",
+      "zh": "异常薄",
+      "hi": "असामान्य रूप से पतला"
+    }
+  },
+  {
+    "id": 1044,
+    "word": "emanate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to issue or spread out",
+    "example": "Her emanate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "발행하거나 확산시키다",
+      "zh": "发行或传播",
+      "hi": "जारी करना या फैलाना"
+    }
+  },
+  {
+    "id": 1045,
+    "word": "emancipate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to set free",
+    "example": "Her emancipate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "자유롭게 하다",
+      "zh": "释放",
+      "hi": "मुक्त करना"
+    }
+  },
+  {
+    "id": 1046,
+    "word": "embargo",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "official ban on trade",
+    "example": "Her embargo demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "무역에 대한 공식적인 금지",
+      "zh": "官方禁止贸易",
+      "hi": "व्यापार पर आधिकारिक प्रतिबंध"
+    }
+  },
+  {
+    "id": 1047,
+    "word": "embark",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to begin course of action",
+    "example": "Her embark demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "행동 방침을 시작하다",
+      "zh": "开始行动",
+      "hi": "कार्यवाही शुरू करने के लिए"
+    }
+  },
+  {
+    "id": 1048,
+    "word": "embarrass",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to feel awkward",
+    "example": "Her embarrass demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "어색함을 느끼게 하다",
+      "zh": "使人感到尴尬",
+      "hi": "असहज महसूस कराना"
+    }
+  },
+  {
+    "id": 1049,
+    "word": "embed",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to fix firmly",
+    "example": "Her embed demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "단단히 고정하다",
+      "zh": "牢固地固定",
+      "hi": "मजबूती से ठीक करने के लिए"
+    }
+  },
+  {
+    "id": 1050,
+    "word": "embellish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make more attractive",
+    "example": "Her embellish demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "더욱 매력적으로 만들기 위해",
+      "zh": "为了更具吸引力",
+      "hi": "अधिक आकर्षक बनाने के लिए"
+    }
+  },
+  {
+    "id": 1051,
+    "word": "embezzle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to steal entrusted funds",
+    "example": "Her embezzle demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "위탁받은 자금을 훔치다",
+      "zh": "窃取受托资金",
+      "hi": "सौंपे गए धन की चोरी करना"
+    }
+  },
+  {
+    "id": 1052,
+    "word": "embitter",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to feel bitter",
+    "example": "Her embitter demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "쓴맛을 느끼게 하다",
+      "zh": "使人感到痛苦",
+      "hi": "कड़वाहट का एहसास कराना"
+    }
+  },
+  {
+    "id": 1053,
+    "word": "embody",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give body to",
+    "example": "Her embody demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "형체를 부여하다",
+      "zh": "赋予实体",
+      "hi": "शरीर प्रदान करना"
+    }
+  },
+  {
+    "id": 1054,
+    "word": "embolden",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give courage to",
+    "example": "Her embolden demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "용기를 북돋아주다",
+      "zh": "给予勇气",
+      "hi": "साहस देने के लिए"
+    }
+  },
+  {
+    "id": 1055,
+    "word": "embrace",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to accept willingly",
+    "example": "Her embrace demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "기꺼이 받아들이다",
+      "zh": "欣然接受",
+      "hi": "स्वेच्छा से स्वीकार करना"
+    }
+  },
+  {
+    "id": 1056,
+    "word": "embroil",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to involve in conflict",
+    "example": "Her embroil demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "갈등에 휘말리다",
+      "zh": "卷入冲突",
+      "hi": "संघर्ष में शामिल होना"
+    }
+  },
+  {
+    "id": 1057,
+    "word": "embryonic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "in early stage",
+    "example": "Her embryonic demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "초기 단계에서",
+      "zh": "早期阶段",
+      "hi": "प्रारंभिक अवस्था में"
+    }
+  },
+  {
+    "id": 1058,
+    "word": "emend",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make corrections to",
+    "example": "Her emend demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "수정하기 위해",
+      "zh": "进行更正",
+      "hi": "सुधार करने के लिए"
+    }
+  },
+  {
+    "id": 1059,
+    "word": "emerge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to move out of",
+    "example": "Her emerge demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "떠나다",
+      "zh": "搬出",
+      "hi": "बाहर निकलना"
+    }
+  },
+  {
+    "id": 1060,
+    "word": "eminence",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "fame or superiority",
+    "example": "Her eminence demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "명성 또는 우월함",
+      "zh": "名望或优越感",
+      "hi": "प्रसिद्धि या श्रेष्ठता"
+    }
+  },
+  {
+    "id": 1061,
+    "word": "eminent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "famous and respected",
+    "example": "Her eminent demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "유명하고 존경받는",
+      "zh": "著名且受人尊敬",
+      "hi": "प्रसिद्ध और सम्मानित"
+    }
+  },
+  {
+    "id": 1062,
+    "word": "emit",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to produce and discharge",
+    "example": "Her emit demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "생산하고 배출하다",
+      "zh": "生产和排放",
+      "hi": "उत्पादन और निर्वहन"
+    }
+  },
+  {
+    "id": 1063,
+    "word": "emollient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having softening effect",
+    "example": "Her emollient demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "부드럽게 하는 효과를 지닌",
+      "zh": "具有软化作用",
+      "hi": "नरम प्रभाव डालने वाला"
+    }
+  },
+  {
+    "id": 1064,
+    "word": "empathy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "ability to understand feelings",
+    "example": "Her empathy demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "감정을 이해하는 능력",
+      "zh": "理解情绪的能力",
+      "hi": "भावनाओं को समझने की क्षमता"
+    }
+  },
+  {
+    "id": 1065,
+    "word": "emphatic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing emphasis",
+    "example": "Her emphatic demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "강조를 나타내는",
+      "zh": "强调",
+      "hi": "जोर देना"
+    }
+  },
+  {
+    "id": 1066,
+    "word": "empirical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "based on observation",
+    "example": "Her empirical demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "관찰을 기반으로",
+      "zh": "基于观察",
+      "hi": "अवलोकन के आधार पर"
+    }
+  },
+  {
+    "id": 1067,
+    "word": "empower",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give power or authority",
+    "example": "Her empower demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "권력이나 권위를 부여하다",
+      "zh": "赋予权力或权威",
+      "hi": "शक्ति या अधिकार प्रदान करना"
+    }
+  },
+  {
+    "id": 1068,
+    "word": "emulate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to match or surpass",
+    "example": "Her emulate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "동등하거나 능가하다",
+      "zh": "达到或超过",
+      "hi": "बराबरी करने या उससे आगे निकलने के लिए"
+    }
+  },
+  {
+    "id": 1069,
+    "word": "enamored",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "filled with love",
+    "example": "Her enamored demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "사랑으로 가득 차 있습니다",
+      "zh": "充满爱",
+      "hi": "प्यार से भरा"
+    }
+  },
+  {
+    "id": 1070,
+    "word": "encapsulate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to express essential features",
+    "example": "Her encapsulate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "핵심적인 특징을 표현하기 위해",
+      "zh": "表达基本特征",
+      "hi": "आवश्यक विशेषताओं को व्यक्त करना"
+    }
+  },
+  {
+    "id": 1071,
+    "word": "enchant",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to fill with delight",
+    "example": "Her enchant demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "기쁨으로 가득 채우다",
+      "zh": "充满喜悦",
+      "hi": "आनंद से भर देना"
+    }
+  },
+  {
+    "id": 1072,
+    "word": "encircle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to form circle around",
+    "example": "Her encircle demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "원을 형성하다",
+      "zh": "围绕",
+      "hi": "चारों ओर वृत्त बनाने के लिए"
+    }
+  },
+  {
+    "id": 1073,
+    "word": "enclave",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "portion of territory",
+    "example": "Her enclave demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "영토의 일부",
+      "zh": "领土的一部分",
+      "hi": "क्षेत्र का हिस्सा"
+    }
+  },
+  {
+    "id": 1074,
+    "word": "encompass",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to surround and have within",
+    "example": "Her encompass demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "둘러싸고 그 안에 두다",
+      "zh": "包围并包含在内",
+      "hi": "घेरना और भीतर रखना"
+    }
+  },
+  {
+    "id": 1075,
+    "word": "encroach",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to intrude on territory",
+    "example": "Her encroach demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "영토를 침범하다",
+      "zh": "侵入领土",
+      "hi": "क्षेत्र में घुसपैठ करना"
+    }
+  },
+  {
+    "id": 1076,
+    "word": "encumber",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to restrict or burden",
+    "example": "Her encumber demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "제한하거나 부담을 주다",
+      "zh": "限制或加重",
+      "hi": "प्रतिबंधित करना या बोझ डालना"
+    }
+  },
+  {
+    "id": 1077,
+    "word": "endemic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "native or restricted to place",
+    "example": "Her endemic demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "토착민이거나 특정 지역에 한정된 사람",
+      "zh": "本地的或仅限于此地",
+      "hi": "किसी स्थान का मूल निवासी या उस स्थान तक सीमित"
+    }
+  },
+  {
+    "id": 1078,
+    "word": "endorse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to declare approval of",
+    "example": "Her endorse demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "승인을 선언하기 위해",
+      "zh": "宣布批准",
+      "hi": "अनुमोदन की घोषणा करने के लिए"
+    }
+  },
+  {
+    "id": 1079,
+    "word": "endow",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to provide with quality",
+    "example": "Her endow demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "품질을 제공하기 위해",
+      "zh": "提供高质量产品",
+      "hi": "गुणवत्ता प्रदान करने के लिए"
+    }
+  },
+  {
+    "id": 1080,
+    "word": "endure",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to suffer patiently",
+    "example": "Her endure demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "인내심을 갖고 고통을 견디다",
+      "zh": "忍受痛苦",
+      "hi": "धैर्यपूर्वक सहन करना"
+    }
+  },
+  {
+    "id": 1081,
+    "word": "enervate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to feel drained",
+    "example": "Her enervate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "기력을 소진하게 하다",
+      "zh": "使人感到精疲力竭",
+      "hi": "थकावट महसूस कराना"
+    }
+  },
+  {
+    "id": 1082,
+    "word": "enfeeble",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make weak",
+    "example": "Her enfeeble demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "약하게 만들다",
+      "zh": "使弱",
+      "hi": "कमजोर बनाना"
+    }
+  },
+  {
+    "id": 1083,
+    "word": "enforce",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to compel observance of",
+    "example": "Her enforce demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "준수를 강제하기 위해",
+      "zh": "强制遵守",
+      "hi": "पालन को बाध्य करने के लिए"
+    }
+  },
+  {
+    "id": 1084,
+    "word": "enfranchise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give right to vote",
+    "example": "Her enfranchise demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "투표권을 부여하다",
+      "zh": "赋予投票权",
+      "hi": "मतदान का अधिकार देना"
+    }
+  },
+  {
+    "id": 1085,
+    "word": "engage",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to occupy attention of",
+    "example": "Her engage demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "주의를 끌다",
+      "zh": "吸引注意力",
+      "hi": "ध्यान आकर्षित करने के लिए"
+    }
+  },
+  {
+    "id": 1086,
+    "word": "engender",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause or give rise to",
+    "example": "Her engender demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "야기하다 또는 발생시키다",
+      "zh": "导致或引起",
+      "hi": "कारण बनना या उत्पन्न करना"
+    }
+  },
+  {
+    "id": 1087,
+    "word": "engross",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to absorb attention of",
+    "example": "Her engross demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "관심을 사로잡기 위해",
+      "zh": "吸引注意力",
+      "hi": "ध्यान आकर्षित करने के लिए"
+    }
+  },
+  {
+    "id": 1088,
+    "word": "engulf",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to sweep over and surround",
+    "example": "Her engulf demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "휩쓸고 둘러싸다",
+      "zh": "席卷而来，包围",
+      "hi": "चारों ओर से घेर लेना और घेर लेना"
+    }
+  },
+  {
+    "id": 1089,
+    "word": "enhance",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to intensify or increase",
+    "example": "Her enhance demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "강화하거나 증가시키다",
+      "zh": "加强或增加",
+      "hi": "तीव्र करना या बढ़ाना"
+    }
+  },
+  {
+    "id": 1090,
+    "word": "enigma",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person or thing that is mysterious",
+    "example": "Her enigma demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "신비로운 사람 또는 사물",
+      "zh": "神秘的人或事物",
+      "hi": "कोई व्यक्ति या वस्तु जो रहस्यमय हो"
+    }
+  },
+  {
+    "id": 1091,
+    "word": "enigmatic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "difficult to interpret",
+    "example": "Her enigmatic demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "해석하기 어렵다",
+      "zh": "难以解释",
+      "hi": "व्याख्या करना कठिन है"
+    }
+  },
+  {
+    "id": 1092,
+    "word": "enjoin",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to instruct or urge",
+    "example": "Her enjoin demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "가르치거나 촉구하다",
+      "zh": "指示或敦促",
+      "hi": "निर्देश देना या आग्रह करना"
+    }
+  },
+  {
+    "id": 1093,
+    "word": "enlighten",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give spiritual insight",
+    "example": "Her enlighten demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "영적인 통찰력을 주기 위해",
+      "zh": "给予精神上的启示",
+      "hi": "आध्यात्मिक अंतर्दृष्टि प्रदान करना"
+    }
+  },
+  {
+    "id": 1094,
+    "word": "enmity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of being enemy",
+    "example": "Her enmity demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "적의 상태",
+      "zh": "敌对状态",
+      "hi": "शत्रु होने की अवस्था"
+    }
+  },
+  {
+    "id": 1095,
+    "word": "ennui",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "feeling of listlessness",
+    "example": "Her ennui demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "무기력감",
+      "zh": "倦怠感",
+      "hi": "उदासी का एहसास"
+    }
+  },
+  {
+    "id": 1096,
+    "word": "enormity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "great size or extent",
+    "example": "Her enormity demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 규모 또는 범위",
+      "zh": "规模或范围很大",
+      "hi": "बड़ा आकार या विस्तार"
+    }
+  },
+  {
+    "id": 1097,
+    "word": "enrage",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make very angry",
+    "example": "Her enrage demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 화나게 하다",
+      "zh": "使人非常生气",
+      "hi": "बहुत गुस्सा दिलाना"
+    }
+  },
+  {
+    "id": 1098,
+    "word": "enrapture",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give intense pleasure",
+    "example": "Her enrapture demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "강렬한 쾌감을 주기 위해",
+      "zh": "带来强烈的愉悦",
+      "hi": "तीव्र आनंद प्रदान करना"
+    }
+  },
+  {
+    "id": 1099,
+    "word": "enrich",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to improve quality of",
+    "example": "Her enrich demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "품질을 향상시키기 위해",
+      "zh": "为了提高质量",
+      "hi": "गुणवत्ता में सुधार करने के लिए"
+    }
+  },
+  {
+    "id": 1100,
+    "word": "ensue",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to happen afterward",
+    "example": "Her ensue demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "그 후에 일어날 일",
+      "zh": "之后发生",
+      "hi": "बाद में घटित होने के लिए"
+    }
+  }
+]

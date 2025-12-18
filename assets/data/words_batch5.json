@@ -1,0 +1,702 @@
+[
+  {
+    "id": 251,
+    "word": "propitiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to win favor by doing something",
+    "example": "The propitiate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가를 함으로써 호감을 얻다",
+      "zh": "通过做某事来博取好感",
+      "hi": "किसी काम को करके कृपा प्राप्त करना"
+    }
+  },
+  {
+    "id": 252,
+    "word": "prosaic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking imagination; dull",
+    "example": "The prosaic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "상상력이 부족한; 둔한",
+      "zh": "缺乏想象力；乏味",
+      "hi": "कल्पनाशीलता का अभाव; नीरस"
+    }
+  },
+  {
+    "id": 253,
+    "word": "proscribe",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to forbid",
+    "example": "The proscribe situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "금지하다",
+      "zh": "禁止",
+      "hi": "वर्जित करना"
+    }
+  },
+  {
+    "id": 254,
+    "word": "proselytize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to convert to different belief",
+    "example": "The proselytize situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 신념으로 개종하다",
+      "zh": "转变信仰",
+      "hi": "किसी अन्य विश्वास में परिवर्तित होना"
+    }
+  },
+  {
+    "id": 255,
+    "word": "provincial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unsophisticated",
+    "example": "The provincial situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "섞인 것 없는",
+      "zh": "不谙世事的",
+      "hi": "अपरिष्कृत"
+    }
+  },
+  {
+    "id": 256,
+    "word": "prudent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "acting with care",
+    "example": "The prudent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "조심스럽게 행동하다",
+      "zh": "谨慎行事",
+      "hi": "सावधानीपूर्वक कार्य करना"
+    }
+  },
+  {
+    "id": 257,
+    "word": "prurient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having excessive interest",
+    "example": "The prurient situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "과도한 관심을 가지다",
+      "zh": "过度兴趣",
+      "hi": "अत्यधिक रुचि होना"
+    }
+  },
+  {
+    "id": 258,
+    "word": "punctilious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing great attention to detail",
+    "example": "The punctilious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "세부 사항에 매우 주의를 기울이는 것을 보여줍니다.",
+      "zh": "非常注重细节。",
+      "hi": "बारीकियों पर बहुत ध्यान देते हुए"
+    }
+  },
+  {
+    "id": 259,
+    "word": "pusillanimous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing lack of courage",
+    "example": "The pusillanimous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "용기가 부족함을 드러내는 것",
+      "zh": "表现得缺乏勇气",
+      "hi": "साहस की कमी दर्शाना"
+    }
+  },
+  {
+    "id": 260,
+    "word": "quagmire",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "difficult situation",
+    "example": "The quagmire situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "궁지",
+      "zh": "困境",
+      "hi": "मुश्किल हालात"
+    }
+  },
+  {
+    "id": 261,
+    "word": "quandary",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of uncertainty",
+    "example": "The quandary situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "불확실한 상태",
+      "zh": "不确定状态",
+      "hi": "अनिश्चितता की स्थिति"
+    }
+  },
+  {
+    "id": 262,
+    "word": "querulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "complaining in petulant way",
+    "example": "The querulous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "심술궂게 불평하다",
+      "zh": "以任性的方式抱怨",
+      "hi": "चिड़चिड़ेपन से शिकायत करना"
+    }
+  },
+  {
+    "id": 263,
+    "word": "quiescent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in state of inactivity",
+    "example": "The quiescent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "비활성 상태",
+      "zh": "处于不活动状态",
+      "hi": "निष्क्रियता की अवस्था में"
+    }
+  },
+  {
+    "id": 264,
+    "word": "quixotic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unrealistic and impractical",
+    "example": "The quixotic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "비현실적이고 비실용적이다",
+      "zh": "不切实际且不切实际",
+      "hi": "अवास्तविक और अव्यावहारिक"
+    }
+  },
+  {
+    "id": 265,
+    "word": "quotidian",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "of daily occurrence; ordinary",
+    "example": "The quotidian situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "일상적인 일; 평범한",
+      "zh": "日常发生的；普通的",
+      "hi": "दैनिक रूप से घटित होने वाला; सामान्य"
+    }
+  },
+  {
+    "id": 266,
+    "word": "rancorous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing deep bitterness",
+    "example": "The rancorous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "깊은 쓴맛을 드러내다",
+      "zh": "表现出深深的苦涩",
+      "hi": "गहरी कड़वाहट दिखाना"
+    }
+  },
+  {
+    "id": 267,
+    "word": "rapacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "aggressively greedy",
+    "example": "The rapacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "공격적으로 탐욕스러운",
+      "zh": "贪婪地",
+      "hi": "आक्रामक रूप से लालची"
+    }
+  },
+  {
+    "id": 268,
+    "word": "rarefied",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "elevated; exclusive",
+    "example": "The rarefied situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "높은; 독점적인",
+      "zh": "高端；专属",
+      "hi": "ऊंचा; विशिष्ट"
+    }
+  },
+  {
+    "id": 269,
+    "word": "recalcitrant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly uncooperative",
+    "example": "The recalcitrant situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "완강하게 비협조적임",
+      "zh": "顽固不合作",
+      "hi": "हठपूर्वक असहयोगी"
+    }
+  },
+  {
+    "id": 270,
+    "word": "recant",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to withdraw former belief",
+    "example": "The recant situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이전의 믿음을 철회하다",
+      "zh": "撤回先前的信念",
+      "hi": "पूर्व विश्वास को वापस लेना"
+    }
+  },
+  {
+    "id": 271,
+    "word": "recondite",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "difficult to understand",
+    "example": "The recondite situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이해하기 어렵다",
+      "zh": "难以理解",
+      "hi": "समझने में कठिन"
+    }
+  },
+  {
+    "id": 272,
+    "word": "rectitude",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "morally correct behavior",
+    "example": "The rectitude situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적으로 올바른 행동",
+      "zh": "道德上正确的行为",
+      "hi": "नैतिक रूप से सही व्यवहार"
+    }
+  },
+  {
+    "id": 273,
+    "word": "redoubtable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "formidable",
+    "example": "The redoubtable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무서운",
+      "zh": "强大",
+      "hi": "दुर्जेय"
+    }
+  },
+  {
+    "id": 274,
+    "word": "refractory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly disobedient",
+    "example": "The refractory situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "고집스럽게 불복종하는",
+      "zh": "顽固不服从",
+      "hi": "हठपूर्वक अवज्ञाकारी"
+    }
+  },
+  {
+    "id": 275,
+    "word": "relegate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to assign to lower position",
+    "example": "The relegate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "더 낮은 직책으로 배정하다",
+      "zh": "分配到较低位置",
+      "hi": "निचले पद पर नियुक्त करना"
+    }
+  },
+  {
+    "id": 276,
+    "word": "remonstrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to protest forcefully",
+    "example": "The remonstrate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "강력하게 항의하다",
+      "zh": "强烈抗议",
+      "hi": "जोरदार विरोध करने के लिए"
+    }
+  },
+  {
+    "id": 277,
+    "word": "renege",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to go back on promise",
+    "example": "The renege situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "약속을 어기다",
+      "zh": "违背承诺",
+      "hi": "वादे से मुकर जाना"
+    }
+  },
+  {
+    "id": 278,
+    "word": "replete",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "filled or well-supplied",
+    "example": "The replete situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "가득 차 있거나 공급이 충분한",
+      "zh": "已装满或供应充足",
+      "hi": "भरा हुआ या अच्छी तरह से आपूर्ति किया हुआ"
+    }
+  },
+  {
+    "id": 279,
+    "word": "reprobate",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "unprincipled person",
+    "example": "The reprobate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "원칙 없는 사람",
+      "zh": "毫无原则的人",
+      "hi": "सिद्धांतहीन व्यक्ति"
+    }
+  },
+  {
+    "id": 280,
+    "word": "repudiate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to refuse to accept",
+    "example": "The repudiate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "수락을 거부하다",
+      "zh": "拒绝接受",
+      "hi": "स्वीकार करने से इनकार करना"
+    }
+  },
+  {
+    "id": 281,
+    "word": "rescind",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to revoke or cancel",
+    "example": "The rescind situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "취소하다",
+      "zh": "撤销或取消",
+      "hi": "निरस्त करना या रद्द करना"
+    }
+  },
+  {
+    "id": 282,
+    "word": "reticent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not revealing thoughts",
+    "example": "The reticent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "생각을 드러내지 않음",
+      "zh": "不透露想法",
+      "hi": "अपने विचारों को प्रकट न करना"
+    }
+  },
+  {
+    "id": 283,
+    "word": "rhetoric",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "art of persuasive speaking",
+    "example": "The rhetoric situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "설득력 있는 말하기의 기술",
+      "zh": "说服性演讲的艺术",
+      "hi": "प्रभावी भाषण देने की कला"
+    }
+  },
+  {
+    "id": 284,
+    "word": "ribald",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "humorously vulgar",
+    "example": "The ribald situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "유머러스하면서도 저속한",
+      "zh": "幽默的粗俗",
+      "hi": "हास्यास्पद रूप से अश्लील"
+    }
+  },
+  {
+    "id": 285,
+    "word": "riposte",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "quick clever reply",
+    "example": "The riposte situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "빠르고 재치 있는 답변",
+      "zh": "快速巧妙的回复",
+      "hi": "त्वरित और चतुर उत्तर"
+    }
+  },
+  {
+    "id": 286,
+    "word": "rogue",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "dishonest or unprincipled person",
+    "example": "The rogue situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "부정직하거나 원칙이 없는 사람",
+      "zh": "不诚实或无原则的人",
+      "hi": "बेईमान या सिद्धांतहीन व्यक्ति"
+    }
+  },
+  {
+    "id": 287,
+    "word": "rudimentary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving basic principles",
+    "example": "The rudimentary situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "기본 원칙을 포함하는",
+      "zh": "涉及基本原则",
+      "hi": "बुनियादी सिद्धांतों को शामिल करना"
+    }
+  },
+  {
+    "id": 288,
+    "word": "ruminate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to think deeply about",
+    "example": "The ruminate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "깊이 생각하다",
+      "zh": "深入思考",
+      "hi": "गहराई से सोचने के लिए"
+    }
+  },
+  {
+    "id": 289,
+    "word": "sagacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having keen discernment",
+    "example": "The sagacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "예리한 분별력을 지닌",
+      "zh": "具有敏锐的洞察力",
+      "hi": "गहरी समझ होना"
+    }
+  },
+  {
+    "id": 290,
+    "word": "salient",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "most noticeable",
+    "example": "The salient situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "가장 눈에 띄는",
+      "zh": "最显著的",
+      "hi": "सबसे अधिक ध्यान देने योग्य"
+    }
+  },
+  {
+    "id": 291,
+    "word": "sanctimonious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "making show of being moral",
+    "example": "The sanctimonious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적인 척하는 것",
+      "zh": "装出一副道德高尚的样子",
+      "hi": "नैतिक होने का दिखावा करना"
+    }
+  },
+  {
+    "id": 292,
+    "word": "sanguine",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "optimistic; cheerful",
+    "example": "The sanguine situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "낙관적인; 쾌활한",
+      "zh": "乐观；开朗",
+      "hi": "आशावादी; हंसमुख"
+    }
+  },
+  {
+    "id": 293,
+    "word": "sardonic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "grimly mocking",
+    "example": "The sardonic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "냉혹하게 조롱하며",
+      "zh": "冷嘲热讽",
+      "hi": "गंभीर रूप से उपहास करते हुए"
+    }
+  },
+  {
+    "id": 294,
+    "word": "scrupulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "diligent and thorough",
+    "example": "The scrupulous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "성실하고 철저한",
+      "zh": "勤奋细致",
+      "hi": "मेहनती और संपूर्ण"
+    }
+  },
+  {
+    "id": 295,
+    "word": "sedulous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing dedication",
+    "example": "The sedulous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "헌신을 보여주며",
+      "zh": "展现奉献精神",
+      "hi": "समर्पण दिखाना"
+    }
+  },
+  {
+    "id": 296,
+    "word": "self-effacing",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not drawing attention",
+    "example": "The self-effacing situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "주목을 끌지 않음",
+      "zh": "不引起注意",
+      "hi": "ध्यान आकर्षित नहीं करना"
+    }
+  },
+  {
+    "id": 297,
+    "word": "sententious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "given to moralizing",
+    "example": "The sententious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적인 훈계를 늘어놓는 경향이 있다",
+      "zh": "喜欢说教",
+      "hi": "नैतिकता का उपदेश देने में लगे हुए"
+    }
+  },
+  {
+    "id": 298,
+    "word": "serendipitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "occurring by chance",
+    "example": "The serendipitous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "우연히 발생함",
+      "zh": "偶然发生",
+      "hi": "संयोगवश घटित होना"
+    }
+  },
+  {
+    "id": 299,
+    "word": "servile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having excessive eagerness",
+    "example": "The servile situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 열정적인",
+      "zh": "过于急切",
+      "hi": "अत्यधिक उत्सुकता होना"
+    }
+  },
+  {
+    "id": 300,
+    "word": "skeptical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not easily convinced",
+    "example": "The skeptical situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 설득되지 않음",
+      "zh": "不容易被说服",
+      "hi": "आसानी से राजी नहीं होता"
+    }
+  }
+]

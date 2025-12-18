@@ -1,0 +1,12 @@
+﻿[
+  {"id": 11, "word": "antediluvian", "level": "Expert", "partOfSpeech": "adjective", "definition": "extremely old-fashioned", "example": "His antediluvian views on gender roles were shocking.", "category": "General"},
+  {"id": 12, "word": "antipathy", "level": "Advanced", "partOfSpeech": "noun", "definition": "deep-seated dislike", "example": "She felt antipathy toward her former boss.", "category": "General"},
+  {"id": 13, "word": "apocryphal", "level": "Advanced", "partOfSpeech": "adjective", "definition": "of doubtful authenticity", "example": "The apocryphal story has been repeated for centuries.", "category": "General"},
+  {"id": 14, "word": "apotheosis", "level": "Expert", "partOfSpeech": "noun", "definition": "the highest point or ideal example", "example": "The symphony was the apotheosis of his career.", "category": "General"},
+  {"id": 15, "word": "approbation", "level": "Advanced", "partOfSpeech": "noun", "definition": "approval or praise", "example": "The plan received widespread approbation.", "category": "General"},
+  {"id": 16, "word": "arcane", "level": "Advanced", "partOfSpeech": "adjective", "definition": "understood by few; mysterious", "example": "The arcane rituals were known only to initiates.", "category": "General"},
+  {"id": 17, "word": "asperity", "level": "Expert", "partOfSpeech": "noun", "definition": "harshness of tone or manner", "example": "She responded with unexpected asperity.", "category": "General"},
+  {"id": 18, "word": "assiduous", "level": "Advanced", "partOfSpeech": "adjective", "definition": "showing great care and perseverance", "example": "Her assiduous research paid off.", "category": "General"},
+  {"id": 19, "word": "attenuate", "level": "Advanced", "partOfSpeech": "verb", "definition": "to weaken or reduce in force", "example": "Time attenuated his grief.", "category": "General"},
+  {"id": 20, "word": "audacious", "level": "Common", "partOfSpeech": "adjective", "definition": "showing bold willingness to take risks", "example": "The audacious plan succeeded.", "category": "General"}
+]

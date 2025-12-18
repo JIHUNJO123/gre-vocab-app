@@ -1,0 +1,4398 @@
+[
+  {
+    "id": 2,
+    "word": "effrontery",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "shameless boldness",
+    "example": "The professor used the word effrontery in context.",
+    "category": "General",
+    "translations": {
+      "ko": "뻔뻔스러운 대담함",
+      "zh": "无耻的胆大妄为",
+      "hi": "निर्लज्ज दुस्साहस"
+    }
+  },
+  {
+    "id": 6,
+    "word": "emollient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "softening or soothing",
+    "example": "The professor used the word emollient in context.",
+    "category": "General",
+    "translations": {
+      "ko": "부드럽게 또는 진정시키는",
+      "zh": "软化或舒缓",
+      "hi": "नरम या सुखदायक"
+    }
+  },
+  {
+    "id": 7,
+    "word": "encomium",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "formal expression of praise",
+    "example": "The professor used the word encomium in context.",
+    "category": "General",
+    "translations": {
+      "ko": "칭찬의 공식적인 표현",
+      "zh": "正式的赞扬",
+      "hi": "प्रशंसा की औपचारिक अभिव्यक्ति"
+    }
+  },
+  {
+    "id": 18,
+    "word": "excoriate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to criticize severely",
+    "example": "The professor used the word excoriate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "심하게 비판하다",
+      "zh": "严厉批评",
+      "hi": "कड़ी आलोचना करना"
+    }
+  },
+  {
+    "id": 20,
+    "word": "exigent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "requiring immediate action",
+    "example": "The professor used the word exigent in context.",
+    "category": "General",
+    "translations": {
+      "ko": "즉각적인 조치가 필요한",
+      "zh": "需要立即采取行动",
+      "hi": "तत्काल कार्रवाई की आवश्यकता है"
+    }
+  },
+  {
+    "id": 22,
+    "word": "expatiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to speak or write at length",
+    "example": "The professor used the word expatiate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "길게 말하거나 길게 쓰다",
+      "zh": "长篇大论地说话或写作",
+      "hi": "विस्तार से बोलना या लिखना"
+    }
+  },
+  {
+    "id": 23,
+    "word": "expiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make amends for",
+    "example": "The professor used the word expiate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "보상하기 위해",
+      "zh": "弥补过失",
+      "hi": "क्षतिपूर्ति करने के लिए"
+    }
+  },
+  {
+    "id": 24,
+    "word": "extirpate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to destroy completely",
+    "example": "The professor used the word extirpate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 파괴하다",
+      "zh": "彻底摧毁",
+      "hi": "ईंट से ईंट बज जाना"
+    }
+  },
+  {
+    "id": 28,
+    "word": "fatuous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "silly and pointless",
+    "example": "The professor used the word fatuous in context.",
+    "category": "General",
+    "translations": {
+      "ko": "어리석고 무의미한",
+      "zh": "愚蠢且毫无意义",
+      "hi": "मूर्खतापूर्ण और निरर्थक"
+    }
+  },
+  {
+    "id": 29,
+    "word": "fecund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "fertile; intellectually productive",
+    "example": "The professor used the word fecund in context.",
+    "category": "General",
+    "translations": {
+      "ko": "비옥한; 지적으로 생산적인",
+      "zh": "富有创造力的；智力丰富的",
+      "hi": "उपजाऊ; बौद्धिक रूप से उत्पादक"
+    }
+  },
+  {
+    "id": 39,
+    "word": "fulminate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to protest strongly",
+    "example": "The professor used the word fulminate in context.",
+    "category": "General",
+    "translations": {
+      "ko": "강력하게 항의하다",
+      "zh": "强烈抗议",
+      "hi": "कड़ा विरोध करना"
+    }
+  },
+  {
+    "id": 41,
+    "word": "gainsay",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to deny or contradict",
+    "example": "The professor used the word gainsay in context.",
+    "category": "General",
+    "translations": {
+      "ko": "부정하거나 반박하다",
+      "zh": "否认或反驳",
+      "hi": "अस्वीकार करना या खंडन करना"
+    }
+  },
+  {
+    "id": 45,
+    "word": "gossamer",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "light, delicate, insubstantial",
+    "example": "The professor used the word gossamer in context.",
+    "category": "General",
+    "translations": {
+      "ko": "가볍고, 섬세하고, 실체가 없다",
+      "zh": "轻盈、精致、轻薄",
+      "hi": "हल्का, नाजुक, सारहीन"
+    }
+  },
+  {
+    "id": 46,
+    "word": "grandiloquent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "pompous in speech",
+    "example": "The professor used the word grandiloquent in context.",
+    "category": "General",
+    "translations": {
+      "ko": "말솜씨가 거만하다",
+      "zh": "说话傲慢",
+      "hi": "भाषण में आडंबरपूर्ण"
+    }
+  },
+  {
+    "id": 50,
+    "word": "halcyon",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "happy, golden, peaceful",
+    "example": "The professor used the word halcyon in context.",
+    "category": "General",
+    "translations": {
+      "ko": "행복하고, 황금빛이고, 평화로운",
+      "zh": "快乐、金色、宁静",
+      "hi": "खुशहाल, सुनहरा, शांतिपूर्ण"
+    }
+  },
+  {
+    "id": 74,
+    "word": "controvert",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to deny truth of",
+    "example": "The situation demanded a controvert response.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 부정하다",
+      "zh": "否认真相",
+      "hi": "सत्य को नकारना"
+    }
+  },
+  {
+    "id": 75,
+    "word": "contumacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly disobedient",
+    "example": "The situation demanded a contumacious response.",
+    "category": "General",
+    "translations": {
+      "ko": "고집스럽게 불복종하는",
+      "zh": "顽固不服从",
+      "hi": "हठपूर्वक अवज्ञाकारी"
+    }
+  },
+  {
+    "id": 93,
+    "word": "countermand",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to revoke order",
+    "example": "The situation demanded a countermand response.",
+    "category": "General",
+    "translations": {
+      "ko": "명령을 취소하다",
+      "zh": "撤销命令",
+      "hi": "आदेश रद्द करने के लिए"
+    }
+  },
+  {
+    "id": 119,
+    "word": "cupidity",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "greed for money",
+    "example": "The situation demanded a cupidity response.",
+    "category": "General",
+    "translations": {
+      "ko": "돈에 대한 탐욕",
+      "zh": "对金钱的贪婪",
+      "hi": "पैसे का लालच"
+    }
+  },
+  {
+    "id": 134,
+    "word": "declaim",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to speak in rhetorical way",
+    "example": "The situation demanded a declaim response.",
+    "category": "General",
+    "translations": {
+      "ko": "수사적인 방식으로 말하다",
+      "zh": "以修辞的方式说话",
+      "hi": "अलंकारिक ढंग से बोलना"
+    }
+  },
+  {
+    "id": 136,
+    "word": "decorous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in keeping with good taste",
+    "example": "The situation demanded a decorous response.",
+    "category": "General",
+    "translations": {
+      "ko": "좋은 취향에 맞춰",
+      "zh": "符合良好品味",
+      "hi": "अच्छे स्वाद के अनुरूप"
+    }
+  },
+  {
+    "id": 157,
+    "word": "deify",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to worship as god",
+    "example": "The analysis revealed a deify pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "신으로 숭배하다",
+      "zh": "崇拜神",
+      "hi": "भगवान के रूप में पूजा करना"
+    }
+  },
+  {
+    "id": 160,
+    "word": "deleterious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "causing harm",
+    "example": "The analysis revealed a deleterious pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "해를 끼치는",
+      "zh": "造成伤害",
+      "hi": "के कारण नुकसान"
+    }
+  },
+  {
+    "id": 177,
+    "word": "denizen",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "inhabitant or occupant",
+    "example": "The analysis revealed a denizen pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "거주자 또는 점유자",
+      "zh": "居住者或住户",
+      "hi": "निवासी या कब्जेदार"
+    }
+  },
+  {
+    "id": 194,
+    "word": "derogate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to detract from",
+    "example": "The analysis revealed a derogate pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "~을 깎아내리다",
+      "zh": "削弱",
+      "hi": "से ध्यान भटकाने के लिए"
+    }
+  },
+  {
+    "id": 206,
+    "word": "desultory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "lacking plan or purpose",
+    "example": "The analysis revealed a desultory pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "계획이나 목적이 없는",
+      "zh": "缺乏计划或目的",
+      "hi": "योजना या उद्देश्य का अभाव"
+    }
+  },
+  {
+    "id": 220,
+    "word": "dialectic",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "art of investigating truth",
+    "example": "The analysis revealed a dialectic pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 탐구하는 기술",
+      "zh": "探寻真相的艺术",
+      "hi": "सत्य की खोज करने की कला"
+    }
+  },
+  {
+    "id": 230,
+    "word": "dilatory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "slow to act",
+    "example": "The analysis revealed a dilatory pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "행동이 느리다",
+      "zh": "行动迟缓",
+      "hi": "कार्रवाई करने में धीमा"
+    }
+  },
+  {
+    "id": 238,
+    "word": "dirge",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "mournful song",
+    "example": "The analysis revealed a dirge pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "슬픈 노래",
+      "zh": "哀歌",
+      "hi": "शोकगीत"
+    }
+  },
+  {
+    "id": 242,
+    "word": "disapprobation",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "strong disapproval",
+    "example": "The analysis revealed a disapprobation pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "강한 반대",
+      "zh": "强烈反对",
+      "hi": "कड़ी अस्वीकृति"
+    }
+  },
+  {
+    "id": 249,
+    "word": "discombobulate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to confuse or disconcert",
+    "example": "The analysis revealed a discombobulate pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "혼란스럽게 하거나 당황하게 하다",
+      "zh": "使困惑或不安",
+      "hi": "भ्रमित करना या विचलित करना"
+    }
+  },
+  {
+    "id": 250,
+    "word": "discomfit",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make uneasy",
+    "example": "The analysis revealed a discomfit pattern.",
+    "category": "General",
+    "translations": {
+      "ko": "불안하게 만들다",
+      "zh": "使人不安",
+      "hi": "बेचैन करना"
+    }
+  },
+  {
+    "id": 262,
+    "word": "discursive",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "digressing from subject",
+    "example": "The discursive approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "주제에서 벗어난 이야기",
+      "zh": "跑题了",
+      "hi": "विषय से भटकना"
+    }
+  },
+  {
+    "id": 268,
+    "word": "disgorge",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to pour forth",
+    "example": "The disgorge approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "쏟아붓다",
+      "zh": "倾泻而出",
+      "hi": "उड़ेलना"
+    }
+  },
+  {
+    "id": 311,
+    "word": "dissolute",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "lacking moral restraint",
+    "example": "The dissolute approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적 자제력이 부족함",
+      "zh": "缺乏道德约束",
+      "hi": "नैतिक संयम का अभाव"
+    }
+  },
+  {
+    "id": 340,
+    "word": "doleful",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing sorrow",
+    "example": "The doleful approach led to unexpected results.",
+    "category": "General",
+    "translations": {
+      "ko": "슬픔을 표현하며",
+      "zh": "表达悲伤",
+      "hi": "शोक व्यक्त करना"
+    }
+  },
+  {
+    "id": 352,
+    "word": "droll",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "amusing in odd way",
+    "example": "Her droll demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "묘하게 재미있다",
+      "zh": "以一种奇特的方式令人发笑",
+      "hi": "अजीब तरीके से मनोरंजक"
+    }
+  },
+  {
+    "id": 370,
+    "word": "edifice",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "large imposing building",
+    "example": "Her edifice demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "크고 웅장한 건물",
+      "zh": "宏伟的大型建筑",
+      "hi": "विशाल और भव्य इमारत"
+    }
+  },
+  {
+    "id": 372,
+    "word": "effectuate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to put into force",
+    "example": "Her effectuate demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "시행하다",
+      "zh": "生效",
+      "hi": "लागू करना"
+    }
+  },
+  {
+    "id": 374,
+    "word": "effete",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "affected or overrefined",
+    "example": "Her effete demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "영향을 받았거나 지나치게 정제된",
+      "zh": "受影响或过度精炼",
+      "hi": "प्रभावित या अतिपरिष्कृत"
+    }
+  },
+  {
+    "id": 376,
+    "word": "effrontery",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "insolent boldness",
+    "example": "Her effrontery demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "뻔뻔스러운 대담함",
+      "zh": "傲慢的胆大妄为",
+      "hi": "उद्दंड दुस्साहस"
+    }
+  },
+  {
+    "id": 377,
+    "word": "effulgent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "shining brightly",
+    "example": "Her effulgent demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "밝게 빛나다",
+      "zh": "闪闪发光",
+      "hi": "काफी तेज चमकना"
+    }
+  },
+  {
+    "id": 388,
+    "word": "elocution",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "skill of clear speech",
+    "example": "Her elocution demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "명확한 언어 구사 능력",
+      "zh": "清晰的演讲能力",
+      "hi": "स्पष्ट बोलने का कौशल"
+    }
+  },
+  {
+    "id": 408,
+    "word": "emend",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make corrections to",
+    "example": "Her emend demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "수정하기 위해",
+      "zh": "进行更正",
+      "hi": "सुधार करने के लिए"
+    }
+  },
+  {
+    "id": 413,
+    "word": "emollient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having softening effect",
+    "example": "Her emollient demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "부드럽게 하는 효과를 지닌",
+      "zh": "具有软化作用",
+      "hi": "नरम प्रभाव डालने वाला"
+    }
+  },
+  {
+    "id": 432,
+    "word": "enfeeble",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make weak",
+    "example": "Her enfeeble demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "약하게 만들다",
+      "zh": "使弱",
+      "hi": "कमजोर बनाना"
+    }
+  },
+  {
+    "id": 445,
+    "word": "ennui",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "feeling of listlessness",
+    "example": "Her ennui demeanor impressed everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "무기력감",
+      "zh": "倦怠感",
+      "hi": "उदासी का एहसास"
+    }
+  },
+  {
+    "id": 466,
+    "word": "epicure",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who enjoys fine food",
+    "example": "The epicure strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "고급 음식을 즐기는 사람",
+      "zh": "喜欢美食的人",
+      "hi": "बढ़िया भोजन का आनंद लेने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 467,
+    "word": "epigram",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "pithy saying",
+    "example": "The epigram strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "간결한 말",
+      "zh": "精辟的格言",
+      "hi": "संक्षिप्त कथन"
+    }
+  },
+  {
+    "id": 470,
+    "word": "equable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "calm and even-tempered",
+    "example": "The equable strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "차분하고 온화한",
+      "zh": "冷静且性情温和",
+      "hi": "शांत और समभाव"
+    }
+  },
+  {
+    "id": 479,
+    "word": "errant",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "erring or straying",
+    "example": "The errant strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못을 저지르거나 벗어나는",
+      "zh": "犯错或偏离",
+      "hi": "गलती करना या भटक जाना"
+    }
+  },
+  {
+    "id": 497,
+    "word": "evanescent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "soon passing out of sight",
+    "example": "The evanescent strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "곧 시야에서 사라졌다",
+      "zh": "很快便消失在视线之外",
+      "hi": "जल्द ही आंखों से ओझल हो जाएगा"
+    }
+  },
+  {
+    "id": 501,
+    "word": "evince",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to reveal presence of",
+    "example": "The evince strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "존재를 드러내기 위해",
+      "zh": "揭示存在",
+      "hi": "उपस्थिति प्रकट करने के लिए"
+    }
+  },
+  {
+    "id": 517,
+    "word": "excoriate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to criticize severely",
+    "example": "The excoriate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "심하게 비판하다",
+      "zh": "严厉批评",
+      "hi": "कड़ी आलोचना करना"
+    }
+  },
+  {
+    "id": 518,
+    "word": "exculpate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to show not guilty",
+    "example": "The exculpate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "무죄를 입증하기 위해",
+      "zh": "证明无罪",
+      "hi": "निर्दोष साबित करने के लिए"
+    }
+  },
+  {
+    "id": 520,
+    "word": "execrable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "extremely bad",
+    "example": "The execrable strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 나쁨",
+      "zh": "极其糟糕",
+      "hi": "बेहद बुरा"
+    }
+  },
+  {
+    "id": 531,
+    "word": "exigent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "pressing or demanding",
+    "example": "The exigent strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "압박감이나 요구가 많은",
+      "zh": "迫切的或要求的",
+      "hi": "दबाव डालने वाला या मांग करने वाला"
+    }
+  },
+  {
+    "id": 537,
+    "word": "expatiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to speak or write at length",
+    "example": "The expatiate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "길게 말하거나 길게 쓰다",
+      "zh": "长篇大论地说话或写作",
+      "hi": "विस्तार से बोलना या लिखना"
+    }
+  },
+  {
+    "id": 543,
+    "word": "expiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to atone for guilt",
+    "example": "The expiate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "죄책감을 속죄하기 위해",
+      "zh": "为了赎罪",
+      "hi": "अपराध बोध का प्रायश्चित करने के लिए"
+    }
+  },
+  {
+    "id": 548,
+    "word": "expropriate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to take away from owner",
+    "example": "The expropriate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "주인에게서 빼앗다",
+      "zh": "从主人那里拿走",
+      "hi": "मालिक से छीन लेना"
+    }
+  },
+  {
+    "id": 550,
+    "word": "expurgate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to remove objectionable matter",
+    "example": "The expurgate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 부분을 제거하기 위해",
+      "zh": "清除不良物质",
+      "hi": "आपत्तिजनक सामग्री को हटाने के लिए"
+    }
+  },
+  {
+    "id": 552,
+    "word": "extant",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "still in existence",
+    "example": "The extant condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "여전히 존재한다",
+      "zh": "仍然存在",
+      "hi": "अभी भी अस्तित्व में है"
+    }
+  },
+  {
+    "id": 553,
+    "word": "extemporaneous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "spoken without preparation",
+    "example": "The extemporaneous condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "준비 없이 말하는 것",
+      "zh": "未经准备的发言",
+      "hi": "बिना तैयारी के बोला गया"
+    }
+  },
+  {
+    "id": 556,
+    "word": "extenuate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make offense seem less serious",
+    "example": "The extenuate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "범죄의 심각성을 낮추기 위해",
+      "zh": "使犯罪行为看起来不那么严重",
+      "hi": "अपराध को कम गंभीर दिखाने के लिए"
+    }
+  },
+  {
+    "id": 562,
+    "word": "extirpate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to root out and destroy",
+    "example": "The extirpate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "뿌리 뽑고 파괴하다",
+      "zh": "根除并摧毁",
+      "hi": "जड़ से उखाड़ फेंकना और नष्ट करना"
+    }
+  },
+  {
+    "id": 583,
+    "word": "factious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "relating to faction",
+    "example": "The factious condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "파벌과 관련된",
+      "zh": "与派系有关",
+      "hi": "गुट से संबंधित"
+    }
+  },
+  {
+    "id": 587,
+    "word": "fallow",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "plowed but left unsown",
+    "example": "The fallow condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "밭을 갈았지만 씨를 뿌리지 않았다",
+      "zh": "已耕地但未播种。",
+      "hi": "खेत जोत दिया गया लेकिन बीज नहीं बोए गए"
+    }
+  },
+  {
+    "id": 597,
+    "word": "fatuous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "silly and pointless",
+    "example": "The fatuous condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "어리석고 무의미한",
+      "zh": "愚蠢且毫无意义",
+      "hi": "मूर्खतापूर्ण और निरर्थक"
+    }
+  },
+  {
+    "id": 603,
+    "word": "feckless",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "lacking initiative",
+    "example": "The feckless condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "주도성이 부족함",
+      "zh": "缺乏主动性",
+      "hi": "पहल की कमी"
+    }
+  },
+  {
+    "id": 604,
+    "word": "fecund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "producing offspring",
+    "example": "The fecund condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "자손을 생산하다",
+      "zh": "产生后代",
+      "hi": "संतान उत्पन्न करना"
+    }
+  },
+  {
+    "id": 607,
+    "word": "felicitous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "well chosen or apt",
+    "example": "The felicitous condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "잘 선택되었거나 적절한",
+      "zh": "精心挑选或恰当",
+      "hi": "अच्छी तरह से चुना गया या उपयुक्त"
+    }
+  },
+  {
+    "id": 615,
+    "word": "fervid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "intensely enthusiastic",
+    "example": "The fervid condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 열정적인",
+      "zh": "热情洋溢",
+      "hi": "अत्यंत उत्साही"
+    }
+  },
+  {
+    "id": 628,
+    "word": "filibuster",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "action of obstructing progress",
+    "example": "The filibuster condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "진행을 방해하는 행위",
+      "zh": "阻碍进展的行为",
+      "hi": "प्रगति में बाधा डालने की कार्रवाई"
+    }
+  },
+  {
+    "id": 652,
+    "word": "foible",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "minor weakness in character",
+    "example": "The foible nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "성격상의 사소한 약점",
+      "zh": "性格上的小缺点",
+      "hi": "चरित्र में मामूली कमजोरी"
+    }
+  },
+  {
+    "id": 654,
+    "word": "foist",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to impose unwanted thing",
+    "example": "The foist nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "원치 않는 것을 강요하다",
+      "zh": "强加不想要的东西",
+      "hi": "अवांछित वस्तु थोपना"
+    }
+  },
+  {
+    "id": 657,
+    "word": "foppish",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "excessively concerned with appearance",
+    "example": "The foppish nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "외모에 지나치게 신경 쓰는",
+      "zh": "过分注重外表",
+      "hi": "दिखावे को लेकर अत्यधिक चिंतित"
+    }
+  },
+  {
+    "id": 687,
+    "word": "fractious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "irritable and quarrelsome",
+    "example": "The fractious nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증스럽고 다투기를 좋아하는",
+      "zh": "易怒且爱争吵",
+      "hi": "चिड़चिड़ा और झगड़ालू"
+    }
+  },
+  {
+    "id": 709,
+    "word": "fulminate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to express vehement protest",
+    "example": "The fulminate nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "격렬한 항의를 표명하다",
+      "zh": "表达强烈抗议",
+      "hi": "कड़ा विरोध व्यक्त करना"
+    }
+  },
+  {
+    "id": 710,
+    "word": "fulsome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "excessively flattering",
+    "example": "The fulsome nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 아첨하는",
+      "zh": "过分奉承",
+      "hi": "अत्यधिक चापलूसी"
+    }
+  },
+  {
+    "id": 714,
+    "word": "funereal",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having characteristics of funeral",
+    "example": "The funereal nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "장례식의 특징을 지닌",
+      "zh": "具有葬礼的特征",
+      "hi": "अंत्येष्टि की विशेषताओं वाला"
+    }
+  },
+  {
+    "id": 715,
+    "word": "furbish",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to restore to good condition",
+    "example": "The furbish nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "양호한 상태로 복원하다",
+      "zh": "恢复良好状态",
+      "hi": "अच्छी स्थिति में वापस लाना"
+    }
+  },
+  {
+    "id": 721,
+    "word": "gadfly",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "annoying person",
+    "example": "The gadfly nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증나는 사람",
+      "zh": "烦人的人",
+      "hi": "परेशान करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 723,
+    "word": "gainsay",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to deny or contradict",
+    "example": "The gainsay nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "부정하거나 반박하다",
+      "zh": "否认或反驳",
+      "hi": "अस्वीकार करना या खंडन करना"
+    }
+  },
+  {
+    "id": 757,
+    "word": "gibe",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make insulting remarks",
+    "example": "They demonstrated a gibe response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "모욕적인 발언을 하다",
+      "zh": "发表侮辱性言论",
+      "hi": "अपमानजनक टिप्पणी करना"
+    }
+  },
+  {
+    "id": 759,
+    "word": "gird",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to encircle or bind",
+    "example": "They demonstrated a gird response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "둘러싸거나 묶다",
+      "zh": "包围或捆绑",
+      "hi": "घेरना या बांधना"
+    }
+  },
+  {
+    "id": 781,
+    "word": "gossamer",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "used to refer to something delicate",
+    "example": "They demonstrated a gossamer response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "섬세한 것을 가리킬 때 사용됩니다.",
+      "zh": "用来指精致的事物",
+      "hi": "किसी नाजुक चीज के संदर्भ में प्रयुक्त"
+    }
+  },
+  {
+    "id": 790,
+    "word": "grandiloquent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "pompous in language",
+    "example": "They demonstrated a grandiloquent response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "언어적으로 거만한",
+      "zh": "语言傲慢",
+      "hi": "भाषा में आडंबरपूर्ण"
+    }
+  },
+  {
+    "id": 820,
+    "word": "halcyon",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "denoting happy time",
+    "example": "They demonstrated a halcyon response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "행복한 시간을 나타냄",
+      "zh": "表示快乐时光",
+      "hi": "खुशी के समय का प्रतीक"
+    }
+  },
+  {
+    "id": 829,
+    "word": "harbinger",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person or thing announcing approach",
+    "example": "They demonstrated a harbinger response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "접근 방식을 알리는 사람 또는 사물",
+      "zh": "人或物宣布接近",
+      "hi": "किसी व्यक्ति या वस्तु द्वारा आगमन की घोषणा करना"
+    }
+  },
+  {
+    "id": 832,
+    "word": "harken",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to listen attentively",
+    "example": "They demonstrated a harken response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "주의 깊게 듣다",
+      "zh": "认真倾听",
+      "hi": "ध्यानपूर्वक सुनना"
+    }
+  },
+  {
+    "id": 836,
+    "word": "harridan",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "strict bossy woman",
+    "example": "They demonstrated a harridan response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "엄격하고 권위적인 여자",
+      "zh": "严厉专横的女人",
+      "hi": "सख्त और दबंग महिला"
+    }
+  },
+  {
+    "id": 849,
+    "word": "hector",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to talk in bullying way",
+    "example": "They demonstrated a hector response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "괴롭히는 말투로 말하다",
+      "zh": "用欺凌的方式说话",
+      "hi": "धमकाने वाले अंदाज में बात करना"
+    }
+  },
+  {
+    "id": 852,
+    "word": "hegemony",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "leadership or dominance",
+    "example": "The hegemony character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "리더십 또는 지배력",
+      "zh": "领导地位或支配地位",
+      "hi": "नेतृत्व या प्रभुत्व"
+    }
+  },
+  {
+    "id": 857,
+    "word": "hermetic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "insulated or protected",
+    "example": "The hermetic character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "절연 또는 보호됨",
+      "zh": "绝缘或保护",
+      "hi": "इन्सुलेटेड या संरक्षित"
+    }
+  },
+  {
+    "id": 858,
+    "word": "heterodox",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not conforming to standard",
+    "example": "The heterodox character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "표준에 부합하지 않음",
+      "zh": "不符合标准",
+      "hi": "मानक के अनुरूप नहीं"
+    }
+  },
+  {
+    "id": 860,
+    "word": "hew",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to chop with axe",
+    "example": "The hew character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "도끼로 자르다",
+      "zh": "用斧头砍",
+      "hi": "कुल्हाड़ी से काटना"
+    }
+  },
+  {
+    "id": 862,
+    "word": "hidebound",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling to change",
+    "example": "The hidebound character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "변화를 원하지 않음",
+      "zh": "不愿改变",
+      "hi": "परिवर्तन के लिए अनिच्छुक"
+    }
+  },
+  {
+    "id": 871,
+    "word": "histrionic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "overly theatrical",
+    "example": "The histrionic character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 연극적인",
+      "zh": "过于戏剧化",
+      "hi": "अत्यधिक नाटकीय"
+    }
+  },
+  {
+    "id": 873,
+    "word": "hoary",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "grayish white",
+    "example": "The hoary character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "회백색",
+      "zh": "灰白色",
+      "hi": "धूसर सफेद"
+    }
+  },
+  {
+    "id": 897,
+    "word": "husbandry",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "management of resources",
+    "example": "The husbandry character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "자원 관리",
+      "zh": "资源管理",
+      "hi": "संसाधनों का प्रबंधन"
+    }
+  },
+  {
+    "id": 912,
+    "word": "ignominy",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "public shame",
+    "example": "The ignominy character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적인 수치심",
+      "zh": "公开羞辱",
+      "hi": "सार्वजनिक शर्मिंदगी"
+    }
+  },
+  {
+    "id": 920,
+    "word": "imbibe",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to drink alcohol",
+    "example": "The imbibe character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "술을 마시다",
+      "zh": "饮酒",
+      "hi": "शराब पीना"
+    }
+  },
+  {
+    "id": 921,
+    "word": "imbroglio",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "extremely confused situation",
+    "example": "The imbroglio character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 혼란스러운 상황",
+      "zh": "极其混乱的局面",
+      "hi": "बेहद उलझन भरी स्थिति"
+    }
+  },
+  {
+    "id": 926,
+    "word": "immemorial",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "originating in distant past",
+    "example": "The immemorial character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "먼 과거에 기원함",
+      "zh": "起源于遥远的过去",
+      "hi": "सुदूर अतीत में उत्पन्न"
+    }
+  },
+  {
+    "id": 932,
+    "word": "immolate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to kill as sacrifice",
+    "example": "The immolate character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "희생 제물로 죽이기",
+      "zh": "为祭而杀",
+      "hi": "बलिदान के रूप में मारना"
+    }
+  },
+  {
+    "id": 935,
+    "word": "immure",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to enclose within walls",
+    "example": "The immure character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "벽으로 둘러싸다",
+      "zh": "用墙体围起来",
+      "hi": "दीवारों के भीतर घेरना"
+    }
+  },
+  {
+    "id": 946,
+    "word": "impecunious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having little money",
+    "example": "The impecunious character of the decision was notable.",
+    "category": "General",
+    "translations": {
+      "ko": "돈이 거의 없다",
+      "zh": "没多少钱",
+      "hi": "कम पैसे होना"
+    }
+  },
+  {
+    "id": 952,
+    "word": "impenitent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not feeling shame",
+    "example": "The outcome was impenitent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "부끄러움을 느끼지 않음",
+      "zh": "不感到羞耻",
+      "hi": "शर्म महसूस न करना"
+    }
+  },
+  {
+    "id": 965,
+    "word": "impiety",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "lack of piety",
+    "example": "The outcome was impiety given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "경건함의 부족",
+      "zh": "缺乏虔诚",
+      "hi": "धर्मपरायणता का अभाव"
+    }
+  },
+  {
+    "id": 967,
+    "word": "impious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not showing respect for god",
+    "example": "The outcome was impious given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "신을 존중하지 않는 것",
+      "zh": "不尊重上帝",
+      "hi": "भगवान के प्रति सम्मान नहीं दिखाना"
+    }
+  },
+  {
+    "id": 976,
+    "word": "impolitic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "failing to be wise",
+    "example": "The outcome was impolitic given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "현명하지 못함",
+      "zh": "缺乏智慧",
+      "hi": "बुद्धिमान होने में असफल होना"
+    }
+  },
+  {
+    "id": 978,
+    "word": "importune",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to harass with requests",
+    "example": "The outcome was importune given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "요구로 괴롭히다",
+      "zh": "用请求进行骚扰",
+      "hi": "अनुरोधों से परेशान करना"
+    }
+  },
+  {
+    "id": 990,
+    "word": "improvident",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not providing for future",
+    "example": "The outcome was improvident given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "미래를 대비하지 않음",
+      "zh": "没有为未来做好准备",
+      "hi": "भविष्य के लिए प्रावधान नहीं करना"
+    }
+  },
+  {
+    "id": 1014,
+    "word": "inchoate",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "just begun and undeveloped",
+    "example": "The outcome was inchoate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "이제 막 시작되었고 아직 개발되지 않았습니다.",
+      "zh": "刚刚起步，尚未开发",
+      "hi": "अभी शुरू हुआ है और अविकसित है"
+    }
+  },
+  {
+    "id": 1017,
+    "word": "incipient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in initial stage",
+    "example": "The outcome was incipient given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "초기 단계",
+      "zh": "初始阶段",
+      "hi": "प्रारंभिक चरण में"
+    }
+  },
+  {
+    "id": 1041,
+    "word": "indecorous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not in keeping with standards",
+    "example": "The outcome was indecorous given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "기준에 부합하지 않음",
+      "zh": "不符合标准",
+      "hi": "मानकों के अनुरूप नहीं"
+    }
+  },
+  {
+    "id": 1042,
+    "word": "indefatigable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "persisting tirelessly",
+    "example": "The outcome was indefatigable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "지치지 않고 끈질기게 노력하다",
+      "zh": "坚持不懈",
+      "hi": "अथक प्रयास करते हुए"
+    }
+  },
+  {
+    "id": 1052,
+    "word": "hegemony",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "dominance of one group over another",
+    "example": "The hegemony situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "한 집단이 다른 집단을 지배하는 것",
+      "zh": "一个群体对另一个群体的支配地位",
+      "hi": "एक समूह का दूसरे समूह पर प्रभुत्व"
+    }
+  },
+  {
+    "id": 1054,
+    "word": "heterodox",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not conforming to accepted beliefs",
+    "example": "The heterodox situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "통념에 부합하지 않음",
+      "zh": "不符合公认的信仰",
+      "hi": "स्वीकृत मान्यताओं के अनुरूप नहीं होना"
+    }
+  },
+  {
+    "id": 1060,
+    "word": "ignominious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "deserving public disgrace",
+    "example": "The ignominious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적인 망신을 당할 만한",
+      "zh": "理应受到公开羞辱",
+      "hi": "सार्वजनिक अपमान के योग्य"
+    }
+  },
+  {
+    "id": 1063,
+    "word": "impecunious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having little or no money",
+    "example": "The impecunious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "돈이 거의 없거나 전혀 없는",
+      "zh": "几乎没有钱或没有钱",
+      "hi": "बहुत कम या बिल्कुल भी पैसा न होना"
+    }
+  },
+  {
+    "id": 1069,
+    "word": "inchoate",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "just begun; not fully formed",
+    "example": "The inchoate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이제 막 시작했을 뿐, 아직 완전히 형성되지 않았습니다.",
+      "zh": "刚刚开始；尚未完全形成",
+      "hi": "अभी शुरू हुआ है; पूरी तरह से विकसित नहीं हुआ है"
+    }
+  },
+  {
+    "id": 1072,
+    "word": "indefatigable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "persisting tirelessly",
+    "example": "The indefatigable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "지치지 않고 끈질기게 노력하다",
+      "zh": "坚持不懈",
+      "hi": "अथक प्रयास करते हुए"
+    }
+  },
+  {
+    "id": 1075,
+    "word": "ineffable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "too great to be expressed",
+    "example": "The ineffable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "말로 다 표현할 수 없을 만큼 훌륭합니다.",
+      "zh": "太过伟大，难以言表。",
+      "hi": "इतना महान कि व्यक्त नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 1076,
+    "word": "ineluctable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to avoid",
+    "example": "The ineluctable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "피할 수 없다",
+      "zh": "无法避免",
+      "hi": "टालना असंभव है"
+    }
+  },
+  {
+    "id": 1087,
+    "word": "inure",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to accustom to something unpleasant",
+    "example": "The inure situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 것에 익숙해지다",
+      "zh": "习惯不愉快的事情",
+      "hi": "किसी अप्रिय चीज़ की आदत डालना"
+    }
+  },
+  {
+    "id": 1088,
+    "word": "invective",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "insulting abusive language",
+    "example": "The invective situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "모욕적인 언어",
+      "zh": "侮辱性辱骂性语言",
+      "hi": "अपमानजनक अपशब्द"
+    }
+  },
+  {
+    "id": 1094,
+    "word": "jejune",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "naive, simplistic, dull",
+    "example": "The jejune situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "순진하고, 단순하고, 지루한",
+      "zh": "天真、简单、乏味",
+      "hi": "भोला, सरल, नीरस"
+    }
+  },
+  {
+    "id": 1098,
+    "word": "lassitude",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "physical or mental weariness",
+    "example": "The lassitude situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "육체적 또는 정신적 피로",
+      "zh": "身体或精神疲劳",
+      "hi": "शारीरिक या मानसिक थकावट"
+    }
+  },
+  {
+    "id": 1113,
+    "word": "ineffable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "too great to be expressed",
+    "example": "The ineffable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "말로 다 표현할 수 없을 만큼 훌륭합니다.",
+      "zh": "太过伟大，难以言表。",
+      "hi": "इतना महान कि व्यक्त नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 1115,
+    "word": "ineluctable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be resisted",
+    "example": "The ineluctable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "저항할 수 없는",
+      "zh": "无法抗拒",
+      "hi": "जिसका प्रतिरोध नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 1121,
+    "word": "inexorable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to stop",
+    "example": "The inexorable aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "멈출 수 없다",
+      "zh": "无法阻止",
+      "hi": "रोकना असंभव है"
+    }
+  },
+  {
+    "id": 1149,
+    "word": "inglorious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "causing shame",
+    "example": "The inglorious aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "수치심을 유발함",
+      "zh": "令人羞耻",
+      "hi": "शर्मिंदगी का कारण"
+    }
+  },
+  {
+    "id": 1156,
+    "word": "iniquitous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "grossly unfair",
+    "example": "The iniquitous aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 불공평함",
+      "zh": "极不公平",
+      "hi": "घोर अन्यायपूर्ण"
+    }
+  },
+  {
+    "id": 1180,
+    "word": "insouciance",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "casual lack of concern",
+    "example": "The insouciance aspect was crucial to the argument.",
+    "category": "General",
+    "translations": {
+      "ko": "무관심한 태도",
+      "zh": "漫不经心的漠不关心",
+      "hi": "लापरवाही से चिंता की कमी"
+    }
+  },
+  {
+    "id": 1203,
+    "word": "intemperate",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having no self-control",
+    "example": "The intemperate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자기 통제력이 없는",
+      "zh": "缺乏自制力",
+      "hi": "आत्म-नियंत्रण का अभाव"
+    }
+  },
+  {
+    "id": 1207,
+    "word": "interdict",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to prohibit or forbid",
+    "example": "The interdict quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "금지하다, 저지하다",
+      "zh": "禁止或禁止",
+      "hi": "मना करना या निषेध करना"
+    }
+  },
+  {
+    "id": 1210,
+    "word": "interlocutor",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who takes part in dialogue",
+    "example": "The interlocutor quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "대화에 참여하는 사람",
+      "zh": "参与对话的人",
+      "hi": "संवाद में भाग लेने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1211,
+    "word": "interloper",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who intrudes",
+    "example": "The interloper quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "침입자",
+      "zh": "闯入者",
+      "hi": "घुसपैठ करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1217,
+    "word": "interpolate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to insert between parts",
+    "example": "The interpolate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부품 사이에 삽입하기 위해",
+      "zh": "插入部件之间",
+      "hi": "भागों के बीच डालने के लिए"
+    }
+  },
+  {
+    "id": 1241,
+    "word": "inure",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to accustom to something unpleasant",
+    "example": "The inure quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 것에 익숙해지다",
+      "zh": "习惯于不愉快的事情",
+      "hi": "किसी अप्रिय चीज़ की आदत डालना"
+    }
+  },
+  {
+    "id": 1248,
+    "word": "invective",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "insulting abusive language",
+    "example": "The invective quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "모욕적인 언어",
+      "zh": "侮辱性辱骂性语言",
+      "hi": "अपमानजनक अपशब्द"
+    }
+  },
+  {
+    "id": 1249,
+    "word": "inveigh",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to speak against strongly",
+    "example": "The inveigh quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강력하게 반대하다",
+      "zh": "强烈反对",
+      "hi": "जोरदार विरोध करने के लिए"
+    }
+  },
+  {
+    "id": 1250,
+    "word": "inveigle",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to persuade by deception",
+    "example": "The inveigle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "속임수로 설득하다",
+      "zh": "以欺骗手段说服",
+      "hi": "छल द्वारा राजी करना"
+    }
+  },
+  {
+    "id": 1255,
+    "word": "invidious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "likely to arouse resentment",
+    "example": "The invidious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "반감을 불러일으킬 가능성이 높음",
+      "zh": "可能引起不满",
+      "hi": "जिससे नाराजगी उत्पन्न होने की संभावना है"
+    }
+  },
+  {
+    "id": 1266,
+    "word": "iridescent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing luminous colors",
+    "example": "The iridescent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "빛나는 색상을 보여줍니다",
+      "zh": "呈现出明亮的色彩",
+      "hi": "चमकीले रंग प्रदर्शित करना"
+    }
+  },
+  {
+    "id": 1274,
+    "word": "irremediable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to remedy",
+    "example": "The irremediable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "고칠 수 없다",
+      "zh": "无法补救",
+      "hi": "इसका उपचार असंभव है"
+    }
+  },
+  {
+    "id": 1291,
+    "word": "jejune",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "naive and simplistic",
+    "example": "The jejune quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "순진하고 단순한",
+      "zh": "天真而单纯",
+      "hi": "भोला और सरल"
+    }
+  },
+  {
+    "id": 1294,
+    "word": "jingoist",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "extreme patriot",
+    "example": "The jingoist quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극단적 애국자",
+      "zh": "极端爱国者",
+      "hi": "चरम देशभक्त"
+    }
+  },
+  {
+    "id": 1296,
+    "word": "jocund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "cheerful and lighthearted",
+    "example": "The jocund quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쾌활하고 쾌활한",
+      "zh": "开朗轻松",
+      "hi": "हंसमुख और हंसमुख"
+    }
+  },
+  {
+    "id": 1301,
+    "word": "juggernaut",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "huge and overwhelming force",
+    "example": "The juggernaut quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "거대하고 압도적인 힘",
+      "zh": "巨大而压倒性的力量",
+      "hi": "विशाल और जबरदस्त शक्ति"
+    }
+  },
+  {
+    "id": 1307,
+    "word": "knave",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "dishonest or unscrupulous man",
+    "example": "The knave quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부정직하거나 파렴치한 사람",
+      "zh": "不诚实或不择手段的人",
+      "hi": "बेईमान या कुटिल व्यक्ति"
+    }
+  },
+  {
+    "id": 1311,
+    "word": "lachrymose",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "tearful or sad",
+    "example": "The lachrymose quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "눈물이 나거나 슬픈",
+      "zh": "泪流满面或悲伤",
+      "hi": "आंसू भरी या उदास"
+    }
+  },
+  {
+    "id": 1315,
+    "word": "laggard",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who falls behind",
+    "example": "The laggard quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "뒤처지는 사람",
+      "zh": "落后的人",
+      "hi": "जो व्यक्ति पीछे रह जाता है"
+    }
+  },
+  {
+    "id": 1322,
+    "word": "largesse",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "generosity in giving",
+    "example": "The largesse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "나눔에 있어서의 관대함",
+      "zh": "慷慨奉献",
+      "hi": "दान देने में उदारता"
+    }
+  },
+  {
+    "id": 1323,
+    "word": "lascivious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "feeling or showing sexual desire",
+    "example": "The lascivious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "성적 욕구를 느끼거나 표현하는 것",
+      "zh": "性欲或性冲动",
+      "hi": "यौन इच्छा महसूस करना या दिखाना"
+    }
+  },
+  {
+    "id": 1343,
+    "word": "libertine",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person devoid of moral restraints",
+    "example": "The libertine quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적 제약이 없는 사람",
+      "zh": "缺乏道德约束的人",
+      "hi": "नैतिक बंधनों से रहित व्यक्ति"
+    }
+  },
+  {
+    "id": 1344,
+    "word": "licentious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "promiscuous and unprincipled",
+    "example": "The licentious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "문란하고 원칙 없는",
+      "zh": "滥交且毫无原则",
+      "hi": "अनैतिक और सिद्धांतहीन"
+    }
+  },
+  {
+    "id": 1345,
+    "word": "limpid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "clear and transparent",
+    "example": "The limpid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하고 투명함",
+      "zh": "清晰透明",
+      "hi": "स्पष्ट और पारदर्शी"
+    }
+  },
+  {
+    "id": 1360,
+    "word": "lugubrious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "looking or sounding sad",
+    "example": "The lugubrious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "슬픈 표정이나 목소리를 내는 것",
+      "zh": "看起来或听起来很悲伤",
+      "hi": "उदास दिखना या उदास आवाज होना"
+    }
+  },
+  {
+    "id": 1371,
+    "word": "machination",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "scheming or crafty plot",
+    "example": "The machination quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "음모 또는 교활한 계략",
+      "zh": "阴谋诡计或狡猾的阴谋",
+      "hi": "षड्यंत्रकारी या धूर्त साजिश"
+    }
+  },
+  {
+    "id": 1376,
+    "word": "maladroit",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "ineffective or clumsy",
+    "example": "The maladroit quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "비효율적이거나 서투른",
+      "zh": "无效或笨拙",
+      "hi": "अप्रभावी या अनाड़ी"
+    }
+  },
+  {
+    "id": 1379,
+    "word": "malapropism",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "mistaken use of word",
+    "example": "The malapropism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "단어의 잘못된 사용",
+      "zh": "用词错误",
+      "hi": "शब्द का गलत प्रयोग"
+    }
+  },
+  {
+    "id": 1397,
+    "word": "martinet",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "strict disciplinarian",
+    "example": "The martinet quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "엄격한 규율가",
+      "zh": "严格的纪律执行者",
+      "hi": "कठोर अनुशासक"
+    }
+  },
+  {
+    "id": 1401,
+    "word": "matriculate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to be enrolled in college",
+    "example": "The matriculate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "대학에 등록하기 위해",
+      "zh": "入学就读大学",
+      "hi": "कॉलेज में दाखिला लेने के लिए"
+    }
+  },
+  {
+    "id": 1403,
+    "word": "mawkish",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "sentimental in sickly way",
+    "example": "The mawkish quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "병적으로 감상적이다",
+      "zh": "病态的感伤",
+      "hi": "बीमार तरीके से भावुक"
+    }
+  },
+  {
+    "id": 1414,
+    "word": "mellifluous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "sweet-sounding",
+    "example": "The mellifluous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "듣기 좋은 소리",
+      "zh": "悦耳动听",
+      "hi": "मीठा लग"
+    }
+  },
+  {
+    "id": 1415,
+    "word": "mendacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not telling truth",
+    "example": "The mendacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 말하지 않음",
+      "zh": "不说实话",
+      "hi": "सच नहीं बता रहा"
+    }
+  },
+  {
+    "id": 1416,
+    "word": "mendicant",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "beggar",
+    "example": "The mendicant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "거지",
+      "zh": "乞丐",
+      "hi": "याचक"
+    }
+  },
+  {
+    "id": 1426,
+    "word": "mete",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to dispense or allot",
+    "example": "The mete quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "분배하거나 할당하다",
+      "zh": "分发或分配",
+      "hi": "वितरित करना या आवंटित करना"
+    }
+  },
+  {
+    "id": 1431,
+    "word": "miasma",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "unpleasant atmosphere",
+    "example": "The miasma quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 분위기",
+      "zh": "令人不快的气氛",
+      "hi": "अप्रिय वातावरण"
+    }
+  },
+  {
+    "id": 1433,
+    "word": "mien",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person's manner or bearing",
+    "example": "The mien quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사람의 태도나 자세",
+      "zh": "人的举止或仪态",
+      "hi": "किसी व्यक्ति का व्यवहार या आचरण"
+    }
+  },
+  {
+    "id": 1437,
+    "word": "minatory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing a threat",
+    "example": "The minatory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "위협을 표현하다",
+      "zh": "表达威胁",
+      "hi": "धमकी व्यक्त करना"
+    }
+  },
+  {
+    "id": 1447,
+    "word": "misanthrope",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who dislikes humankind",
+    "example": "The misanthrope quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "인류를 싫어하는 사람",
+      "zh": "厌恶人类的人",
+      "hi": "वह व्यक्ति जो मानव जाति को नापसंद करता है"
+    }
+  },
+  {
+    "id": 1456,
+    "word": "misogynist",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who dislikes women",
+    "example": "The misogynist quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "여자를 싫어하는 사람",
+      "zh": "不喜欢女性的人",
+      "hi": "वह व्यक्ति जो महिलाओं को नापसंद करता है"
+    }
+  },
+  {
+    "id": 1470,
+    "word": "mordant",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having sharp quality",
+    "example": "The mordant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "선명한 품질을 가지고",
+      "zh": "具有清晰的品质",
+      "hi": "तेज गुणवत्ता वाला"
+    }
+  },
+  {
+    "id": 1472,
+    "word": "moribund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in terminal decline",
+    "example": "The moribund quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "말기 쇠퇴",
+      "zh": "终末衰落",
+      "hi": "अंतिम पतन की ओर"
+    }
+  },
+  {
+    "id": 1479,
+    "word": "multifarious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "many and various",
+    "example": "The multifarious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다양하고 많은",
+      "zh": "许多种类",
+      "hi": "अनेक और विविध"
+    }
+  },
+  {
+    "id": 1481,
+    "word": "munificent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "very generous",
+    "example": "The munificent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 관대한",
+      "zh": "非常慷慨",
+      "hi": "बहुत उदार"
+    }
+  },
+  {
+    "id": 1502,
+    "word": "neologism",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "newly coined word",
+    "example": "The neologism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "새로 만들어진 단어",
+      "zh": "新造词",
+      "hi": "नवनिर्मित शब्द"
+    }
+  },
+  {
+    "id": 1510,
+    "word": "nihilism",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "rejection of principles",
+    "example": "The nihilism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "원칙의 거부",
+      "zh": "拒绝原则",
+      "hi": "सिद्धांतों की अस्वीकृति"
+    }
+  },
+  {
+    "id": 1513,
+    "word": "noisome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having offensive smell",
+    "example": "The noisome quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 냄새가 나는",
+      "zh": "散发难闻的气味",
+      "hi": "दुर्गंधयुक्त"
+    }
+  },
+  {
+    "id": 1519,
+    "word": "nonpareil",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having no match or equal",
+    "example": "The nonpareil quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "상대나 동등한 대상이 없음",
+      "zh": "没有匹敌或同等条件",
+      "hi": "जिसका कोई मेल या बराबरी न हो"
+    }
+  },
+  {
+    "id": 1532,
+    "word": "obeisance",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "deferential respect",
+    "example": "The obeisance quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공손한 존중",
+      "zh": "恭敬",
+      "hi": "आदरपूर्ण सम्मान"
+    }
+  },
+  {
+    "id": 1540,
+    "word": "obloquy",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "strong public criticism",
+    "example": "The obloquy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강력한 대중적 비판",
+      "zh": "强烈的公众批评",
+      "hi": "जनता की ओर से कड़ी आलोचना"
+    }
+  },
+  {
+    "id": 1546,
+    "word": "obstreperous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "noisy and difficult to control",
+    "example": "The obstreperous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "시끄럽고 제어하기 어렵다",
+      "zh": "噪音大且难以控制",
+      "hi": "शोरगुल भरा और नियंत्रित करना मुश्किल"
+    }
+  },
+  {
+    "id": 1551,
+    "word": "occlude",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to stop or close up",
+    "example": "The occlude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "멈추거나 닫다",
+      "zh": "停止或关闭",
+      "hi": "रोकना या बंद करना"
+    }
+  },
+  {
+    "id": 1566,
+    "word": "opprobrious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing scorn or criticism",
+    "example": "The opprobrious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경멸이나 비판을 표현하다",
+      "zh": "表达蔑视或批评",
+      "hi": "तिरस्कार या आलोचना व्यक्त करना"
+    }
+  },
+  {
+    "id": 1577,
+    "word": "ossify",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to turn into bone",
+    "example": "The ossify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "뼈로 변하다",
+      "zh": "变成骨头",
+      "hi": "हड्डी में बदलना"
+    }
+  },
+  {
+    "id": 1601,
+    "word": "panegyric",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "public speech of praise",
+    "example": "The panegyric quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적인 찬사",
+      "zh": "公开赞扬的演讲",
+      "hi": "सार्वजनिक प्रशंसा भाषण"
+    }
+  },
+  {
+    "id": 1617,
+    "word": "paroxysm",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "sudden attack or outburst",
+    "example": "The paroxysm quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 공격 또는 폭발",
+      "zh": "突然发作或爆发",
+      "hi": "अचानक हमला या विस्फोट"
+    }
+  },
+  {
+    "id": 1619,
+    "word": "parsimonious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling to spend money",
+    "example": "The parsimonious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "돈을 쓰기 싫어함",
+      "zh": "不愿花钱",
+      "hi": "पैसा खर्च करने को तैयार नहीं"
+    }
+  },
+  {
+    "id": 1629,
+    "word": "patrician",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person of high social rank",
+    "example": "The patrician quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사회적 지위가 높은 사람",
+      "zh": "社会地位高的人",
+      "hi": "उच्च सामाजिक पद का व्यक्ति"
+    }
+  },
+  {
+    "id": 1630,
+    "word": "patrimony",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "property inherited from father",
+    "example": "The patrimony quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "아버지로부터 상속받은 재산",
+      "zh": "从父亲那里继承的财产",
+      "hi": "पिता से विरासत में मिली संपत्ति"
+    }
+  },
+  {
+    "id": 1640,
+    "word": "penury",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "extreme poverty",
+    "example": "The penury quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극빈곤",
+      "zh": "极端贫困",
+      "hi": "दर्दनाक गरीबी"
+    }
+  },
+  {
+    "id": 1642,
+    "word": "percipient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having good insight",
+    "example": "The percipient quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "통찰력이 뛰어남",
+      "zh": "具有敏锐的洞察力",
+      "hi": "अच्छी अंतर्दृष्टि होना"
+    }
+  },
+  {
+    "id": 1643,
+    "word": "peremptory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "insisting on immediate attention",
+    "example": "The peremptory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "즉각적인 조치를 요구하며",
+      "zh": "坚持立即关注",
+      "hi": "तत्काल ध्यान देने पर जोर देते हुए"
+    }
+  },
+  {
+    "id": 1645,
+    "word": "perfidious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "deceitful and untrustworthy",
+    "example": "The perfidious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "기만적이고 신뢰할 수 없는",
+      "zh": "欺骗性和不可信赖的",
+      "hi": "कपटी और अविश्वसनीय"
+    }
+  },
+  {
+    "id": 1658,
+    "word": "perspicacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having keen mental perception",
+    "example": "The perspicacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "예리한 정신적 지각력을 지닌",
+      "zh": "拥有敏锐的感知力",
+      "hi": "तीव्र मानसिक बोध क्षमता होना"
+    }
+  },
+  {
+    "id": 1659,
+    "word": "pertinacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "holding firmly to opinion",
+    "example": "The pertinacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자신의 의견을 굳게 고수함",
+      "zh": "坚定地坚持己见",
+      "hi": "अपनी राय पर दृढ़ रहना"
+    }
+  },
+  {
+    "id": 1668,
+    "word": "philistine",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person hostile to culture",
+    "example": "The philistine quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "문화에 적대적인 사람",
+      "zh": "对文化抱有敌意的人",
+      "hi": "संस्कृति के प्रति शत्रुता रखने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1669,
+    "word": "phlegmatic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having unemotional disposition",
+    "example": "The phlegmatic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "감정이 없는 성향을 지닌",
+      "zh": "具有冷漠的性格",
+      "hi": "भावहीन स्वभाव वाला"
+    }
+  },
+  {
+    "id": 1684,
+    "word": "plebeian",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "of lower social classes",
+    "example": "The plebeian quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "하위 사회 계층",
+      "zh": "社会地位较低的阶层",
+      "hi": "निम्न सामाजिक वर्गों के"
+    }
+  },
+  {
+    "id": 1685,
+    "word": "plenary",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "unqualified or absolute",
+    "example": "The plenary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무조건적 또는 절대적",
+      "zh": "不合格的或绝对的",
+      "hi": "अयोग्य या पूर्ण"
+    }
+  },
+  {
+    "id": 1712,
+    "word": "potentate",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "monarch or ruler",
+    "example": "The potentate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "군주 또는 통치자",
+      "zh": "君主或统治者",
+      "hi": "सम्राट या शासक"
+    }
+  },
+  {
+    "id": 1714,
+    "word": "prate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to talk foolishly",
+    "example": "The prate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어리석게 말하다",
+      "zh": "胡言乱语",
+      "hi": "मूर्खतापूर्ण बातें करना"
+    }
+  },
+  {
+    "id": 1746,
+    "word": "prescient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having knowledge of events",
+    "example": "The prescient quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사건에 대한 지식을 갖는 것",
+      "zh": "了解事件",
+      "hi": "घटनाओं का ज्ञान होना"
+    }
+  },
+  {
+    "id": 1751,
+    "word": "preternatural",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "beyond what is normal",
+    "example": "The preternatural quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "정상 범위를 넘어",
+      "zh": "超出正常范围",
+      "hi": "सामान्य से परे"
+    }
+  },
+  {
+    "id": 1759,
+    "word": "probity",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "quality of having strong principles",
+    "example": "The probity quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "확고한 원칙을 갖는 자질",
+      "zh": "拥有坚定原则的品质",
+      "hi": "मजबूत सिद्धांतों का गुण"
+    }
+  },
+  {
+    "id": 1773,
+    "word": "progenitor",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who originates movement",
+    "example": "The progenitor quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "운동을 시작하는 사람",
+      "zh": "发起运动的人",
+      "hi": "आंदोलन शुरू करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1779,
+    "word": "prolix",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "using too many words",
+    "example": "The prolix quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 많은 단어를 사용함",
+      "zh": "用词过多",
+      "hi": "बहुत अधिक शब्दों का प्रयोग करना"
+    }
+  },
+  {
+    "id": 1790,
+    "word": "propitious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "giving favorable conditions",
+    "example": "The propitious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "유리한 조건을 제공",
+      "zh": "给予有利条件",
+      "hi": "अनुकूल परिस्थितियाँ प्रदान करना"
+    }
+  },
+  {
+    "id": 1796,
+    "word": "proselytize",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to convert to religion",
+    "example": "The proselytize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "종교로 개종하다",
+      "zh": "皈依宗教",
+      "hi": "धर्म परिवर्तन करना"
+    }
+  },
+  {
+    "id": 1801,
+    "word": "protean",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "tending to change frequently",
+    "example": "The protean quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자주 변하는 경향이 있음",
+      "zh": "倾向于频繁变化",
+      "hi": "बार-बार बदलने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1807,
+    "word": "provident",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "making provision for future",
+    "example": "The provident quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "미래를 대비하여",
+      "zh": "为未来做好准备",
+      "hi": "भविष्य के लिए प्रावधान करना"
+    }
+  },
+  {
+    "id": 1817,
+    "word": "puerile",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "childishly silly",
+    "example": "The puerile quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어린아이처럼 어리석다",
+      "zh": "幼稚愚蠢",
+      "hi": "बचकाना मूर्खतापूर्ण"
+    }
+  },
+  {
+    "id": 1820,
+    "word": "punctilious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing great attention to detail",
+    "example": "The punctilious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "세부 사항에 매우 주의를 기울이는 것을 보여줍니다.",
+      "zh": "非常注重细节。",
+      "hi": "बारीकियों पर बहुत ध्यान देते हुए"
+    }
+  },
+  {
+    "id": 1828,
+    "word": "pusillanimous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing lack of courage",
+    "example": "The pusillanimous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "용기가 부족함을 드러내는 것",
+      "zh": "表现得缺乏勇气",
+      "hi": "साहस की कमी दर्शाना"
+    }
+  },
+  {
+    "id": 1838,
+    "word": "querulous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "complaining in petulant way",
+    "example": "The querulous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "심술궂게 불평하다",
+      "zh": "以任性的方式抱怨",
+      "hi": "चिड़चिड़ेपन से शिकायत करना"
+    }
+  },
+  {
+    "id": 1842,
+    "word": "quiescent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in state of inactivity",
+    "example": "The quiescent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "비활성 상태",
+      "zh": "处于不活动状态",
+      "hi": "निष्क्रियता की अवस्था में"
+    }
+  },
+  {
+    "id": 1846,
+    "word": "quixotic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "exceedingly idealistic",
+    "example": "The quixotic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 이상주의적인",
+      "zh": "极其理想主义",
+      "hi": "अत्यंत आदर्शवादी"
+    }
+  },
+  {
+    "id": 1847,
+    "word": "quotidian",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "of or occurring every day",
+    "example": "The quotidian quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매일 발생하는 또는 매일 일어나는",
+      "zh": "每天发生的",
+      "hi": "प्रतिदिन घटित होने वाला या प्रतिदिन होने वाला"
+    }
+  },
+  {
+    "id": 1857,
+    "word": "rapacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "aggressively greedy",
+    "example": "The rapacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공격적으로 탐욕스러운",
+      "zh": "贪婪地",
+      "hi": "आक्रामक रूप से लालची"
+    }
+  },
+  {
+    "id": 1864,
+    "word": "ratiocination",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "process of logical reasoning",
+    "example": "The ratiocination quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "논리적 추론 과정",
+      "zh": "逻辑推理过程",
+      "hi": "तार्किक तर्क की प्रक्रिया"
+    }
+  },
+  {
+    "id": 1882,
+    "word": "recidivism",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "tendency to relapse",
+    "example": "The recidivism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "재발 경향",
+      "zh": "复发倾向",
+      "hi": "बीमारी के दोबारा होने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1886,
+    "word": "recondite",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "obscure",
+    "example": "The recondite quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "애매하게 하다",
+      "zh": "朦胧",
+      "hi": "अस्पष्ट"
+    }
+  },
+  {
+    "id": 1889,
+    "word": "rectitude",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "morally correct behavior",
+    "example": "The rectitude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적으로 올바른 행동",
+      "zh": "道德上正确的行为",
+      "hi": "नैतिक रूप से सही व्यवहार"
+    }
+  },
+  {
+    "id": 1890,
+    "word": "recumbent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "lying down",
+    "example": "The recumbent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "누워서",
+      "zh": "躺下",
+      "hi": "लेटना"
+    }
+  },
+  {
+    "id": 1893,
+    "word": "redolent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "strongly reminiscent",
+    "example": "The redolent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강하게 연상시키는",
+      "zh": "强烈地让人联想起",
+      "hi": "बहुत याद दिलाता है"
+    }
+  },
+  {
+    "id": 1894,
+    "word": "redoubtable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "formidable",
+    "example": "The redoubtable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무서운",
+      "zh": "强大",
+      "hi": "दुर्जेय"
+    }
+  },
+  {
+    "id": 1899,
+    "word": "refractory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "stubborn or unmanageable",
+    "example": "The refractory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "고집스럽거나 다루기 힘든",
+      "zh": "固执或难以控制",
+      "hi": "जिद्दी या अनियंत्रित"
+    }
+  },
+  {
+    "id": 1919,
+    "word": "remonstrate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make forceful protest",
+    "example": "The remonstrate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강력하게 항의하다",
+      "zh": "进行强烈抗议",
+      "hi": "जोरदार विरोध करना"
+    }
+  },
+  {
+    "id": 1922,
+    "word": "rend",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to tear to pieces",
+    "example": "The rend quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "산산조각내다",
+      "zh": "撕成碎片",
+      "hi": "टुकड़े-टुकड़े कर देना"
+    }
+  },
+  {
+    "id": 1928,
+    "word": "repast",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "meal",
+    "example": "The repast quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "식사",
+      "zh": "一顿饭",
+      "hi": "खाना"
+    }
+  },
+  {
+    "id": 1941,
+    "word": "reprobate",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "unprincipled person",
+    "example": "The reprobate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "원칙 없는 사람",
+      "zh": "毫无原则的人",
+      "hi": "सिद्धांतहीन व्यक्ति"
+    }
+  },
+  {
+    "id": 1953,
+    "word": "limpid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "clear and transparent",
+    "example": "The limpid situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하고 투명함",
+      "zh": "清晰透明",
+      "hi": "स्पष्ट और पारदर्शी"
+    }
+  },
+  {
+    "id": 1954,
+    "word": "lissome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "thin and graceful",
+    "example": "The lissome situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "가늘고 우아함",
+      "zh": "纤细而优雅",
+      "hi": "पतली और आकर्षक"
+    }
+  },
+  {
+    "id": 1958,
+    "word": "lugubrious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "looking sad and dismal",
+    "example": "The lugubrious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "슬프고 우울해 보인다",
+      "zh": "看起来悲伤沮丧",
+      "hi": "उदास और निराश दिख रहा है"
+    }
+  },
+  {
+    "id": 1960,
+    "word": "maladroit",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "ineffective or bungling",
+    "example": "The maladroit situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "비효율적이거나 서투른",
+      "zh": "无效或拙劣",
+      "hi": "अप्रभावी या गड़बड़"
+    }
+  },
+  {
+    "id": 1966,
+    "word": "meretricious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "attractive but valueless",
+    "example": "The meretricious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "매력적이지만 가치가 없다",
+      "zh": "有吸引力但没价值",
+      "hi": "आकर्षक लेकिन बेकार"
+    }
+  },
+  {
+    "id": 1972,
+    "word": "moribund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "at point of death",
+    "example": "The moribund situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "사망 직전",
+      "zh": "死亡之时",
+      "hi": "मृत्यु के समय"
+    }
+  },
+  {
+    "id": 1973,
+    "word": "multifarious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "many and various",
+    "example": "The multifarious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "다양하고 많은",
+      "zh": "许多种类",
+      "hi": "अनेक और विविध"
+    }
+  },
+  {
+    "id": 1975,
+    "word": "munificent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "very generous",
+    "example": "The munificent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 관대한",
+      "zh": "非常慷慨",
+      "hi": "बहुत उदार"
+    }
+  },
+  {
+    "id": 1979,
+    "word": "nettlesome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "causing annoyance",
+    "example": "The nettlesome situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증을 유발하다",
+      "zh": "引起烦恼",
+      "hi": "झुंझलाहट पैदा करना"
+    }
+  },
+  {
+    "id": 1980,
+    "word": "noisome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having offensive smell",
+    "example": "The noisome situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 냄새가 나는",
+      "zh": "散发难闻的气味",
+      "hi": "दुर्गंधयुक्त"
+    }
+  },
+  {
+    "id": 1989,
+    "word": "occlude",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to stop or close up",
+    "example": "The occlude situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "멈추거나 닫다",
+      "zh": "停止或关闭",
+      "hi": "रोकना या बंद करना"
+    }
+  },
+  {
+    "id": 1994,
+    "word": "opprobrious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing contempt",
+    "example": "The opprobrious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "경멸을 표현하며",
+      "zh": "表示蔑视",
+      "hi": "अवमानना व्यक्त करना"
+    }
+  },
+  {
+    "id": 1996,
+    "word": "ossified",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "rigid; unable to change",
+    "example": "The ossified situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "경직된; 변화할 수 없는",
+      "zh": "僵硬的；无法改变",
+      "hi": "कठोर; परिवर्तन करने में असमर्थ"
+    }
+  },
+  {
+    "id": 1998,
+    "word": "palliate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make less severe",
+    "example": "The palliate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "심각성을 줄이기 위해",
+      "zh": "减轻严重程度",
+      "hi": "कम गंभीर बनाना"
+    }
+  },
+  {
+    "id": 2010,
+    "word": "pellucid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "easily understood; clear",
+    "example": "The pellucid situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 이해할 수 있는; 명확한",
+      "zh": "易于理解；清晰",
+      "hi": "आसानी से समझ में आने वाला; स्पष्ट"
+    }
+  },
+  {
+    "id": 2012,
+    "word": "penurious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "extremely poor",
+    "example": "The penurious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 가난함",
+      "zh": "极差",
+      "hi": "अत्यंत गरीब"
+    }
+  },
+  {
+    "id": 2014,
+    "word": "perfidy",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "deceitfulness; untrustworthiness",
+    "example": "The perfidy situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "기만성; 신뢰할 수 없음",
+      "zh": "欺骗；不可信",
+      "hi": "कपटपूर्ण व्यवहार; अविश्वास"
+    }
+  },
+  {
+    "id": 2016,
+    "word": "peripatetic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "traveling from place to place",
+    "example": "The peripatetic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이곳저곳으로 여행하기",
+      "zh": "从一个地方到另一个地方",
+      "hi": "एक स्थान से दूसरे स्थान की यात्रा करना"
+    }
+  },
+  {
+    "id": 2018,
+    "word": "perspicacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having keen insight",
+    "example": "The perspicacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "예리한 통찰력을 가지고",
+      "zh": "拥有敏锐的洞察力",
+      "hi": "गहरी अंतर्दृष्टि होना"
+    }
+  },
+  {
+    "id": 2019,
+    "word": "pertinacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly persistent",
+    "example": "The pertinacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "고집스럽게 끈질기게",
+      "zh": "顽固不化",
+      "hi": "हठपूर्वक दृढ़"
+    }
+  },
+  {
+    "id": 2022,
+    "word": "phlegmatic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "calm and unemotional",
+    "example": "The phlegmatic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "차분하고 감정이 없는",
+      "zh": "冷静且不带情绪",
+      "hi": "शांत और भावहीन"
+    }
+  },
+  {
+    "id": 2037,
+    "word": "prescient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having knowledge of future",
+    "example": "The prescient situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "미래에 대한 지식을 갖는 것",
+      "zh": "了解未来",
+      "hi": "भविष्य का ज्ञान होना"
+    }
+  },
+  {
+    "id": 2041,
+    "word": "probity",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "integrity and honesty",
+    "example": "The probity situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "성실과 정직",
+      "zh": "正直和诚实",
+      "hi": "ईमानदारी और सत्यनिष्ठा"
+    }
+  },
+  {
+    "id": 2051,
+    "word": "propitiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to win favor by doing something",
+    "example": "The propitiate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가를 함으로써 호감을 얻다",
+      "zh": "通过做某事来博取好感",
+      "hi": "किसी काम को करके कृपा प्राप्त करना"
+    }
+  },
+  {
+    "id": 2057,
+    "word": "prurient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having excessive interest",
+    "example": "The prurient situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "과도한 관심을 가지다",
+      "zh": "过度兴趣",
+      "hi": "अत्यधिक रुचि होना"
+    }
+  },
+  {
+    "id": 2058,
+    "word": "punctilious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing great attention to detail",
+    "example": "The punctilious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "세부 사항에 매우 주의를 기울이는 것을 보여줍니다.",
+      "zh": "非常注重细节。",
+      "hi": "बारीकियों पर बहुत ध्यान देते हुए"
+    }
+  },
+  {
+    "id": 2059,
+    "word": "pusillanimous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing lack of courage",
+    "example": "The pusillanimous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "용기가 부족함을 드러내는 것",
+      "zh": "表现得缺乏勇气",
+      "hi": "साहस की कमी दर्शाना"
+    }
+  },
+  {
+    "id": 2063,
+    "word": "quiescent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in state of inactivity",
+    "example": "The quiescent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "비활성 상태",
+      "zh": "处于不活动状态",
+      "hi": "निष्क्रियता की अवस्था में"
+    }
+  },
+  {
+    "id": 2065,
+    "word": "quotidian",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "of daily occurrence; ordinary",
+    "example": "The quotidian situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "일상적인 일; 평범한",
+      "zh": "日常发生的；普通的",
+      "hi": "दैनिक रूप से घटित होने वाला; सामान्य"
+    }
+  },
+  {
+    "id": 2067,
+    "word": "rapacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "aggressively greedy",
+    "example": "The rapacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "공격적으로 탐욕스러운",
+      "zh": "贪婪地",
+      "hi": "आक्रामक रूप से लालची"
+    }
+  },
+  {
+    "id": 2068,
+    "word": "rarefied",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "elevated; exclusive",
+    "example": "The rarefied situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "높은; 독점적인",
+      "zh": "高端；专属",
+      "hi": "ऊंचा; विशिष्ट"
+    }
+  },
+  {
+    "id": 2071,
+    "word": "recondite",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "difficult to understand",
+    "example": "The recondite situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이해하기 어렵다",
+      "zh": "难以理解",
+      "hi": "समझने में कठिन"
+    }
+  },
+  {
+    "id": 2072,
+    "word": "rectitude",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "morally correct behavior",
+    "example": "The rectitude situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적으로 올바른 행동",
+      "zh": "道德上正确的行为",
+      "hi": "नैतिक रूप से सही व्यवहार"
+    }
+  },
+  {
+    "id": 2073,
+    "word": "redoubtable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "formidable",
+    "example": "The redoubtable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무서운",
+      "zh": "强大",
+      "hi": "दुर्जेय"
+    }
+  },
+  {
+    "id": 2074,
+    "word": "refractory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly disobedient",
+    "example": "The refractory situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "고집스럽게 불복종하는",
+      "zh": "顽固不服从",
+      "hi": "हठपूर्वक अवज्ञाकारी"
+    }
+  },
+  {
+    "id": 2079,
+    "word": "reprobate",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "unprincipled person",
+    "example": "The reprobate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "원칙 없는 사람",
+      "zh": "毫无原则的人",
+      "hi": "सिद्धांतहीन व्यक्ति"
+    }
+  },
+  {
+    "id": 2084,
+    "word": "ribald",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "humorously vulgar",
+    "example": "The ribald situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "유머러스하면서도 저속한",
+      "zh": "幽默的粗俗",
+      "hi": "हास्यास्पद रूप से अश्लील"
+    }
+  },
+  {
+    "id": 2085,
+    "word": "riposte",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "quick clever reply",
+    "example": "The riposte situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "빠르고 재치 있는 답변",
+      "zh": "快速巧妙的回复",
+      "hi": "त्वरित और चतुर उत्तर"
+    }
+  },
+  {
+    "id": 2095,
+    "word": "sedulous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing dedication",
+    "example": "The sedulous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "헌신을 보여주며",
+      "zh": "展现奉献精神",
+      "hi": "समर्पण दिखाना"
+    }
+  },
+  {
+    "id": 2097,
+    "word": "sententious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "given to moralizing",
+    "example": "The sententious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적인 훈계를 늘어놓는 경향이 있다",
+      "zh": "喜欢说教",
+      "hi": "नैतिकता का उपदेश देने में लगे हुए"
+    }
+  },
+  {
+    "id": 2102,
+    "word": "soporific",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "tending to induce sleep",
+    "example": "The professor's soporific explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "수면을 유도하는 경향이 있는",
+      "zh": "容易诱发睡眠",
+      "hi": "नींद लाने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 2111,
+    "word": "stolid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "calm and showing little emotion",
+    "example": "The professor's stolid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "침착하고 감정을 거의 드러내지 않는다.",
+      "zh": "平静，很少表露情绪",
+      "hi": "शांत और कम भावनाएँ प्रदर्शित करते हुए"
+    }
+  },
+  {
+    "id": 2123,
+    "word": "surfeit",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "excessive amount of something",
+    "example": "The professor's surfeit explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것의 과도한 양",
+      "zh": "过量的某种东西",
+      "hi": "किसी चीज की अत्यधिक मात्रा"
+    }
+  },
+  {
+    "id": 2133,
+    "word": "tendentious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing a strong opinion",
+    "example": "The professor's tendentious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "강한 의견을 표현하다",
+      "zh": "表达强烈意见",
+      "hi": "एक दृढ़ राय व्यक्त करना"
+    }
+  },
+  {
+    "id": 2136,
+    "word": "timorous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing nervousness",
+    "example": "The professor's timorous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "긴장감을 드러내는 것",
+      "zh": "表现出紧张",
+      "hi": "घबराहट दिखाना"
+    }
+  },
+  {
+    "id": 2138,
+    "word": "torpid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "mentally or physically inactive",
+    "example": "The professor's torpid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "정신적으로 또는 신체적으로 활동적이지 않음",
+      "zh": "精神或身体上的不活跃",
+      "hi": "मानसिक या शारीरिक रूप से निष्क्रिय"
+    }
+  },
+  {
+    "id": 2147,
+    "word": "turgid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "swollen; pompous",
+    "example": "The professor's turgid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "부풀어 오른; 거만한",
+      "zh": "肿胀的；自负的",
+      "hi": "फूला हुआ; आडंबरपूर्ण"
+    }
+  },
+  {
+    "id": 2148,
+    "word": "turpitude",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "depravity; wickedness",
+    "example": "The professor's turpitude explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "타락; 악함",
+      "zh": "堕落；邪恶",
+      "hi": "दुराचार; दुष्टता"
+    }
+  },
+  {
+    "id": 2151,
+    "word": "unctuous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "excessively flattering",
+    "example": "The professor's unctuous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 아첨하는",
+      "zh": "过分奉承",
+      "hi": "अत्यधिक चापलूसी"
+    }
+  },
+  {
+    "id": 2157,
+    "word": "unprepossessing",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not attractive",
+    "example": "The professor's unprepossessing explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "매력적이지 않음",
+      "zh": "不吸引人",
+      "hi": "आकर्षक नहीं"
+    }
+  },
+  {
+    "id": 2166,
+    "word": "variegated",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "exhibiting different colors",
+    "example": "The professor's variegated explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "다양한 색상을 나타내다",
+      "zh": "呈现出不同的颜色",
+      "hi": "विभिन्न रंगों का प्रदर्शन"
+    }
+  },
+  {
+    "id": 2168,
+    "word": "venal",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing susceptibility to bribery",
+    "example": "The professor's venal explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "뇌물에 취약한 모습을 보임",
+      "zh": "表现出易受贿赂的倾向",
+      "hi": "रिश्वतखोरी के प्रति संवेदनशीलता दर्शाना"
+    }
+  },
+  {
+    "id": 2170,
+    "word": "veracious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "speaking the truth",
+    "example": "The professor's veracious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 말하다",
+      "zh": "说实话",
+      "hi": "सच बोलना"
+    }
+  },
+  {
+    "id": 2183,
+    "word": "vitiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to spoil or impair",
+    "example": "The professor's vitiate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "망치다, 손상시키다",
+      "zh": "破坏或损害",
+      "hi": "बिगाड़ना या खराब करना"
+    }
+  },
+  {
+    "id": 2185,
+    "word": "vituperative",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "bitter and abusive",
+    "example": "The professor's vituperative explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "쓰라리고 모욕적인",
+      "zh": "苦涩而粗暴",
+      "hi": "कड़वा और अपमानजनक"
+    }
+  },
+  {
+    "id": 2196,
+    "word": "zephyr",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "soft gentle breeze",
+    "example": "The professor's zephyr explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "부드럽고 산들바람",
+      "zh": "轻柔的微风",
+      "hi": "हल्की, कोमल हवा"
+    }
+  },
+  {
+    "id": 2198,
+    "word": "abjure",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to solemnly renounce",
+    "example": "The professor's abjure explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "엄숙히 포기하다",
+      "zh": "郑重放弃",
+      "hi": "पूरी निष्ठा से त्याग करना"
+    }
+  },
+  {
+    "id": 2199,
+    "word": "abnegate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to renounce or reject",
+    "example": "The professor's abnegate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "포기하거나 거부하다",
+      "zh": "放弃或拒绝",
+      "hi": "त्याग देना या अस्वीकार करना"
+    }
+  },
+  {
+    "id": 2201,
+    "word": "abstemious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not self-indulgent in eating",
+    "example": "The scholar demonstrated abstemious behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "먹는 데 있어서 자기 탐닉을 하지 않는다",
+      "zh": "不放纵自己吃东西",
+      "hi": "खाने-पीने में आत्म-भोग न करना"
+    }
+  },
+  {
+    "id": 2205,
+    "word": "accretion",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "growth by gradual accumulation",
+    "example": "The scholar demonstrated accretion behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "점진적 축적에 의한 성장",
+      "zh": "通过逐步积累而增长",
+      "hi": "क्रमिक संचय द्वारा वृद्धि"
+    }
+  },
+  {
+    "id": 2252,
+    "word": "anthropomorphic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "attributing human form",
+    "example": "The scholar demonstrated anthropomorphic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "인간의 형태를 부여함",
+      "zh": "赋予人类形态",
+      "hi": "मानव रूप प्रदान करना"
+    }
+  },
+  {
+    "id": 2262,
+    "word": "apostate",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who renounces belief",
+    "example": "The scholar demonstrated apostate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "신앙을 버린 사람",
+      "zh": "放弃信仰的人",
+      "hi": "वह व्यक्ति जो आस्था का त्याग करता है"
+    }
+  },
+  {
+    "id": 2281,
+    "word": "aspersion",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "attack on reputation",
+    "example": "The scholar demonstrated aspersion behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "평판에 대한 공격",
+      "zh": "对声誉的攻击",
+      "hi": "प्रतिष्ठा पर हमला"
+    }
+  },
+  {
+    "id": 2329,
+    "word": "besmirch",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to damage reputation",
+    "example": "His besmirch nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "평판을 손상시키다",
+      "zh": "损害声誉",
+      "hi": "प्रतिष्ठा को नुकसान पहुँचाने के लिए"
+    }
+  },
+  {
+    "id": 2334,
+    "word": "bifurcate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to divide into two branches",
+    "example": "His bifurcate nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "두 갈래로 나뉘다",
+      "zh": "分成两个分支",
+      "hi": "दो शाखाओं में विभाजित करना"
+    }
+  },
+  {
+    "id": 2362,
+    "word": "bromide",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "trite and unoriginal idea",
+    "example": "His bromide nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "진부하고 독창성 없는 아이디어",
+      "zh": "老套且缺乏新意的想法",
+      "hi": "घिसा-पिटा और मौलिकताहीन विचार"
+    }
+  },
+  {
+    "id": 2366,
+    "word": "bucolic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "relating to countryside",
+    "example": "His bucolic nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "시골과 관련된",
+      "zh": "与乡村有关",
+      "hi": "ग्रामीण इलाकों से संबंधित"
+    }
+  },
+  {
+    "id": 2374,
+    "word": "byzantine",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "excessively complicated",
+    "example": "His byzantine nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 복잡함",
+      "zh": "过于复杂",
+      "hi": "अत्यधिक जटिल"
+    }
+  },
+  {
+    "id": 2383,
+    "word": "calumny",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "false statement to damage",
+    "example": "His calumny nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "손해를 입히기 위한 허위 진술",
+      "zh": "虚假陈述以造成损害",
+      "hi": "नुकसान पहुंचाने के लिए झूठा बयान"
+    }
+  },
+  {
+    "id": 2391,
+    "word": "captious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "tending to find fault",
+    "example": "His captious nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "흠을 찾으려는 경향이 있다",
+      "zh": "总是喜欢挑毛病",
+      "hi": "दोष ढूंढने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 2394,
+    "word": "carping",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "difficult to please",
+    "example": "His carping nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "만족시키기 어려운",
+      "zh": "很难取悦",
+      "hi": "प्रसन्न करना कठिन है"
+    }
+  },
+  {
+    "id": 2409,
+    "word": "chary",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "cautious about something",
+    "example": "The expert showed a chary approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가에 대해 조심하세요",
+      "zh": "对某事保持谨慎",
+      "hi": "किसी बात को लेकर सतर्क रहना"
+    }
+  },
+  {
+    "id": 2411,
+    "word": "chicanery",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "use of trickery",
+    "example": "The expert showed a chicanery approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "속임수의 사용",
+      "zh": "使用诡计",
+      "hi": "छल-कपट का प्रयोग"
+    }
+  },
+  {
+    "id": 2413,
+    "word": "chimera",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "thing hoped for but illusory",
+    "example": "The expert showed a chimera approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "바랐지만 허상이었던 것",
+      "zh": "所期盼的，却是虚幻的。",
+      "hi": "आशा की गई वस्तु, लेकिन भ्रामक"
+    }
+  },
+  {
+    "id": 2414,
+    "word": "choleric",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "bad-tempered or irritable",
+    "example": "The expert showed a choleric approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "성질이 나쁘거나 짜증을 잘 내는",
+      "zh": "脾气暴躁或易怒",
+      "hi": "बदमिजाज या चिड़चिड़ा"
+    }
+  },
+  {
+    "id": 2417,
+    "word": "circumlocution",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "use of many words",
+    "example": "The expert showed a circumlocution approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 단어의 사용",
+      "zh": "使用大量词语",
+      "hi": "कई शब्दों का प्रयोग"
+    }
+  },
+  {
+    "id": 2446,
+    "word": "comely",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "pleasant to look at",
+    "example": "The expert showed a comely approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "보기에 즐겁다",
+      "zh": "赏心悦目",
+      "hi": "को देखकर खुशी हुई"
+    }
+  },
+  {
+    "id": 2473,
+    "word": "concomitant",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "naturally accompanying",
+    "example": "The expert showed a concomitant approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "자연스럽게 수반되는",
+      "zh": "自然伴随",
+      "hi": "स्वाभाविक रूप से साथ"
+    }
+  },
+  {
+    "id": 2483,
+    "word": "conflagration",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "extensive fire",
+    "example": "The expert showed a conflagration approach to the problem.",
+    "category": "General",
+    "translations": {
+      "ko": "대규모 화재",
+      "zh": "大火",
+      "hi": "व्यापक आग"
+    }
+  }
+]

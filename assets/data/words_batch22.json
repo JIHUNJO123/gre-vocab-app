@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1901,
+    "word": "juggernaut",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "huge and overwhelming force",
+    "example": "The juggernaut quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "거대하고 압도적인 힘",
+      "zh": "巨大而压倒性的力量",
+      "hi": "विशाल और जबरदस्त शक्ति"
+    }
+  },
+  {
+    "id": 1902,
+    "word": "juxtapose",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to place side by side",
+    "example": "The juxtapose quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "나란히 놓다",
+      "zh": "并排放置",
+      "hi": "अगल-बगल रखना"
+    }
+  },
+  {
+    "id": 1903,
+    "word": "keen",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sharp or penetrating",
+    "example": "The keen quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "날카롭거나 관통하는",
+      "zh": "尖锐或穿透力强",
+      "hi": "तेज या भेदक"
+    }
+  },
+  {
+    "id": 1904,
+    "word": "kernel",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "central or essential part",
+    "example": "The kernel quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "중심 또는 필수적인 부분",
+      "zh": "中心或核心部分",
+      "hi": "केंद्रीय या आवश्यक भाग"
+    }
+  },
+  {
+    "id": 1905,
+    "word": "kindle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to light or ignite",
+    "example": "The kindle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불을 붙이거나 점화하다",
+      "zh": "点燃",
+      "hi": "जलाना या प्रज्वलित करना"
+    }
+  },
+  {
+    "id": 1906,
+    "word": "kinetic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to motion",
+    "example": "The kinetic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "움직임과 관련된",
+      "zh": "与运动有关",
+      "hi": "गति से संबंधित"
+    }
+  },
+  {
+    "id": 1907,
+    "word": "knave",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "dishonest or unscrupulous man",
+    "example": "The knave quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부정직하거나 파렴치한 사람",
+      "zh": "不诚实或不择手段的人",
+      "hi": "बेईमान या कुटिल व्यक्ति"
+    }
+  },
+  {
+    "id": 1908,
+    "word": "laborious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "requiring much work",
+    "example": "The laborious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 노력이 필요한",
+      "zh": "需要大量工作",
+      "hi": "बहुत काम की आवश्यकता"
+    }
+  },
+  {
+    "id": 1909,
+    "word": "labyrinth",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "complicated network of passages",
+    "example": "The labyrinth quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "복잡한 통로망",
+      "zh": "复杂的通道网络",
+      "hi": "मार्गों का जटिल जाल"
+    }
+  },
+  {
+    "id": 1910,
+    "word": "lacerate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to tear or cut jaggedly",
+    "example": "The lacerate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "찢거나 들쭉날쭉하게 자르다",
+      "zh": "撕裂或切割成锯齿状",
+      "hi": "टेढ़े-मेढ़े तरीके से फाड़ना या काटना"
+    }
+  },
+  {
+    "id": 1911,
+    "word": "lachrymose",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "tearful or sad",
+    "example": "The lachrymose quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "눈물이 나거나 슬픈",
+      "zh": "泪流满面或悲伤",
+      "hi": "आंसू भरी या उदास"
+    }
+  },
+  {
+    "id": 1912,
+    "word": "lackadaisical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking enthusiasm",
+    "example": "The lackadaisical quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "열정이 부족함",
+      "zh": "缺乏热情",
+      "hi": "उत्साह की कमी"
+    }
+  },
+  {
+    "id": 1913,
+    "word": "lackluster",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking brilliance",
+    "example": "The lackluster quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "뛰어난 재능이 부족한",
+      "zh": "缺乏才华",
+      "hi": "प्रतिभा का अभाव"
+    }
+  },
+  {
+    "id": 1914,
+    "word": "laconic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "using very few words",
+    "example": "The laconic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "아주 적은 단어로",
+      "zh": "用极少的词语",
+      "hi": "बहुत कम शब्दों का प्रयोग करते हुए"
+    }
+  },
+  {
+    "id": 1915,
+    "word": "laggard",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who falls behind",
+    "example": "The laggard quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "뒤처지는 사람",
+      "zh": "落后的人",
+      "hi": "जो व्यक्ति पीछे रह जाता है"
+    }
+  },
+  {
+    "id": 1916,
+    "word": "lambaste",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to criticize harshly",
+    "example": "The lambaste quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "혹독하게 비판하다",
+      "zh": "严厉批评",
+      "hi": "कड़ी आलोचना करने के लिए"
+    }
+  },
+  {
+    "id": 1917,
+    "word": "lament",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to mourn or express sorrow",
+    "example": "The lament quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "애도하거나 슬픔을 표현하다",
+      "zh": "哀悼或表达悲伤",
+      "hi": "शोक व्यक्त करना या दुःख जताना"
+    }
+  },
+  {
+    "id": 1918,
+    "word": "lampoon",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to publicly criticize through satire",
+    "example": "The lampoon quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "풍자를 통해 공개적으로 비판하다",
+      "zh": "通过讽刺进行公开批评",
+      "hi": "व्यंग्य के माध्यम से सार्वजनिक रूप से आलोचना करना"
+    }
+  },
+  {
+    "id": 1919,
+    "word": "languid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking energy",
+    "example": "The languid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "에너지가 부족함",
+      "zh": "缺乏能量",
+      "hi": "ऊर्जा की कमी"
+    }
+  },
+  {
+    "id": 1920,
+    "word": "languish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to lose vitality",
+    "example": "The languish quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "활력을 잃다",
+      "zh": "失去活力",
+      "hi": "जीवन शक्ति खोना"
+    }
+  },
+  {
+    "id": 1921,
+    "word": "larceny",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "theft of personal property",
+    "example": "The larceny quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "개인 재산 절도",
+      "zh": "盗窃个人财产",
+      "hi": "निजी संपत्ति की चोरी"
+    }
+  },
+  {
+    "id": 1922,
+    "word": "largesse",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "generosity in giving",
+    "example": "The largesse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "나눔에 있어서의 관대함",
+      "zh": "慷慨奉献",
+      "hi": "दान देने में उदारता"
+    }
+  },
+  {
+    "id": 1923,
+    "word": "lascivious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "feeling or showing sexual desire",
+    "example": "The lascivious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "성적 욕구를 느끼거나 표현하는 것",
+      "zh": "性欲或性冲动",
+      "hi": "यौन इच्छा महसूस करना या दिखाना"
+    }
+  },
+  {
+    "id": 1924,
+    "word": "lassitude",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "physical or mental weariness",
+    "example": "The lassitude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "육체적 또는 정신적 피로",
+      "zh": "身体或精神疲劳",
+      "hi": "शारीरिक या मानसिक थकावट"
+    }
+  },
+  {
+    "id": 1925,
+    "word": "latent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "existing but not developed",
+    "example": "The latent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "존재하지만 개발되지 않음",
+      "zh": "已存在但尚未开发",
+      "hi": "मौजूद है लेकिन विकसित नहीं हुआ है"
+    }
+  },
+  {
+    "id": 1926,
+    "word": "lateral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to side",
+    "example": "The lateral quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "측면과 관련된 또는 측면에 관한",
+      "zh": "侧面的或与侧面有关的",
+      "hi": "पक्ष से संबंधित या उससे जुड़ा हुआ"
+    }
+  },
+  {
+    "id": 1927,
+    "word": "latitude",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "freedom from restrictions",
+    "example": "The latitude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "제한으로부터의 자유",
+      "zh": "不受限制的自由",
+      "hi": "प्रतिबंधों से मुक्ति"
+    }
+  },
+  {
+    "id": 1928,
+    "word": "laudable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deserving praise",
+    "example": "The laudable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "칭찬받을 만한",
+      "zh": "值得赞扬",
+      "hi": "प्रशंसा के योग्य"
+    }
+  },
+  {
+    "id": 1929,
+    "word": "laudatory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "expressing praise",
+    "example": "The laudatory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "칭찬을 표현하며",
+      "zh": "表达赞扬",
+      "hi": "प्रशंसा व्यक्त करना"
+    }
+  },
+  {
+    "id": 1930,
+    "word": "lavish",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sumptuously rich",
+    "example": "The lavish quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "호화롭고 풍부한",
+      "zh": "极其富有",
+      "hi": "बेहद समृद्ध"
+    }
+  },
+  {
+    "id": 1931,
+    "word": "lax",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not sufficiently strict",
+    "example": "The lax quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "충분히 엄격하지 않다",
+      "zh": "不够严格",
+      "hi": "पर्याप्त रूप से सख्त नहीं"
+    }
+  },
+  {
+    "id": 1932,
+    "word": "leery",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "cautious due to suspicion",
+    "example": "The leery quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "의심 때문에 조심스럽다",
+      "zh": "因怀疑而谨慎",
+      "hi": "संदेह के कारण सतर्क"
+    }
+  },
+  {
+    "id": 1933,
+    "word": "legacy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "something handed down",
+    "example": "The legacy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "물려받은 것",
+      "zh": "传下来的东西",
+      "hi": "पीढ़ी दर पीढ़ी हस्तांतरित होने वाली कोई चीज"
+    }
+  },
+  {
+    "id": 1934,
+    "word": "legitimate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "conforming to rules",
+    "example": "The legitimate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "규칙에 부합하는",
+      "zh": "符合规则",
+      "hi": "नियमों का पालन करना"
+    }
+  },
+  {
+    "id": 1935,
+    "word": "lenient",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "permissive or merciful",
+    "example": "The lenient quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "관대한 또는 자비로운",
+      "zh": "宽容的或仁慈的",
+      "hi": "उदार या दयालु"
+    }
+  },
+  {
+    "id": 1936,
+    "word": "lethal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sufficient to cause death",
+    "example": "The lethal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사망을 초래하기에 충분한",
+      "zh": "足以致死",
+      "hi": "मृत्यु का कारण बनने के लिए पर्याप्त"
+    }
+  },
+  {
+    "id": 1937,
+    "word": "lethargic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "affected by lack of energy",
+    "example": "The lethargic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "에너지 부족으로 영향을 받음",
+      "zh": "受能量不足的影响",
+      "hi": "ऊर्जा की कमी से प्रभावित"
+    }
+  },
+  {
+    "id": 1938,
+    "word": "levity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "humor or frivolity",
+    "example": "The levity quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "유머 또는 경솔함",
+      "zh": "幽默或轻浮",
+      "hi": "हास्य या तुच्छता"
+    }
+  },
+  {
+    "id": 1939,
+    "word": "levy",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to impose tax or fine",
+    "example": "The levy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "세금이나 벌금을 부과하다",
+      "zh": "征收税款或罚款",
+      "hi": "कर या जुर्माना लगाना"
+    }
+  },
+  {
+    "id": 1940,
+    "word": "liable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "responsible by law",
+    "example": "The liable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "법적으로 책임 있는",
+      "zh": "依法承担责任",
+      "hi": "कानून द्वारा उत्तरदायी"
+    }
+  },
+  {
+    "id": 1941,
+    "word": "liaison",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "communication or cooperation",
+    "example": "The liaison quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "의사소통 또는 협력",
+      "zh": "沟通或合作",
+      "hi": "संचार या सहयोग"
+    }
+  },
+  {
+    "id": 1942,
+    "word": "liberal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "willing to respect others",
+    "example": "The liberal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "타인을 존중하고자 하는",
+      "zh": "愿意尊重他人",
+      "hi": "दूसरों का सम्मान करने को तैयार"
+    }
+  },
+  {
+    "id": 1943,
+    "word": "libertine",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person devoid of moral restraints",
+    "example": "The libertine quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적 제약이 없는 사람",
+      "zh": "缺乏道德约束的人",
+      "hi": "नैतिक बंधनों से रहित व्यक्ति"
+    }
+  },
+  {
+    "id": 1944,
+    "word": "licentious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "promiscuous and unprincipled",
+    "example": "The licentious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "문란하고 원칙 없는",
+      "zh": "滥交且毫无原则",
+      "hi": "अनैतिक और सिद्धांतहीन"
+    }
+  },
+  {
+    "id": 1945,
+    "word": "limpid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "clear and transparent",
+    "example": "The limpid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하고 투명함",
+      "zh": "清晰透明",
+      "hi": "स्पष्ट और पारदर्शी"
+    }
+  },
+  {
+    "id": 1946,
+    "word": "lineage",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "lineal descent from ancestor",
+    "example": "The lineage quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "조상으로부터의 직계 계승",
+      "zh": "祖先的直系血统",
+      "hi": "पूर्वज से वंशानुगत"
+    }
+  },
+  {
+    "id": 1947,
+    "word": "lionize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give public attention",
+    "example": "The lionize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "대중의 관심을 끌다",
+      "zh": "引起公众关注",
+      "hi": "जनता का ध्यान आकर्षित करने के लिए"
+    }
+  },
+  {
+    "id": 1948,
+    "word": "lithe",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "thin and supple",
+    "example": "The lithe quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "얇고 유연함",
+      "zh": "薄而柔软",
+      "hi": "पतला और लचीला"
+    }
+  },
+  {
+    "id": 1949,
+    "word": "litigate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to take legal action",
+    "example": "The litigate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "법적 조치를 취하다",
+      "zh": "采取法律行动",
+      "hi": "कानूनी कार्रवाई करने के लिए"
+    }
+  },
+  {
+    "id": 1950,
+    "word": "litigious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unreasonably prone to go to law",
+    "example": "The litigious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 소송에 휘말리는 경향이 있다",
+      "zh": "不合理地倾向于诉诸法律",
+      "hi": "कानून का सहारा लेने के लिए अनुचित रूप से प्रवृत्त"
+    }
+  },
+  {
+    "id": 1951,
+    "word": "livid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "furiously angry",
+    "example": "The livid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "몹시 화난",
+      "zh": "怒不可遏",
+      "hi": "बेहद गुस्से में"
+    }
+  },
+  {
+    "id": 1952,
+    "word": "loathe",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to feel intense dislike",
+    "example": "The loathe quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강렬한 혐오감을 느끼다",
+      "zh": "感到强烈的厌恶",
+      "hi": "तीव्र नापसंदगी महसूस करना"
+    }
+  },
+  {
+    "id": 1953,
+    "word": "lofty",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of imposing height",
+    "example": "The lofty quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "위풍당당한 높이",
+      "zh": "气势磅礴的高度",
+      "hi": "प्रभावशाली ऊंचाई का"
+    }
+  },
+  {
+    "id": 1954,
+    "word": "loquacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tending to talk much",
+    "example": "The loquacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "말을 많이 하는 경향이 있다",
+      "zh": "话很多",
+      "hi": "बहुत ज्यादा बोलने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1955,
+    "word": "lout",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "uncouth and aggressive man",
+    "example": "The lout quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무례하고 공격적인 남자",
+      "zh": "粗鲁且好斗的男人",
+      "hi": "असभ्य और आक्रामक आदमी"
+    }
+  },
+  {
+    "id": 1956,
+    "word": "lubricate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to apply oil or grease",
+    "example": "The lubricate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "기름이나 그리스를 바르다",
+      "zh": "涂抹油或油脂",
+      "hi": "तेल या ग्रीस लगाना"
+    }
+  },
+  {
+    "id": 1957,
+    "word": "lucid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "expressed clearly",
+    "example": "The lucid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하게 표현됨",
+      "zh": "表达清晰",
+      "hi": "स्पष्ट रूप से व्यक्त किया गया"
+    }
+  },
+  {
+    "id": 1958,
+    "word": "lucrative",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "producing great profit",
+    "example": "The lucrative quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 수익을 창출하다",
+      "zh": "产生巨额利润",
+      "hi": "भारी लाभ उत्पन्न करना"
+    }
+  },
+  {
+    "id": 1959,
+    "word": "ludicrous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "so foolish as to be amusing",
+    "example": "The ludicrous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 어리석어서 우스꽝스럽다",
+      "zh": "愚蠢到令人发笑",
+      "hi": "इतना मूर्खतापूर्ण कि हंसी आती है"
+    }
+  },
+  {
+    "id": 1960,
+    "word": "lugubrious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "looking or sounding sad",
+    "example": "The lugubrious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "슬픈 표정이나 목소리를 내는 것",
+      "zh": "看起来或听起来很悲伤",
+      "hi": "उदास दिखना या उदास आवाज होना"
+    }
+  },
+  {
+    "id": 1961,
+    "word": "lull",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to calm or send to sleep",
+    "example": "The lull quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "진정시키거나 잠들게 하다",
+      "zh": "使平静或催眠",
+      "hi": "शांत करना या सुला देना"
+    }
+  },
+  {
+    "id": 1962,
+    "word": "lumber",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to move heavily and clumsily",
+    "example": "The lumber quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무겁고 어색하게 움직이다",
+      "zh": "笨拙地、沉重地移动",
+      "hi": "भारी और अनाड़ीपन से हिलना"
+    }
+  },
+  {
+    "id": 1963,
+    "word": "luminary",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who inspires others",
+    "example": "The luminary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 사람들에게 영감을 주는 사람",
+      "zh": "能激励他人的人",
+      "hi": "वह व्यक्ति जो दूसरों को प्रेरित करता है"
+    }
+  },
+  {
+    "id": 1964,
+    "word": "luminous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "full of light",
+    "example": "The luminous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "빛으로 가득 찬",
+      "zh": "充满光芒",
+      "hi": "प्रकाश से भरपूर"
+    }
+  },
+  {
+    "id": 1965,
+    "word": "lurch",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make an abrupt movement",
+    "example": "The lurch quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 움직임을 하다",
+      "zh": "突然移动",
+      "hi": "अचानक हरकत करना"
+    }
+  },
+  {
+    "id": 1966,
+    "word": "lurid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very vivid in color",
+    "example": "The lurid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "색상이 매우 선명합니다",
+      "zh": "色彩非常鲜艳。",
+      "hi": "रंगों में बहुत ही जीवंत"
+    }
+  },
+  {
+    "id": 1967,
+    "word": "lurk",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be hidden waiting",
+    "example": "The lurk quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "숨겨져 기다리다",
+      "zh": "隐藏起来等待",
+      "hi": "छिपकर प्रतीक्षा करना"
+    }
+  },
+  {
+    "id": 1968,
+    "word": "luscious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "richly sweet",
+    "example": "The luscious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "아주 달콤함",
+      "zh": "甜美浓郁",
+      "hi": "बेहद मीठा"
+    }
+  },
+  {
+    "id": 1969,
+    "word": "lustrous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "shining and soft",
+    "example": "The lustrous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "빛나고 부드러운",
+      "zh": "闪亮柔和",
+      "hi": "चमकदार और मुलायम"
+    }
+  },
+  {
+    "id": 1970,
+    "word": "luxuriant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "rich and profuse",
+    "example": "The luxuriant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "풍부하고 풍성한",
+      "zh": "丰富而丰盛",
+      "hi": "समृद्ध और प्रचुर"
+    }
+  },
+  {
+    "id": 1971,
+    "word": "machination",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "scheming or crafty plot",
+    "example": "The machination quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "음모 또는 교활한 계략",
+      "zh": "阴谋诡计或狡猾的阴谋",
+      "hi": "षड्यंत्रकारी या धूर्त साजिश"
+    }
+  },
+  {
+    "id": 1972,
+    "word": "magnanimous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very generous or forgiving",
+    "example": "The magnanimous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 관대하거나 용서하는",
+      "zh": "非常慷慨或宽容",
+      "hi": "बहुत उदार या क्षमाशील"
+    }
+  },
+  {
+    "id": 1973,
+    "word": "magnate",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "wealthy influential person",
+    "example": "The magnate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부유하고 영향력 있는 사람",
+      "zh": "有钱有势的人",
+      "hi": "धनी प्रभावशाली व्यक्ति"
+    }
+  },
+  {
+    "id": 1974,
+    "word": "magnitude",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "great size or importance",
+    "example": "The magnitude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 규모 또는 중요성",
+      "zh": "规模或重要性",
+      "hi": "बड़ा आकार या महत्व"
+    }
+  },
+  {
+    "id": 1975,
+    "word": "majestic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having impressive beauty",
+    "example": "The majestic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "인상적인 아름다움을 지닌",
+      "zh": "拥有令人印象深刻的美丽",
+      "hi": "आकर्षक सुंदरता होना"
+    }
+  },
+  {
+    "id": 1976,
+    "word": "maladroit",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "ineffective or clumsy",
+    "example": "The maladroit quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "비효율적이거나 서투른",
+      "zh": "无效或笨拙",
+      "hi": "अप्रभावी या अनाड़ी"
+    }
+  },
+  {
+    "id": 1977,
+    "word": "malady",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "disease or ailment",
+    "example": "The malady quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "질병 또는 질환",
+      "zh": "疾病或病症",
+      "hi": "बीमारी या रोग"
+    }
+  },
+  {
+    "id": 1978,
+    "word": "malaise",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "general feeling of discomfort",
+    "example": "The malaise quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "전반적인 불편함",
+      "zh": "普遍感到不适",
+      "hi": "असुविधा की सामान्य अनुभूति"
+    }
+  },
+  {
+    "id": 1979,
+    "word": "malapropism",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "mistaken use of word",
+    "example": "The malapropism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "단어의 잘못된 사용",
+      "zh": "用词错误",
+      "hi": "शब्द का गलत प्रयोग"
+    }
+  },
+  {
+    "id": 1980,
+    "word": "malcontent",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person dissatisfied",
+    "example": "The malcontent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불만족스러운 사람",
+      "zh": "不满的人",
+      "hi": "असंतुष्ट व्यक्ति"
+    }
+  },
+  {
+    "id": 1981,
+    "word": "malevolent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having evil intentions",
+    "example": "The malevolent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "악의적인 의도를 가지고",
+      "zh": "心怀不轨",
+      "hi": "बुरी मंशा रखना"
+    }
+  },
+  {
+    "id": 1982,
+    "word": "malicious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "intending to do harm",
+    "example": "The malicious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "해를 끼치려는 의도",
+      "zh": "意图造成伤害",
+      "hi": "नुकसान पहुंचाने के इरादे से"
+    }
+  },
+  {
+    "id": 1983,
+    "word": "malign",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to speak about in harmful way",
+    "example": "The malign quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "해로운 방식으로 말하다",
+      "zh": "以有害的方式谈论",
+      "hi": "हानिकारक तरीके से बात करना"
+    }
+  },
+  {
+    "id": 1984,
+    "word": "malignant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very virulent or harmful",
+    "example": "The malignant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 독성이 강하거나 해로운",
+      "zh": "毒性极强或危害极大",
+      "hi": "अत्यंत घातक या हानिकारक"
+    }
+  },
+  {
+    "id": 1985,
+    "word": "malleable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily influenced",
+    "example": "The malleable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 영향을 받는",
+      "zh": "容易受到影响",
+      "hi": "आसानी से प्रभावित होने वाला"
+    }
+  },
+  {
+    "id": 1986,
+    "word": "mandate",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "official order or commission",
+    "example": "The mandate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공식 명령 또는 위임",
+      "zh": "官方命令或委托",
+      "hi": "आधिकारिक आदेश या आयोग"
+    }
+  },
+  {
+    "id": 1987,
+    "word": "mandatory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "required by law",
+    "example": "The mandatory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "법률에 의해 요구되는",
+      "zh": "法律要求",
+      "hi": "कानून द्वारा आवश्यक"
+    }
+  },
+  {
+    "id": 1988,
+    "word": "manifest",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "clear or obvious",
+    "example": "The manifest quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "명확한 또는 분명한",
+      "zh": "清晰或明显",
+      "hi": "स्पष्ट या प्रत्यक्ष"
+    }
+  },
+  {
+    "id": 1989,
+    "word": "manifold",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "many and various",
+    "example": "The manifold quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다양하고 많은",
+      "zh": "许多种类",
+      "hi": "अनेक और विविध"
+    }
+  },
+  {
+    "id": 1990,
+    "word": "manipulate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to handle or control",
+    "example": "The manipulate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다루거나 제어하다",
+      "zh": "处理或控制",
+      "hi": "संभालना या नियंत्रित करना"
+    }
+  },
+  {
+    "id": 1991,
+    "word": "mantle",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "role or responsibility",
+    "example": "The mantle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "역할 또는 책임",
+      "zh": "角色或职责",
+      "hi": "भूमिका या जिम्मेदारी"
+    }
+  },
+  {
+    "id": 1992,
+    "word": "mar",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to impair the quality of",
+    "example": "The mar quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "품질을 저하시키다",
+      "zh": "损害质量",
+      "hi": "गुणवत्ता को खराब करने के लिए"
+    }
+  },
+  {
+    "id": 1993,
+    "word": "marginal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of minor importance",
+    "example": "The marginal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "중요도가 낮은",
+      "zh": "次要的重要性",
+      "hi": "कम महत्व का"
+    }
+  },
+  {
+    "id": 1994,
+    "word": "maritime",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "connected with the sea",
+    "example": "The maritime quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "바다와 연결된",
+      "zh": "与海洋相连",
+      "hi": "समुद्र से जुड़ा हुआ"
+    }
+  },
+  {
+    "id": 1995,
+    "word": "marshal",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to arrange in proper order",
+    "example": "The marshal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "올바른 순서대로 배열하기",
+      "zh": "安排妥当",
+      "hi": "उचित क्रम में व्यवस्थित करना"
+    }
+  },
+  {
+    "id": 1996,
+    "word": "martial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to war",
+    "example": "The martial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "전쟁과 관련된",
+      "zh": "与战争有关的",
+      "hi": "युद्ध से संबंधित या युद्ध के बारे में"
+    }
+  },
+  {
+    "id": 1997,
+    "word": "martinet",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "strict disciplinarian",
+    "example": "The martinet quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "엄격한 규율가",
+      "zh": "严格的纪律执行者",
+      "hi": "कठोर अनुशासक"
+    }
+  },
+  {
+    "id": 1998,
+    "word": "marvel",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be filled with wonder",
+    "example": "The marvel quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경이로움으로 가득 차다",
+      "zh": "充满惊奇",
+      "hi": "आश्चर्य से भर जाना"
+    }
+  },
+  {
+    "id": 1999,
+    "word": "materialize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to become actual fact",
+    "example": "The materialize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "실제 사실이 되다",
+      "zh": "成为现实",
+      "hi": "वास्तविक तथ्य बन जाना"
+    }
+  },
+  {
+    "id": 2000,
+    "word": "maternal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to mother",
+    "example": "The maternal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어머니와 관련된",
+      "zh": "母亲的或与母亲有关的",
+      "hi": "माँ से संबंधित या उससे जुड़ा हुआ"
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1401,
+    "word": "genuine",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "truly what it is said to be",
+    "example": "They demonstrated a genuine response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "정말로 그 말이 맞는 것",
+      "zh": "确实名副其实",
+      "hi": "वास्तव में यह वही है जो कहा जाता है"
+    }
+  },
+  {
+    "id": 1402,
+    "word": "germane",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relevant to subject",
+    "example": "They demonstrated a germane response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "주제와 관련됨",
+      "zh": "与主题相关",
+      "hi": "विषय से संबंधित"
+    }
+  },
+  {
+    "id": 1403,
+    "word": "germinate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to begin to grow",
+    "example": "They demonstrated a germinate response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "자라기 시작하다",
+      "zh": "开始生长",
+      "hi": "बढ़ना शुरू करना"
+    }
+  },
+  {
+    "id": 1404,
+    "word": "gestation",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "process of developing",
+    "example": "They demonstrated a gestation response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "개발 과정",
+      "zh": "发展过程",
+      "hi": "विकास की प्रक्रिया"
+    }
+  },
+  {
+    "id": 1405,
+    "word": "gesticulate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to use gestures instead of speaking",
+    "example": "They demonstrated a gesticulate response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "말 대신 몸짓을 사용하는 것",
+      "zh": "用手势代替说话",
+      "hi": "बोलने के बजाय हावभाव का प्रयोग करना"
+    }
+  },
+  {
+    "id": 1406,
+    "word": "ghastly",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing great horror",
+    "example": "They demonstrated a ghastly response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 공포를 불러일으키다",
+      "zh": "造成巨大恐怖",
+      "hi": "जिससे भारी दहशत पैदा हुई"
+    }
+  },
+  {
+    "id": 1407,
+    "word": "gibe",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make insulting remarks",
+    "example": "They demonstrated a gibe response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "모욕적인 발언을 하다",
+      "zh": "发表侮辱性言论",
+      "hi": "अपमानजनक टिप्पणी करना"
+    }
+  },
+  {
+    "id": 1408,
+    "word": "giddy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having sensation of spinning",
+    "example": "They demonstrated a giddy response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "회전하는 느낌이 든다",
+      "zh": "有旋转感",
+      "hi": "चक्कर आने का अहसास होना"
+    }
+  },
+  {
+    "id": 1409,
+    "word": "gird",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to encircle or bind",
+    "example": "They demonstrated a gird response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "둘러싸거나 묶다",
+      "zh": "包围或捆绑",
+      "hi": "घेरना या बांधना"
+    }
+  },
+  {
+    "id": 1410,
+    "word": "gist",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "substance or essence",
+    "example": "They demonstrated a gist response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "물질 또는 본질",
+      "zh": "物质或本质",
+      "hi": "पदार्थ या सार"
+    }
+  },
+  {
+    "id": 1411,
+    "word": "glacial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to ice",
+    "example": "They demonstrated a glacial response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "얼음과 관련된",
+      "zh": "与冰有关的",
+      "hi": "बर्फ से संबंधित"
+    }
+  },
+  {
+    "id": 1412,
+    "word": "glaring",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "shining with dazzling light",
+    "example": "They demonstrated a glaring response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "눈부신 빛으로 빛나다",
+      "zh": "闪耀着耀眼的光芒",
+      "hi": "चकाचौंध भरी रोशनी से जगमगाता हुआ"
+    }
+  },
+  {
+    "id": 1413,
+    "word": "glean",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to extract information",
+    "example": "They demonstrated a glean response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "정보를 추출하기 위해",
+      "zh": "提取信息",
+      "hi": "जानकारी निकालने के लिए"
+    }
+  },
+  {
+    "id": 1414,
+    "word": "glee",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "great delight",
+    "example": "They demonstrated a glee response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 기쁨",
+      "zh": "非常高兴",
+      "hi": "बहुत खुशी"
+    }
+  },
+  {
+    "id": 1415,
+    "word": "glib",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fluent but insincere",
+    "example": "They demonstrated a glib response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "유창하지만 진실되지 않음",
+      "zh": "口齿伶俐但虚伪",
+      "hi": "धाराप्रवाह लेकिन बेईमान"
+    }
+  },
+  {
+    "id": 1416,
+    "word": "glimmer",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "faint sign of feeling",
+    "example": "They demonstrated a glimmer response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "희미한 감각의 징후",
+      "zh": "微弱的感觉",
+      "hi": "भावना का हल्का संकेत"
+    }
+  },
+  {
+    "id": 1417,
+    "word": "glimpse",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "brief look at something",
+    "example": "They demonstrated a glimpse response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가를 간략하게 살펴보다",
+      "zh": "简要浏览一下",
+      "hi": "किसी चीज़ पर संक्षिप्त नज़र"
+    }
+  },
+  {
+    "id": 1418,
+    "word": "glitch",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "sudden malfunction",
+    "example": "They demonstrated a glitch response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 오작동",
+      "zh": "突然故障",
+      "hi": "अचानक खराबी"
+    }
+  },
+  {
+    "id": 1419,
+    "word": "gloat",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to contemplate with smugness",
+    "example": "They demonstrated a gloat response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "자만심에 가득 차서 생각하다",
+      "zh": "带着沾沾自喜的心情沉思",
+      "hi": "आत्मसंतुष्टि के साथ विचार करना"
+    }
+  },
+  {
+    "id": 1420,
+    "word": "gloom",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "partial or total darkness",
+    "example": "They demonstrated a gloom response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "부분적 또는 완전한 어둠",
+      "zh": "部分或完全黑暗",
+      "hi": "आंशिक या पूर्ण अंधकार"
+    }
+  },
+  {
+    "id": 1421,
+    "word": "glorify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to describe as admirable",
+    "example": "They demonstrated a glorify response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "훌륭하다고 묘사하다",
+      "zh": "形容为令人钦佩",
+      "hi": "प्रशंसनीय के रूप में वर्णन करना"
+    }
+  },
+  {
+    "id": 1422,
+    "word": "glossary",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "list of technical terms",
+    "example": "They demonstrated a glossary response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "기술 용어 목록",
+      "zh": "技术术语列表",
+      "hi": "तकनीकी शब्दों की सूची"
+    }
+  },
+  {
+    "id": 1423,
+    "word": "glower",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to look angrily",
+    "example": "They demonstrated a glower response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "화난 표정을 짓다",
+      "zh": "怒目而视",
+      "hi": "गुस्से से देखना"
+    }
+  },
+  {
+    "id": 1424,
+    "word": "glut",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excessively abundant supply",
+    "example": "They demonstrated a glut response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "과잉 공급",
+      "zh": "供应过剩",
+      "hi": "अत्यधिक प्रचुर मात्रा में आपूर्ति"
+    }
+  },
+  {
+    "id": 1425,
+    "word": "glutton",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excessively greedy person",
+    "example": "They demonstrated a glutton response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 탐욕스러운 사람",
+      "zh": "极度贪婪的人",
+      "hi": "अत्यधिक लालची व्यक्ति"
+    }
+  },
+  {
+    "id": 1426,
+    "word": "gnarled",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "knobbly and twisted",
+    "example": "They demonstrated a gnarled response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "울퉁불퉁하고 뒤틀린",
+      "zh": "疙瘩状且扭曲",
+      "hi": "गांठदार और मुड़ा हुआ"
+    }
+  },
+  {
+    "id": 1427,
+    "word": "gnaw",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to bite at persistently",
+    "example": "They demonstrated a gnaw response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "끈질기게 물어뜯다",
+      "zh": "持续地咬",
+      "hi": "लगातार काटना"
+    }
+  },
+  {
+    "id": 1428,
+    "word": "goad",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to provoke to action",
+    "example": "They demonstrated a goad response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "행동을 유발하다",
+      "zh": "激起行动",
+      "hi": "कार्रवाई के लिए उकसाना"
+    }
+  },
+  {
+    "id": 1429,
+    "word": "gobble",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to eat hurriedly",
+    "example": "They demonstrated a gobble response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "급하게 먹다",
+      "zh": "狼吞虎咽",
+      "hi": "जल्दी-जल्दी खाना"
+    }
+  },
+  {
+    "id": 1430,
+    "word": "gory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving much bloodshed",
+    "example": "They demonstrated a gory response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 유혈 사태를 수반하는",
+      "zh": "涉及大量流血事件",
+      "hi": "जिसमें बहुत खून-खराबा हुआ"
+    }
+  },
+  {
+    "id": 1431,
+    "word": "gossamer",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "used to refer to something delicate",
+    "example": "They demonstrated a gossamer response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "섬세한 것을 가리킬 때 사용됩니다.",
+      "zh": "用来指精致的事物",
+      "hi": "किसी नाजुक चीज के संदर्भ में प्रयुक्त"
+    }
+  },
+  {
+    "id": 1432,
+    "word": "gouge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make groove in",
+    "example": "They demonstrated a gouge response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "그루브를 만들기 위해",
+      "zh": "做凹槽",
+      "hi": "खांचा बनाने के लिए"
+    }
+  },
+  {
+    "id": 1433,
+    "word": "govern",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to conduct policy of",
+    "example": "They demonstrated a govern response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "정책을 수행하다",
+      "zh": "执行政策",
+      "hi": "नीति का संचालन करने के लिए"
+    }
+  },
+  {
+    "id": 1434,
+    "word": "graceful",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having elegance",
+    "example": "They demonstrated a graceful response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "우아함을 지닌",
+      "zh": "优雅",
+      "hi": "सुंदरता होना"
+    }
+  },
+  {
+    "id": 1435,
+    "word": "gracious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "courteous and kind",
+    "example": "They demonstrated a gracious response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "예의 바르고 친절한",
+      "zh": "礼貌友善",
+      "hi": "विनम्र और दयालु"
+    }
+  },
+  {
+    "id": 1436,
+    "word": "gradient",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "rate of change",
+    "example": "They demonstrated a gradient response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "변화율",
+      "zh": "变化率",
+      "hi": "परिवर्तन की दर"
+    }
+  },
+  {
+    "id": 1437,
+    "word": "gradual",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "taking place by degrees",
+    "example": "They demonstrated a gradual response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "점진적으로 진행되는",
+      "zh": "逐步进行",
+      "hi": "धीरे-धीरे घटित हो रहा है"
+    }
+  },
+  {
+    "id": 1438,
+    "word": "graft",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "practices for personal gain",
+    "example": "They demonstrated a graft response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "개인적 이익을 위한 행위",
+      "zh": "为个人利益而采取的行动",
+      "hi": "व्यक्तिगत लाभ के लिए की जाने वाली प्रथाएँ"
+    }
+  },
+  {
+    "id": 1439,
+    "word": "grandeur",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "splendor and impressiveness",
+    "example": "They demonstrated a grandeur response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "화려함과 인상적임",
+      "zh": "辉煌与震撼",
+      "hi": "भव्यता और प्रभावशालीता"
+    }
+  },
+  {
+    "id": 1440,
+    "word": "grandiloquent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "pompous in language",
+    "example": "They demonstrated a grandiloquent response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "언어적으로 거만한",
+      "zh": "语言傲慢",
+      "hi": "भाषा में आडंबरपूर्ण"
+    }
+  },
+  {
+    "id": 1441,
+    "word": "grandiose",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impressive and imposing",
+    "example": "They demonstrated a grandiose response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "인상적이고 위엄 있는",
+      "zh": "令人印象深刻，气势恢宏",
+      "hi": "प्रभावशाली और भव्य"
+    }
+  },
+  {
+    "id": 1442,
+    "word": "grapple",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to engage in struggle",
+    "example": "They demonstrated a grapple response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "투쟁에 참여하다",
+      "zh": "参与斗争",
+      "hi": "संघर्ष में संलग्न होना"
+    }
+  },
+  {
+    "id": 1443,
+    "word": "gratify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give pleasure to",
+    "example": "They demonstrated a gratify response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "즐거움을 주기 위해",
+      "zh": "使人快乐",
+      "hi": "आनंद देना"
+    }
+  },
+  {
+    "id": 1444,
+    "word": "gratis",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "without charge",
+    "example": "They demonstrated a gratis response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "무료로",
+      "zh": "免费",
+      "hi": "मुफ्त"
+    }
+  },
+  {
+    "id": 1445,
+    "word": "gratuitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "uncalled for",
+    "example": "They demonstrated a gratuitous response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "불필요한",
+      "zh": "不必要的",
+      "hi": "अयोग्य के लिए"
+    }
+  },
+  {
+    "id": 1446,
+    "word": "grave",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "giving cause for alarm",
+    "example": "They demonstrated a grave response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "경각심을 불러일으키는",
+      "zh": "令人担忧",
+      "hi": "चिंता का कारण"
+    }
+  },
+  {
+    "id": 1447,
+    "word": "gravity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "extreme importance",
+    "example": "They demonstrated a gravity response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "극히 중요함",
+      "zh": "极其重要",
+      "hi": "अत्यंत महत्व"
+    }
+  },
+  {
+    "id": 1448,
+    "word": "gregarious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fond of company",
+    "example": "They demonstrated a gregarious response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "사람들과 어울리는 것을 좋아합니다",
+      "zh": "喜欢陪伴",
+      "hi": "संगति पसंद करने वाला"
+    }
+  },
+  {
+    "id": 1449,
+    "word": "grievance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "real or imagined wrong",
+    "example": "They demonstrated a grievance response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "실제든 상상이든 잘못",
+      "zh": "真实或想象的错误",
+      "hi": "वास्तविक या काल्पनिक गलत"
+    }
+  },
+  {
+    "id": 1450,
+    "word": "grievous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very severe",
+    "example": "They demonstrated a grievous response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 심각한",
+      "zh": "非常严重",
+      "hi": "कड़ी से कड़ी"
+    }
+  },
+  {
+    "id": 1451,
+    "word": "grimace",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "ugly twisted expression",
+    "example": "They demonstrated a grimace response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "추악하고 일그러진 표정",
+      "zh": "丑陋扭曲的表情",
+      "hi": "बदसूरत विकृत अभिव्यक्ति"
+    }
+  },
+  {
+    "id": 1452,
+    "word": "grim",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "forbidding in aspect",
+    "example": "They demonstrated a grim response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "금지된 측면",
+      "zh": "令人禁止的方面",
+      "hi": "देखने में निषिद्ध"
+    }
+  },
+  {
+    "id": 1453,
+    "word": "grisly",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing horror",
+    "example": "They demonstrated a grisly response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "공포를 유발함",
+      "zh": "造成恐怖",
+      "hi": "आतंक पैदा करना"
+    }
+  },
+  {
+    "id": 1454,
+    "word": "grouse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to complain pettily",
+    "example": "They demonstrated a grouse response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "사소하게 불평하다",
+      "zh": "斤斤计较地抱怨",
+      "hi": "छोटी-छोटी बातों पर शिकायत करना"
+    }
+  },
+  {
+    "id": 1455,
+    "word": "grovel",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to lie face downward",
+    "example": "They demonstrated a grovel response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "엎드려",
+      "zh": "俯卧",
+      "hi": "पेट के बल लेटना"
+    }
+  },
+  {
+    "id": 1456,
+    "word": "grudge",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "persistent feeling of resentment",
+    "example": "They demonstrated a grudge response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "지속적인 분노감",
+      "zh": "持续的怨恨感",
+      "hi": "नाराजगी की निरंतर भावना"
+    }
+  },
+  {
+    "id": 1457,
+    "word": "grueling",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely tiring",
+    "example": "They demonstrated a grueling response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 피곤한",
+      "zh": "极其疲惫",
+      "hi": "बेहद थकाने वाला"
+    }
+  },
+  {
+    "id": 1458,
+    "word": "gruesome",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing repulsion",
+    "example": "They demonstrated a gruesome response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "반발을 유발함",
+      "zh": "引起排斥",
+      "hi": "प्रतिकर्षण पैदा करना"
+    }
+  },
+  {
+    "id": 1459,
+    "word": "gruff",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "rough in manner",
+    "example": "They demonstrated a gruff response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "거친 태도",
+      "zh": "举止粗鲁",
+      "hi": "व्यवहार में कठोर"
+    }
+  },
+  {
+    "id": 1460,
+    "word": "guile",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "sly or cunning intelligence",
+    "example": "They demonstrated a guile response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "교활하거나 영리한 지능",
+      "zh": "狡猾或诡计多端的智慧",
+      "hi": "धूर्त या चालाक बुद्धि"
+    }
+  },
+  {
+    "id": 1461,
+    "word": "guileless",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "devoid of guile",
+    "example": "They demonstrated a guileless response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "교활함이 없는",
+      "zh": "毫无诡计",
+      "hi": "छल-कपट से रहित"
+    }
+  },
+  {
+    "id": 1462,
+    "word": "gullible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily persuaded to believe",
+    "example": "They demonstrated a gullible response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 믿도록 설득당함",
+      "zh": "很容易被说服而相信",
+      "hi": "आसानी से विश्वास करने के लिए राजी हो जाना"
+    }
+  },
+  {
+    "id": 1463,
+    "word": "gush",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to send out in rapid stream",
+    "example": "They demonstrated a gush response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "빠른 속도로 내보내다",
+      "zh": "快速发送",
+      "hi": "तेजी से बाहर भेजना"
+    }
+  },
+  {
+    "id": 1464,
+    "word": "gusto",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "enjoyment and enthusiasm",
+    "example": "They demonstrated a gusto response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "즐거움과 열정",
+      "zh": "享受和热情",
+      "hi": "आनंद और उत्साह"
+    }
+  },
+  {
+    "id": 1465,
+    "word": "gutter",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "shallow trough",
+    "example": "They demonstrated a gutter response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "얕은 홈",
+      "zh": "浅槽",
+      "hi": "उथली खाई"
+    }
+  },
+  {
+    "id": 1466,
+    "word": "habituate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make accustomed",
+    "example": "They demonstrated a habituate response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "익숙해지게 하다",
+      "zh": "使习惯",
+      "hi": "अभ्यस्त बनाना"
+    }
+  },
+  {
+    "id": 1467,
+    "word": "hackneyed",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking significance through overuse",
+    "example": "They demonstrated a hackneyed response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "과도한 사용으로 인해 중요성이 부족해짐",
+      "zh": "因过度使用而缺乏意义",
+      "hi": "अत्यधिक उपयोग के कारण महत्वहीन"
+    }
+  },
+  {
+    "id": 1468,
+    "word": "haggard",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "looking exhausted",
+    "example": "They demonstrated a haggard response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "지쳐 보이는",
+      "zh": "看起来很疲惫",
+      "hi": "थका हुआ लग रहा है"
+    }
+  },
+  {
+    "id": 1469,
+    "word": "haggle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to dispute over price",
+    "example": "They demonstrated a haggle response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "가격에 대해 논쟁하다",
+      "zh": "就价格问题进行争论",
+      "hi": "कीमत को लेकर विवाद करना"
+    }
+  },
+  {
+    "id": 1470,
+    "word": "halcyon",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "denoting happy time",
+    "example": "They demonstrated a halcyon response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "행복한 시간을 나타냄",
+      "zh": "表示快乐时光",
+      "hi": "खुशी के समय का प्रतीक"
+    }
+  },
+  {
+    "id": 1471,
+    "word": "hallow",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to honor as holy",
+    "example": "They demonstrated a hallow response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "신성하게 여기다",
+      "zh": "尊为圣物",
+      "hi": "पवित्र मानकर सम्मान करना"
+    }
+  },
+  {
+    "id": 1472,
+    "word": "hallucination",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "experience involving perception",
+    "example": "They demonstrated a hallucination response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "지각과 관련된 경험",
+      "zh": "涉及感知的体验",
+      "hi": "अनुभव जिसमें धारणा शामिल है"
+    }
+  },
+  {
+    "id": 1473,
+    "word": "halt",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to bring to sudden stop",
+    "example": "They demonstrated a halt response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "갑자기 멈추게 하다",
+      "zh": "突然停止",
+      "hi": "अचानक रोक देना"
+    }
+  },
+  {
+    "id": 1474,
+    "word": "hamper",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to hinder or impede",
+    "example": "They demonstrated a hamper response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "방해하거나 저지하다",
+      "zh": "阻碍或妨碍",
+      "hi": "बाधा डालना या रोकना"
+    }
+  },
+  {
+    "id": 1475,
+    "word": "haphazard",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking any plan",
+    "example": "They demonstrated a haphazard response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "계획이 전혀 없는",
+      "zh": "缺乏任何计划",
+      "hi": "किसी योजना का अभाव"
+    }
+  },
+  {
+    "id": 1476,
+    "word": "hapless",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unfortunate",
+    "example": "They demonstrated a hapless response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "불행한 사람",
+      "zh": "不幸",
+      "hi": "दुर्भाग्यपूर्ण"
+    }
+  },
+  {
+    "id": 1477,
+    "word": "harangue",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to lecture at length",
+    "example": "They demonstrated a harangue response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "장시간 강의하다",
+      "zh": "长篇演讲",
+      "hi": "लंबे समय तक व्याख्यान देना"
+    }
+  },
+  {
+    "id": 1478,
+    "word": "harass",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to subject to constant attacks",
+    "example": "They demonstrated a harass response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "끊임없는 공격에 노출되다",
+      "zh": "遭受持续攻击",
+      "hi": "लगातार हमलों का शिकार होना"
+    }
+  },
+  {
+    "id": 1479,
+    "word": "harbinger",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person or thing announcing approach",
+    "example": "They demonstrated a harbinger response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "접근 방식을 알리는 사람 또는 사물",
+      "zh": "人或物宣布接近",
+      "hi": "किसी व्यक्ति या वस्तु द्वारा आगमन की घोषणा करना"
+    }
+  },
+  {
+    "id": 1480,
+    "word": "harbor",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to keep thought in mind",
+    "example": "They demonstrated a harbor response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "생각을 마음속에 간직하다",
+      "zh": "记住这个想法",
+      "hi": "विचार को ध्यान में रखना"
+    }
+  },
+  {
+    "id": 1481,
+    "word": "hardy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "robust and sturdy",
+    "example": "They demonstrated a hardy response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "견고하고 튼튼함",
+      "zh": "坚固耐用",
+      "hi": "मजबूत और टिकाऊ"
+    }
+  },
+  {
+    "id": 1482,
+    "word": "harken",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to listen attentively",
+    "example": "They demonstrated a harken response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "주의 깊게 듣다",
+      "zh": "认真倾听",
+      "hi": "ध्यानपूर्वक सुनना"
+    }
+  },
+  {
+    "id": 1483,
+    "word": "harmony",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of being in agreement",
+    "example": "They demonstrated a harmony response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "동의하는 상태",
+      "zh": "同意的状态",
+      "hi": "सहमत होने की स्थिति"
+    }
+  },
+  {
+    "id": 1484,
+    "word": "harness",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to control and make use of",
+    "example": "They demonstrated a harness response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "제어하고 활용하다",
+      "zh": "控制和利用",
+      "hi": "नियंत्रण करने और उपयोग करने के लिए"
+    }
+  },
+  {
+    "id": 1485,
+    "word": "harp",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to talk persistently",
+    "example": "They demonstrated a harp response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "끈질기게 이야기하다",
+      "zh": "喋喋不休",
+      "hi": "लगातार बात करना"
+    }
+  },
+  {
+    "id": 1486,
+    "word": "harridan",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "strict bossy woman",
+    "example": "They demonstrated a harridan response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "엄격하고 권위적인 여자",
+      "zh": "严厉专横的女人",
+      "hi": "सख्त और दबंग महिला"
+    }
+  },
+  {
+    "id": 1487,
+    "word": "harrowing",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "acutely distressing",
+    "example": "They demonstrated a harrowing response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 고통스러운",
+      "zh": "极度痛苦",
+      "hi": "अत्यंत कष्टदायक"
+    }
+  },
+  {
+    "id": 1488,
+    "word": "harsh",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unpleasantly rough",
+    "example": "They demonstrated a harsh response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌할 정도로 거칠다",
+      "zh": "令人不快的粗糙",
+      "hi": "अप्रिय रूप से खुरदरा"
+    }
+  },
+  {
+    "id": 1489,
+    "word": "hasten",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be quick to do",
+    "example": "They demonstrated a hasten response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "빨리 하다",
+      "zh": "迅速去做",
+      "hi": "जल्दी से करने के लिए"
+    }
+  },
+  {
+    "id": 1490,
+    "word": "hasty",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "done with excessive speed",
+    "example": "They demonstrated a hasty response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "과도한 속도로 완료됨",
+      "zh": "以过快的速度完成",
+      "hi": "अत्यधिक गति से किया गया"
+    }
+  },
+  {
+    "id": 1491,
+    "word": "haughty",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "arrogantly superior",
+    "example": "They demonstrated a haughty response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "오만하게 우월한",
+      "zh": "傲慢自大",
+      "hi": "अहंकारी रूप से श्रेष्ठ"
+    }
+  },
+  {
+    "id": 1492,
+    "word": "haunt",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to continually appear in",
+    "example": "They demonstrated a haunt response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "지속적으로 나타나다",
+      "zh": "不断出现在",
+      "hi": "लगातार प्रकट होना"
+    }
+  },
+  {
+    "id": 1493,
+    "word": "haven",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "place of safety",
+    "example": "They demonstrated a haven response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "안전한 장소",
+      "zh": "安全的地方",
+      "hi": "सुरक्षित स्थान"
+    }
+  },
+  {
+    "id": 1494,
+    "word": "havoc",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "widespread destruction",
+    "example": "They demonstrated a havoc response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "광범위한 파괴",
+      "zh": "大范围破坏",
+      "hi": "व्यापक विनाश"
+    }
+  },
+  {
+    "id": 1495,
+    "word": "hazard",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "danger or risk",
+    "example": "They demonstrated a hazard response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "위험 또는 위험",
+      "zh": "危险或风险",
+      "hi": "खतरा या जोखिम"
+    }
+  },
+  {
+    "id": 1496,
+    "word": "hazy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "covered by haze",
+    "example": "They demonstrated a hazy response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "안개로 덮여 있음",
+      "zh": "笼罩在薄雾中",
+      "hi": "धुंध से ढका हुआ"
+    }
+  },
+  {
+    "id": 1497,
+    "word": "headstrong",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "willfully determined",
+    "example": "They demonstrated a headstrong response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "고의적으로 결정된",
+      "zh": "故意",
+      "hi": "जानबूझकर निर्धारित"
+    }
+  },
+  {
+    "id": 1498,
+    "word": "heckle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to interrupt with comments",
+    "example": "They demonstrated a heckle response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "댓글로 방해하다",
+      "zh": "打断评论",
+      "hi": "टिप्पणियों के साथ बाधित करना"
+    }
+  },
+  {
+    "id": 1499,
+    "word": "hector",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to talk in bullying way",
+    "example": "They demonstrated a hector response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "괴롭히는 말투로 말하다",
+      "zh": "用欺凌的方式说话",
+      "hi": "धमकाने वाले अंदाज में बात करना"
+    }
+  },
+  {
+    "id": 1500,
+    "word": "heed",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to pay attention to",
+    "example": "They demonstrated a heed response to the situation.",
+    "category": "General",
+    "translations": {
+      "ko": "주의를 기울이다",
+      "zh": "注意",
+      "hi": "ध्यान देने के लिए"
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 401,
+    "word": "abstemious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not self-indulgent in eating",
+    "example": "The scholar demonstrated abstemious behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "먹는 데 있어서 자기 탐닉을 하지 않는다",
+      "zh": "不放纵自己吃东西",
+      "hi": "खाने-पीने में आत्म-भोग न करना"
+    }
+  },
+  {
+    "id": 402,
+    "word": "accede",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to agree to a demand",
+    "example": "The scholar demonstrated accede behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "요구에 동의하다",
+      "zh": "同意这一要求",
+      "hi": "किसी मांग पर सहमत होना"
+    }
+  },
+  {
+    "id": 403,
+    "word": "accolade",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "award or privilege",
+    "example": "The scholar demonstrated accolade behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "상 또는 특권",
+      "zh": "奖励或特权",
+      "hi": "पुरस्कार या विशेषाधिकार"
+    }
+  },
+  {
+    "id": 404,
+    "word": "accost",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to approach and address boldly",
+    "example": "The scholar demonstrated accost behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "대담하게 접근하고 해결하다",
+      "zh": "大胆地接近和应对",
+      "hi": "साहसपूर्वक संपर्क करना और संबोधित करना"
+    }
+  },
+  {
+    "id": 405,
+    "word": "accretion",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "growth by gradual accumulation",
+    "example": "The scholar demonstrated accretion behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "점진적 축적에 의한 성장",
+      "zh": "通过逐步积累而增长",
+      "hi": "क्रमिक संचय द्वारा वृद्धि"
+    }
+  },
+  {
+    "id": 406,
+    "word": "acumen",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "ability to make good judgments",
+    "example": "The scholar demonstrated acumen behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "올바른 판단을 내릴 수 있는 능력",
+      "zh": "判断能力",
+      "hi": "अच्छे निर्णय लेने की क्षमता"
+    }
+  },
+  {
+    "id": 407,
+    "word": "adjudicate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make formal judgment",
+    "example": "The scholar demonstrated adjudicate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "공식적인 판단을 내리다",
+      "zh": "作出正式判决",
+      "hi": "औपचारिक निर्णय लेना"
+    }
+  },
+  {
+    "id": 408,
+    "word": "admonish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to warn or reprimand",
+    "example": "The scholar demonstrated admonish behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "경고하거나 질책하다",
+      "zh": "警告或训斥",
+      "hi": "चेतावनी देना या फटकार लगाना"
+    }
+  },
+  {
+    "id": 409,
+    "word": "adroit",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "clever or skillful",
+    "example": "The scholar demonstrated adroit behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "영리하거나 능숙한",
+      "zh": "聪明或熟练",
+      "hi": "चतुर या कुशल"
+    }
+  },
+  {
+    "id": 410,
+    "word": "adulation",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excessive admiration",
+    "example": "The scholar demonstrated adulation behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "과도한 찬사",
+      "zh": "过度崇拜",
+      "hi": "अत्यधिक प्रशंसा"
+    }
+  },
+  {
+    "id": 411,
+    "word": "adversarial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving conflict",
+    "example": "The scholar demonstrated adversarial behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "갈등과 관련된",
+      "zh": "涉及冲突",
+      "hi": "संघर्ष से संबंधित"
+    }
+  },
+  {
+    "id": 412,
+    "word": "advocate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to publicly support",
+    "example": "The scholar demonstrated advocate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적으로 지지하다",
+      "zh": "公开支持",
+      "hi": "सार्वजनिक रूप से समर्थन करने के लिए"
+    }
+  },
+  {
+    "id": 413,
+    "word": "aesthetic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "concerned with beauty",
+    "example": "The scholar demonstrated aesthetic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "아름다움에 관심을 갖는",
+      "zh": "关注美",
+      "hi": "सौंदर्य से संबंधित"
+    }
+  },
+  {
+    "id": 414,
+    "word": "affable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "friendly and good-natured",
+    "example": "The scholar demonstrated affable behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "친절하고 상냥한",
+      "zh": "友善和蔼",
+      "hi": "मिलनसार और अच्छे स्वभाव वाला"
+    }
+  },
+  {
+    "id": 415,
+    "word": "affected",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "artificial and pretentious",
+    "example": "The scholar demonstrated affected behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "인위적이고 허세스러운",
+      "zh": "矫揉造作、装腔作势",
+      "hi": "कृत्रिम और दिखावटी"
+    }
+  },
+  {
+    "id": 416,
+    "word": "affinity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "natural liking for something",
+    "example": "The scholar demonstrated affinity behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가에 대한 자연스러운 호감",
+      "zh": "对某事物的天然喜爱",
+      "hi": "किसी चीज के प्रति स्वाभाविक पसंद"
+    }
+  },
+  {
+    "id": 417,
+    "word": "affluent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having great wealth",
+    "example": "The scholar demonstrated affluent behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "엄청난 부를 가지고",
+      "zh": "拥有巨额财富",
+      "hi": "बहुत धनवान होना"
+    }
+  },
+  {
+    "id": 418,
+    "word": "aggrandize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to increase power or status",
+    "example": "The scholar demonstrated aggrandize behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "권력이나 지위를 높이다",
+      "zh": "提升权力或地位",
+      "hi": "शक्ति या प्रतिष्ठा बढ़ाना"
+    }
+  },
+  {
+    "id": 419,
+    "word": "aggregate",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "whole formed by combining",
+    "example": "The scholar demonstrated aggregate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "전체는 결합에 의해 형성됩니다.",
+      "zh": "由以下组合而成的整体",
+      "hi": "संयोजन द्वारा निर्मित संपूर्ण"
+    }
+  },
+  {
+    "id": 420,
+    "word": "aggrieved",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling resentment",
+    "example": "The scholar demonstrated aggrieved behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "분노를 느끼다",
+      "zh": "感到怨恨",
+      "hi": "नाराजगी महसूस करना"
+    }
+  },
+  {
+    "id": 421,
+    "word": "agnostic",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person uncertain about existence",
+    "example": "The scholar demonstrated agnostic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "존재에 대해 확신하지 못하는 사람",
+      "zh": "对自身存在感到不确定的人",
+      "hi": "अस्तित्व के बारे में अनिश्चित व्यक्ति"
+    }
+  },
+  {
+    "id": 422,
+    "word": "alacrity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "brisk and cheerful readiness",
+    "example": "The scholar demonstrated alacrity behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "활기차고 쾌활한 준비",
+      "zh": "精神抖擞、兴高采烈地准备",
+      "hi": "तेज और हंसमुख तत्परता"
+    }
+  },
+  {
+    "id": 423,
+    "word": "albeit",
+    "level": "Advanced",
+    "partOfSpeech": "conjunction",
+    "definition": "although",
+    "example": "The scholar demonstrated albeit behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "하지만",
+      "zh": "虽然",
+      "hi": "हालांकि"
+    }
+  },
+  {
+    "id": 424,
+    "word": "alchemy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "seemingly magical transformation",
+    "example": "The scholar demonstrated alchemy behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "마법처럼 보이는 변신",
+      "zh": "看似神奇的转变",
+      "hi": "जादुई परिवर्तन प्रतीत होता है"
+    }
+  },
+  {
+    "id": 425,
+    "word": "alienate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to feel isolated",
+    "example": "The scholar demonstrated alienate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "고립감을 느끼게 하다",
+      "zh": "使人感到孤立",
+      "hi": "किसी को अलग-थलग महसूस कराना"
+    }
+  },
+  {
+    "id": 426,
+    "word": "allay",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to diminish fear or concern",
+    "example": "The scholar demonstrated allay behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "두려움이나 걱정을 줄이기 위해",
+      "zh": "减轻恐惧或担忧",
+      "hi": "डर या चिंता को कम करना"
+    }
+  },
+  {
+    "id": 427,
+    "word": "allege",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to claim without proof",
+    "example": "The scholar demonstrated allege behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "증거 없이 주장하다",
+      "zh": "无需证据即可提出索赔",
+      "hi": "बिना सबूत के दावा करना"
+    }
+  },
+  {
+    "id": 428,
+    "word": "allocate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to distribute for purpose",
+    "example": "The scholar demonstrated allocate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "배포 목적",
+      "zh": "为目的分发",
+      "hi": "किसी उद्देश्य से वितरित करने के लिए"
+    }
+  },
+  {
+    "id": 429,
+    "word": "allure",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "quality of being attractive",
+    "example": "The scholar demonstrated allure behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "매력적인 자질",
+      "zh": "吸引力的品质",
+      "hi": "आकर्षक होने का गुण"
+    }
+  },
+  {
+    "id": 430,
+    "word": "aloof",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not friendly or forthcoming",
+    "example": "The scholar demonstrated aloof behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "친절하지 않거나 솔직하지 않음",
+      "zh": "不友好或不热情",
+      "hi": "दोस्ताना या खुलकर बात करने वाला नहीं"
+    }
+  },
+  {
+    "id": 431,
+    "word": "altruistic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing unselfish concern",
+    "example": "The scholar demonstrated altruistic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "이기심 없는 관심을 보이는 것",
+      "zh": "表现出无私的关怀",
+      "hi": "निस्वार्थ भाव से चिंता दिखाना"
+    }
+  },
+  {
+    "id": 432,
+    "word": "amalgamate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to combine into unified whole",
+    "example": "The scholar demonstrated amalgamate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "하나의 통일된 전체로 결합하다",
+      "zh": "合并成一个统一的整体",
+      "hi": "एक एकीकृत इकाई में संयोजित करना"
+    }
+  },
+  {
+    "id": 433,
+    "word": "ambiguous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "open to more than one interpretation",
+    "example": "The scholar demonstrated ambiguous behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "여러 가지 해석이 가능하다",
+      "zh": "可以有多种解释",
+      "hi": "एक से अधिक व्याख्याओं के लिए खुला"
+    }
+  },
+  {
+    "id": 434,
+    "word": "ambivalent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having mixed feelings",
+    "example": "The scholar demonstrated ambivalent behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "복잡한 감정을 느끼며",
+      "zh": "心情复杂",
+      "hi": "मिली-जुली भावनाएँ होना"
+    }
+  },
+  {
+    "id": 435,
+    "word": "ameliorate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make something better",
+    "example": "The scholar demonstrated ameliorate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가를 더 좋게 만들기 위해",
+      "zh": "为了让事物变得更好",
+      "hi": "किसी चीज को बेहतर बनाना"
+    }
+  },
+  {
+    "id": 436,
+    "word": "amenable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "open to suggestion",
+    "example": "The scholar demonstrated amenable behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "제안을 환영합니다",
+      "zh": "乐于接受建议",
+      "hi": "सुझावों के लिए खुला है"
+    }
+  },
+  {
+    "id": 437,
+    "word": "amiable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "friendly and pleasant",
+    "example": "The scholar demonstrated amiable behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "친절하고 상냥한",
+      "zh": "友好和蔼",
+      "hi": "मिलनसार और सुखद"
+    }
+  },
+  {
+    "id": 438,
+    "word": "amicable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "characterized by friendliness",
+    "example": "The scholar demonstrated amicable behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "친근함을 특징으로 함",
+      "zh": "以友善为特征",
+      "hi": "मित्रता की विशेषता"
+    }
+  },
+  {
+    "id": 439,
+    "word": "amorphous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "without clear shape",
+    "example": "The scholar demonstrated amorphous behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "명확한 형태 없이",
+      "zh": "没有清晰的形状",
+      "hi": "स्पष्ट आकार के बिना"
+    }
+  },
+  {
+    "id": 440,
+    "word": "ample",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "enough or more than enough",
+    "example": "The scholar demonstrated ample behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "충분하거나 충분 이상",
+      "zh": "足够或绰绰有余",
+      "hi": "पर्याप्त या पर्याप्त से अधिक"
+    }
+  },
+  {
+    "id": 441,
+    "word": "anachronistic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "belonging to different period",
+    "example": "The scholar demonstrated anachronistic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "서로 다른 시대에 속하는",
+      "zh": "属于不同时期",
+      "hi": "अलग-अलग अवधियों से संबंधित"
+    }
+  },
+  {
+    "id": 442,
+    "word": "analogous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "comparable in certain respects",
+    "example": "The scholar demonstrated analogous behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 면에서는 유사하다",
+      "zh": "在某些方面具有可比性",
+      "hi": "कुछ मामलों में तुलनीय"
+    }
+  },
+  {
+    "id": 443,
+    "word": "anarchy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of disorder",
+    "example": "The scholar demonstrated anarchy behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "무질서 상태",
+      "zh": "混乱状态",
+      "hi": "अव्यवस्था की स्थिति"
+    }
+  },
+  {
+    "id": 444,
+    "word": "anathema",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "something greatly disliked",
+    "example": "The scholar demonstrated anathema behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 싫어하는 것",
+      "zh": "非常令人厌恶的事物",
+      "hi": "कोई ऐसी चीज जिसे बेहद नापसंद किया जाता हो"
+    }
+  },
+  {
+    "id": 445,
+    "word": "ancillary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "providing support",
+    "example": "The scholar demonstrated ancillary behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "지원 제공",
+      "zh": "提供支持",
+      "hi": "सहायता प्रदान करना"
+    }
+  },
+  {
+    "id": 446,
+    "word": "animosity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "strong hostility",
+    "example": "The scholar demonstrated animosity behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "강한 적대감",
+      "zh": "强烈的敌意",
+      "hi": "तीव्र शत्रुता"
+    }
+  },
+  {
+    "id": 447,
+    "word": "annotate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to add notes of explanation",
+    "example": "The scholar demonstrated annotate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "설명을 덧붙이기 위해",
+      "zh": "添加解释性注释",
+      "hi": "स्पष्टीकरण के नोट्स जोड़ने के लिए"
+    }
+  },
+  {
+    "id": 448,
+    "word": "anomalous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deviating from standard",
+    "example": "The scholar demonstrated anomalous behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "표준에서 벗어나다",
+      "zh": "偏离标准",
+      "hi": "मानक से विचलित होना"
+    }
+  },
+  {
+    "id": 449,
+    "word": "antagonize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause hostility",
+    "example": "The scholar demonstrated antagonize behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "적대감을 유발하다",
+      "zh": "引发敌意",
+      "hi": "शत्रुता उत्पन्न करने के लिए"
+    }
+  },
+  {
+    "id": 450,
+    "word": "antecedent",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing that existed before",
+    "example": "The scholar demonstrated antecedent behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "이전에 존재했던 것",
+      "zh": "先前存在的事物",
+      "hi": "जो चीज पहले मौजूद थी"
+    }
+  },
+  {
+    "id": 451,
+    "word": "anthology",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "collection of literary works",
+    "example": "The scholar demonstrated anthology behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "문학 작품 모음집",
+      "zh": "文学作品集",
+      "hi": "साहित्यिक कृतियों का संग्रह"
+    }
+  },
+  {
+    "id": 452,
+    "word": "anthropomorphic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "attributing human form",
+    "example": "The scholar demonstrated anthropomorphic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "인간의 형태를 부여함",
+      "zh": "赋予人类形态",
+      "hi": "मानव रूप प्रदान करना"
+    }
+  },
+  {
+    "id": 453,
+    "word": "anticipate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to regard as probable",
+    "example": "The scholar demonstrated anticipate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "가능성이 높다고 여기다",
+      "zh": "视为可能",
+      "hi": "संभावित मानना"
+    }
+  },
+  {
+    "id": 454,
+    "word": "antidote",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "medicine to counteract poison",
+    "example": "The scholar demonstrated antidote behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "독을 해독하는 약",
+      "zh": "用于解毒的药物",
+      "hi": "जहर के असर को खत्म करने वाली दवा"
+    }
+  },
+  {
+    "id": 455,
+    "word": "antiquated",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "old-fashioned or outdated",
+    "example": "The scholar demonstrated antiquated behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "구식 또는 시대에 뒤떨어진",
+      "zh": "老式的或过时的",
+      "hi": "पुराने जमाने का या अप्रचलित"
+    }
+  },
+  {
+    "id": 456,
+    "word": "antithesis",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "direct opposite",
+    "example": "The scholar demonstrated antithesis behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "정반대",
+      "zh": "正对面",
+      "hi": "प्रत्यक्ष विपरीत"
+    }
+  },
+  {
+    "id": 457,
+    "word": "apathetic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing no interest",
+    "example": "The scholar demonstrated apathetic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "관심 없음",
+      "zh": "毫无兴趣",
+      "hi": "कोई दिलचस्पी नहीं दिखा रहा है"
+    }
+  },
+  {
+    "id": 458,
+    "word": "apex",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "highest point",
+    "example": "The scholar demonstrated apex behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "최고점",
+      "zh": "最高点",
+      "hi": "सबसे ऊंचा स्थान"
+    }
+  },
+  {
+    "id": 459,
+    "word": "aplomb",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "self-confidence in difficult situation",
+    "example": "The scholar demonstrated aplomb behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "어려운 상황에서의 자신감",
+      "zh": "在困境中保持自信",
+      "hi": "कठिन परिस्थितियों में आत्मविश्वास"
+    }
+  },
+  {
+    "id": 460,
+    "word": "apocalyptic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "describing total destruction",
+    "example": "The scholar demonstrated apocalyptic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "완전한 파괴를 묘사하며",
+      "zh": "描述彻底毁灭",
+      "hi": "पूर्ण विनाश का वर्णन"
+    }
+  },
+  {
+    "id": 461,
+    "word": "apologist",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who defends something",
+    "example": "The scholar demonstrated apologist behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가를 옹호하는 사람",
+      "zh": "为某事辩护的人",
+      "hi": "किसी चीज़ का बचाव करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 462,
+    "word": "apostate",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who renounces belief",
+    "example": "The scholar demonstrated apostate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "신앙을 버린 사람",
+      "zh": "放弃信仰的人",
+      "hi": "वह व्यक्ति जो आस्था का त्याग करता है"
+    }
+  },
+  {
+    "id": 463,
+    "word": "appease",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to pacify by giving in",
+    "example": "The scholar demonstrated appease behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "양보함으로써 달래다",
+      "zh": "通过让步来安抚人心",
+      "hi": "हार मानकर शांत करना"
+    }
+  },
+  {
+    "id": 464,
+    "word": "apprehensive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "anxious about future",
+    "example": "The scholar demonstrated apprehensive behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "미래에 대해 불안해",
+      "zh": "对未来感到焦虑",
+      "hi": "भविष्य को लेकर चिंतित"
+    }
+  },
+  {
+    "id": 465,
+    "word": "apprise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to inform or tell",
+    "example": "The scholar demonstrated apprise behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "알리다 또는 말하다",
+      "zh": "告知或说明",
+      "hi": "सूचित करना या बताना"
+    }
+  },
+  {
+    "id": 466,
+    "word": "approbation",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "approval or praise",
+    "example": "The scholar demonstrated approbation behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "승인 또는 칭찬",
+      "zh": "赞许或表扬",
+      "hi": "स्वीकृति या प्रशंसा"
+    }
+  },
+  {
+    "id": 467,
+    "word": "appropriate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to take for one's own use",
+    "example": "The scholar demonstrated appropriate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "자신의 용도로 가져가다",
+      "zh": "供自己使用",
+      "hi": "अपने निजी उपयोग के लिए लेना"
+    }
+  },
+  {
+    "id": 468,
+    "word": "arbiter",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person with power to decide",
+    "example": "The scholar demonstrated arbiter behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "결정할 권한을 가진 사람",
+      "zh": "有权决定的人",
+      "hi": "निर्णय लेने की शक्ति रखने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 469,
+    "word": "arbitrary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "based on random choice",
+    "example": "The scholar demonstrated arbitrary behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "무작위 선택에 기반함",
+      "zh": "基于随机选择",
+      "hi": "यादृच्छिक चयन के आधार पर"
+    }
+  },
+  {
+    "id": 470,
+    "word": "arcane",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "understood by few",
+    "example": "The scholar demonstrated arcane behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "소수만이 이해함",
+      "zh": "少数人了解",
+      "hi": "कुछ ही लोगों द्वारा समझा गया"
+    }
+  },
+  {
+    "id": 471,
+    "word": "archaic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very old or old-fashioned",
+    "example": "The scholar demonstrated archaic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 오래된 또는 구식의",
+      "zh": "非常古老或老式的",
+      "hi": "बहुत पुराना या पुराने जमाने का"
+    }
+  },
+  {
+    "id": 472,
+    "word": "archetype",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "very typical example",
+    "example": "The scholar demonstrated archetype behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 전형적인 예",
+      "zh": "非常典型的例子",
+      "hi": "बहुत ही विशिष्ट उदाहरण"
+    }
+  },
+  {
+    "id": 473,
+    "word": "ardent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "enthusiastic or passionate",
+    "example": "The scholar demonstrated ardent behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "열정적인 또는 열의에 찬",
+      "zh": "热情或充满激情",
+      "hi": "उत्साही या भावुक"
+    }
+  },
+  {
+    "id": 474,
+    "word": "arduous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving strenuous effort",
+    "example": "The scholar demonstrated arduous behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "힘든 노력을 수반하는",
+      "zh": "需要付出艰苦努力",
+      "hi": "कठिन प्रयास शामिल"
+    }
+  },
+  {
+    "id": 475,
+    "word": "articulate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fluent and coherent",
+    "example": "The scholar demonstrated articulate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "유창하고 일관성 있는",
+      "zh": "流畅且连贯",
+      "hi": "धाराप्रवाह और सुसंगत"
+    }
+  },
+  {
+    "id": 476,
+    "word": "artifact",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "object made by human being",
+    "example": "The scholar demonstrated artifact behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "인간이 만든 물건",
+      "zh": "人类制造的物体",
+      "hi": "मनुष्य द्वारा निर्मित वस्तु"
+    }
+  },
+  {
+    "id": 477,
+    "word": "artifice",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "clever device or expedient",
+    "example": "The scholar demonstrated artifice behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "기발한 장치 또는 방편",
+      "zh": "巧妙的装置或权宜之计",
+      "hi": "चतुर युक्ति या उपाय"
+    }
+  },
+  {
+    "id": 478,
+    "word": "ascendancy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "occupation of dominant position",
+    "example": "The scholar demonstrated ascendancy behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "지배적 지위의 점유",
+      "zh": "占据主导地位",
+      "hi": "प्रमुख पद पर कब्जा"
+    }
+  },
+  {
+    "id": 479,
+    "word": "ascertain",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to find out for certain",
+    "example": "The scholar demonstrated ascertain behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "확실히 알아내기 위해",
+      "zh": "为了确定",
+      "hi": "निश्चित रूप से पता लगाने के लिए"
+    }
+  },
+  {
+    "id": 480,
+    "word": "ascetic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "characterized by self-discipline",
+    "example": "The scholar demonstrated ascetic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "자기 절제력을 특징으로 하는",
+      "zh": "以自律为特征",
+      "hi": "आत्म-अनुशासन की विशेषता"
+    }
+  },
+  {
+    "id": 481,
+    "word": "aspersion",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "attack on reputation",
+    "example": "The scholar demonstrated aspersion behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "평판에 대한 공격",
+      "zh": "对声誉的攻击",
+      "hi": "प्रतिष्ठा पर हमला"
+    }
+  },
+  {
+    "id": 482,
+    "word": "assail",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make concerted attack",
+    "example": "The scholar demonstrated assail behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "조직적인 공격을 하다",
+      "zh": "发动协同攻击",
+      "hi": "समन्वित हमला करने के लिए"
+    }
+  },
+  {
+    "id": 483,
+    "word": "assert",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to state fact confidently",
+    "example": "The scholar demonstrated assert behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "사실을 확신 있게 진술하다",
+      "zh": "自信地陈述事实",
+      "hi": "किसी तथ्य को आत्मविश्वास से बताना"
+    }
+  },
+  {
+    "id": 484,
+    "word": "assessment",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "evaluation or estimation",
+    "example": "The scholar demonstrated assessment behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "평가 또는 추정",
+      "zh": "评估或估算",
+      "hi": "मूल्यांकन या अनुमान"
+    }
+  },
+  {
+    "id": 485,
+    "word": "assiduous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing great care",
+    "example": "The scholar demonstrated assiduous behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 세심하게 보살피는 모습을",
+      "zh": "表现出极大的关怀",
+      "hi": "बहुत सावधानी दिखाते हुए"
+    }
+  },
+  {
+    "id": 486,
+    "word": "assuage",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make unpleasant feeling less",
+    "example": "The scholar demonstrated assuage behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 감정을 줄이기 위해",
+      "zh": "减轻不愉快的感觉",
+      "hi": "अप्रिय भावना को कम करने के लिए"
+    }
+  },
+  {
+    "id": 487,
+    "word": "astute",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having sharp judgment",
+    "example": "The scholar demonstrated astute behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "날카로운 판단력을 지닌",
+      "zh": "拥有敏锐的判断力",
+      "hi": "तीक्ष्ण निर्णय क्षमता होना"
+    }
+  },
+  {
+    "id": 488,
+    "word": "atrophy",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to gradually decline",
+    "example": "The scholar demonstrated atrophy behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "점차 감소하다",
+      "zh": "逐渐下降",
+      "hi": "धीरे-धीरे गिरावट"
+    }
+  },
+  {
+    "id": 489,
+    "word": "attenuate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reduce in force",
+    "example": "The scholar demonstrated attenuate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "힘을 줄이다",
+      "zh": "降低力",
+      "hi": "बल में कमी करना"
+    }
+  },
+  {
+    "id": 490,
+    "word": "attribute",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to regard as caused by",
+    "example": "The scholar demonstrated attribute behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "~에 의해 발생한 것으로 간주하다",
+      "zh": "视为由……引起",
+      "hi": "के कारण माना जाना"
+    }
+  },
+  {
+    "id": 491,
+    "word": "audacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing willingness to take risks",
+    "example": "The scholar demonstrated audacious behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "위험을 감수하려는 의지를 보이는 것",
+      "zh": "表现出承担风险的意愿",
+      "hi": "जोखिम उठाने की तत्परता दिखाना"
+    }
+  },
+  {
+    "id": 492,
+    "word": "augment",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make greater",
+    "example": "The scholar demonstrated augment behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "더 크게 만들기 위해",
+      "zh": "使更大",
+      "hi": "बड़ा बनाने के लिए"
+    }
+  },
+  {
+    "id": 493,
+    "word": "auspicious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "favorable or promising",
+    "example": "The scholar demonstrated auspicious behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "호의적이거나 유망한",
+      "zh": "有利或有前景",
+      "hi": "अनुकूल या आशाजनक"
+    }
+  },
+  {
+    "id": 494,
+    "word": "austere",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "severe or strict",
+    "example": "The scholar demonstrated austere behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "엄격한 또는 엄격한",
+      "zh": "严厉或严格",
+      "hi": "कठोर या सख्त"
+    }
+  },
+  {
+    "id": 495,
+    "word": "authenticate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prove or validate",
+    "example": "The scholar demonstrated authenticate behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "증명하거나 검증하다",
+      "zh": "证明或验证",
+      "hi": "सिद्ध करना या मान्य करना"
+    }
+  },
+  {
+    "id": 496,
+    "word": "authoritative",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "commanding and confident",
+    "example": "The scholar demonstrated authoritative behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "위엄 있고 자신감 넘치는",
+      "zh": "威严自信",
+      "hi": "प्रभावशाली और आत्मविश्वासी"
+    }
+  },
+  {
+    "id": 497,
+    "word": "autocratic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "taking no account of others",
+    "example": "The scholar demonstrated autocratic behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "타인을 전혀 고려하지 않고",
+      "zh": "不顾及他人",
+      "hi": "दूसरों की परवाह न करते हुए"
+    }
+  },
+  {
+    "id": 498,
+    "word": "autonomous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having self-government",
+    "example": "The scholar demonstrated autonomous behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "자치권을 가진",
+      "zh": "拥有自治权",
+      "hi": "स्वशासन होना"
+    }
+  },
+  {
+    "id": 499,
+    "word": "avarice",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "extreme greed for wealth",
+    "example": "The scholar demonstrated avarice behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "재산에 대한 극도의 탐욕",
+      "zh": "对财富的极度贪婪",
+      "hi": "धन के प्रति अत्यधिक लालच"
+    }
+  },
+  {
+    "id": 500,
+    "word": "averse",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having strong dislike",
+    "example": "The scholar demonstrated averse behavior in the research.",
+    "category": "General",
+    "translations": {
+      "ko": "강한 혐오감을 가지다",
+      "zh": "非常不喜欢",
+      "hi": "तीव्र नापसंदगी होना"
+    }
+  }
+]

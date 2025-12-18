@@ -1,0 +1,12 @@
+﻿[
+  {"id": 41, "word": "decorum", "level": "Advanced", "partOfSpeech": "noun", "definition": "dignified propriety of behavior", "example": "The ceremony was conducted with decorum.", "category": "General"},
+  {"id": 42, "word": "desiccate", "level": "Expert", "partOfSpeech": "verb", "definition": "to dry out completely", "example": "The desert sun desiccated the plants.", "category": "General"},
+  {"id": 43, "word": "diaphanous", "level": "Expert", "partOfSpeech": "adjective", "definition": "light, delicate, translucent", "example": "She wore a diaphanous silk gown.", "category": "General"},
+  {"id": 44, "word": "didactic", "level": "Advanced", "partOfSpeech": "adjective", "definition": "intended to teach or moralize", "example": "The novel has a didactic purpose.", "category": "General"},
+  {"id": 45, "word": "diffident", "level": "Advanced", "partOfSpeech": "adjective", "definition": "modest or shy due to lack of confidence", "example": "He was diffident about his achievements.", "category": "General"},
+  {"id": 46, "word": "dilatory", "level": "Expert", "partOfSpeech": "adjective", "definition": "slow to act; causing delay", "example": "His dilatory tactics frustrated everyone.", "category": "General"},
+  {"id": 47, "word": "disabuse", "level": "Advanced", "partOfSpeech": "verb", "definition": "to free from false belief", "example": "I had to disabuse him of that notion.", "category": "General"},
+  {"id": 48, "word": "dissemble", "level": "Advanced", "partOfSpeech": "verb", "definition": "to conceal true feelings or motives", "example": "She dissembled her disappointment.", "category": "General"},
+  {"id": 49, "word": "ebullient", "level": "Advanced", "partOfSpeech": "adjective", "definition": "cheerful and full of energy", "example": "His ebullient personality lifted everyone.", "category": "General"},
+  {"id": 50, "word": "edify", "level": "Advanced", "partOfSpeech": "verb", "definition": "to instruct or improve morally", "example": "The lecture was meant to edify the students.", "category": "General"}
+]

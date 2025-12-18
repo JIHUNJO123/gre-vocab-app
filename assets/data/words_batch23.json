@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2001,
+    "word": "matriculate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to be enrolled in college",
+    "example": "The matriculate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "대학에 등록하기 위해",
+      "zh": "入学就读大学",
+      "hi": "कॉलेज में दाखिला लेने के लिए"
+    }
+  },
+  {
+    "id": 2002,
+    "word": "maverick",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "independent-minded person",
+    "example": "The maverick quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "독립적인 성향의 사람",
+      "zh": "独立思考的人",
+      "hi": "स्वतंत्र विचारों वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 2003,
+    "word": "mawkish",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "sentimental in sickly way",
+    "example": "The mawkish quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "병적으로 감상적이다",
+      "zh": "病态的感伤",
+      "hi": "बीमार तरीके से भावुक"
+    }
+  },
+  {
+    "id": 2004,
+    "word": "meager",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking in quantity",
+    "example": "The meager quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "수량이 부족한",
+      "zh": "数量不足",
+      "hi": "मात्रा में कमी"
+    }
+  },
+  {
+    "id": 2005,
+    "word": "meander",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to follow winding course",
+    "example": "The meander quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "구불구불한 길을 따라가다",
+      "zh": "沿着蜿蜒的路线",
+      "hi": "घुमावदार मार्ग का अनुसरण करना"
+    }
+  },
+  {
+    "id": 2006,
+    "word": "measured",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "carefully considered",
+    "example": "The measured quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "신중하게 고려함",
+      "zh": "仔细考虑",
+      "hi": "ध्यानपूर्वक विचार किया गया"
+    }
+  },
+  {
+    "id": 2007,
+    "word": "mediate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to intervene in dispute",
+    "example": "The mediate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "분쟁에 개입하다",
+      "zh": "介入争端",
+      "hi": "विवाद में हस्तक्षेप करना"
+    }
+  },
+  {
+    "id": 2008,
+    "word": "mediocre",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of only moderate quality",
+    "example": "The mediocre quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "보통 수준의 품질",
+      "zh": "质量一般",
+      "hi": "केवल मध्यम गुणवत्ता का"
+    }
+  },
+  {
+    "id": 2009,
+    "word": "meditate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to think deeply",
+    "example": "The meditate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "깊이 생각하다",
+      "zh": "深入思考",
+      "hi": "गहराई से सोचने के लिए"
+    }
+  },
+  {
+    "id": 2010,
+    "word": "medley",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "varied mixture",
+    "example": "The medley quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다양한 혼합물",
+      "zh": "多种混合物",
+      "hi": "विविध मिश्रण"
+    }
+  },
+  {
+    "id": 2011,
+    "word": "meek",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "quiet and submissive",
+    "example": "The meek quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "조용하고 순종적인",
+      "zh": "安静顺从",
+      "hi": "शांत और आज्ञाकारी"
+    }
+  },
+  {
+    "id": 2012,
+    "word": "melancholy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "deep sadness",
+    "example": "The melancholy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "깊은 슬픔",
+      "zh": "深深的悲伤",
+      "hi": "गहरा दुख"
+    }
+  },
+  {
+    "id": 2013,
+    "word": "melee",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "confused fight",
+    "example": "The melee quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "혼전",
+      "zh": "混乱的战斗",
+      "hi": "भ्रमित लड़ाई"
+    }
+  },
+  {
+    "id": 2014,
+    "word": "mellifluous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "sweet-sounding",
+    "example": "The mellifluous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "듣기 좋은 소리",
+      "zh": "悦耳动听",
+      "hi": "मीठा लग"
+    }
+  },
+  {
+    "id": 2015,
+    "word": "mendacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not telling truth",
+    "example": "The mendacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 말하지 않음",
+      "zh": "不说实话",
+      "hi": "सच नहीं बता रहा"
+    }
+  },
+  {
+    "id": 2016,
+    "word": "mendicant",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "beggar",
+    "example": "The mendicant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "거지",
+      "zh": "乞丐",
+      "hi": "याचक"
+    }
+  },
+  {
+    "id": 2017,
+    "word": "menial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not requiring skill",
+    "example": "The menial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "기술이 필요하지 않음",
+      "zh": "无需技能",
+      "hi": "कौशल की आवश्यकता नहीं"
+    }
+  },
+  {
+    "id": 2018,
+    "word": "mentor",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "experienced adviser",
+    "example": "The mentor quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경험이 풍부한 고문",
+      "zh": "经验丰富的顾问",
+      "hi": "अनुभवी सलाहकार"
+    }
+  },
+  {
+    "id": 2019,
+    "word": "mercenary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "primarily concerned with money",
+    "example": "The mercenary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "주로 돈에 관심이 있습니다.",
+      "zh": "主要关注金钱",
+      "hi": "मुख्य रूप से पैसे से संबंधित"
+    }
+  },
+  {
+    "id": 2020,
+    "word": "mercurial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "subject to sudden changes",
+    "example": "The mercurial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 변화에 취약함",
+      "zh": "易受突发变化影响",
+      "hi": "अचानक परिवर्तनों के अधीन"
+    }
+  },
+  {
+    "id": 2021,
+    "word": "merge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to combine into one",
+    "example": "The merge quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "하나로 합치다",
+      "zh": "合并成一个",
+      "hi": "एक में संयोजित करना"
+    }
+  },
+  {
+    "id": 2022,
+    "word": "meritorious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deserving reward",
+    "example": "The meritorious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "보상받을 만한",
+      "zh": "值得奖励",
+      "hi": "योग्य पुरस्कार"
+    }
+  },
+  {
+    "id": 2023,
+    "word": "mesmerize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to hold attention completely",
+    "example": "The mesmerize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 주의를 집중시키기 위해",
+      "zh": "完全吸引注意力",
+      "hi": "ध्यान पूरी तरह से आकर्षित करने के लिए"
+    }
+  },
+  {
+    "id": 2024,
+    "word": "metamorphosis",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "transformation of form",
+    "example": "The metamorphosis quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "형태의 변형",
+      "zh": "形态转变",
+      "hi": "रूप परिवर्तन"
+    }
+  },
+  {
+    "id": 2025,
+    "word": "metaphor",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "figure of speech",
+    "example": "The metaphor quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "수사법",
+      "zh": "修辞手法",
+      "hi": "अलंकार"
+    }
+  },
+  {
+    "id": 2026,
+    "word": "mete",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to dispense or allot",
+    "example": "The mete quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "분배하거나 할당하다",
+      "zh": "分发或分配",
+      "hi": "वितरित करना या आवंटित करना"
+    }
+  },
+  {
+    "id": 2027,
+    "word": "meteoric",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "developing very fast",
+    "example": "The meteoric quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 빠르게 발전하고 있습니다",
+      "zh": "发展非常迅速",
+      "hi": "बहुत तेजी से विकास हो रहा है"
+    }
+  },
+  {
+    "id": 2028,
+    "word": "methodical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "orderly and systematic",
+    "example": "The methodical quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "질서정연하고 체계적인",
+      "zh": "有条不紊且系统",
+      "hi": "व्यवस्थित और क्रमबद्ध"
+    }
+  },
+  {
+    "id": 2029,
+    "word": "meticulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very careful and precise",
+    "example": "The meticulous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 신중하고 정확함",
+      "zh": "非常细致和精确",
+      "hi": "बहुत सावधानीपूर्वक और सटीक"
+    }
+  },
+  {
+    "id": 2030,
+    "word": "mettle",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "ability to cope well",
+    "example": "The mettle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "잘 대처하는 능력",
+      "zh": "良好的应对能力",
+      "hi": "अच्छी तरह से सामना करने की क्षमता"
+    }
+  },
+  {
+    "id": 2031,
+    "word": "miasma",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "unpleasant atmosphere",
+    "example": "The miasma quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 분위기",
+      "zh": "令人不快的气氛",
+      "hi": "अप्रिय वातावरण"
+    }
+  },
+  {
+    "id": 2032,
+    "word": "microcosm",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "small representation",
+    "example": "The microcosm quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "작은 표현",
+      "zh": "少量代表",
+      "hi": "छोटा प्रतिनिधित्व"
+    }
+  },
+  {
+    "id": 2033,
+    "word": "mien",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person's manner or bearing",
+    "example": "The mien quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사람의 태도나 자세",
+      "zh": "人的举止或仪态",
+      "hi": "किसी व्यक्ति का व्यवहार या आचरण"
+    }
+  },
+  {
+    "id": 2034,
+    "word": "milieu",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person's social environment",
+    "example": "The milieu quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "개인의 사회적 환경",
+      "zh": "个人的社会环境",
+      "hi": "व्यक्ति का सामाजिक वातावरण"
+    }
+  },
+  {
+    "id": 2035,
+    "word": "militant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "aggressively active",
+    "example": "The militant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공격적으로 활동적인",
+      "zh": "积极主动",
+      "hi": "आक्रामक रूप से सक्रिय"
+    }
+  },
+  {
+    "id": 2036,
+    "word": "militate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be a powerful factor against",
+    "example": "The militate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "반대하는 강력한 요인이 되다",
+      "zh": "成为反对的强大因素",
+      "hi": "इसके विरुद्ध एक शक्तिशाली कारक होने के लिए"
+    }
+  },
+  {
+    "id": 2037,
+    "word": "minatory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing a threat",
+    "example": "The minatory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "위협을 표현하다",
+      "zh": "表达威胁",
+      "hi": "धमकी व्यक्त करना"
+    }
+  },
+  {
+    "id": 2038,
+    "word": "mince",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to walk affectedly",
+    "example": "The mince quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어색하게 걷다",
+      "zh": "装腔作势地走路",
+      "hi": "बनावटी ढंग से चलना"
+    }
+  },
+  {
+    "id": 2039,
+    "word": "mingle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to mix or cause to mix",
+    "example": "The mingle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "섞다, 섞이게 하다",
+      "zh": "混合或使混合",
+      "hi": "मिलाना या मिलाने का कारण बनना"
+    }
+  },
+  {
+    "id": 2040,
+    "word": "minimize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reduce to smallest amount",
+    "example": "The minimize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "가장 작은 양으로 줄이기",
+      "zh": "减少到最小量",
+      "hi": "न्यूनतम मात्रा तक कम करना"
+    }
+  },
+  {
+    "id": 2041,
+    "word": "minion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "servile follower",
+    "example": "The minion quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "비굴한 추종자",
+      "zh": "走狗",
+      "hi": "चापलूस अनुयायी"
+    }
+  },
+  {
+    "id": 2042,
+    "word": "minute",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely small",
+    "example": "The minute quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극히 작은",
+      "zh": "极小",
+      "hi": "अत्यंत छोटा"
+    }
+  },
+  {
+    "id": 2043,
+    "word": "minutiae",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "small or precise details",
+    "example": "The minutiae quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "작거나 정밀한 디테일",
+      "zh": "细微或精确的细节",
+      "hi": "छोटे या सटीक विवरण"
+    }
+  },
+  {
+    "id": 2044,
+    "word": "mirage",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "optical illusion",
+    "example": "The mirage quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "착시 현상",
+      "zh": "光学错觉",
+      "hi": "ऑप्टिकल भ्रम"
+    }
+  },
+  {
+    "id": 2045,
+    "word": "mire",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "swampy ground",
+    "example": "The mire quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "습지",
+      "zh": "沼泽地",
+      "hi": "दलदली ज़मीन"
+    }
+  },
+  {
+    "id": 2046,
+    "word": "mirth",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "amusement expressed in laughter",
+    "example": "The mirth quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "웃음으로 표현되는 즐거움",
+      "zh": "以笑声表达的愉悦",
+      "hi": "हंसी के माध्यम से व्यक्त की गई खुशी"
+    }
+  },
+  {
+    "id": 2047,
+    "word": "misanthrope",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who dislikes humankind",
+    "example": "The misanthrope quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "인류를 싫어하는 사람",
+      "zh": "厌恶人类的人",
+      "hi": "वह व्यक्ति जो मानव जाति को नापसंद करता है"
+    }
+  },
+  {
+    "id": 2048,
+    "word": "miscellaneous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of various types",
+    "example": "The miscellaneous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다양한 유형",
+      "zh": "各种类型",
+      "hi": "कई तरह का"
+    }
+  },
+  {
+    "id": 2049,
+    "word": "mischievous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing minor trouble",
+    "example": "The mischievous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사소한 문제를 일으키다",
+      "zh": "造成小麻烦",
+      "hi": "मामूली परेशानी पैदा करना"
+    }
+  },
+  {
+    "id": 2050,
+    "word": "misconception",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "view based on wrong thinking",
+    "example": "The misconception quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못된 사고에 기반한 견해",
+      "zh": "基于错误思维的观点",
+      "hi": "गलत सोच पर आधारित दृष्टिकोण"
+    }
+  },
+  {
+    "id": 2051,
+    "word": "misconstrue",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to interpret wrongly",
+    "example": "The misconstrue quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못 해석하다",
+      "zh": "错误解读",
+      "hi": "गलत व्याख्या करने के लिए"
+    }
+  },
+  {
+    "id": 2052,
+    "word": "misdemeanor",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "minor wrongdoing",
+    "example": "The misdemeanor quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경미한 잘못",
+      "zh": "轻微不当行为",
+      "hi": "मामूली गलत काम"
+    }
+  },
+  {
+    "id": 2053,
+    "word": "miserly",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of person who hoards wealth",
+    "example": "The miserly quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "재산을 축적하는 사람",
+      "zh": "囤积财富的人",
+      "hi": "धन का संचय करने वाले व्यक्ति के बारे में"
+    }
+  },
+  {
+    "id": 2054,
+    "word": "misgiving",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "feeling of doubt",
+    "example": "The misgiving quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "의심의 감정",
+      "zh": "怀疑之感",
+      "hi": "संदेह की भावना"
+    }
+  },
+  {
+    "id": 2055,
+    "word": "misnomer",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "wrong or inaccurate name",
+    "example": "The misnomer quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못되었거나 부정확한 이름",
+      "zh": "错误或不准确的名称",
+      "hi": "गलत या अशुद्ध नाम"
+    }
+  },
+  {
+    "id": 2056,
+    "word": "misogynist",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who dislikes women",
+    "example": "The misogynist quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "여자를 싫어하는 사람",
+      "zh": "不喜欢女性的人",
+      "hi": "वह व्यक्ति जो महिलाओं को नापसंद करता है"
+    }
+  },
+  {
+    "id": 2057,
+    "word": "mitigate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make less severe",
+    "example": "The mitigate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "심각성을 줄이기 위해",
+      "zh": "减轻严重程度",
+      "hi": "कम गंभीर बनाना"
+    }
+  },
+  {
+    "id": 2058,
+    "word": "mock",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to tease or laugh at",
+    "example": "The mock quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "놀리거나 비웃다",
+      "zh": "戏弄或嘲笑",
+      "hi": "किसी का मज़ाक उड़ाना या उस पर हंसना"
+    }
+  },
+  {
+    "id": 2059,
+    "word": "modicum",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "small quantity",
+    "example": "The modicum quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "소량",
+      "zh": "少量",
+      "hi": "छोटी मात्रा"
+    }
+  },
+  {
+    "id": 2060,
+    "word": "modulate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to regulate or adjust",
+    "example": "The modulate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "조절하거나 조정하다",
+      "zh": "调节或调整",
+      "hi": "विनियमित करना या समायोजित करना"
+    }
+  },
+  {
+    "id": 2061,
+    "word": "mollify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to appease anger",
+    "example": "The mollify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "분노를 누그러뜨리기 위해",
+      "zh": "为了平息愤怒",
+      "hi": "क्रोध को शांत करने के लिए"
+    }
+  },
+  {
+    "id": 2062,
+    "word": "molt",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to shed feathers",
+    "example": "The molt quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "깃털을 벗다",
+      "zh": "脱落羽毛",
+      "hi": "पंख झड़ना"
+    }
+  },
+  {
+    "id": 2063,
+    "word": "momentous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of great importance",
+    "example": "The momentous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 중요한",
+      "zh": "非常重要",
+      "hi": "बहुत महत्व का"
+    }
+  },
+  {
+    "id": 2064,
+    "word": "monarchy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "government by monarch",
+    "example": "The monarchy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "군주제 정부",
+      "zh": "君主制政府",
+      "hi": "सम्राट द्वारा शासन"
+    }
+  },
+  {
+    "id": 2065,
+    "word": "monetary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of or relating to money",
+    "example": "The monetary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "돈과 관련된",
+      "zh": "与金钱有关的",
+      "hi": "पैसे से संबंधित या उससे जुड़ा हुआ"
+    }
+  },
+  {
+    "id": 2066,
+    "word": "monolithic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "large and uniform",
+    "example": "The monolithic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "크고 균일한",
+      "zh": "大而均匀",
+      "hi": "बड़ा और एकसमान"
+    }
+  },
+  {
+    "id": 2067,
+    "word": "monotonous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "dull and tedious",
+    "example": "The monotonous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "지루하고 따분한",
+      "zh": "枯燥乏味",
+      "hi": "नीरस और उबाऊ"
+    }
+  },
+  {
+    "id": 2068,
+    "word": "moot",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "subject to debate",
+    "example": "The moot quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "논쟁의 여지가 있다",
+      "zh": "尚待讨论",
+      "hi": "बहस का विषय"
+    }
+  },
+  {
+    "id": 2069,
+    "word": "morbid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having unhealthy interest",
+    "example": "The morbid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "건강하지 못한 관심을 갖는 것",
+      "zh": "对某事物有不健康的兴趣",
+      "hi": "अस्वस्थ रुचि होना"
+    }
+  },
+  {
+    "id": 2070,
+    "word": "mordant",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having sharp quality",
+    "example": "The mordant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "선명한 품질을 가지고",
+      "zh": "具有清晰的品质",
+      "hi": "तेज गुणवत्ता वाला"
+    }
+  },
+  {
+    "id": 2071,
+    "word": "mores",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "customs of a group",
+    "example": "The mores quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "한 집단의 관습",
+      "zh": "一个群体的习俗",
+      "hi": "एक समूह के रीति-रिवाज"
+    }
+  },
+  {
+    "id": 2072,
+    "word": "moribund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in terminal decline",
+    "example": "The moribund quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "말기 쇠퇴",
+      "zh": "终末衰落",
+      "hi": "अंतिम पतन की ओर"
+    }
+  },
+  {
+    "id": 2073,
+    "word": "morose",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sullen and ill-tempered",
+    "example": "The morose quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "침울하고 심술궂은",
+      "zh": "阴郁且脾气暴躁",
+      "hi": "उदास और चिड़चिड़े स्वभाव का"
+    }
+  },
+  {
+    "id": 2074,
+    "word": "mortify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to feel embarrassed",
+    "example": "The mortify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "당황스럽게 하다",
+      "zh": "使……感到尴尬",
+      "hi": "शर्मिंदा महसूस कराना"
+    }
+  },
+  {
+    "id": 2075,
+    "word": "motley",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "incongruously varied",
+    "example": "The motley quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부조화스럽게 다양함",
+      "zh": "不协调的多样性",
+      "hi": "असंगत रूप से भिन्न"
+    }
+  },
+  {
+    "id": 2076,
+    "word": "mourn",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to feel sorrow for death",
+    "example": "The mourn quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "죽음에 대해 슬픔을 느끼다",
+      "zh": "为死亡感到悲伤",
+      "hi": "मृत्यु पर शोक व्यक्त करना"
+    }
+  },
+  {
+    "id": 2077,
+    "word": "muddle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to bring into confusion",
+    "example": "The muddle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "혼란에 빠뜨리다",
+      "zh": "使混乱",
+      "hi": "भ्रम की स्थिति में लाना"
+    }
+  },
+  {
+    "id": 2078,
+    "word": "multifaceted",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having many facets",
+    "example": "The multifaceted quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다양한 면모를 지닌",
+      "zh": "具有多面性",
+      "hi": "कई पहलुओं वाला"
+    }
+  },
+  {
+    "id": 2079,
+    "word": "multifarious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "many and various",
+    "example": "The multifarious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다양하고 많은",
+      "zh": "许多种类",
+      "hi": "अनेक और विविध"
+    }
+  },
+  {
+    "id": 2080,
+    "word": "mundane",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking interest",
+    "example": "The mundane quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "관심 부족",
+      "zh": "缺乏兴趣",
+      "hi": "रुचि का अभाव"
+    }
+  },
+  {
+    "id": 2081,
+    "word": "munificent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "very generous",
+    "example": "The munificent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 관대한",
+      "zh": "非常慷慨",
+      "hi": "बहुत उदार"
+    }
+  },
+  {
+    "id": 2082,
+    "word": "murky",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "dark and gloomy",
+    "example": "The murky quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어둡고 음침한",
+      "zh": "晦暗",
+      "hi": "अंधेरा और उदास"
+    }
+  },
+  {
+    "id": 2083,
+    "word": "muse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be absorbed in thought",
+    "example": "The muse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "생각에 잠기다",
+      "zh": "陷入沉思",
+      "hi": "विचारों में लीन होना"
+    }
+  },
+  {
+    "id": 2084,
+    "word": "muster",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to assemble troops",
+    "example": "The muster quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "군대를 집결시키다",
+      "zh": "集结军队",
+      "hi": "सैनिकों को इकट्ठा करना"
+    }
+  },
+  {
+    "id": 2085,
+    "word": "musty",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having stale smell",
+    "example": "The musty quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "퀴퀴한 냄새가 난다",
+      "zh": "散发着陈腐的气味",
+      "hi": "बासी गंध होना"
+    }
+  },
+  {
+    "id": 2086,
+    "word": "mutable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "liable to change",
+    "example": "The mutable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "변경될 가능성이 있음",
+      "zh": "可能发生变化",
+      "hi": "परिवर्तन के लिए उत्तरदायी"
+    }
+  },
+  {
+    "id": 2087,
+    "word": "muted",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "quiet and soft",
+    "example": "The muted quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "조용하고 부드러운",
+      "zh": "安静柔和",
+      "hi": "शांत और मधुर"
+    }
+  },
+  {
+    "id": 2088,
+    "word": "mutinous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "refusing to obey orders",
+    "example": "The mutinous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "명령에 불복종하는 것",
+      "zh": "拒绝服从命令",
+      "hi": "आदेशों का पालन करने से इनकार करना"
+    }
+  },
+  {
+    "id": 2089,
+    "word": "myopic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking foresight",
+    "example": "The myopic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "선견지명이 부족함",
+      "zh": "缺乏远见",
+      "hi": "दूरदर्शिता का अभाव"
+    }
+  },
+  {
+    "id": 2090,
+    "word": "myriad",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "countless or many",
+    "example": "The myriad quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "수많은 또는 많은",
+      "zh": "无数或许多",
+      "hi": "असंख्य या अनेक"
+    }
+  },
+  {
+    "id": 2091,
+    "word": "mystify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to utterly bewilder",
+    "example": "The mystify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 당황하게 하다",
+      "zh": "完全困惑",
+      "hi": "पूरी तरह से चकित करने के लिए"
+    }
+  },
+  {
+    "id": 2092,
+    "word": "naive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking experience",
+    "example": "The naive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경험 부족",
+      "zh": "缺乏经验",
+      "hi": "अनुभव का अभाव"
+    }
+  },
+  {
+    "id": 2093,
+    "word": "narcissist",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person with excessive self-interest",
+    "example": "The narcissist quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자기 이익이 지나치게 많은 사람",
+      "zh": "过度自私的人",
+      "hi": "अत्यधिक स्वार्थ वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 2094,
+    "word": "narrative",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "spoken or written account",
+    "example": "The narrative quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "구두 또는 서면 설명",
+      "zh": "口头或书面叙述",
+      "hi": "मौखिक या लिखित विवरण"
+    }
+  },
+  {
+    "id": 2095,
+    "word": "nascent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "just beginning",
+    "example": "The nascent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "이제 막 시작했어요",
+      "zh": "刚刚开始",
+      "hi": "अभी शुरुआत है"
+    }
+  },
+  {
+    "id": 2096,
+    "word": "nauseous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling sick",
+    "example": "The nauseous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "몸이 아프다",
+      "zh": "感觉不舒服",
+      "hi": "बीमार महसूस करना"
+    }
+  },
+  {
+    "id": 2097,
+    "word": "nebulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unclear or vague",
+    "example": "The nebulous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불분명하거나 모호한",
+      "zh": "不清楚或含糊不清",
+      "hi": "अस्पष्ट या अनिश्चित"
+    }
+  },
+  {
+    "id": 2098,
+    "word": "nefarious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wicked or criminal",
+    "example": "The nefarious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "악하거나 범죄적인",
+      "zh": "邪恶的或犯罪的",
+      "hi": "दुष्ट या अपराधी"
+    }
+  },
+  {
+    "id": 2099,
+    "word": "negate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to nullify or invalidate",
+    "example": "The negate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무효화하다 또는 효력을 없애다",
+      "zh": "使无效或使不成立",
+      "hi": "रद्द करना या अमान्य करना"
+    }
+  },
+  {
+    "id": 2100,
+    "word": "negligent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "failing to take proper care",
+    "example": "The negligent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "적절한 관리를 소홀히 하다",
+      "zh": "未能妥善照料",
+      "hi": "उचित देखभाल करने में विफल रहना"
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 701,
+    "word": "consign",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deliver to person's custody",
+    "example": "The situation demanded a consign response.",
+    "category": "General",
+    "translations": {
+      "ko": "누군가의 보호 아래 넘겨주다",
+      "zh": "交付给某人监护",
+      "hi": "किसी व्यक्ति की हिरासत में सौंपना"
+    }
+  },
+  {
+    "id": 702,
+    "word": "consolidate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to combine into single unit",
+    "example": "The situation demanded a consolidate response.",
+    "category": "General",
+    "translations": {
+      "ko": "하나의 단위로 결합하다",
+      "zh": "合并成一个单元",
+      "hi": "एक इकाई में संयोजित करना"
+    }
+  },
+  {
+    "id": 703,
+    "word": "conspicuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "standing out clearly",
+    "example": "The situation demanded a conspicuous response.",
+    "category": "General",
+    "translations": {
+      "ko": "뚜렷하게 눈에 띄는",
+      "zh": "非常显眼",
+      "hi": "स्पष्ट रूप से अलग दिखना"
+    }
+  },
+  {
+    "id": 704,
+    "word": "conspiracy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "secret plan by group",
+    "example": "The situation demanded a conspiracy response.",
+    "category": "General",
+    "translations": {
+      "ko": "그룹의 비밀 계획",
+      "zh": "秘密组织计划",
+      "hi": "समूह द्वारा गुप्त योजना"
+    }
+  },
+  {
+    "id": 705,
+    "word": "constitute",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be component of",
+    "example": "The situation demanded a constitute response.",
+    "category": "General",
+    "translations": {
+      "ko": "구성 요소가 되기 위해",
+      "zh": "成为组成部分",
+      "hi": "घटक होना"
+    }
+  },
+  {
+    "id": 706,
+    "word": "constrain",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to compel or force",
+    "example": "The situation demanded a constrain response.",
+    "category": "General",
+    "translations": {
+      "ko": "강요하다, 억지로 하다",
+      "zh": "强迫或胁迫",
+      "hi": "विवश करना या मजबूर करना"
+    }
+  },
+  {
+    "id": 707,
+    "word": "construe",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to interpret in particular way",
+    "example": "The situation demanded a construe response.",
+    "category": "General",
+    "translations": {
+      "ko": "특정한 방식으로 해석하다",
+      "zh": "以特定方式解释",
+      "hi": "किसी विशेष तरीके से व्याख्या करना"
+    }
+  },
+  {
+    "id": 708,
+    "word": "consummate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing great skill",
+    "example": "The situation demanded a consummate response.",
+    "category": "General",
+    "translations": {
+      "ko": "뛰어난 기술을 보여주다",
+      "zh": "展现了高超的技能",
+      "hi": "बेहतरीन कौशल का प्रदर्शन"
+    }
+  },
+  {
+    "id": 709,
+    "word": "contagious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "spreading by contact",
+    "example": "The situation demanded a contagious response.",
+    "category": "General",
+    "translations": {
+      "ko": "접촉을 통해 전파됨",
+      "zh": "通过接触传播",
+      "hi": "संपर्क द्वारा फैलना"
+    }
+  },
+  {
+    "id": 710,
+    "word": "contemplate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to look at thoughtfully",
+    "example": "The situation demanded a contemplate response.",
+    "category": "General",
+    "translations": {
+      "ko": "신중하게 바라보다",
+      "zh": "仔细观察",
+      "hi": "ध्यानपूर्वक देखना"
+    }
+  },
+  {
+    "id": 711,
+    "word": "contemporary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "belonging to same period",
+    "example": "The situation demanded a contemporary response.",
+    "category": "General",
+    "translations": {
+      "ko": "같은 시대에 속하는",
+      "zh": "属于同一时期",
+      "hi": "एक ही अवधि से संबंधित"
+    }
+  },
+  {
+    "id": 712,
+    "word": "contemptuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing contempt",
+    "example": "The situation demanded a contemptuous response.",
+    "category": "General",
+    "translations": {
+      "ko": "경멸을 나타내다",
+      "zh": "表示蔑视",
+      "hi": "अवमानना दिखाना"
+    }
+  },
+  {
+    "id": 713,
+    "word": "contend",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to struggle to surmount",
+    "example": "The situation demanded a contend response.",
+    "category": "General",
+    "translations": {
+      "ko": "극복하기 위해 애쓰다",
+      "zh": "努力克服",
+      "hi": "संघर्ष करना और पार पाना"
+    }
+  },
+  {
+    "id": 714,
+    "word": "contentious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing disagreement",
+    "example": "The situation demanded a contentious response.",
+    "category": "General",
+    "translations": {
+      "ko": "의견 불일치를 야기하다",
+      "zh": "引起分歧",
+      "hi": "असहमति पैदा करना"
+    }
+  },
+  {
+    "id": 715,
+    "word": "context",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "circumstances forming background",
+    "example": "The situation demanded a context response.",
+    "category": "General",
+    "translations": {
+      "ko": "배경을 형성하는 상황",
+      "zh": "背景情况",
+      "hi": "पृष्ठभूमि बनाने वाली परिस्थितियाँ"
+    }
+  },
+  {
+    "id": 716,
+    "word": "contiguous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sharing common border",
+    "example": "The situation demanded a contiguous response.",
+    "category": "General",
+    "translations": {
+      "ko": "공통된 국경을 공유함",
+      "zh": "共享共同边界",
+      "hi": "साझा सीमा"
+    }
+  },
+  {
+    "id": 717,
+    "word": "contingent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "dependent on",
+    "example": "The situation demanded a contingent response.",
+    "category": "General",
+    "translations": {
+      "ko": "~에 의존하다",
+      "zh": "取决于",
+      "hi": "निर्भर"
+    }
+  },
+  {
+    "id": 718,
+    "word": "contort",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to twist out of shape",
+    "example": "The situation demanded a contort response.",
+    "category": "General",
+    "translations": {
+      "ko": "모양이 변형되다",
+      "zh": "扭曲变形",
+      "hi": "आकार बिगाड़ना"
+    }
+  },
+  {
+    "id": 719,
+    "word": "contradict",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deny truth of",
+    "example": "The situation demanded a contradict response.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 부정하다",
+      "zh": "否认真相",
+      "hi": "सत्य को नकारना"
+    }
+  },
+  {
+    "id": 720,
+    "word": "contravene",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to violate or conflict",
+    "example": "The situation demanded a contravene response.",
+    "category": "General",
+    "translations": {
+      "ko": "위반하거나 충돌하다",
+      "zh": "违反或冲突",
+      "hi": "उल्लंघन करना या टकराव करना"
+    }
+  },
+  {
+    "id": 721,
+    "word": "contrite",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling remorse",
+    "example": "The situation demanded a contrite response.",
+    "category": "General",
+    "translations": {
+      "ko": "후회감을 느끼다",
+      "zh": "感到懊悔",
+      "hi": "पश्चाताप महसूस करना"
+    }
+  },
+  {
+    "id": 722,
+    "word": "contrived",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deliberately created",
+    "example": "The situation demanded a contrived response.",
+    "category": "General",
+    "translations": {
+      "ko": "의도적으로 만들어진",
+      "zh": "故意制造",
+      "hi": "जानबूझकर बनाया गया"
+    }
+  },
+  {
+    "id": 723,
+    "word": "controversial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "giving rise to disagreement",
+    "example": "The situation demanded a controversial response.",
+    "category": "General",
+    "translations": {
+      "ko": "의견 불일치를 야기하다",
+      "zh": "引发分歧",
+      "hi": "असहमति को जन्म देना"
+    }
+  },
+  {
+    "id": 724,
+    "word": "controvert",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to deny truth of",
+    "example": "The situation demanded a controvert response.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 부정하다",
+      "zh": "否认真相",
+      "hi": "सत्य को नकारना"
+    }
+  },
+  {
+    "id": 725,
+    "word": "contumacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly disobedient",
+    "example": "The situation demanded a contumacious response.",
+    "category": "General",
+    "translations": {
+      "ko": "고집스럽게 불복종하는",
+      "zh": "顽固不服从",
+      "hi": "हठपूर्वक अवज्ञाकारी"
+    }
+  },
+  {
+    "id": 726,
+    "word": "conundrum",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "confusing problem",
+    "example": "The situation demanded a conundrum response.",
+    "category": "General",
+    "translations": {
+      "ko": "혼란스러운 문제",
+      "zh": "令人困惑的问题",
+      "hi": "भ्रामक समस्या"
+    }
+  },
+  {
+    "id": 727,
+    "word": "convene",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to come together",
+    "example": "The situation demanded a convene response.",
+    "category": "General",
+    "translations": {
+      "ko": "함께 모이다",
+      "zh": "齐聚一堂",
+      "hi": "एक साथ आने के लिए"
+    }
+  },
+  {
+    "id": 728,
+    "word": "conventional",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "based on accepted use",
+    "example": "The situation demanded a conventional response.",
+    "category": "General",
+    "translations": {
+      "ko": "일반적인 사용을 기반으로 함",
+      "zh": "基于公认的使用",
+      "hi": "स्वीकृत उपयोग के आधार पर"
+    }
+  },
+  {
+    "id": 729,
+    "word": "converge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to come together",
+    "example": "The situation demanded a converge response.",
+    "category": "General",
+    "translations": {
+      "ko": "함께 모이다",
+      "zh": "齐聚一堂",
+      "hi": "एक साथ आने के लिए"
+    }
+  },
+  {
+    "id": 730,
+    "word": "conversant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "familiar with",
+    "example": "The situation demanded a conversant response.",
+    "category": "General",
+    "translations": {
+      "ko": "익숙한",
+      "zh": "熟悉",
+      "hi": "परिचित"
+    }
+  },
+  {
+    "id": 731,
+    "word": "converse",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "opposite or contrary",
+    "example": "The situation demanded a converse response.",
+    "category": "General",
+    "translations": {
+      "ko": "반대 또는 상반되는",
+      "zh": "相反的或相反的",
+      "hi": "विपरीत या विरुद्ध"
+    }
+  },
+  {
+    "id": 732,
+    "word": "conviction",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "firmly held belief",
+    "example": "The situation demanded a conviction response.",
+    "category": "General",
+    "translations": {
+      "ko": "확고한 신념",
+      "zh": "坚定的信念",
+      "hi": "दृढ़ विश्वास"
+    }
+  },
+  {
+    "id": 733,
+    "word": "convivial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "friendly and lively",
+    "example": "The situation demanded a convivial response.",
+    "category": "General",
+    "translations": {
+      "ko": "친절하고 활기찬",
+      "zh": "友好而活泼",
+      "hi": "मिलनसार और जीवंत"
+    }
+  },
+  {
+    "id": 734,
+    "word": "convoluted",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely complex",
+    "example": "The situation demanded a convoluted response.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 복잡함",
+      "zh": "极其复杂",
+      "hi": "अत्यंत जटिल"
+    }
+  },
+  {
+    "id": 735,
+    "word": "copious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "abundant in supply",
+    "example": "The situation demanded a copious response.",
+    "category": "General",
+    "translations": {
+      "ko": "공급이 풍부함",
+      "zh": "供应充足",
+      "hi": "प्रचुर मात्रा में आपूर्ति"
+    }
+  },
+  {
+    "id": 736,
+    "word": "cordial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "warm and friendly",
+    "example": "The situation demanded a cordial response.",
+    "category": "General",
+    "translations": {
+      "ko": "따뜻하고 친절한",
+      "zh": "热情友好",
+      "hi": "गर्मजोशी और दोस्ताना"
+    }
+  },
+  {
+    "id": 737,
+    "word": "corollary",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "proposition following from another",
+    "example": "The situation demanded a corollary response.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 명제에 따른 명제",
+      "zh": "由另一个命题推导而来",
+      "hi": "एक प्रस्ताव जो दूसरे से अनुसरण करता है"
+    }
+  },
+  {
+    "id": 738,
+    "word": "corroborate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to confirm or support",
+    "example": "The situation demanded a corroborate response.",
+    "category": "General",
+    "translations": {
+      "ko": "확인하거나 뒷받침하기 위해",
+      "zh": "确认或支持",
+      "hi": "पुष्टि करना या समर्थन करना"
+    }
+  },
+  {
+    "id": 739,
+    "word": "cosmopolitan",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "familiar with many cultures",
+    "example": "The situation demanded a cosmopolitan response.",
+    "category": "General",
+    "translations": {
+      "ko": "다양한 문화에 익숙함",
+      "zh": "熟悉多种文化",
+      "hi": "कई संस्कृतियों से परिचित"
+    }
+  },
+  {
+    "id": 740,
+    "word": "countenance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person's face or expression",
+    "example": "The situation demanded a countenance response.",
+    "category": "General",
+    "translations": {
+      "ko": "사람의 얼굴이나 표정",
+      "zh": "人的脸或表情",
+      "hi": "किसी व्यक्ति का चेहरा या भाव"
+    }
+  },
+  {
+    "id": 741,
+    "word": "counteract",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to act against",
+    "example": "The situation demanded a counteract response.",
+    "category": "General",
+    "translations": {
+      "ko": "반대하다",
+      "zh": "采取行动反对",
+      "hi": "के विरुद्ध कार्य करना"
+    }
+  },
+  {
+    "id": 742,
+    "word": "counterfeit",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "made to imitate",
+    "example": "The situation demanded a counterfeit response.",
+    "category": "General",
+    "translations": {
+      "ko": "모방하기 위해 만들어짐",
+      "zh": "模仿",
+      "hi": "नकल करने के लिए बनाया गया"
+    }
+  },
+  {
+    "id": 743,
+    "word": "countermand",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to revoke order",
+    "example": "The situation demanded a countermand response.",
+    "category": "General",
+    "translations": {
+      "ko": "명령을 취소하다",
+      "zh": "撤销命令",
+      "hi": "आदेश रद्द करने के लिए"
+    }
+  },
+  {
+    "id": 744,
+    "word": "counterpart",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person corresponding to another",
+    "example": "The situation demanded a counterpart response.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 사람과 상응하는 사람",
+      "zh": "与另一个人对应的人",
+      "hi": "किसी दूसरे व्यक्ति के अनुरूप व्यक्ति"
+    }
+  },
+  {
+    "id": 745,
+    "word": "coup",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "sudden seizure of power",
+    "example": "The situation demanded a coup response.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 권력 장악",
+      "zh": "突然夺权",
+      "hi": "सत्ता पर अचानक कब्जा"
+    }
+  },
+  {
+    "id": 746,
+    "word": "covenant",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "agreement or contract",
+    "example": "The situation demanded a covenant response.",
+    "category": "General",
+    "translations": {
+      "ko": "합의 또는 계약",
+      "zh": "协议或合同",
+      "hi": "समझौता या अनुबंध"
+    }
+  },
+  {
+    "id": 747,
+    "word": "covert",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not openly displayed",
+    "example": "The situation demanded a covert response.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적으로 표시되지 않음",
+      "zh": "未公开展示",
+      "hi": "खुले तौर पर प्रदर्शित नहीं"
+    }
+  },
+  {
+    "id": 748,
+    "word": "covet",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to yearn to possess",
+    "example": "The situation demanded a covet response.",
+    "category": "General",
+    "translations": {
+      "ko": "소유하기를 갈망하다",
+      "zh": "渴望拥有",
+      "hi": "किसी चीज को पाने की लालसा रखना"
+    }
+  },
+  {
+    "id": 749,
+    "word": "cower",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to crouch in fear",
+    "example": "The situation demanded a cower response.",
+    "category": "General",
+    "translations": {
+      "ko": "두려움에 웅크리다",
+      "zh": "因恐惧而蜷缩",
+      "hi": "डर से दुबक जाना"
+    }
+  },
+  {
+    "id": 750,
+    "word": "craft",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "activity involving skill",
+    "example": "The situation demanded a craft response.",
+    "category": "General",
+    "translations": {
+      "ko": "기술을 요하는 활동",
+      "zh": "涉及技能的活动",
+      "hi": "कौशल से जुड़ी गतिविधि"
+    }
+  },
+  {
+    "id": 751,
+    "word": "crafty",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "clever at achieving aims",
+    "example": "The situation demanded a crafty response.",
+    "category": "General",
+    "translations": {
+      "ko": "목표 달성에 능숙함",
+      "zh": "善于达成目标",
+      "hi": "लक्ष्य हासिल करने में चतुर"
+    }
+  },
+  {
+    "id": 752,
+    "word": "crass",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking sensitivity",
+    "example": "The situation demanded a crass response.",
+    "category": "General",
+    "translations": {
+      "ko": "감도가 부족함",
+      "zh": "缺乏敏感性",
+      "hi": "संवेदनशीलता का अभाव"
+    }
+  },
+  {
+    "id": 753,
+    "word": "crave",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to feel powerful desire",
+    "example": "The situation demanded a crave response.",
+    "category": "General",
+    "translations": {
+      "ko": "강렬한 욕망을 느끼다",
+      "zh": "感到强烈的渴望",
+      "hi": "तीव्र इच्छा महसूस करना"
+    }
+  },
+  {
+    "id": 754,
+    "word": "credence",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "belief in something",
+    "example": "The situation demanded a credence response.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가에 대한 믿음",
+      "zh": "对某事的信仰",
+      "hi": "किसी चीज़ में विश्वास"
+    }
+  },
+  {
+    "id": 755,
+    "word": "credible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "able to be believed",
+    "example": "The situation demanded a credible response.",
+    "category": "General",
+    "translations": {
+      "ko": "믿을 수 있는",
+      "zh": "可信的",
+      "hi": "जिस पर विश्वास किया जा सके"
+    }
+  },
+  {
+    "id": 756,
+    "word": "credulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having tendency to believe",
+    "example": "The situation demanded a credulous response.",
+    "category": "General",
+    "translations": {
+      "ko": "믿는 경향이 있는",
+      "zh": "倾向于相信",
+      "hi": "विश्वास करने की प्रवृत्ति होना"
+    }
+  },
+  {
+    "id": 757,
+    "word": "creed",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "system of beliefs",
+    "example": "The situation demanded a creed response.",
+    "category": "General",
+    "translations": {
+      "ko": "신념 체계",
+      "zh": "信仰体系",
+      "hi": "विश्वासों की प्रणाली"
+    }
+  },
+  {
+    "id": 758,
+    "word": "crestfallen",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sad and disappointed",
+    "example": "The situation demanded a crestfallen response.",
+    "category": "General",
+    "translations": {
+      "ko": "슬프고 실망스럽다",
+      "zh": "难过和失望",
+      "hi": "दुखी और निराश"
+    }
+  },
+  {
+    "id": 759,
+    "word": "criterion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "standard for judging",
+    "example": "The situation demanded a criterion response.",
+    "category": "General",
+    "translations": {
+      "ko": "심사 기준",
+      "zh": "评判标准",
+      "hi": "निर्णय के लिए मानक"
+    }
+  },
+  {
+    "id": 760,
+    "word": "critique",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "detailed analysis",
+    "example": "The situation demanded a critique response.",
+    "category": "General",
+    "translations": {
+      "ko": "상세 분석",
+      "zh": "详细分析",
+      "hi": "विस्तृत विश्लेषण"
+    }
+  },
+  {
+    "id": 761,
+    "word": "cronyism",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "favoritism to friends",
+    "example": "The situation demanded a cronyism response.",
+    "category": "General",
+    "translations": {
+      "ko": "친구에 대한 편애",
+      "zh": "偏袒朋友",
+      "hi": "दोस्तों के प्रति पक्षपात"
+    }
+  },
+  {
+    "id": 762,
+    "word": "crucial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of great importance",
+    "example": "The situation demanded a crucial response.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 중요한",
+      "zh": "非常重要",
+      "hi": "बहुत महत्व का"
+    }
+  },
+  {
+    "id": 763,
+    "word": "cryptic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having hidden meaning",
+    "example": "The situation demanded a cryptic response.",
+    "category": "General",
+    "translations": {
+      "ko": "숨겨진 의미를 지닌",
+      "zh": "具有隐藏含义",
+      "hi": "जिसका कोई छिपा हुआ अर्थ हो"
+    }
+  },
+  {
+    "id": 764,
+    "word": "culpable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deserving blame",
+    "example": "The situation demanded a culpable response.",
+    "category": "General",
+    "translations": {
+      "ko": "비난받아 마땅한",
+      "zh": "应受责备",
+      "hi": "दोष के योग्य"
+    }
+  },
+  {
+    "id": 765,
+    "word": "cultivate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to try to acquire",
+    "example": "The situation demanded a cultivate response.",
+    "category": "General",
+    "translations": {
+      "ko": "획득하려고 노력하다",
+      "zh": "试图获取",
+      "hi": "हासिल करने की कोशिश करना"
+    }
+  },
+  {
+    "id": 766,
+    "word": "cumbersome",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "large or heavy",
+    "example": "The situation demanded a cumbersome response.",
+    "category": "General",
+    "translations": {
+      "ko": "크거나 무거운",
+      "zh": "大或重",
+      "hi": "बड़ा या भारी"
+    }
+  },
+  {
+    "id": 767,
+    "word": "cumulative",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "increasing by addition",
+    "example": "The situation demanded a cumulative response.",
+    "category": "General",
+    "translations": {
+      "ko": "덧셈으로 증가",
+      "zh": "通过加法增加",
+      "hi": "जोड़ द्वारा वृद्धि"
+    }
+  },
+  {
+    "id": 768,
+    "word": "cunning",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having skill in deception",
+    "example": "The situation demanded a cunning response.",
+    "category": "General",
+    "translations": {
+      "ko": "속임수에 능숙한",
+      "zh": "擅长欺骗",
+      "hi": "छल करने में कुशल होना"
+    }
+  },
+  {
+    "id": 769,
+    "word": "cupidity",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "greed for money",
+    "example": "The situation demanded a cupidity response.",
+    "category": "General",
+    "translations": {
+      "ko": "돈에 대한 탐욕",
+      "zh": "对金钱的贪婪",
+      "hi": "पैसे का लालच"
+    }
+  },
+  {
+    "id": 770,
+    "word": "curmudgeon",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "bad-tempered person",
+    "example": "The situation demanded a curmudgeon response.",
+    "category": "General",
+    "translations": {
+      "ko": "성질이 고약한 사람",
+      "zh": "脾气暴躁的人",
+      "hi": "गुस्सैल व्यक्ति"
+    }
+  },
+  {
+    "id": 771,
+    "word": "cursory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "hasty and superficial",
+    "example": "The situation demanded a cursory response.",
+    "category": "General",
+    "translations": {
+      "ko": "성급하고 피상적인",
+      "zh": "仓促且肤浅",
+      "hi": "जल्दबाजी और सतही"
+    }
+  },
+  {
+    "id": 772,
+    "word": "curtail",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reduce in extent",
+    "example": "The situation demanded a curtail response.",
+    "category": "General",
+    "translations": {
+      "ko": "범위를 줄이다",
+      "zh": "减少程度",
+      "hi": "सीमा में कमी करना"
+    }
+  },
+  {
+    "id": 773,
+    "word": "cynical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "distrustful of human sincerity",
+    "example": "The situation demanded a cynical response.",
+    "category": "General",
+    "translations": {
+      "ko": "인간의 진실성을 불신함",
+      "zh": "不信任人类的真诚",
+      "hi": "मानवीय ईमानदारी पर अविश्वास"
+    }
+  },
+  {
+    "id": 774,
+    "word": "daunt",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make feel intimidated",
+    "example": "The situation demanded a daunt response.",
+    "category": "General",
+    "translations": {
+      "ko": "위협감을 느끼게 하다",
+      "zh": "使人感到害怕",
+      "hi": "डरा हुआ महसूस कराना"
+    }
+  },
+  {
+    "id": 775,
+    "word": "dearth",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "scarcity or lack",
+    "example": "The situation demanded a dearth response.",
+    "category": "General",
+    "translations": {
+      "ko": "부족 또는 결핍",
+      "zh": "稀缺或缺乏",
+      "hi": "कमी या अभाव"
+    }
+  },
+  {
+    "id": 776,
+    "word": "debacle",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "sudden disastrous failure",
+    "example": "The situation demanded a debacle response.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스럽고 치명적인 실패",
+      "zh": "突发性灾难性失败",
+      "hi": "अचानक विनाशकारी विफलता"
+    }
+  },
+  {
+    "id": 777,
+    "word": "debase",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reduce in quality",
+    "example": "The situation demanded a debase response.",
+    "category": "General",
+    "translations": {
+      "ko": "품질을 낮추다",
+      "zh": "降低质量",
+      "hi": "गुणवत्ता में कमी करना"
+    }
+  },
+  {
+    "id": 778,
+    "word": "debilitate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make very weak",
+    "example": "The situation demanded a debilitate response.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 약하게 만들기",
+      "zh": "使非常弱",
+      "hi": "बहुत कमजोर बनाना"
+    }
+  },
+  {
+    "id": 779,
+    "word": "debunk",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to expose falseness of",
+    "example": "The situation demanded a debunk response.",
+    "category": "General",
+    "translations": {
+      "ko": "거짓을 폭로하기 위해",
+      "zh": "揭露虚假",
+      "hi": "झूठ को उजागर करने के लिए"
+    }
+  },
+  {
+    "id": 780,
+    "word": "decadent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "characterized by moral decline",
+    "example": "The situation demanded a decadent response.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적 타락을 특징으로 함",
+      "zh": "以道德衰落为特征",
+      "hi": "नैतिक पतन की विशेषता"
+    }
+  },
+  {
+    "id": 781,
+    "word": "decimate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to kill large proportion",
+    "example": "The situation demanded a decimate response.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 부분을 죽이기 위해",
+      "zh": "杀死大部分",
+      "hi": "बड़े अनुपात को मारने के लिए"
+    }
+  },
+  {
+    "id": 782,
+    "word": "decipher",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to convert into normal language",
+    "example": "The situation demanded a decipher response.",
+    "category": "General",
+    "translations": {
+      "ko": "일반 언어로 변환하기",
+      "zh": "转换为普通语言",
+      "hi": "सामान्य भाषा में परिवर्तित करना"
+    }
+  },
+  {
+    "id": 783,
+    "word": "decisive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "settling issue conclusively",
+    "example": "The situation demanded a decisive response.",
+    "category": "General",
+    "translations": {
+      "ko": "문제를 최종적으로 해결하다",
+      "zh": "彻底解决问题",
+      "hi": "मुद्दे का निर्णायक रूप से समाधान करना"
+    }
+  },
+  {
+    "id": 784,
+    "word": "declaim",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to speak in rhetorical way",
+    "example": "The situation demanded a declaim response.",
+    "category": "General",
+    "translations": {
+      "ko": "수사적인 방식으로 말하다",
+      "zh": "以修辞的方式说话",
+      "hi": "अलंकारिक ढंग से बोलना"
+    }
+  },
+  {
+    "id": 785,
+    "word": "decline",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to become smaller",
+    "example": "The situation demanded a decline response.",
+    "category": "General",
+    "translations": {
+      "ko": "더 작아지기 위해",
+      "zh": "变小",
+      "hi": "छोटा होना"
+    }
+  },
+  {
+    "id": 786,
+    "word": "decorous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in keeping with good taste",
+    "example": "The situation demanded a decorous response.",
+    "category": "General",
+    "translations": {
+      "ko": "좋은 취향에 맞춰",
+      "zh": "符合良好品味",
+      "hi": "अच्छे स्वाद के अनुरूप"
+    }
+  },
+  {
+    "id": 787,
+    "word": "decorum",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "behavior in keeping with good taste",
+    "example": "The situation demanded a decorum response.",
+    "category": "General",
+    "translations": {
+      "ko": "좋은 취향에 맞는 행동",
+      "zh": "举止得体，品味高雅",
+      "hi": "अच्छे व्यवहार के अनुरूप आचरण"
+    }
+  },
+  {
+    "id": 788,
+    "word": "decoy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing used to mislead",
+    "example": "The situation demanded a decoy response.",
+    "category": "General",
+    "translations": {
+      "ko": "사람을 오도하는 데 사용되던 것",
+      "zh": "用来误导的东西",
+      "hi": "गुमराह करने के लिए इस्तेमाल की जाने वाली चीज़"
+    }
+  },
+  {
+    "id": 789,
+    "word": "decree",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "official order",
+    "example": "The situation demanded a decree response.",
+    "category": "General",
+    "translations": {
+      "ko": "공식 명령",
+      "zh": "官方命令",
+      "hi": "आधिकारिक आदेश"
+    }
+  },
+  {
+    "id": 790,
+    "word": "decrepit",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "worn out by age",
+    "example": "The situation demanded a decrepit response.",
+    "category": "General",
+    "translations": {
+      "ko": "세월에 닳아빠진",
+      "zh": "因年老而疲惫",
+      "hi": "उम्र के कारण घिसा हुआ"
+    }
+  },
+  {
+    "id": 791,
+    "word": "decry",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to publicly denounce",
+    "example": "The situation demanded a decry response.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적으로 비난하다",
+      "zh": "公开谴责",
+      "hi": "सार्वजनिक रूप से निंदा करने के लिए"
+    }
+  },
+  {
+    "id": 792,
+    "word": "deduce",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to arrive at by reasoning",
+    "example": "The situation demanded a deduce response.",
+    "category": "General",
+    "translations": {
+      "ko": "추론을 통해 도달하다",
+      "zh": "通过推理得出",
+      "hi": "तर्क के द्वारा किसी निष्कर्ष पर पहुँचना"
+    }
+  },
+  {
+    "id": 793,
+    "word": "deem",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to regard as",
+    "example": "The situation demanded a deem response.",
+    "category": "General",
+    "translations": {
+      "ko": "~로 간주하다",
+      "zh": "视为",
+      "hi": "मानना"
+    }
+  },
+  {
+    "id": 794,
+    "word": "defamatory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "damaging to reputation",
+    "example": "The situation demanded a defamatory response.",
+    "category": "General",
+    "translations": {
+      "ko": "평판에 손상을 입힌다",
+      "zh": "损害声誉",
+      "hi": "प्रतिष्ठा के लिए हानिकारक"
+    }
+  },
+  {
+    "id": 795,
+    "word": "default",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "failure to fulfill obligation",
+    "example": "The situation demanded a default response.",
+    "category": "General",
+    "translations": {
+      "ko": "의무 불이행",
+      "zh": "未能履行义务",
+      "hi": "दायित्व पूरा करने में विफलता"
+    }
+  },
+  {
+    "id": 796,
+    "word": "defect",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "shortcoming or imperfection",
+    "example": "The situation demanded a defect response.",
+    "category": "General",
+    "translations": {
+      "ko": "결점 또는 불완전함",
+      "zh": "缺点或缺陷",
+      "hi": "कमी या अपूर्णता"
+    }
+  },
+  {
+    "id": 797,
+    "word": "defer",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to put off to later time",
+    "example": "The situation demanded a defer response.",
+    "category": "General",
+    "translations": {
+      "ko": "나중으로 미루다",
+      "zh": "推迟到以后",
+      "hi": "किसी काम को बाद के लिए टाल देना"
+    }
+  },
+  {
+    "id": 798,
+    "word": "deference",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "humble submission",
+    "example": "The situation demanded a deference response.",
+    "category": "General",
+    "translations": {
+      "ko": "겸손히 제출합니다.",
+      "zh": "谦卑的投稿",
+      "hi": "विनम्र निवेदन"
+    }
+  },
+  {
+    "id": 799,
+    "word": "defiant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing resistance",
+    "example": "The situation demanded a defiant response.",
+    "category": "General",
+    "translations": {
+      "ko": "저항을 나타내는",
+      "zh": "表现出抵抗力",
+      "hi": "प्रतिरोध दिखाना"
+    }
+  },
+  {
+    "id": 800,
+    "word": "deficient",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not having enough",
+    "example": "The situation demanded a deficient response.",
+    "category": "General",
+    "translations": {
+      "ko": "충분하지 않음",
+      "zh": "不够",
+      "hi": "पर्याप्त न होना"
+    }
+  }
+]

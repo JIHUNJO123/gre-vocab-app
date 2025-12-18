@@ -1,0 +1,12 @@
+﻿[
+  {"id": 31, "word": "cogent", "level": "Advanced", "partOfSpeech": "adjective", "definition": "clear and convincing", "example": "She made a cogent argument for reform.", "category": "General"},
+  {"id": 32, "word": "commensurate", "level": "Advanced", "partOfSpeech": "adjective", "definition": "corresponding in size or degree", "example": "Salary should be commensurate with experience.", "category": "General"},
+  {"id": 33, "word": "compendium", "level": "Expert", "partOfSpeech": "noun", "definition": "a collection of concise information", "example": "The book is a compendium of medical knowledge.", "category": "General"},
+  {"id": 34, "word": "concomitant", "level": "Expert", "partOfSpeech": "adjective", "definition": "naturally accompanying", "example": "Stress is a concomitant of modern life.", "category": "General"},
+  {"id": 35, "word": "conflagration", "level": "Expert", "partOfSpeech": "noun", "definition": "a large destructive fire", "example": "The conflagration destroyed half the city.", "category": "General"},
+  {"id": 36, "word": "contrite", "level": "Advanced", "partOfSpeech": "adjective", "definition": "feeling remorse for wrongdoing", "example": "He was contrite after the accident.", "category": "General"},
+  {"id": 37, "word": "conundrum", "level": "Advanced", "partOfSpeech": "noun", "definition": "a confusing problem", "example": "The budget deficit remains a conundrum.", "category": "General"},
+  {"id": 38, "word": "corroborate", "level": "Advanced", "partOfSpeech": "verb", "definition": "to confirm or support", "example": "Witnesses corroborated her testimony.", "category": "General"},
+  {"id": 39, "word": "cupidity", "level": "Expert", "partOfSpeech": "noun", "definition": "excessive greed for wealth", "example": "His cupidity led to his downfall.", "category": "General"},
+  {"id": 40, "word": "dearth", "level": "Advanced", "partOfSpeech": "noun", "definition": "scarcity or lack of", "example": "There is a dearth of qualified teachers.", "category": "General"}
+]

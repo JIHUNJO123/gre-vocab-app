@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2401,
+    "word": "protean",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "tending to change frequently",
+    "example": "The protean quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자주 변하는 경향이 있음",
+      "zh": "倾向于频繁变化",
+      "hi": "बार-बार बदलने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 2402,
+    "word": "protocol",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "official procedure",
+    "example": "The protocol quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공식 절차",
+      "zh": "官方程序",
+      "hi": "आधिकारिक प्रक्रिया"
+    }
+  },
+  {
+    "id": 2403,
+    "word": "prototype",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "first model of something",
+    "example": "The prototype quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것의 첫 번째 모델",
+      "zh": "某物的第一个模型",
+      "hi": "किसी चीज का पहला मॉडल"
+    }
+  },
+  {
+    "id": 2404,
+    "word": "protract",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prolong",
+    "example": "The protract quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "연장하다",
+      "zh": "延长",
+      "hi": "लंबा करने के लिए"
+    }
+  },
+  {
+    "id": 2405,
+    "word": "protrude",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to extend beyond",
+    "example": "The protrude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "넘어서 확장하다",
+      "zh": "超出范围",
+      "hi": "आगे विस्तार करने के लिए"
+    }
+  },
+  {
+    "id": 2406,
+    "word": "provenance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "place of origin",
+    "example": "The provenance quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "원산지",
+      "zh": "产地",
+      "hi": "उत्पत्ति का स्थान"
+    }
+  },
+  {
+    "id": 2407,
+    "word": "provident",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "making provision for future",
+    "example": "The provident quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "미래를 대비하여",
+      "zh": "为未来做好准备",
+      "hi": "भविष्य के लिए प्रावधान करना"
+    }
+  },
+  {
+    "id": 2408,
+    "word": "provincial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of a province",
+    "example": "The provincial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "한 지방",
+      "zh": "一个省",
+      "hi": "एक प्रांत का"
+    }
+  },
+  {
+    "id": 2409,
+    "word": "provisional",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "arranged temporarily",
+    "example": "The provisional quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "임시로 마련된",
+      "zh": "临时安排",
+      "hi": "अस्थायी रूप से व्यवस्थित"
+    }
+  },
+  {
+    "id": 2410,
+    "word": "proviso",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "condition attached to agreement",
+    "example": "The proviso quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "계약에 첨부된 조건",
+      "zh": "协议附加条件",
+      "hi": "समझौते से जुड़ी शर्त"
+    }
+  },
+  {
+    "id": 2411,
+    "word": "provocative",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing annoyance",
+    "example": "The provocative quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증을 유발하다",
+      "zh": "引起烦恼",
+      "hi": "झुंझलाहट पैदा करना"
+    }
+  },
+  {
+    "id": 2412,
+    "word": "prowess",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "skill or expertise",
+    "example": "The prowess quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "기술 또는 전문 지식",
+      "zh": "技能或专业知识",
+      "hi": "कौशल या विशेषज्ञता"
+    }
+  },
+  {
+    "id": 2413,
+    "word": "proximity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "nearness in space",
+    "example": "The proximity quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공간상의 근접성",
+      "zh": "太空中的接近",
+      "hi": "अंतरिक्ष में निकटता"
+    }
+  },
+  {
+    "id": 2414,
+    "word": "proxy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "authority to represent another",
+    "example": "The proxy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "타인을 대리할 권한",
+      "zh": "代表他人的权力",
+      "hi": "किसी अन्य का प्रतिनिधित्व करने का अधिकार"
+    }
+  },
+  {
+    "id": 2415,
+    "word": "prudent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "acting with care",
+    "example": "The prudent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "조심스럽게 행동하다",
+      "zh": "谨慎行事",
+      "hi": "सावधानीपूर्वक कार्य करना"
+    }
+  },
+  {
+    "id": 2416,
+    "word": "prune",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to trim by cutting",
+    "example": "The prune quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "잘라서 다듬다",
+      "zh": "通过切割进行修剪",
+      "hi": "काटकर छांटना"
+    }
+  },
+  {
+    "id": 2417,
+    "word": "puerile",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "childishly silly",
+    "example": "The puerile quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어린아이처럼 어리석다",
+      "zh": "幼稚愚蠢",
+      "hi": "बचकाना मूर्खतापूर्ण"
+    }
+  },
+  {
+    "id": 2418,
+    "word": "pugnacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "eager to argue",
+    "example": "The pugnacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "논쟁하고 싶어하는",
+      "zh": "急于争论",
+      "hi": "बहस करने के लिए उत्सुक"
+    }
+  },
+  {
+    "id": 2419,
+    "word": "pulverize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reduce to fine particles",
+    "example": "The pulverize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "미세 입자로 줄이기 위해",
+      "zh": "减少成细颗粒",
+      "hi": "बारीक कणों में कम करना"
+    }
+  },
+  {
+    "id": 2420,
+    "word": "punctilious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing great attention to detail",
+    "example": "The punctilious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "세부 사항에 매우 주의를 기울이는 것을 보여줍니다.",
+      "zh": "非常注重细节。",
+      "hi": "बारीकियों पर बहुत ध्यान देते हुए"
+    }
+  },
+  {
+    "id": 2421,
+    "word": "pundit",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "expert in particular subject",
+    "example": "The pundit quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "특정 분야의 전문가",
+      "zh": "特定领域的专家",
+      "hi": "किसी विशेष विषय का विशेषज्ञ"
+    }
+  },
+  {
+    "id": 2422,
+    "word": "pungent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having sharp taste",
+    "example": "The pungent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "톡 쏘는 맛을 가지고",
+      "zh": "味道辛辣",
+      "hi": "तीखा स्वाद होना"
+    }
+  },
+  {
+    "id": 2423,
+    "word": "punitive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "inflicting punishment",
+    "example": "The punitive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "처벌을 가하다",
+      "zh": "施加惩罚",
+      "hi": "दंड देना"
+    }
+  },
+  {
+    "id": 2424,
+    "word": "purge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to rid of unwanted quality",
+    "example": "The purge quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "원치 않는 품질을 제거하기 위해",
+      "zh": "去除不需要的质量",
+      "hi": "अवांछित गुणों से छुटकारा पाने के लिए"
+    }
+  },
+  {
+    "id": 2425,
+    "word": "puritanical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having strict moral beliefs",
+    "example": "The puritanical quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "엄격한 도덕적 신념을 가지고",
+      "zh": "拥有严格的道德信仰",
+      "hi": "कठोर नैतिक मान्यताओं का होना"
+    }
+  },
+  {
+    "id": 2426,
+    "word": "purport",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to appear to be",
+    "example": "The purport quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "~처럼 보이다",
+      "zh": "看起来像",
+      "hi": "प्रतीत होना"
+    }
+  },
+  {
+    "id": 2427,
+    "word": "pursuant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "in accordance with",
+    "example": "The pursuant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "~에 따라",
+      "zh": "依据",
+      "hi": "के अनुसार"
+    }
+  },
+  {
+    "id": 2428,
+    "word": "pusillanimous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing lack of courage",
+    "example": "The pusillanimous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "용기가 부족함을 드러내는 것",
+      "zh": "表现得缺乏勇气",
+      "hi": "साहस की कमी दर्शाना"
+    }
+  },
+  {
+    "id": 2429,
+    "word": "quagmire",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "soft boggy area",
+    "example": "The quagmire quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "질퍽한 습지대",
+      "zh": "松软的沼泽地",
+      "hi": "नरम दलदली क्षेत्र"
+    }
+  },
+  {
+    "id": 2430,
+    "word": "quaint",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "attractively unusual",
+    "example": "The quaint quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매력적으로 특이한",
+      "zh": "极具吸引力且不同寻常",
+      "hi": "आकर्षक रूप से असामान्य"
+    }
+  },
+  {
+    "id": 2431,
+    "word": "qualify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make less absolute",
+    "example": "The qualify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "절대적인 것을 덜 만들기 위해",
+      "zh": "减少绝对性",
+      "hi": "कम निरपेक्ष बनाना"
+    }
+  },
+  {
+    "id": 2432,
+    "word": "qualm",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "uneasy feeling of doubt",
+    "example": "The qualm quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불안한 의심의 느낌",
+      "zh": "不安的怀疑感",
+      "hi": "संदेह की बेचैनी भरी भावना"
+    }
+  },
+  {
+    "id": 2433,
+    "word": "quandary",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of perplexity",
+    "example": "The quandary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "당혹감의 상태",
+      "zh": "困惑状态",
+      "hi": "असमंजस की स्थिति"
+    }
+  },
+  {
+    "id": 2434,
+    "word": "quarantine",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of isolation",
+    "example": "The quarantine quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "고립 상태",
+      "zh": "隔离状态",
+      "hi": "अलगाव की स्थिति"
+    }
+  },
+  {
+    "id": 2435,
+    "word": "quarrelsome",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "given to quarreling",
+    "example": "The quarrelsome quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다투기를 좋아하는",
+      "zh": "喜欢争吵",
+      "hi": "झगड़ालू"
+    }
+  },
+  {
+    "id": 2436,
+    "word": "quash",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reject as invalid",
+    "example": "The quash quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "유효하지 않다고 판단하여 거부하다",
+      "zh": "拒绝为无效",
+      "hi": "अमान्य के रूप में अस्वीकार करना"
+    }
+  },
+  {
+    "id": 2437,
+    "word": "quell",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to put end to",
+    "example": "The quell quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "끝내기 위해",
+      "zh": "结束",
+      "hi": "समाप्त करने के लिए"
+    }
+  },
+  {
+    "id": 2438,
+    "word": "querulous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "complaining in petulant way",
+    "example": "The querulous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "심술궂게 불평하다",
+      "zh": "以任性的方式抱怨",
+      "hi": "चिड़चिड़ेपन से शिकायत करना"
+    }
+  },
+  {
+    "id": 2439,
+    "word": "query",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "question about something",
+    "example": "The query quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것에 대한 질문",
+      "zh": "关于某事的问题",
+      "hi": "किसी चीज़ के बारे में प्रश्न"
+    }
+  },
+  {
+    "id": 2440,
+    "word": "quest",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "long search for something",
+    "example": "The quest quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가를 찾는 긴 여정",
+      "zh": "长时间寻找某样东西",
+      "hi": "किसी चीज की लंबी खोज"
+    }
+  },
+  {
+    "id": 2441,
+    "word": "quibble",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to argue about trivial matter",
+    "example": "The quibble quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사소한 문제로 논쟁하다",
+      "zh": "争论琐事",
+      "hi": "तुच्छ बातों पर बहस करना"
+    }
+  },
+  {
+    "id": 2442,
+    "word": "quiescent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in state of inactivity",
+    "example": "The quiescent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "비활성 상태",
+      "zh": "处于不活动状态",
+      "hi": "निष्क्रियता की अवस्था में"
+    }
+  },
+  {
+    "id": 2443,
+    "word": "quintessential",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "representing perfect example",
+    "example": "The quintessential quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "완벽한 예를 나타냅니다",
+      "zh": "堪称完美典范",
+      "hi": "उत्तम उदाहरण का प्रतिनिधित्व करते हुए"
+    }
+  },
+  {
+    "id": 2444,
+    "word": "quip",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "witty remark",
+    "example": "The quip quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "재치 있는 말",
+      "zh": "妙语",
+      "hi": "हास्यपूर्ण टिप्पणी"
+    }
+  },
+  {
+    "id": 2445,
+    "word": "quirky",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "characterized by peculiar traits",
+    "example": "The quirky quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "특이한 특징을 지닌",
+      "zh": "具有独特的特征",
+      "hi": "विशिष्ट लक्षणों से युक्त"
+    }
+  },
+  {
+    "id": 2446,
+    "word": "quixotic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "exceedingly idealistic",
+    "example": "The quixotic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 이상주의적인",
+      "zh": "极其理想主义",
+      "hi": "अत्यंत आदर्शवादी"
+    }
+  },
+  {
+    "id": 2447,
+    "word": "quotidian",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "of or occurring every day",
+    "example": "The quotidian quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매일 발생하는 또는 매일 일어나는",
+      "zh": "每天发生的",
+      "hi": "प्रतिदिन घटित होने वाला या प्रतिदिन होने वाला"
+    }
+  },
+  {
+    "id": 2448,
+    "word": "rabid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having fanatical belief",
+    "example": "The rabid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "광신적인 믿음을 갖고",
+      "zh": "狂热的信仰",
+      "hi": "कट्टर विश्वास होना"
+    }
+  },
+  {
+    "id": 2449,
+    "word": "radical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to fundamental nature",
+    "example": "The radical quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "근본적인 본성과 관련된",
+      "zh": "与基本性质有关",
+      "hi": "मौलिक प्रकृति से संबंधित"
+    }
+  },
+  {
+    "id": 2450,
+    "word": "raffle",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "means of raising money",
+    "example": "The raffle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자금 조달 수단",
+      "zh": "筹款方式",
+      "hi": "धन जुटाने के साधन"
+    }
+  },
+  {
+    "id": 2451,
+    "word": "rampant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "flourishing without check",
+    "example": "The rampant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "제지 없이 번성함",
+      "zh": "不受约束地蓬勃发展",
+      "hi": "बिना किसी रोक-टोक के फल-फूल रहा है"
+    }
+  },
+  {
+    "id": 2452,
+    "word": "ramshackle",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "in severe state of disrepair",
+    "example": "The ramshackle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "심각하게 파손된 상태",
+      "zh": "严重失修",
+      "hi": "अत्यंत जीर्ण अवस्था में"
+    }
+  },
+  {
+    "id": 2453,
+    "word": "rancor",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "bitterness or resentfulness",
+    "example": "The rancor quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쓴맛이나 원망",
+      "zh": "怨恨或愤恨",
+      "hi": "कड़वाहट या नाराजगी"
+    }
+  },
+  {
+    "id": 2454,
+    "word": "random",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "made without method",
+    "example": "The random quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "방법 없이 제작됨",
+      "zh": "未采用任何方法",
+      "hi": "बिना विधि के बनाया गया"
+    }
+  },
+  {
+    "id": 2455,
+    "word": "rankle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause annoyance",
+    "example": "The rankle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증을 유발하다",
+      "zh": "引起烦恼",
+      "hi": "झुंझलाहट पैदा करने के लिए"
+    }
+  },
+  {
+    "id": 2456,
+    "word": "rant",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to speak at length angrily",
+    "example": "The rant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "화를 내며 장황하게 말하다",
+      "zh": "愤怒地长篇大论",
+      "hi": "लंबे समय तक गुस्से में बोलना"
+    }
+  },
+  {
+    "id": 2457,
+    "word": "rapacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "aggressively greedy",
+    "example": "The rapacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공격적으로 탐욕스러운",
+      "zh": "贪婪地",
+      "hi": "आक्रामक रूप से लालची"
+    }
+  },
+  {
+    "id": 2458,
+    "word": "rapport",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "close harmonious relationship",
+    "example": "The rapport quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "가깝고 조화로운 관계",
+      "zh": "亲密和谐的关系",
+      "hi": "घनिष्ठ सौहार्दपूर्ण संबंध"
+    }
+  },
+  {
+    "id": 2459,
+    "word": "rapt",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "completely fascinated",
+    "example": "The rapt quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 매료되었다",
+      "zh": "完全被迷住了",
+      "hi": "पूरी तरह से मोहित"
+    }
+  },
+  {
+    "id": 2460,
+    "word": "rapture",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "feeling of intense pleasure",
+    "example": "The rapture quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강렬한 쾌감",
+      "zh": "强烈的愉悦感",
+      "hi": "तीव्र आनंद की अनुभूति"
+    }
+  },
+  {
+    "id": 2461,
+    "word": "rarefied",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "distant from ordinary people",
+    "example": "The rarefied quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "평범한 사람들과 멀리 떨어져 있음",
+      "zh": "与普通人疏远",
+      "hi": "आम लोगों से दूर"
+    }
+  },
+  {
+    "id": 2462,
+    "word": "rash",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "acting without thinking",
+    "example": "The rash quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "생각 없이 행동하기",
+      "zh": "不假思索地行动",
+      "hi": "बिना सोचे समझे काम करना"
+    }
+  },
+  {
+    "id": 2463,
+    "word": "ratify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give formal consent",
+    "example": "The ratify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "정식으로 동의하다",
+      "zh": "给予正式同意",
+      "hi": "औपचारिक सहमति देना"
+    }
+  },
+  {
+    "id": 2464,
+    "word": "ratiocination",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "process of logical reasoning",
+    "example": "The ratiocination quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "논리적 추론 과정",
+      "zh": "逻辑推理过程",
+      "hi": "तार्किक तर्क की प्रक्रिया"
+    }
+  },
+  {
+    "id": 2465,
+    "word": "rational",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "based on reason",
+    "example": "The rational quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "이성에 근거하여",
+      "zh": "基于理性",
+      "hi": "तर्क के आधार पर"
+    }
+  },
+  {
+    "id": 2466,
+    "word": "rationale",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "set of reasons",
+    "example": "The rationale quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "일련의 이유",
+      "zh": "一系列原因",
+      "hi": "कारणों का समूह"
+    }
+  },
+  {
+    "id": 2467,
+    "word": "raucous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "making harsh sound",
+    "example": "The raucous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "거친 소리를 내다",
+      "zh": "发出刺耳的声音",
+      "hi": "कर्कश ध्वनि उत्पन्न करना"
+    }
+  },
+  {
+    "id": 2468,
+    "word": "ravage",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause severe damage",
+    "example": "The ravage quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "심각한 피해를 입히다",
+      "zh": "造成严重损害",
+      "hi": "गंभीर क्षति पहुँचाने के लिए"
+    }
+  },
+  {
+    "id": 2469,
+    "word": "ravenous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely hungry",
+    "example": "The ravenous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 배고파요",
+      "zh": "极度饥饿",
+      "hi": "बहुत भूखा"
+    }
+  },
+  {
+    "id": 2470,
+    "word": "raze",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to completely destroy",
+    "example": "The raze quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 파괴하다",
+      "zh": "彻底摧毁",
+      "hi": "पूरी तरह से नष्ट करने के लिए"
+    }
+  },
+  {
+    "id": 2471,
+    "word": "reactionary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "opposing political change",
+    "example": "The reactionary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "정치적 변화에 반대하다",
+      "zh": "反对政治变革",
+      "hi": "राजनीतिक परिवर्तन का विरोध करना"
+    }
+  },
+  {
+    "id": 2472,
+    "word": "realm",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "kingdom or field",
+    "example": "The realm quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "왕국 또는 분야",
+      "zh": "王国或田野",
+      "hi": "राज्य या क्षेत्र"
+    }
+  },
+  {
+    "id": 2473,
+    "word": "rebuff",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reject ungraciously",
+    "example": "The rebuff quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무례하게 거절하다",
+      "zh": "无礼地拒绝",
+      "hi": "अभद्र तरीके से अस्वीकार करना"
+    }
+  },
+  {
+    "id": 2474,
+    "word": "rebuke",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to express sharp disapproval",
+    "example": "The rebuke quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강한 불만을 표현하다",
+      "zh": "表示强烈不满",
+      "hi": "तीव्र असहमति व्यक्त करना"
+    }
+  },
+  {
+    "id": 2475,
+    "word": "rebut",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to claim to be false",
+    "example": "The rebut quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "거짓이라고 주장하다",
+      "zh": "声称是虚假的",
+      "hi": "झूठा होने का दावा करना"
+    }
+  },
+  {
+    "id": 2476,
+    "word": "recalcitrant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly uncooperative",
+    "example": "The recalcitrant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "완강하게 비협조적임",
+      "zh": "顽固不合作",
+      "hi": "हठपूर्वक असहयोगी"
+    }
+  },
+  {
+    "id": 2477,
+    "word": "recant",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to say that former belief was wrong",
+    "example": "The recant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "이전의 믿음이 틀렸다고 말하는 것",
+      "zh": "也就是说，以前的观点是错误的",
+      "hi": "यह कहना कि पूर्व धारणा गलत थी"
+    }
+  },
+  {
+    "id": 2478,
+    "word": "recapitulate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to summarize main points",
+    "example": "The recapitulate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "주요 내용을 요약하자면",
+      "zh": "总结要点",
+      "hi": "मुख्य बिंदुओं का सारांश प्रस्तुत करने के लिए"
+    }
+  },
+  {
+    "id": 2479,
+    "word": "recede",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to go back or away",
+    "example": "The recede quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "돌아가다 또는 떠나다",
+      "zh": "返回或离开",
+      "hi": "वापस जाना या दूर जाना"
+    }
+  },
+  {
+    "id": 2480,
+    "word": "receptive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "willing to consider ideas",
+    "example": "The receptive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "아이디어를 고려할 의향이 있습니다",
+      "zh": "愿意考虑各种想法",
+      "hi": "विचारों पर विचार करने को तैयार"
+    }
+  },
+  {
+    "id": 2481,
+    "word": "recession",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "period of economic decline",
+    "example": "The recession quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경제 침체기",
+      "zh": "经济衰退期",
+      "hi": "आर्थिक गिरावट का दौर"
+    }
+  },
+  {
+    "id": 2482,
+    "word": "recidivism",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "tendency to relapse",
+    "example": "The recidivism quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "재발 경향",
+      "zh": "复发倾向",
+      "hi": "बीमारी के दोबारा होने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 2483,
+    "word": "reciprocate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to respond with similar action",
+    "example": "The reciprocate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "유사한 조치로 대응하다",
+      "zh": "采取类似行动",
+      "hi": "इसी तरह की कार्रवाई से जवाब देना"
+    }
+  },
+  {
+    "id": 2484,
+    "word": "reclusive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "avoiding company",
+    "example": "The reclusive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "회사 회피",
+      "zh": "避免与公司接触",
+      "hi": "कंपनी से बचना"
+    }
+  },
+  {
+    "id": 2485,
+    "word": "reconcile",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to restore friendly relations",
+    "example": "The reconcile quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "우호적인 관계를 회복하기 위해",
+      "zh": "恢复友好关系",
+      "hi": "मैत्रीपूर्ण संबंधों को बहाल करने के लिए"
+    }
+  },
+  {
+    "id": 2486,
+    "word": "recondite",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "obscure",
+    "example": "The recondite quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "애매하게 하다",
+      "zh": "朦胧",
+      "hi": "अस्पष्ट"
+    }
+  },
+  {
+    "id": 2487,
+    "word": "reconnaissance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "military observation",
+    "example": "The reconnaissance quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "군사 관측",
+      "zh": "军事观察",
+      "hi": "सैन्य अवलोकन"
+    }
+  },
+  {
+    "id": 2488,
+    "word": "rectify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to put right",
+    "example": "The rectify quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "바로잡다",
+      "zh": "纠正",
+      "hi": "ठीक करने के लिए"
+    }
+  },
+  {
+    "id": 2489,
+    "word": "rectitude",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "morally correct behavior",
+    "example": "The rectitude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적으로 올바른 행동",
+      "zh": "道德上正确的行为",
+      "hi": "नैतिक रूप से सही व्यवहार"
+    }
+  },
+  {
+    "id": 2490,
+    "word": "recumbent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "lying down",
+    "example": "The recumbent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "누워서",
+      "zh": "躺下",
+      "hi": "लेटना"
+    }
+  },
+  {
+    "id": 2491,
+    "word": "recuperate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to recover from illness",
+    "example": "The recuperate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "질병에서 회복하다",
+      "zh": "从疾病中恢复",
+      "hi": "बीमारी से उबरना"
+    }
+  },
+  {
+    "id": 2492,
+    "word": "recurrent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "occurring often",
+    "example": "The recurrent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자주 발생하는",
+      "zh": "经常发生",
+      "hi": "अक्सर घटित होने वाला"
+    }
+  },
+  {
+    "id": 2493,
+    "word": "redolent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "strongly reminiscent",
+    "example": "The redolent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강하게 연상시키는",
+      "zh": "强烈地让人联想起",
+      "hi": "बहुत याद दिलाता है"
+    }
+  },
+  {
+    "id": 2494,
+    "word": "redoubtable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "formidable",
+    "example": "The redoubtable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무서운",
+      "zh": "强大",
+      "hi": "दुर्जेय"
+    }
+  },
+  {
+    "id": 2495,
+    "word": "redress",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to remedy or set right",
+    "example": "The redress quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "바로잡거나 바로잡다",
+      "zh": "纠正或纠正",
+      "hi": "सुधार करना या ठीक करना"
+    }
+  },
+  {
+    "id": 2496,
+    "word": "redundant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not needed",
+    "example": "The redundant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "필요 없음",
+      "zh": "不需要",
+      "hi": "जरूरत नहीं"
+    }
+  },
+  {
+    "id": 2497,
+    "word": "refine",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to remove impurities",
+    "example": "The refine quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불순물을 제거하기 위해",
+      "zh": "去除杂质",
+      "hi": "अशुद्धियों को दूर करने के लिए"
+    }
+  },
+  {
+    "id": 2498,
+    "word": "reflect",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to think deeply",
+    "example": "The reflect quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "깊이 생각하다",
+      "zh": "深入思考",
+      "hi": "गहराई से सोचने के लिए"
+    }
+  },
+  {
+    "id": 2499,
+    "word": "refractory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "stubborn or unmanageable",
+    "example": "The refractory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "고집스럽거나 다루기 힘든",
+      "zh": "固执或难以控制",
+      "hi": "जिद्दी या अनियंत्रित"
+    }
+  },
+  {
+    "id": 2500,
+    "word": "refute",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prove to be wrong",
+    "example": "The refute quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "틀렸음을 증명하다",
+      "zh": "证明是错误的",
+      "hi": "गलत साबित करना"
+    }
+  }
+]

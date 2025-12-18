@@ -1,0 +1,702 @@
+[
+  {
+    "id": 201,
+    "word": "paragon",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "model of excellence",
+    "example": "The paragon situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "탁월함의 모델",
+      "zh": "卓越典范",
+      "hi": "उत्कृष्टता का आदर्श"
+    }
+  },
+  {
+    "id": 202,
+    "word": "pariah",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "outcast",
+    "example": "The pariah situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "추방자",
+      "zh": "被排斥者",
+      "hi": "जाति से निकाला हुआ"
+    }
+  },
+  {
+    "id": 203,
+    "word": "parochial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having a limited outlook",
+    "example": "The parochial situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "제한된 시야를 가지고",
+      "zh": "视野狭隘",
+      "hi": "सीमित दृष्टिकोण रखना"
+    }
+  },
+  {
+    "id": 204,
+    "word": "parsimonious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely unwilling to spend",
+    "example": "The parsimonious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "돈을 쓰는 것을 극도로 꺼려함",
+      "zh": "极不愿意花钱",
+      "hi": "खर्च करने के लिए बेहद अनिच्छुक"
+    }
+  },
+  {
+    "id": 205,
+    "word": "partisan",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "strong supporter of a party",
+    "example": "The partisan situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "정당의 강력한 지지자",
+      "zh": "政党的坚定支持者",
+      "hi": "किसी पार्टी का प्रबल समर्थक"
+    }
+  },
+  {
+    "id": 206,
+    "word": "patent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily recognizable; obvious",
+    "example": "The patent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 알아볼 수 있는; 명백한",
+      "zh": "容易识别；显而易见",
+      "hi": "आसानी से पहचाना जा सकने वाला; स्पष्ट"
+    }
+  },
+  {
+    "id": 207,
+    "word": "pathological",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving mental illness",
+    "example": "The pathological situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "정신 질환과 관련된",
+      "zh": "涉及精神疾病",
+      "hi": "मानसिक बीमारी से संबंधित"
+    }
+  },
+  {
+    "id": 208,
+    "word": "paucity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "scarcity",
+    "example": "The paucity situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "부족",
+      "zh": "缺乏",
+      "hi": "कमी"
+    }
+  },
+  {
+    "id": 209,
+    "word": "pedantic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively concerned with details",
+    "example": "The pedantic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "세부 사항에 지나치게 신경 쓰는 사람",
+      "zh": "过分关注细节",
+      "hi": "विवरणों के प्रति अत्यधिक चिंतित"
+    }
+  },
+  {
+    "id": 210,
+    "word": "pellucid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "easily understood; clear",
+    "example": "The pellucid situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 이해할 수 있는; 명확한",
+      "zh": "易于理解；清晰",
+      "hi": "आसानी से समझ में आने वाला; स्पष्ट"
+    }
+  },
+  {
+    "id": 211,
+    "word": "penchant",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "strong liking for something",
+    "example": "The penchant situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가에 대한 강한 호감",
+      "zh": "对某事物的强烈喜爱",
+      "hi": "किसी चीज के प्रति तीव्र पसंद"
+    }
+  },
+  {
+    "id": 212,
+    "word": "penurious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "extremely poor",
+    "example": "The penurious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 가난함",
+      "zh": "极差",
+      "hi": "अत्यंत गरीब"
+    }
+  },
+  {
+    "id": 213,
+    "word": "peremptory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "expecting immediate obedience",
+    "example": "The peremptory situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "즉각적인 복종을 기대하며",
+      "zh": "期望立即服从",
+      "hi": "तत्काल आज्ञापालन की अपेक्षा करना"
+    }
+  },
+  {
+    "id": 214,
+    "word": "perfidy",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "deceitfulness; untrustworthiness",
+    "example": "The perfidy situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "기만성; 신뢰할 수 없음",
+      "zh": "欺骗；不可信",
+      "hi": "कपटपूर्ण व्यवहार; अविश्वास"
+    }
+  },
+  {
+    "id": 215,
+    "word": "perfunctory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "done without care",
+    "example": "The perfunctory situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "신경 쓰지 않고 한",
+      "zh": "做事漫不经心",
+      "hi": "लापरवाही से किया गया"
+    }
+  },
+  {
+    "id": 216,
+    "word": "peripatetic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "traveling from place to place",
+    "example": "The peripatetic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이곳저곳으로 여행하기",
+      "zh": "从一个地方到另一个地方",
+      "hi": "एक स्थान से दूसरे स्थान की यात्रा करना"
+    }
+  },
+  {
+    "id": 217,
+    "word": "pernicious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having harmful effect",
+    "example": "The pernicious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "유해한 영향을 미치는",
+      "zh": "具有有害影响",
+      "hi": "हानिकारक प्रभाव डालना"
+    }
+  },
+  {
+    "id": 218,
+    "word": "perspicacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having keen insight",
+    "example": "The perspicacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "예리한 통찰력을 가지고",
+      "zh": "拥有敏锐的洞察力",
+      "hi": "गहरी अंतर्दृष्टि होना"
+    }
+  },
+  {
+    "id": 219,
+    "word": "pertinacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "stubbornly persistent",
+    "example": "The pertinacious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "고집스럽게 끈질기게",
+      "zh": "顽固不化",
+      "hi": "हठपूर्वक दृढ़"
+    }
+  },
+  {
+    "id": 220,
+    "word": "pervasive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "spreading throughout",
+    "example": "The pervasive situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "널리 퍼지고 있습니다",
+      "zh": "蔓延开来",
+      "hi": "पूरे में फैल रहा है"
+    }
+  },
+  {
+    "id": 221,
+    "word": "petulant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "childishly bad-tempered",
+    "example": "The petulant situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "어린아이처럼 성질이 나쁘다",
+      "zh": "幼稚的坏脾气",
+      "hi": "बचकाने ढंग से चिड़चिड़ा"
+    }
+  },
+  {
+    "id": 222,
+    "word": "phlegmatic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "calm and unemotional",
+    "example": "The phlegmatic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "차분하고 감정이 없는",
+      "zh": "冷静且不带情绪",
+      "hi": "शांत और भावहीन"
+    }
+  },
+  {
+    "id": 223,
+    "word": "pithy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "concise and meaningful",
+    "example": "The pithy situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "간결하고 의미 있는",
+      "zh": "简洁而有意义",
+      "hi": "संक्षिप्त और अर्थपूर्ण"
+    }
+  },
+  {
+    "id": 224,
+    "word": "placate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make less angry",
+    "example": "The placate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "화를 덜 내게 하려면",
+      "zh": "减少愤怒",
+      "hi": "कम गुस्सा दिलाना"
+    }
+  },
+  {
+    "id": 225,
+    "word": "plaintive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sounding sad",
+    "example": "The plaintive situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "슬픈 소리가 나네요",
+      "zh": "听起来很悲伤",
+      "hi": "उदास लग रहा है"
+    }
+  },
+  {
+    "id": 226,
+    "word": "platitude",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "remark used too often",
+    "example": "The platitude situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 자주 쓰이는 표현",
+      "zh": "这句话用得太频繁了",
+      "hi": "यह टिप्पणी बहुत बार इस्तेमाल की गई"
+    }
+  },
+  {
+    "id": 227,
+    "word": "plethora",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excess of something",
+    "example": "The plethora situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가의 과잉",
+      "zh": "过量",
+      "hi": "किसी चीज की अधिकता"
+    }
+  },
+  {
+    "id": 228,
+    "word": "polarize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to divide into opposing groups",
+    "example": "The polarize situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "서로 대립하는 집단으로 나누다",
+      "zh": "分裂成对立的群体",
+      "hi": "विरोधी समूहों में विभाजित करना"
+    }
+  },
+  {
+    "id": 229,
+    "word": "polemic",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "strong verbal attack",
+    "example": "The polemic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "강력한 언어 공격",
+      "zh": "强烈的言语攻击",
+      "hi": "जोरदार मौखिक हमला"
+    }
+  },
+  {
+    "id": 230,
+    "word": "ponderous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "slow and clumsy",
+    "example": "The ponderous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "느리고 서투르다",
+      "zh": "缓慢而笨拙",
+      "hi": "धीमा और अनाड़ी"
+    }
+  },
+  {
+    "id": 231,
+    "word": "pragmatic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "dealing with matters practically",
+    "example": "The pragmatic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "실질적으로 문제를 처리하다",
+      "zh": "实际处理事务",
+      "hi": "व्यावहारिक रूप से मामलों से निपटना"
+    }
+  },
+  {
+    "id": 232,
+    "word": "precarious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not securely held",
+    "example": "The precarious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "안전하게 고정되지 않음",
+      "zh": "未妥善保管",
+      "hi": "सुरक्षित रूप से नहीं रखा गया"
+    }
+  },
+  {
+    "id": 233,
+    "word": "precipitate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to happen suddenly",
+    "example": "The precipitate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "갑자기 일어나게 하다",
+      "zh": "使之突然发生",
+      "hi": "अचानक घटित होने का कारण बनना"
+    }
+  },
+  {
+    "id": 234,
+    "word": "preclude",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prevent from happening",
+    "example": "The preclude situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "발생을 방지하기 위해",
+      "zh": "防止发生",
+      "hi": "होने से रोकने के लिए"
+    }
+  },
+  {
+    "id": 235,
+    "word": "precocious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "developed earlier than usual",
+    "example": "The precocious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "보통보다 일찍 발병함",
+      "zh": "比通常情况更早出现",
+      "hi": "सामान्य से पहले विकसित हुआ"
+    }
+  },
+  {
+    "id": 236,
+    "word": "predilection",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "preference or liking",
+    "example": "The predilection situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "선호 또는 호감",
+      "zh": "偏好或喜好",
+      "hi": "पसंद या रुचि"
+    }
+  },
+  {
+    "id": 237,
+    "word": "prescient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having knowledge of future",
+    "example": "The prescient situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "미래에 대한 지식을 갖는 것",
+      "zh": "了解未来",
+      "hi": "भविष्य का ज्ञान होना"
+    }
+  },
+  {
+    "id": 238,
+    "word": "presumptuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "overstepping due bounds",
+    "example": "The presumptuous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "정해진 범위를 넘어서",
+      "zh": "越界",
+      "hi": "निर्धारित सीमाओं का उल्लंघन करना"
+    }
+  },
+  {
+    "id": 239,
+    "word": "prevaricate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to speak evasively",
+    "example": "The prevaricate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "얼버무리며 말하다",
+      "zh": "闪烁其词",
+      "hi": "टालमटोल भरी बातें करना"
+    }
+  },
+  {
+    "id": 240,
+    "word": "pristine",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "in original condition",
+    "example": "The pristine situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "원래 상태",
+      "zh": "原装状态",
+      "hi": "मूल स्थिति में"
+    }
+  },
+  {
+    "id": 241,
+    "word": "probity",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "integrity and honesty",
+    "example": "The probity situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "성실과 정직",
+      "zh": "正直和诚实",
+      "hi": "ईमानदारी और सत्यनिष्ठा"
+    }
+  },
+  {
+    "id": 242,
+    "word": "proclivity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "tendency toward something",
+    "example": "The proclivity situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것에 대한 경향",
+      "zh": "倾向于某种事物",
+      "hi": "किसी चीज की ओर झुकाव"
+    }
+  },
+  {
+    "id": 243,
+    "word": "prodigal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wastefully extravagant",
+    "example": "The prodigal situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "낭비적으로 사치스러운",
+      "zh": "浪费的奢侈",
+      "hi": "अत्यधिक खर्चीला"
+    }
+  },
+  {
+    "id": 244,
+    "word": "prodigious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "remarkably great",
+    "example": "The prodigious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "놀랍도록 훌륭함",
+      "zh": "非常出色",
+      "hi": "असाधारण रूप से महान"
+    }
+  },
+  {
+    "id": 245,
+    "word": "profligate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "recklessly wasteful",
+    "example": "The profligate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무모하게 낭비하는",
+      "zh": "肆意浪费",
+      "hi": "लापरवाही से अपव्ययी"
+    }
+  },
+  {
+    "id": 246,
+    "word": "profound",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very deep or intense",
+    "example": "The profound situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 깊거나 강렬한",
+      "zh": "非常深刻或强烈",
+      "hi": "बहुत गहरा या तीव्र"
+    }
+  },
+  {
+    "id": 247,
+    "word": "profuse",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "plentiful; abundant",
+    "example": "The profuse situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "풍부한; 많은",
+      "zh": "丰富的；大量的",
+      "hi": "प्रचुर; बहुतायत"
+    }
+  },
+  {
+    "id": 248,
+    "word": "proliferate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to increase rapidly",
+    "example": "The proliferate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "급격히 증가하다",
+      "zh": "快速增长",
+      "hi": "तेजी से बढ़ने के लिए"
+    }
+  },
+  {
+    "id": 249,
+    "word": "prolific",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "producing many works",
+    "example": "The prolific situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 작품을 만들어내다",
+      "zh": "创作了许多作品",
+      "hi": "कई कृतियों का निर्माण"
+    }
+  },
+  {
+    "id": 250,
+    "word": "propensity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "natural tendency",
+    "example": "The propensity situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "자연스러운 경향",
+      "zh": "自然倾向",
+      "hi": "प्राकृतिक प्रवृत्ति"
+    }
+  }
+]

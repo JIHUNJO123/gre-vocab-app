@@ -1,0 +1,702 @@
+[
+  {
+    "id": 2451,
+    "word": "regale",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to entertain with stories",
+    "example": "The regale quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "이야기로 즐거움을 주다",
+      "zh": "用故事娱乐",
+      "hi": "कहानियों से मनोरंजन करना"
+    }
+  },
+  {
+    "id": 2452,
+    "word": "regal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of or befitting royalty",
+    "example": "The regal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "왕족에 어울리거나 왕족과 관련된",
+      "zh": "皇室的或适合皇室的",
+      "hi": "राजसी या राजसी के योग्य"
+    }
+  },
+  {
+    "id": 2453,
+    "word": "regime",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "government in power",
+    "example": "The regime quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "집권 정부",
+      "zh": "执政政府",
+      "hi": "सत्ता में मौजूद सरकार"
+    }
+  },
+  {
+    "id": 2454,
+    "word": "regimen",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "prescribed course",
+    "example": "The regimen quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "정해진 과정",
+      "zh": "规定的课程",
+      "hi": "निर्धारित पाठ्यक्रम"
+    }
+  },
+  {
+    "id": 2455,
+    "word": "rehabilitate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to restore to normal life",
+    "example": "The rehabilitate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "정상적인 생활로 되돌리기 위해",
+      "zh": "恢复正常生活",
+      "hi": "सामान्य जीवन में वापस लाना"
+    }
+  },
+  {
+    "id": 2456,
+    "word": "reimburse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to repay money spent",
+    "example": "The reimburse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "지출한 돈을 갚기 위해",
+      "zh": "偿还已支付的款项",
+      "hi": "खर्च की गई राशि को चुकाने के लिए"
+    }
+  },
+  {
+    "id": 2457,
+    "word": "reiterate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to say again",
+    "example": "The reiterate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다시 말하자면",
+      "zh": "再说一遍",
+      "hi": "फिर से कहना"
+    }
+  },
+  {
+    "id": 2458,
+    "word": "relegate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to consign to inferior position",
+    "example": "The relegate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "하위 직책으로 강등시키다",
+      "zh": "降级到较低级别",
+      "hi": "निम्न स्थिति में भेजना"
+    }
+  },
+  {
+    "id": 2459,
+    "word": "relent",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to abandon harsh intention",
+    "example": "The relent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "가혹한 의도를 버리다",
+      "zh": "放弃严厉的意图",
+      "hi": "कठोर इरादे को त्यागना"
+    }
+  },
+  {
+    "id": 2460,
+    "word": "relentless",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "oppressively constant",
+    "example": "The relentless quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "억압적으로 지속적인",
+      "zh": "令人窒息的恒定",
+      "hi": "दमनकारी रूप से निरंतर"
+    }
+  },
+  {
+    "id": 2461,
+    "word": "relevant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "closely connected to matter",
+    "example": "The relevant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "물질과 밀접하게 관련되어 있음",
+      "zh": "与物质密切相关",
+      "hi": "पदार्थ से घनिष्ठ रूप से जुड़ा हुआ"
+    }
+  },
+  {
+    "id": 2462,
+    "word": "relic",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "object surviving from earlier time",
+    "example": "The relic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "더 이전 시대로부터 살아남은 물건",
+      "zh": "从更早时期遗留下来的物品",
+      "hi": "प्राचीन काल से बची हुई वस्तु"
+    }
+  },
+  {
+    "id": 2463,
+    "word": "relinquish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to voluntarily give up",
+    "example": "The relinquish quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자발적으로 포기하다",
+      "zh": "自愿放弃",
+      "hi": "स्वेच्छा से त्याग देना"
+    }
+  },
+  {
+    "id": 2464,
+    "word": "relish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to enjoy greatly",
+    "example": "The relish quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "크게 즐기기",
+      "zh": "非常享受",
+      "hi": "बहुत आनंद लेने के लिए"
+    }
+  },
+  {
+    "id": 2465,
+    "word": "reluctant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling and hesitant",
+    "example": "The reluctant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "내키지 않고 주저하는",
+      "zh": "不情愿且犹豫不决",
+      "hi": "अनिच्छुक और संकोची"
+    }
+  },
+  {
+    "id": 2466,
+    "word": "remedial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "giving remedy",
+    "example": "The remedial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "치료법을 제공하는",
+      "zh": "给予补救",
+      "hi": "उपचार देना"
+    }
+  },
+  {
+    "id": 2467,
+    "word": "reminisce",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to indulge in enjoyable recollection",
+    "example": "The reminisce quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "즐거운 추억에 잠기다",
+      "zh": "沉浸在美好的回忆中",
+      "hi": "सुखद यादों में लीन होना"
+    }
+  },
+  {
+    "id": 2468,
+    "word": "remiss",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking care or attention",
+    "example": "The remiss quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "보살핌이나 관심이 부족한",
+      "zh": "缺乏关爱或关注",
+      "hi": "देखभाल या ध्यान की कमी"
+    }
+  },
+  {
+    "id": 2469,
+    "word": "remonstrate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make forceful protest",
+    "example": "The remonstrate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강력하게 항의하다",
+      "zh": "进行强烈抗议",
+      "hi": "जोरदार विरोध करना"
+    }
+  },
+  {
+    "id": 2470,
+    "word": "remorse",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "deep regret for wrongdoing",
+    "example": "The remorse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "제가 저지른 잘못에 대해 깊이 후회합니다.",
+      "zh": "对所作所为深感懊悔",
+      "hi": "गलत काम के लिए गहरा खेद है"
+    }
+  },
+  {
+    "id": 2471,
+    "word": "renaissance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "revival of interest",
+    "example": "The renaissance quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "관심의 부활",
+      "zh": "兴趣复苏",
+      "hi": "रुचि का पुनरुद्धार"
+    }
+  },
+  {
+    "id": 2472,
+    "word": "rend",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to tear to pieces",
+    "example": "The rend quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "산산조각내다",
+      "zh": "撕成碎片",
+      "hi": "टुकड़े-टुकड़े कर देना"
+    }
+  },
+  {
+    "id": 2473,
+    "word": "render",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to provide or give",
+    "example": "The render quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "제공하거나 주다",
+      "zh": "提供或给予",
+      "hi": "प्रदान करना या देना"
+    }
+  },
+  {
+    "id": 2474,
+    "word": "renege",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to go back on promise",
+    "example": "The renege quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "약속을 어기다",
+      "zh": "违背承诺",
+      "hi": "वादे से मुकर जाना"
+    }
+  },
+  {
+    "id": 2475,
+    "word": "renounce",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to formally declare abandonment",
+    "example": "The renounce quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공식적으로 포기를 선언하다",
+      "zh": "正式宣布放弃",
+      "hi": "औपचारिक रूप से परित्याग की घोषणा करना"
+    }
+  },
+  {
+    "id": 2476,
+    "word": "renovate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to restore to good condition",
+    "example": "The renovate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "양호한 상태로 복원하다",
+      "zh": "恢复良好状态",
+      "hi": "अच्छी स्थिति में वापस लाना"
+    }
+  },
+  {
+    "id": 2477,
+    "word": "renown",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of being famous",
+    "example": "The renown quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "유명한 상태",
+      "zh": "成名的状态",
+      "hi": "प्रसिद्ध होने की अवस्था"
+    }
+  },
+  {
+    "id": 2478,
+    "word": "repast",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "meal",
+    "example": "The repast quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "식사",
+      "zh": "一顿饭",
+      "hi": "खाना"
+    }
+  },
+  {
+    "id": 2479,
+    "word": "repeal",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to revoke or annul",
+    "example": "The repeal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "취소하거나 무효화하다",
+      "zh": "撤销或废除",
+      "hi": "निरस्त करना या रद्द करना"
+    }
+  },
+  {
+    "id": 2480,
+    "word": "repel",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to drive back by force",
+    "example": "The repel quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무력으로 몰아내다",
+      "zh": "强行驱赶",
+      "hi": "बलपूर्वक पीछे धकेलना"
+    }
+  },
+  {
+    "id": 2481,
+    "word": "repertoire",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "body of pieces one is prepared to perform",
+    "example": "The repertoire quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "연주할 준비가 된 곡들의 모음",
+      "zh": "准备表演的曲目",
+      "hi": "उन रचनाओं का समूह जिन्हें प्रस्तुत करने के लिए कोई व्यक्ति तैयार है"
+    }
+  },
+  {
+    "id": 2482,
+    "word": "replete",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "filled or well-supplied",
+    "example": "The replete quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "가득 차 있거나 충분히 공급된",
+      "zh": "已装满或供应充足",
+      "hi": "भरा हुआ या अच्छी तरह से आपूर्ति किया हुआ"
+    }
+  },
+  {
+    "id": 2483,
+    "word": "replicate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make exact copy",
+    "example": "The replicate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "정확한 복사본을 만들기 위해",
+      "zh": "制作精确副本",
+      "hi": "हूबहू प्रतिलिपि बनाना"
+    }
+  },
+  {
+    "id": 2484,
+    "word": "repose",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of rest",
+    "example": "The repose quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "휴식 상태",
+      "zh": "休息状态",
+      "hi": "विश्राम की अवस्था"
+    }
+  },
+  {
+    "id": 2485,
+    "word": "reprehensible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deserving censure",
+    "example": "The reprehensible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "비난받아 마땅한",
+      "zh": "理应受到谴责",
+      "hi": "निंदा के योग्य"
+    }
+  },
+  {
+    "id": 2486,
+    "word": "repress",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to subdue by force",
+    "example": "The repress quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무력으로 제압하다",
+      "zh": "以武力征服",
+      "hi": "बलपूर्वक वश में करना"
+    }
+  },
+  {
+    "id": 2487,
+    "word": "reprieve",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "cancellation of punishment",
+    "example": "The reprieve quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "처벌 취소",
+      "zh": "取消处罚",
+      "hi": "सजा रद्द करना"
+    }
+  },
+  {
+    "id": 2488,
+    "word": "reprimand",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to rebuke formally",
+    "example": "The reprimand quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공식적으로 질책하다",
+      "zh": "正式斥责",
+      "hi": "औपचारिक रूप से फटकार लगाने के लिए"
+    }
+  },
+  {
+    "id": 2489,
+    "word": "reprisal",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "act of retaliation",
+    "example": "The reprisal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "보복 행위",
+      "zh": "报复行为",
+      "hi": "प्रतिशोध का कृत्य"
+    }
+  },
+  {
+    "id": 2490,
+    "word": "reproach",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to express disapproval",
+    "example": "The reproach quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불만을 표현하기 위해",
+      "zh": "表示不赞同",
+      "hi": "अस्वीकृति व्यक्त करने के लिए"
+    }
+  },
+  {
+    "id": 2491,
+    "word": "reprobate",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "unprincipled person",
+    "example": "The reprobate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "원칙 없는 사람",
+      "zh": "毫无原则的人",
+      "hi": "सिद्धांतहीन व्यक्ति"
+    }
+  },
+  {
+    "id": 2492,
+    "word": "repudiate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to refuse to accept",
+    "example": "The repudiate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "수락을 거부하다",
+      "zh": "拒绝接受",
+      "hi": "स्वीकार करने से इनकार करना"
+    }
+  },
+  {
+    "id": 2493,
+    "word": "repugnant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely distasteful",
+    "example": "The repugnant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 불쾌하다",
+      "zh": "极其令人反感",
+      "hi": "अत्यंत अरुचिकर"
+    }
+  },
+  {
+    "id": 2494,
+    "word": "reputable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having good reputation",
+    "example": "The reputable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "좋은 평판을 가지고",
+      "zh": "拥有良好声誉",
+      "hi": "अच्छी प्रतिष्ठा होना"
+    }
+  },
+  {
+    "id": 2495,
+    "word": "requisite",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "made necessary",
+    "example": "The requisite quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "필요하게 만들었다",
+      "zh": "为必要",
+      "hi": "आवश्यक बना दिया"
+    }
+  },
+  {
+    "id": 2496,
+    "word": "rescind",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to revoke or cancel",
+    "example": "The rescind quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "취소하다",
+      "zh": "撤销或取消",
+      "hi": "निरस्त करना या रद्द करना"
+    }
+  },
+  {
+    "id": 2497,
+    "word": "reserved",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "slow to reveal emotions",
+    "example": "The reserved quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "감정을 드러내는 데 시간이 오래 걸린다",
+      "zh": "不善于表露情绪",
+      "hi": "अपनी भावनाओं को प्रकट करने में धीमे"
+    }
+  },
+  {
+    "id": 2498,
+    "word": "residual",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "remaining after greater part is gone",
+    "example": "The residual quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "대부분이 사라진 후 남은 부분",
+      "zh": "大部分消失后剩下的部分",
+      "hi": "अधिकांश भाग के चले जाने के बाद शेष बचा हुआ"
+    }
+  },
+  {
+    "id": 2499,
+    "word": "resilient",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "able to withstand difficulty",
+    "example": "The resilient quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어려움을 견뎌낼 수 있는",
+      "zh": "能够承受困难",
+      "hi": "कठिनाई सहन करने में सक्षम"
+    }
+  },
+  {
+    "id": 2500,
+    "word": "resolute",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "admirably determined",
+    "example": "The resolute quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "훌륭하게 결단력 있는",
+      "zh": "令人钦佩的决心",
+      "hi": "प्रशंसनीय रूप से दृढ़ निश्चयी"
+    }
+  }
+]

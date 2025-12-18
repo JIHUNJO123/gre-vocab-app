@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1301,
+    "word": "fodder",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "food for livestock",
+    "example": "The fodder nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "가축 사료",
+      "zh": "牲畜饲料",
+      "hi": "पशुधन के लिए भोजन"
+    }
+  },
+  {
+    "id": 1302,
+    "word": "foible",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "minor weakness in character",
+    "example": "The foible nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "성격상의 사소한 약점",
+      "zh": "性格上的小缺点",
+      "hi": "चरित्र में मामूली कमजोरी"
+    }
+  },
+  {
+    "id": 1303,
+    "word": "foil",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prevent success of",
+    "example": "The foil nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "성공을 막기 위해",
+      "zh": "阻止成功",
+      "hi": "सफलता को रोकने के लिए"
+    }
+  },
+  {
+    "id": 1304,
+    "word": "foist",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to impose unwanted thing",
+    "example": "The foist nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "원치 않는 것을 강요하다",
+      "zh": "强加不想要的东西",
+      "hi": "अवांछित वस्तु थोपना"
+    }
+  },
+  {
+    "id": 1305,
+    "word": "foment",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to instigate or stir up",
+    "example": "The foment nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "선동하거나 부추기다",
+      "zh": "煽动或挑起",
+      "hi": "उकसाना या भड़काना"
+    }
+  },
+  {
+    "id": 1306,
+    "word": "foolhardy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "recklessly bold",
+    "example": "The foolhardy nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "무모하게 대담하게",
+      "zh": "鲁莽大胆",
+      "hi": "बेपरवाही से साहसी"
+    }
+  },
+  {
+    "id": 1307,
+    "word": "foppish",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "excessively concerned with appearance",
+    "example": "The foppish nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "외모에 지나치게 신경 쓰는",
+      "zh": "过分注重外表",
+      "hi": "दिखावे को लेकर अत्यधिक चिंतित"
+    }
+  },
+  {
+    "id": 1308,
+    "word": "forbearance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "patient self-control",
+    "example": "The forbearance nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "환자의 자기 통제",
+      "zh": "患者的自我控制",
+      "hi": "रोगी का आत्म-नियंत्रण"
+    }
+  },
+  {
+    "id": 1309,
+    "word": "forbid",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to refuse to allow",
+    "example": "The forbid nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "허용하지 않다",
+      "zh": "拒绝允许",
+      "hi": "अनुमति देने से इनकार करना"
+    }
+  },
+  {
+    "id": 1310,
+    "word": "forbidding",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unfriendly or threatening",
+    "example": "The forbidding nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "불친절하거나 위협적인",
+      "zh": "不友好或具有威胁性",
+      "hi": "अमित्रतापूर्ण या धमकी भरा"
+    }
+  },
+  {
+    "id": 1311,
+    "word": "forceful",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "vigorous and powerful",
+    "example": "The forceful nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "활력 넘치고 강력한",
+      "zh": "精力充沛、强劲有力",
+      "hi": "सशक्त और शक्तिशाली"
+    }
+  },
+  {
+    "id": 1312,
+    "word": "foreboding",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "fearful apprehension",
+    "example": "The foreboding nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "두려움과 불안감",
+      "zh": "恐惧的忧虑",
+      "hi": "भयभीत आशंका"
+    }
+  },
+  {
+    "id": 1313,
+    "word": "foreclose",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to rule out possibility",
+    "example": "The foreclose nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "가능성을 배제하기 위해",
+      "zh": "排除这种可能性",
+      "hi": "संभावना को खारिज करने के लिए"
+    }
+  },
+  {
+    "id": 1314,
+    "word": "foreground",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make most prominent",
+    "example": "The foreground nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "가장 두드러지게 만들기 위해",
+      "zh": "使最突出",
+      "hi": "सबसे प्रमुख बनाना"
+    }
+  },
+  {
+    "id": 1315,
+    "word": "foremost",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "most prominent in rank",
+    "example": "The foremost nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "순위에서 가장 두드러진",
+      "zh": "排名最高",
+      "hi": "पद में सबसे प्रमुख"
+    }
+  },
+  {
+    "id": 1316,
+    "word": "foresee",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be aware of beforehand",
+    "example": "The foresee nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "미리 알아두어야 할 사항",
+      "zh": "事先需要了解",
+      "hi": "पहले से ही अवगत होना"
+    }
+  },
+  {
+    "id": 1317,
+    "word": "foreshadow",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be warning of future",
+    "example": "The foreshadow nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "미래에 대해 경고하기 위해",
+      "zh": "警示未来",
+      "hi": "भविष्य के बारे में चेतावनी देना"
+    }
+  },
+  {
+    "id": 1318,
+    "word": "foresight",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "ability to predict future",
+    "example": "The foresight nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "미래를 예측하는 능력",
+      "zh": "预测未来的能力",
+      "hi": "भविष्य की भविष्यवाणी करने की क्षमता"
+    }
+  },
+  {
+    "id": 1319,
+    "word": "forestall",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prevent by taking action",
+    "example": "The forestall nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "조치를 취함으로써 예방하다",
+      "zh": "通过采取行动来预防",
+      "hi": "कार्रवाई करके रोकना"
+    }
+  },
+  {
+    "id": 1320,
+    "word": "forfeit",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to lose as penalty",
+    "example": "The forfeit nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "벌칙으로 잃다",
+      "zh": "因处罚而输掉比赛",
+      "hi": "दंड के रूप में खोना"
+    }
+  },
+  {
+    "id": 1321,
+    "word": "forge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make or shape",
+    "example": "The forge nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "만들거나 모양을 만들다",
+      "zh": "制作或成型",
+      "hi": "बनाना या आकार देना"
+    }
+  },
+  {
+    "id": 1322,
+    "word": "forgo",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to omit or decline",
+    "example": "The forgo nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "생략하거나 거부하다",
+      "zh": "省略或拒绝",
+      "hi": "छोड़ना या अस्वीकार करना"
+    }
+  },
+  {
+    "id": 1323,
+    "word": "forlorn",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "pitifully sad",
+    "example": "The forlorn nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "너무나 슬프다",
+      "zh": "可怜的悲伤",
+      "hi": "बेहद दुखद"
+    }
+  },
+  {
+    "id": 1324,
+    "word": "formalize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give legal status to",
+    "example": "The formalize nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "법적 지위를 부여하다",
+      "zh": "赋予法律地位",
+      "hi": "कानूनी दर्जा देना"
+    }
+  },
+  {
+    "id": 1325,
+    "word": "formidable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "inspiring fear or respect",
+    "example": "The formidable nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "두려움이나 존경심을 불러일으키다",
+      "zh": "令人恐惧或敬畏",
+      "hi": "भय या सम्मान उत्पन्न करने वाला"
+    }
+  },
+  {
+    "id": 1326,
+    "word": "forsake",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to abandon or renounce",
+    "example": "The forsake nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "버리다, 포기하다",
+      "zh": "放弃或放弃",
+      "hi": "त्याग देना या छोड़ देना"
+    }
+  },
+  {
+    "id": 1327,
+    "word": "forte",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing at which one excels",
+    "example": "The forte nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "자신이 뛰어난 것",
+      "zh": "擅长的事情",
+      "hi": "वह चीज जिसमें कोई व्यक्ति उत्कृष्ट होता है"
+    }
+  },
+  {
+    "id": 1328,
+    "word": "forthcoming",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "about to happen",
+    "example": "The forthcoming nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "곧 일어날 일",
+      "zh": "即将发生",
+      "hi": "होने वाला"
+    }
+  },
+  {
+    "id": 1329,
+    "word": "forthright",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "direct and outspoken",
+    "example": "The forthright nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "직설적이고 솔직한",
+      "zh": "直率坦诚",
+      "hi": "प्रत्यक्ष और स्पष्टवादी"
+    }
+  },
+  {
+    "id": 1330,
+    "word": "fortify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to strengthen place",
+    "example": "The fortify nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "장소를 강화하기 위해",
+      "zh": "加强地方",
+      "hi": "स्थान को मजबूत करने के लिए"
+    }
+  },
+  {
+    "id": 1331,
+    "word": "fortitude",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "courage in pain",
+    "example": "The fortitude nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "고통 속의 용기",
+      "zh": "痛苦中的勇气",
+      "hi": "दर्द में साहस"
+    }
+  },
+  {
+    "id": 1332,
+    "word": "fortuitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "happening by chance",
+    "example": "The fortuitous nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "우연히 발생함",
+      "zh": "偶然发生",
+      "hi": "संयोग से घटित होना"
+    }
+  },
+  {
+    "id": 1333,
+    "word": "forum",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "place for public discussion",
+    "example": "The forum nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "공개 토론 장소",
+      "zh": "公共讨论场所",
+      "hi": "सार्वजनिक चर्चा का स्थान"
+    }
+  },
+  {
+    "id": 1334,
+    "word": "foster",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to encourage development",
+    "example": "The foster nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "개발을 장려하기 위해",
+      "zh": "鼓励发展",
+      "hi": "विकास को प्रोत्साहित करने के लिए"
+    }
+  },
+  {
+    "id": 1335,
+    "word": "foul",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "offensive to senses",
+    "example": "The foul nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "감각에 불쾌감을 주는",
+      "zh": "令人不适",
+      "hi": "इंद्रियों को ठेस पहुँचाने वाला"
+    }
+  },
+  {
+    "id": 1336,
+    "word": "founder",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to fail completely",
+    "example": "The founder nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 실패하다",
+      "zh": "彻底失败",
+      "hi": "पूरी तरह असफल होना"
+    }
+  },
+  {
+    "id": 1337,
+    "word": "fractious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "irritable and quarrelsome",
+    "example": "The fractious nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증스럽고 다투기를 좋아하는",
+      "zh": "易怒且爱争吵",
+      "hi": "चिड़चिड़ा और झगड़ालू"
+    }
+  },
+  {
+    "id": 1338,
+    "word": "fracture",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "crack or break",
+    "example": "The fracture nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "갈라지거나 부서지다",
+      "zh": "裂开或断裂",
+      "hi": "दरार पड़ना या टूटना"
+    }
+  },
+  {
+    "id": 1339,
+    "word": "fragile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily broken",
+    "example": "The fragile nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 부서짐",
+      "zh": "易碎",
+      "hi": "आसानी से तोड़ा जा सकता है"
+    }
+  },
+  {
+    "id": 1340,
+    "word": "fragment",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "small part broken off",
+    "example": "The fragment nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "작은 부분이 부러졌습니다.",
+      "zh": "小零件断裂",
+      "hi": "छोटा सा हिस्सा टूट गया"
+    }
+  },
+  {
+    "id": 1341,
+    "word": "fragrant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having pleasant smell",
+    "example": "The fragrant nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "기분 좋은 냄새가 나는",
+      "zh": "散发宜人的香气",
+      "hi": "जिसमें सुखद सुगंध हो"
+    }
+  },
+  {
+    "id": 1342,
+    "word": "frail",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "weak and delicate",
+    "example": "The frail nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "약하고 연약함",
+      "zh": "脆弱而易碎",
+      "hi": "कमजोर और नाजुक"
+    }
+  },
+  {
+    "id": 1343,
+    "word": "frank",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "open and sincere",
+    "example": "The frank nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "솔직하고 진실하게",
+      "zh": "坦诚真挚",
+      "hi": "खुला और ईमानदार"
+    }
+  },
+  {
+    "id": 1344,
+    "word": "frantic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wild with excitement",
+    "example": "The frantic nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "흥분으로 가득 차다",
+      "zh": "兴奋得难以自持",
+      "hi": "उत्साह से बेकाबू"
+    }
+  },
+  {
+    "id": 1345,
+    "word": "fraternal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of or like brother",
+    "example": "The fraternal nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "형제와 같은 또는 형제",
+      "zh": "像兄弟一样",
+      "hi": "भाई के समान या उससे मिलता-जुलता"
+    }
+  },
+  {
+    "id": 1346,
+    "word": "fraud",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "wrongful deception",
+    "example": "The fraud nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "부당한 기만",
+      "zh": "不当欺骗",
+      "hi": "गलत धोखा"
+    }
+  },
+  {
+    "id": 1347,
+    "word": "fraudulent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "obtained by deception",
+    "example": "The fraudulent nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "속임수로 얻은",
+      "zh": "通过欺骗手段获得",
+      "hi": "धोखे से प्राप्त किया गया"
+    }
+  },
+  {
+    "id": 1348,
+    "word": "fraught",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "filled with something",
+    "example": "The fraught nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가로 가득 차 있다",
+      "zh": "里面装满了东西",
+      "hi": "किसी चीज़ से भरा हुआ"
+    }
+  },
+  {
+    "id": 1349,
+    "word": "fray",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to unravel at edge",
+    "example": "The fray nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "가장자리에서 풀리다",
+      "zh": "在边缘解开",
+      "hi": "किनारे पर खुलना"
+    }
+  },
+  {
+    "id": 1350,
+    "word": "frenetic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fast and energetic",
+    "example": "The frenetic nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "빠르고 활기찬",
+      "zh": "快速而有活力",
+      "hi": "तेज और ऊर्जावान"
+    }
+  },
+  {
+    "id": 1351,
+    "word": "frenzy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of uncontrolled excitement",
+    "example": "The frenzy nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "통제되지 않은 흥분 상태",
+      "zh": "不受控制的兴奋状态",
+      "hi": "अनियंत्रित उत्तेजना की स्थिति"
+    }
+  },
+  {
+    "id": 1352,
+    "word": "frequent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "occurring or done often",
+    "example": "The frequent nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "자주 발생하는 또는 자주 행해지는",
+      "zh": "经常发生或进行",
+      "hi": "अक्सर घटित होने वाला या किया जाने वाला"
+    }
+  },
+  {
+    "id": 1353,
+    "word": "friction",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "conflict between people",
+    "example": "The friction nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "사람들 사이의 갈등",
+      "zh": "人们之间的冲突",
+      "hi": "लोगों के बीच संघर्ष"
+    }
+  },
+  {
+    "id": 1354,
+    "word": "frivolous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not having serious purpose",
+    "example": "The frivolous nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "진지한 목적이 없음",
+      "zh": "缺乏严肃目的",
+      "hi": "जिसका कोई गंभीर उद्देश्य न हो"
+    }
+  },
+  {
+    "id": 1355,
+    "word": "frugal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sparing with money",
+    "example": "The frugal nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "돈을 아끼다",
+      "zh": "节俭理财",
+      "hi": "पैसे के मामले में कंजूसी करना"
+    }
+  },
+  {
+    "id": 1356,
+    "word": "fruitful",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "producing good results",
+    "example": "The fruitful nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "좋은 결과를 낳다",
+      "zh": "取得了良好的效果",
+      "hi": "अच्छे परिणाम उत्पन्न करना"
+    }
+  },
+  {
+    "id": 1357,
+    "word": "fruitless",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "failing to achieve results",
+    "example": "The fruitless nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "결과를 달성하지 못함",
+      "zh": "未能取得成果",
+      "hi": "परिणाम प्राप्त करने में विफल"
+    }
+  },
+  {
+    "id": 1358,
+    "word": "frustrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prevent from achieving",
+    "example": "The frustrate nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "달성하지 못하도록 막기 위해",
+      "zh": "防止实现",
+      "hi": "प्राप्त करने से रोकने के लिए"
+    }
+  },
+  {
+    "id": 1359,
+    "word": "fulminate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to express vehement protest",
+    "example": "The fulminate nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "격렬한 항의를 표명하다",
+      "zh": "表达强烈抗议",
+      "hi": "कड़ा विरोध व्यक्त करना"
+    }
+  },
+  {
+    "id": 1360,
+    "word": "fulsome",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "excessively flattering",
+    "example": "The fulsome nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 아첨하는",
+      "zh": "过分奉承",
+      "hi": "अत्यधिक चापलूसी"
+    }
+  },
+  {
+    "id": 1361,
+    "word": "fumble",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to use hands clumsily",
+    "example": "The fumble nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "손을 서투르게 사용하다",
+      "zh": "笨拙地使用双手",
+      "hi": "हाथों का अनाड़ीपन से उपयोग करना"
+    }
+  },
+  {
+    "id": 1362,
+    "word": "functional",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "designed to be practical",
+    "example": "The functional nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "실용적으로 설계되었습니다",
+      "zh": "设计实用",
+      "hi": "व्यावहारिक होने के लिए डिज़ाइन किया गया"
+    }
+  },
+  {
+    "id": 1363,
+    "word": "fundamental",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "forming necessary base",
+    "example": "The fundamental nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "필요한 기반 형성",
+      "zh": "形成必要的基础",
+      "hi": "आवश्यक आधार का निर्माण"
+    }
+  },
+  {
+    "id": 1364,
+    "word": "funereal",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having characteristics of funeral",
+    "example": "The funereal nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "장례식의 특징을 지닌",
+      "zh": "具有葬礼的特征",
+      "hi": "अंत्येष्टि की विशेषताओं वाला"
+    }
+  },
+  {
+    "id": 1365,
+    "word": "furbish",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to restore to good condition",
+    "example": "The furbish nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "양호한 상태로 복원하다",
+      "zh": "恢复良好状态",
+      "hi": "अच्छी स्थिति में वापस लाना"
+    }
+  },
+  {
+    "id": 1366,
+    "word": "furious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely angry",
+    "example": "The furious nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 화가 났다",
+      "zh": "非常生气",
+      "hi": "बहुत ही नाराज़"
+    }
+  },
+  {
+    "id": 1367,
+    "word": "furtive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "attempting to avoid notice",
+    "example": "The furtive nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "통지를 피하려고 시도함",
+      "zh": "试图逃避通知",
+      "hi": "ध्यान से बचने का प्रयास करना"
+    }
+  },
+  {
+    "id": 1368,
+    "word": "fury",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "wild or violent anger",
+    "example": "The fury nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "격렬하거나 폭력적인 분노",
+      "zh": "狂暴或暴力的愤怒",
+      "hi": "उग्र या हिंसक क्रोध"
+    }
+  },
+  {
+    "id": 1369,
+    "word": "fuse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to join or blend",
+    "example": "The fuse nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "결합하거나 혼합하다",
+      "zh": "加入或混合",
+      "hi": "जुड़ना या मिश्रण करना"
+    }
+  },
+  {
+    "id": 1370,
+    "word": "futile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "incapable of producing result",
+    "example": "The futile nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "결과를 낼 수 없는",
+      "zh": "无法产生结果",
+      "hi": "परिणाम उत्पन्न करने में असमर्थ"
+    }
+  },
+  {
+    "id": 1371,
+    "word": "gadfly",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "annoying person",
+    "example": "The gadfly nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증나는 사람",
+      "zh": "烦人的人",
+      "hi": "परेशान करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1372,
+    "word": "gaffe",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "embarrassing blunder",
+    "example": "The gaffe nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "당황스러운 실수",
+      "zh": "令人尴尬的失误",
+      "hi": "शर्मनाक भूल"
+    }
+  },
+  {
+    "id": 1373,
+    "word": "gainsay",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to deny or contradict",
+    "example": "The gainsay nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "부정하거나 반박하다",
+      "zh": "否认或反驳",
+      "hi": "अस्वीकार करना या खंडन करना"
+    }
+  },
+  {
+    "id": 1374,
+    "word": "gait",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "manner of walking",
+    "example": "The gait nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "걷는 방식",
+      "zh": "走路方式",
+      "hi": "चलने का तरीका"
+    }
+  },
+  {
+    "id": 1375,
+    "word": "gall",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "bold impudence",
+    "example": "The gall nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "대담한 뻔뻔함",
+      "zh": "厚颜无耻",
+      "hi": "दुस्साहस धृष्टता"
+    }
+  },
+  {
+    "id": 1376,
+    "word": "gallant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "brave and heroic",
+    "example": "The gallant nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "용감하고 영웅적인",
+      "zh": "勇敢而英勇",
+      "hi": "बहादुर और वीर"
+    }
+  },
+  {
+    "id": 1377,
+    "word": "galvanize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to shock into action",
+    "example": "The galvanize nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "충격을 주어 행동으로 옮기게 하다",
+      "zh": "震惊并采取行动",
+      "hi": "कार्रवाई के लिए प्रेरित करना"
+    }
+  },
+  {
+    "id": 1378,
+    "word": "gambit",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "device or action to gain advantage",
+    "example": "The gambit nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "이점을 얻기 위한 수단 또는 행위",
+      "zh": "利用某种手段或行动来获取优势",
+      "hi": "लाभ प्राप्त करने के लिए उपकरण या कार्रवाई"
+    }
+  },
+  {
+    "id": 1379,
+    "word": "gamble",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to play games for money",
+    "example": "The gamble nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "돈을 걸고 게임을 하다",
+      "zh": "玩游戏赚钱",
+      "hi": "पैसे के लिए गेम खेलना"
+    }
+  },
+  {
+    "id": 1380,
+    "word": "gamut",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "complete range",
+    "example": "The gamut nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "전체 제품군",
+      "zh": "全系列",
+      "hi": "पूरी श्रृंखला"
+    }
+  },
+  {
+    "id": 1381,
+    "word": "gape",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to stare with mouth open",
+    "example": "The gape nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "입을 벌리고 응시하다",
+      "zh": "张着嘴盯着看",
+      "hi": "मुंह खोलकर घूरना"
+    }
+  },
+  {
+    "id": 1382,
+    "word": "garble",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reproduce incorrectly",
+    "example": "The garble nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못 복제하다",
+      "zh": "复制错误",
+      "hi": "गलत तरीके से पुनरुत्पादन करने के लिए"
+    }
+  },
+  {
+    "id": 1383,
+    "word": "garish",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "obtrusively bright",
+    "example": "The garish nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 밝음",
+      "zh": "刺眼的亮光",
+      "hi": "बेहद चमकीला"
+    }
+  },
+  {
+    "id": 1384,
+    "word": "garner",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to gather or collect",
+    "example": "The garner nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "모으다 또는 수집하다",
+      "zh": "收集或聚集",
+      "hi": "इकट्ठा करना या एकत्र करना"
+    }
+  },
+  {
+    "id": 1385,
+    "word": "garnish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to decorate food",
+    "example": "The garnish nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "음식을 장식하기 위해",
+      "zh": "用于装饰食物",
+      "hi": "भोजन को सजाने के लिए"
+    }
+  },
+  {
+    "id": 1386,
+    "word": "garrulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively talkative",
+    "example": "The garrulous nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 수다스러운",
+      "zh": "话痨",
+      "hi": "अत्यधिक बातूनी"
+    }
+  },
+  {
+    "id": 1387,
+    "word": "gauche",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking social grace",
+    "example": "The gauche nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "사회성이 부족함",
+      "zh": "缺乏社交礼仪",
+      "hi": "सामाजिक शिष्टाचार का अभाव"
+    }
+  },
+  {
+    "id": 1388,
+    "word": "gaudy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extravagantly bright",
+    "example": "The gaudy nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 밝은",
+      "zh": "极其明亮",
+      "hi": "अत्यधिक चमकीला"
+    }
+  },
+  {
+    "id": 1389,
+    "word": "gauge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to estimate or determine",
+    "example": "The gauge nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "추정하거나 결정하다",
+      "zh": "估算或确定",
+      "hi": "अनुमान लगाना या निर्धारित करना"
+    }
+  },
+  {
+    "id": 1390,
+    "word": "gaunt",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lean and haggard",
+    "example": "The gaunt nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "야위고 초췌한",
+      "zh": "瘦削憔悴",
+      "hi": "दुबला और थका हुआ"
+    }
+  },
+  {
+    "id": 1391,
+    "word": "gawk",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to stare stupidly",
+    "example": "The gawk nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "멍하니 바라보다",
+      "zh": "傻傻地盯着看",
+      "hi": "मूर्खतापूर्ण ढंग से घूरना"
+    }
+  },
+  {
+    "id": 1392,
+    "word": "generate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to arise",
+    "example": "The generate nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "발생시키다",
+      "zh": "使出现",
+      "hi": "उत्पन्न करने के लिए"
+    }
+  },
+  {
+    "id": 1393,
+    "word": "generic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "characteristic of class",
+    "example": "The generic nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "클래스의 특징",
+      "zh": "阶级特征",
+      "hi": "वर्ग की विशेषता"
+    }
+  },
+  {
+    "id": 1394,
+    "word": "generous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing kindness",
+    "example": "The generous nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "친절을 베푸는 것",
+      "zh": "展现善意",
+      "hi": "दयालुता दिखाना"
+    }
+  },
+  {
+    "id": 1395,
+    "word": "genesis",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "origin or mode of formation",
+    "example": "The genesis nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "기원 또는 형성 방식",
+      "zh": "起源或形成方式",
+      "hi": "उत्पत्ति या गठन का तरीका"
+    }
+  },
+  {
+    "id": 1396,
+    "word": "genial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "friendly and cheerful",
+    "example": "The genial nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "친절하고 쾌활한",
+      "zh": "友善开朗",
+      "hi": "मिलनसार और हंसमुख"
+    }
+  },
+  {
+    "id": 1397,
+    "word": "genius",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "exceptional intellectual ability",
+    "example": "The genius nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "뛰어난 지적 능력",
+      "zh": "卓越的智力",
+      "hi": "असाधारण बौद्धिक क्षमता"
+    }
+  },
+  {
+    "id": 1398,
+    "word": "genocide",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "deliberate killing of people",
+    "example": "The genocide nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "고의적인 살인",
+      "zh": "蓄意杀人",
+      "hi": "लोगों की जानबूझकर हत्या करना"
+    }
+  },
+  {
+    "id": 1399,
+    "word": "genre",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "category of artistic composition",
+    "example": "The genre nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "예술적 구성의 범주",
+      "zh": "艺术作品类别",
+      "hi": "कलात्मक रचना की श्रेणी"
+    }
+  },
+  {
+    "id": 1400,
+    "word": "genteel",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "polite and refined",
+    "example": "The genteel nature of the event surprised everyone.",
+    "category": "General",
+    "translations": {
+      "ko": "예의 바르고 세련된",
+      "zh": "彬彬有礼，举止优雅",
+      "hi": "विनम्र और सभ्य"
+    }
+  }
+]

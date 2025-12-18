@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1201,
+    "word": "exquisite",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely beautiful",
+    "example": "The exquisite condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 아름다운",
+      "zh": "极其美丽",
+      "hi": "बेहद खूबसूरत"
+    }
+  },
+  {
+    "id": 1202,
+    "word": "extant",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "still in existence",
+    "example": "The extant condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "여전히 존재한다",
+      "zh": "仍然存在",
+      "hi": "अभी भी अस्तित्व में है"
+    }
+  },
+  {
+    "id": 1203,
+    "word": "extemporaneous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "spoken without preparation",
+    "example": "The extemporaneous condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "준비 없이 말하는 것",
+      "zh": "未经准备的发言",
+      "hi": "बिना तैयारी के बोला गया"
+    }
+  },
+  {
+    "id": 1204,
+    "word": "extend",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to cover larger area",
+    "example": "The extend condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "더 넓은 지역을 덮도록 하다",
+      "zh": "使覆盖更大的区域",
+      "hi": "बड़े क्षेत्र को कवर करने के लिए"
+    }
+  },
+  {
+    "id": 1205,
+    "word": "extensive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "covering large area",
+    "example": "The extensive condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "넓은 지역을 포함하는",
+      "zh": "覆盖大面积",
+      "hi": "बड़े क्षेत्र को कवर करना"
+    }
+  },
+  {
+    "id": 1206,
+    "word": "extenuate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to make offense seem less serious",
+    "example": "The extenuate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "범죄의 심각성을 낮추기 위해",
+      "zh": "使犯罪行为看起来不那么严重",
+      "hi": "अपराध को कम गंभीर दिखाने के लिए"
+    }
+  },
+  {
+    "id": 1207,
+    "word": "exterior",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "forming outer surface",
+    "example": "The exterior condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "외부 표면 형성",
+      "zh": "形成外表面",
+      "hi": "बाहरी सतह का निर्माण"
+    }
+  },
+  {
+    "id": 1208,
+    "word": "exterminate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to destroy completely",
+    "example": "The exterminate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 파괴하다",
+      "zh": "彻底摧毁",
+      "hi": "ईंट से ईंट बज जाना"
+    }
+  },
+  {
+    "id": 1209,
+    "word": "external",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "belonging to outside",
+    "example": "The external condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "외부에 속하는",
+      "zh": "属于外部",
+      "hi": "बाहरी से संबंधित"
+    }
+  },
+  {
+    "id": 1210,
+    "word": "extinct",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "no longer in existence",
+    "example": "The extinct condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "더 이상 존재하지 않음",
+      "zh": "已不存在",
+      "hi": "अब अस्तित्व में नहीं है"
+    }
+  },
+  {
+    "id": 1211,
+    "word": "extinguish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to cease burning",
+    "example": "The extinguish condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "불이 꺼지게 하다",
+      "zh": "使之停止燃烧",
+      "hi": "जलना बंद करवाना"
+    }
+  },
+  {
+    "id": 1212,
+    "word": "extirpate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to root out and destroy",
+    "example": "The extirpate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "뿌리 뽑고 파괴하다",
+      "zh": "根除并摧毁",
+      "hi": "जड़ से उखाड़ फेंकना और नष्ट करना"
+    }
+  },
+  {
+    "id": 1213,
+    "word": "extol",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to praise enthusiastically",
+    "example": "The extol condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "열정적으로 칭찬하다",
+      "zh": "热情赞扬",
+      "hi": "उत्साहपूर्वक प्रशंसा करना"
+    }
+  },
+  {
+    "id": 1214,
+    "word": "extort",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to obtain by force or threats",
+    "example": "The extort condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "폭력이나 협박으로 얻다",
+      "zh": "通过武力或威胁获得",
+      "hi": "बल या धमकियों से प्राप्त करना"
+    }
+  },
+  {
+    "id": 1215,
+    "word": "extract",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to remove or take out",
+    "example": "The extract condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "제거하거나 꺼내다",
+      "zh": "移除或取出",
+      "hi": "हटाना या बाहर निकालना"
+    }
+  },
+  {
+    "id": 1216,
+    "word": "extraneous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "irrelevant or unrelated",
+    "example": "The extraneous condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "무관하거나 관련 없는",
+      "zh": "无关或不相关",
+      "hi": "अप्रासंगिक या असंबंधित"
+    }
+  },
+  {
+    "id": 1217,
+    "word": "extraordinary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very unusual or remarkable",
+    "example": "The extraordinary condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 특이하거나 주목할 만한",
+      "zh": "非常不寻常或非凡",
+      "hi": "बहुत ही असामान्य या उल्लेखनीय"
+    }
+  },
+  {
+    "id": 1218,
+    "word": "extrapolate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to extend application",
+    "example": "The extrapolate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "응용 프로그램을 확장하기 위해",
+      "zh": "扩展应用",
+      "hi": "आवेदन का विस्तार करने के लिए"
+    }
+  },
+  {
+    "id": 1219,
+    "word": "extravagant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking restraint in spending",
+    "example": "The extravagant condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "지출에 대한 자제력이 부족함",
+      "zh": "支出缺乏节制",
+      "hi": "खर्च करने में संयम का अभाव"
+    }
+  },
+  {
+    "id": 1220,
+    "word": "extremist",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person with extreme views",
+    "example": "The extremist condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "극단적인 견해를 가진 사람",
+      "zh": "持有极端观点的人",
+      "hi": "चरम विचारों वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1221,
+    "word": "extricate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to free from constraint",
+    "example": "The extricate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "제약에서 벗어나기",
+      "zh": "摆脱束缚",
+      "hi": "बंधन से मुक्त करना"
+    }
+  },
+  {
+    "id": 1222,
+    "word": "extrinsic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not part of essential nature",
+    "example": "The extrinsic condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "본질적인 자연의 일부가 아니다",
+      "zh": "并非本质的一部分",
+      "hi": "आवश्यक प्रकृति का हिस्सा नहीं है"
+    }
+  },
+  {
+    "id": 1223,
+    "word": "extrovert",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "outgoing person",
+    "example": "The extrovert condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "외향적인 사람",
+      "zh": "外向的人",
+      "hi": "निवर्तमान व्यक्ति"
+    }
+  },
+  {
+    "id": 1224,
+    "word": "exuberant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "filled with energy",
+    "example": "The exuberant condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "에너지로 가득 차 있다",
+      "zh": "充满活力",
+      "hi": "ऊर्जा से भरपूर"
+    }
+  },
+  {
+    "id": 1225,
+    "word": "exude",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to discharge slowly",
+    "example": "The exude condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "천천히 방전시키다",
+      "zh": "缓慢释放",
+      "hi": "धीरे-धीरे डिस्चार्ज करना"
+    }
+  },
+  {
+    "id": 1226,
+    "word": "exult",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to show triumph",
+    "example": "The exult condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "승리를 보여주기 위해",
+      "zh": "展现胜利",
+      "hi": "जीत दिखाने के लिए"
+    }
+  },
+  {
+    "id": 1227,
+    "word": "fabricate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to invent to deceive",
+    "example": "The fabricate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "속이기 위해 꾸며내다",
+      "zh": "编造谎言以欺骗",
+      "hi": "धोखा देने के लिए आविष्कार करना"
+    }
+  },
+  {
+    "id": 1228,
+    "word": "facade",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "outward appearance",
+    "example": "The facade condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "외형",
+      "zh": "外观",
+      "hi": "जावक उपस्थिति"
+    }
+  },
+  {
+    "id": 1229,
+    "word": "facet",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "one side of something",
+    "example": "The facet condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것의 한쪽 면",
+      "zh": "某物的一侧",
+      "hi": "किसी चीज का एक पक्ष"
+    }
+  },
+  {
+    "id": 1230,
+    "word": "facetious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "treating serious issues lightly",
+    "example": "The facetious condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "심각한 문제를 가볍게 여기는 것",
+      "zh": "轻视严肃问题",
+      "hi": "गंभीर मुद्दों को हल्के में लेना"
+    }
+  },
+  {
+    "id": 1231,
+    "word": "facilitate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make easier",
+    "example": "The facilitate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "더 쉽게 만들기 위해",
+      "zh": "为了更容易",
+      "hi": "आसान बनाने के लिए"
+    }
+  },
+  {
+    "id": 1232,
+    "word": "faction",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "small dissenting group",
+    "example": "The faction condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "소수 반대 그룹",
+      "zh": "少数持不同意见者",
+      "hi": "छोटा असहमति समूह"
+    }
+  },
+  {
+    "id": 1233,
+    "word": "factious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "relating to faction",
+    "example": "The factious condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "파벌과 관련된",
+      "zh": "与派系有关",
+      "hi": "गुट से संबंधित"
+    }
+  },
+  {
+    "id": 1234,
+    "word": "fallacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "based on mistaken belief",
+    "example": "The fallacious condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못된 믿음에 근거하여",
+      "zh": "基于错误的信念",
+      "hi": "गलत धारणा पर आधारित"
+    }
+  },
+  {
+    "id": 1235,
+    "word": "fallacy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "mistaken belief",
+    "example": "The fallacy condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못된 믿음",
+      "zh": "错误的信念",
+      "hi": "गलत धारणा"
+    }
+  },
+  {
+    "id": 1236,
+    "word": "fallible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "capable of making mistakes",
+    "example": "The fallible condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "실수를 저지를 수 있는",
+      "zh": "能够犯错",
+      "hi": "गलतियाँ करने में सक्षम"
+    }
+  },
+  {
+    "id": 1237,
+    "word": "fallow",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "plowed but left unsown",
+    "example": "The fallow condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "밭을 갈았지만 씨를 뿌리지 않았다",
+      "zh": "已耕地但未播种。",
+      "hi": "खेत जोत दिया गया लेकिन बीज नहीं बोए गए"
+    }
+  },
+  {
+    "id": 1238,
+    "word": "falter",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to start to lose strength",
+    "example": "The falter condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "기력을 잃기 시작하다",
+      "zh": "开始失去力量",
+      "hi": "ताकत खोने लगना"
+    }
+  },
+  {
+    "id": 1239,
+    "word": "fanatical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "filled with excessive zeal",
+    "example": "The fanatical condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "지나친 열정으로 가득 차 있다",
+      "zh": "充满过分的热情",
+      "hi": "अत्यधिक उत्साह से भरा हुआ"
+    }
+  },
+  {
+    "id": 1240,
+    "word": "fanciful",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "overimaginative",
+    "example": "The fanciful condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 상상력이 풍부한",
+      "zh": "想象力过剩",
+      "hi": "अतिकल्पनाशील"
+    }
+  },
+  {
+    "id": 1241,
+    "word": "farce",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "absurd event",
+    "example": "The farce condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "터무니없는 사건",
+      "zh": "荒谬事件",
+      "hi": "बेतुकी घटना"
+    }
+  },
+  {
+    "id": 1242,
+    "word": "fastidious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very attentive to detail",
+    "example": "The fastidious condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 세심하고 꼼꼼한",
+      "zh": "非常注重细节",
+      "hi": "बारीकियों पर बहुत ध्यान देता है"
+    }
+  },
+  {
+    "id": 1243,
+    "word": "fatal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "causing death",
+    "example": "The fatal condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "사망을 초래하는",
+      "zh": "导致死亡",
+      "hi": "के कारण मृत्यु"
+    }
+  },
+  {
+    "id": 1244,
+    "word": "fatalistic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "believing events are predetermined",
+    "example": "The fatalistic condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "사건들이 미리 정해져 있다고 믿는 것",
+      "zh": "相信事件是预先注定的",
+      "hi": "घटनाओं के पूर्वनिर्धारित होने पर विश्वास करना"
+    }
+  },
+  {
+    "id": 1245,
+    "word": "fathom",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to understand after thought",
+    "example": "The fathom condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "나중에 생각해보니 이해하기",
+      "zh": "事后理解",
+      "hi": "बाद में समझना"
+    }
+  },
+  {
+    "id": 1246,
+    "word": "fatigue",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "extreme tiredness",
+    "example": "The fatigue condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "극심한 피로",
+      "zh": "极度疲劳",
+      "hi": "अत्यधिक थकान"
+    }
+  },
+  {
+    "id": 1247,
+    "word": "fatuous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "silly and pointless",
+    "example": "The fatuous condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "어리석고 무의미한",
+      "zh": "愚蠢且毫无意义",
+      "hi": "मूर्खतापूर्ण और निरर्थक"
+    }
+  },
+  {
+    "id": 1248,
+    "word": "fault",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "responsibility for wrongdoing",
+    "example": "The fault condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못에 대한 책임",
+      "zh": "对不当行为的责任",
+      "hi": "गलत काम के लिए जिम्मेदारी"
+    }
+  },
+  {
+    "id": 1249,
+    "word": "fawn",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to give slavish flattery",
+    "example": "The fawn condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "아첨을 하다",
+      "zh": "给予奴性奉承",
+      "hi": "चापलूसी करना"
+    }
+  },
+  {
+    "id": 1250,
+    "word": "faze",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to disturb or disconcert",
+    "example": "The faze condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "방해하거나 당황하게 하다",
+      "zh": "扰乱或使不安",
+      "hi": "परेशान करना या विचलित करना"
+    }
+  },
+  {
+    "id": 1251,
+    "word": "feasible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "possible to do easily",
+    "example": "The feasible condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 할 수 있습니다",
+      "zh": "很容易做到",
+      "hi": "आसानी से करना संभव है"
+    }
+  },
+  {
+    "id": 1252,
+    "word": "feat",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "achievement requiring skill",
+    "example": "The feat condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "기술을 요구하는 성취",
+      "zh": "需要技巧的成就",
+      "hi": "कौशल की आवश्यकता वाली उपलब्धि"
+    }
+  },
+  {
+    "id": 1253,
+    "word": "feckless",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "lacking initiative",
+    "example": "The feckless condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "주도성이 부족함",
+      "zh": "缺乏主动性",
+      "hi": "पहल की कमी"
+    }
+  },
+  {
+    "id": 1254,
+    "word": "fecund",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "producing offspring",
+    "example": "The fecund condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "자손을 생산하다",
+      "zh": "产生后代",
+      "hi": "संतान उत्पन्न करना"
+    }
+  },
+  {
+    "id": 1255,
+    "word": "feign",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to pretend to be affected",
+    "example": "The feign condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "영향을 받은 척하다",
+      "zh": "假装受到影响",
+      "hi": "प्रभावित होने का दिखावा करना"
+    }
+  },
+  {
+    "id": 1256,
+    "word": "feint",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "deceptive movement",
+    "example": "The feint condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "기만적인 움직임",
+      "zh": "欺骗性动作",
+      "hi": "भ्रामक आंदोलन"
+    }
+  },
+  {
+    "id": 1257,
+    "word": "felicitous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "well chosen or apt",
+    "example": "The felicitous condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "잘 선택되었거나 적절한",
+      "zh": "精心挑选或恰当",
+      "hi": "अच्छी तरह से चुना गया या उपयुक्त"
+    }
+  },
+  {
+    "id": 1258,
+    "word": "fell",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of terrible evil",
+    "example": "The fell condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "끔찍한 악",
+      "zh": "极其邪恶",
+      "hi": "भयानक बुराई"
+    }
+  },
+  {
+    "id": 1259,
+    "word": "felon",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person convicted of crime",
+    "example": "The felon condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "범죄로 유죄 판결을 받은 사람",
+      "zh": "被判有罪的人",
+      "hi": "अपराध के दोषी व्यक्ति"
+    }
+  },
+  {
+    "id": 1260,
+    "word": "ferment",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "agitation and excitement",
+    "example": "The ferment condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "동요와 흥분",
+      "zh": "激动和兴奋",
+      "hi": "बेचैनी और उत्तेजना"
+    }
+  },
+  {
+    "id": 1261,
+    "word": "ferocious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "savagely fierce",
+    "example": "The ferocious condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "사납고 맹렬한",
+      "zh": "极其凶猛",
+      "hi": "अत्यंत क्रूर"
+    }
+  },
+  {
+    "id": 1262,
+    "word": "ferret",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to search tenaciously",
+    "example": "The ferret condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "끈질기게 찾다",
+      "zh": "坚持不懈地寻找",
+      "hi": "दृढ़तापूर्वक खोज करना"
+    }
+  },
+  {
+    "id": 1263,
+    "word": "fertile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "producing abundant vegetation",
+    "example": "The fertile condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "풍부한 식물을 생산합니다",
+      "zh": "孕育出丰富的植被",
+      "hi": "प्रचुर मात्रा में वनस्पति का उत्पादन"
+    }
+  },
+  {
+    "id": 1264,
+    "word": "fervent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having passionate intensity",
+    "example": "The fervent condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "열정적인 강렬함을 지니고",
+      "zh": "充满激情",
+      "hi": "तीव्र जुनून होना"
+    }
+  },
+  {
+    "id": 1265,
+    "word": "fervid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "intensely enthusiastic",
+    "example": "The fervid condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 열정적인",
+      "zh": "热情洋溢",
+      "hi": "अत्यंत उत्साही"
+    }
+  },
+  {
+    "id": 1266,
+    "word": "fervor",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "intense feeling",
+    "example": "The fervor condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "강렬한 느낌",
+      "zh": "强烈的感觉",
+      "hi": "तीव्र भावना"
+    }
+  },
+  {
+    "id": 1267,
+    "word": "fester",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to become worse",
+    "example": "The fester condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "더 나빠지다",
+      "zh": "情况恶化",
+      "hi": "और भी बदतर हो जाना"
+    }
+  },
+  {
+    "id": 1268,
+    "word": "festive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to festival",
+    "example": "The festive condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "축제와 관련된",
+      "zh": "与节日有关",
+      "hi": "त्योहार से संबंधित"
+    }
+  },
+  {
+    "id": 1269,
+    "word": "fetter",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to restrain with chains",
+    "example": "The fetter condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "사슬로 구속하다",
+      "zh": "用链条束缚",
+      "hi": "जंजीरों से बांधना"
+    }
+  },
+  {
+    "id": 1270,
+    "word": "feud",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "prolonged quarrel",
+    "example": "The feud condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "장기간의 다툼",
+      "zh": "旷日持久的争吵",
+      "hi": "लंबे समय तक चलने वाला झगड़ा"
+    }
+  },
+  {
+    "id": 1271,
+    "word": "fickle",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "changing frequently",
+    "example": "The fickle condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "자주 변경됨",
+      "zh": "频繁变化",
+      "hi": "लगातार बदलता रहता है"
+    }
+  },
+  {
+    "id": 1272,
+    "word": "fictitious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not real or true",
+    "example": "The fictitious condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "실제가 아니거나 사실이 아닙니다.",
+      "zh": "不真实或不真实",
+      "hi": "वास्तविक या सत्य नहीं"
+    }
+  },
+  {
+    "id": 1273,
+    "word": "fidelity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "faithfulness to person",
+    "example": "The fidelity condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "사람에 대한 충실함",
+      "zh": "对人的忠诚",
+      "hi": "व्यक्ति के प्रति निष्ठा"
+    }
+  },
+  {
+    "id": 1274,
+    "word": "fiery",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "consisting of fire",
+    "example": "The fiery condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "불로 구성된",
+      "zh": "由火组成",
+      "hi": "आग से युक्त"
+    }
+  },
+  {
+    "id": 1275,
+    "word": "figment",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing believed to be real",
+    "example": "The figment condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "실재한다고 믿어지는 것",
+      "zh": "人们认为真实存在的事物",
+      "hi": "जिस चीज को वास्तविक माना जाता है"
+    }
+  },
+  {
+    "id": 1276,
+    "word": "figurative",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "departing from literal use",
+    "example": "The figurative condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "문자 그대로의 용법에서 벗어나",
+      "zh": "偏离字面用法",
+      "hi": "शाब्दिक उपयोग से हटकर"
+    }
+  },
+  {
+    "id": 1277,
+    "word": "filch",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to pilfer or steal",
+    "example": "The filch condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "훔치다, 도둑질하다",
+      "zh": "偷窃或盗窃",
+      "hi": "चोरी करना या चुराना"
+    }
+  },
+  {
+    "id": 1278,
+    "word": "filibuster",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "action of obstructing progress",
+    "example": "The filibuster condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "진행을 방해하는 행위",
+      "zh": "阻碍进展的行为",
+      "hi": "प्रगति में बाधा डालने की कार्रवाई"
+    }
+  },
+  {
+    "id": 1279,
+    "word": "finale",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "last part of performance",
+    "example": "The finale condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "공연의 마지막 부분",
+      "zh": "表演的最后部分",
+      "hi": "प्रदर्शन का अंतिम भाग"
+    }
+  },
+  {
+    "id": 1280,
+    "word": "finesse",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "impressive skill",
+    "example": "The finesse condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "인상적인 기술",
+      "zh": "令人印象深刻的技能",
+      "hi": "प्रभावशाली कौशल"
+    }
+  },
+  {
+    "id": 1281,
+    "word": "finite",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "limited in size",
+    "example": "The finite condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "크기가 제한됨",
+      "zh": "尺寸有限",
+      "hi": "आकार में सीमित"
+    }
+  },
+  {
+    "id": 1282,
+    "word": "fissure",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "long narrow crack",
+    "example": "The fissure condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "길고 좁은 균열",
+      "zh": "长而窄的裂缝",
+      "hi": "लंबी संकीर्ण दरार"
+    }
+  },
+  {
+    "id": 1283,
+    "word": "fitful",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "active or occurring intermittently",
+    "example": "The fitful condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "활성 상태이거나 간헐적으로 발생하는",
+      "zh": "活跃的或间歇性发生的",
+      "hi": "सक्रिय या रुक-रुक कर घटित होने वाला"
+    }
+  },
+  {
+    "id": 1284,
+    "word": "flagrant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "conspicuously offensive",
+    "example": "The flagrant condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "눈에 띄게 불쾌한",
+      "zh": "明显具有冒犯性",
+      "hi": "स्पष्ट रूप से आपत्तिजनक"
+    }
+  },
+  {
+    "id": 1285,
+    "word": "flair",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "natural ability",
+    "example": "The flair condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "타고난 능력",
+      "zh": "天赋",
+      "hi": "प्राकृतिक क्षमता"
+    }
+  },
+  {
+    "id": 1286,
+    "word": "flamboyant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "attracting attention",
+    "example": "The flamboyant condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "관심을 끄는",
+      "zh": "吸引注意力",
+      "hi": "ध्यान आकर्षित करना"
+    }
+  },
+  {
+    "id": 1287,
+    "word": "flaunt",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to display ostentatiously",
+    "example": "The flaunt condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "과시적으로 드러내다",
+      "zh": "炫耀地展示",
+      "hi": "दिखावटी ढंग से प्रदर्शित करना"
+    }
+  },
+  {
+    "id": 1288,
+    "word": "flaw",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "mark or imperfection",
+    "example": "The flaw condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "자국 또는 결함",
+      "zh": "痕迹或瑕疵",
+      "hi": "निशान या खामी"
+    }
+  },
+  {
+    "id": 1289,
+    "word": "fledgling",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person or organization that is new",
+    "example": "The fledgling condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "새로운 사람 또는 조직",
+      "zh": "新成立的个人或组织",
+      "hi": "कोई व्यक्ति या संगठन जो नया हो"
+    }
+  },
+  {
+    "id": 1290,
+    "word": "fleeting",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lasting very short time",
+    "example": "The fleeting condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "아주 짧은 시간 동안 지속됩니다",
+      "zh": "持续时间很短",
+      "hi": "बहुत कम समय तक चलने वाला"
+    }
+  },
+  {
+    "id": 1291,
+    "word": "flimsy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "insubstantial and weak",
+    "example": "The flimsy condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "실체가 없고 약한",
+      "zh": "不实质且薄弱",
+      "hi": "सारहीन और कमजोर"
+    }
+  },
+  {
+    "id": 1292,
+    "word": "flinch",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make quick movement",
+    "example": "The flinch condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "빠르게 움직이다",
+      "zh": "快速移动",
+      "hi": "तेज़ गति करने के लिए"
+    }
+  },
+  {
+    "id": 1293,
+    "word": "flippant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not showing serious attitude",
+    "example": "The flippant condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "심각한 태도를 보이지 않음",
+      "zh": "态度不够严肃",
+      "hi": "गंभीर रवैया नहीं दिखा रहा है"
+    }
+  },
+  {
+    "id": 1294,
+    "word": "flit",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to move swiftly",
+    "example": "The flit condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "신속하게 움직이다",
+      "zh": "迅速移动",
+      "hi": "तेजी से आगे बढ़ना"
+    }
+  },
+  {
+    "id": 1295,
+    "word": "florid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having red complexion",
+    "example": "The florid condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "붉은 안색을 가지고",
+      "zh": "肤色泛红",
+      "hi": "लाल रंगत होना"
+    }
+  },
+  {
+    "id": 1296,
+    "word": "flourish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to grow vigorously",
+    "example": "The flourish condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "활발하게 성장하다",
+      "zh": "茁壮成长",
+      "hi": "तेजी से बढ़ने के लिए"
+    }
+  },
+  {
+    "id": 1297,
+    "word": "flout",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to openly disregard",
+    "example": "The flout condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적으로 무시하다",
+      "zh": "公然无视",
+      "hi": "खुलेआम अवहेलना करना"
+    }
+  },
+  {
+    "id": 1298,
+    "word": "fluctuate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to rise and fall irregularly",
+    "example": "The fluctuate condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "불규칙적으로 오르내리다",
+      "zh": "不规则地上升和下降",
+      "hi": "अनियमित रूप से ऊपर और नीचे जाना"
+    }
+  },
+  {
+    "id": 1299,
+    "word": "fluent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "able to express easily",
+    "example": "The fluent condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 표현할 수 있는",
+      "zh": "能够轻松表达",
+      "hi": "आसानी से व्यक्त करने में सक्षम"
+    }
+  },
+  {
+    "id": 1300,
+    "word": "flux",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "continuous change",
+    "example": "The flux condition was immediately apparent.",
+    "category": "General",
+    "translations": {
+      "ko": "지속적인 변화",
+      "zh": "持续变化",
+      "hi": "निरंतर परिवर्तन"
+    }
+  }
+]

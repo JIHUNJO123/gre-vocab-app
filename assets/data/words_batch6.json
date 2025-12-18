@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 301,
+    "word": "solicitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing interest or concern",
+    "example": "The professor's solicitous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "관심이나 우려를 나타내는 것",
+      "zh": "表现出兴趣或关心",
+      "hi": "रुचि या चिंता दिखाना"
+    }
+  },
+  {
+    "id": 302,
+    "word": "soporific",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "tending to induce sleep",
+    "example": "The professor's soporific explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "수면을 유도하는 경향이 있는",
+      "zh": "容易诱发睡眠",
+      "hi": "नींद लाने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 303,
+    "word": "specious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "superficially plausible but wrong",
+    "example": "The professor's specious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "겉보기에는 그럴듯하지만 틀린",
+      "zh": "表面上看似合理，实则错误",
+      "hi": "सतही तौर पर तर्कसंगत लेकिन गलत"
+    }
+  },
+  {
+    "id": 304,
+    "word": "sporadic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "occurring at irregular intervals",
+    "example": "The professor's sporadic explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "불규칙적인 간격으로 발생함",
+      "zh": "不定期发生",
+      "hi": "अनियमित अंतरालों पर घटित होना"
+    }
+  },
+  {
+    "id": 305,
+    "word": "spurious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not genuine; false",
+    "example": "The professor's spurious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "진짜가 아님; 거짓",
+      "zh": "不真实；虚假",
+      "hi": "असली नहीं; नकली"
+    }
+  },
+  {
+    "id": 306,
+    "word": "squander",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to waste recklessly",
+    "example": "The professor's squander explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "무분별하게 낭비하다",
+      "zh": "肆意浪费",
+      "hi": "लापरवाही से बर्बाद करना"
+    }
+  },
+  {
+    "id": 307,
+    "word": "staid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sedate and respectable",
+    "example": "The professor's staid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "차분하고 품위 있는",
+      "zh": "沉稳而体面",
+      "hi": "शांत और सम्माननीय"
+    }
+  },
+  {
+    "id": 308,
+    "word": "stalwart",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "loyal and hardworking",
+    "example": "The professor's stalwart explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "충성스럽고 성실한",
+      "zh": "忠诚勤奋",
+      "hi": "वफादार और मेहनती"
+    }
+  },
+  {
+    "id": 309,
+    "word": "stigmatize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to describe disgracefully",
+    "example": "The professor's stigmatize explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "수치스럽게 묘사하다",
+      "zh": "可耻地描述",
+      "hi": "अपमानजनक ढंग से वर्णन करने के लिए"
+    }
+  },
+  {
+    "id": 310,
+    "word": "stint",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "period of time spent doing something",
+    "example": "The professor's stint explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 일을 하는 데 소요되는 시간",
+      "zh": "做某事的一段时间",
+      "hi": "किसी कार्य को करने में व्यतीत समय अवधि"
+    }
+  },
+  {
+    "id": 311,
+    "word": "stolid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "calm and showing little emotion",
+    "example": "The professor's stolid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "침착하고 감정을 거의 드러내지 않는다.",
+      "zh": "平静，很少表露情绪",
+      "hi": "शांत और कम भावनाएँ प्रदर्शित करते हुए"
+    }
+  },
+  {
+    "id": 312,
+    "word": "strident",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "loud and harsh",
+    "example": "The professor's strident explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "시끄럽고 거칠다",
+      "zh": "响亮而刺耳",
+      "hi": "तेज और कर्कश"
+    }
+  },
+  {
+    "id": 313,
+    "word": "stringent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "strict and precise",
+    "example": "The professor's stringent explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "엄격하고 정확한",
+      "zh": "严格而精确",
+      "hi": "सख्त और सटीक"
+    }
+  },
+  {
+    "id": 314,
+    "word": "stymie",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prevent from making progress",
+    "example": "The professor's stymie explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "진전을 막기 위해",
+      "zh": "阻止取得进展",
+      "hi": "प्रगति को रोकने के लिए"
+    }
+  },
+  {
+    "id": 315,
+    "word": "subpoena",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "writ ordering person to attend court",
+    "example": "The professor's subpoena explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "법원에 출석하도록 명령하는 영장",
+      "zh": "命令某人出庭的令状",
+      "hi": "अदालत में पेश होने का आदेश देने वाला रिट"
+    }
+  },
+  {
+    "id": 316,
+    "word": "substantiate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to provide evidence for",
+    "example": "The professor's substantiate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "증거를 제시하기 위해",
+      "zh": "提供证据",
+      "hi": "साक्ष्य प्रदान करने के लिए"
+    }
+  },
+  {
+    "id": 317,
+    "word": "subterfuge",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "deceit used to achieve one's goal",
+    "example": "The professor's subterfuge explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "목표 달성을 위해 사용하는 속임수",
+      "zh": "为达到目的而使用的欺骗手段",
+      "hi": "अपने लक्ष्य को प्राप्त करने के लिए छल का प्रयोग करना"
+    }
+  },
+  {
+    "id": 318,
+    "word": "subversive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "seeking to undermine",
+    "example": "The professor's subversive explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "약화시키려는 시도",
+      "zh": "试图破坏",
+      "hi": "कमजोर करने की कोशिश कर रहा है"
+    }
+  },
+  {
+    "id": 319,
+    "word": "succinct",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "briefly and clearly expressed",
+    "example": "The professor's succinct explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "간결하고 명확하게 표현됨",
+      "zh": "简明扼要地表达",
+      "hi": "संक्षेप में और स्पष्ट रूप से व्यक्त किया गया"
+    }
+  },
+  {
+    "id": 320,
+    "word": "supercilious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "behaving as if superior",
+    "example": "The professor's supercilious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "마치 우월한 것처럼 행동하다",
+      "zh": "表现得好像高人一等",
+      "hi": "श्रेष्ठ होने का दिखावा करना"
+    }
+  },
+  {
+    "id": 321,
+    "word": "superfluous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unnecessary; more than enough",
+    "example": "The professor's superfluous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "불필요한; 충분하고도 남음",
+      "zh": "没必要；绰绰有余",
+      "hi": "अनावश्यक; पर्याप्त से अधिक"
+    }
+  },
+  {
+    "id": 322,
+    "word": "supplant",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to take the place of",
+    "example": "The professor's supplant explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "~의 자리를 대신하다",
+      "zh": "取代",
+      "hi": "किसी के स्थान पर लेने के लिए"
+    }
+  },
+  {
+    "id": 323,
+    "word": "surfeit",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "excessive amount of something",
+    "example": "The professor's surfeit explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것의 과도한 양",
+      "zh": "过量的某种东西",
+      "hi": "किसी चीज की अत्यधिक मात्रा"
+    }
+  },
+  {
+    "id": 324,
+    "word": "surreptitious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "kept secret",
+    "example": "The professor's surreptitious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "비밀로 유지됨",
+      "zh": "保密",
+      "hi": "गोपनीय रखा"
+    }
+  },
+  {
+    "id": 325,
+    "word": "sycophant",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who flatters for advantage",
+    "example": "The professor's sycophant explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "이득을 위해 아첨하는 사람",
+      "zh": "为了自身利益而阿谀奉承的人",
+      "hi": "लाभ के लिए चापलूसी करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 326,
+    "word": "tacit",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "understood without being stated",
+    "example": "The professor's tacit explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "말하지 않아도 이해됨",
+      "zh": "无需明说，人人都心领神会。",
+      "hi": "बिना कहे ही समझ लिया गया"
+    }
+  },
+  {
+    "id": 327,
+    "word": "taciturn",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "reserved in speech",
+    "example": "The professor's taciturn explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "말에서 조심스러운 태도를 보입니다.",
+      "zh": "保留在言语中",
+      "hi": "बोलने में संयम बरतें"
+    }
+  },
+  {
+    "id": 328,
+    "word": "tangential",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "barely touching a matter",
+    "example": "The professor's tangential explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "문제를 거의 건드리지 않음",
+      "zh": "几乎没触及此事",
+      "hi": "किसी मामले को बस छूते हुए"
+    }
+  },
+  {
+    "id": 329,
+    "word": "tantamount",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "equivalent in value",
+    "example": "The professor's tantamount explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "가치에 상응하는",
+      "zh": "等价物",
+      "hi": "मूल्य में समतुल्य"
+    }
+  },
+  {
+    "id": 330,
+    "word": "temerity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excessive confidence or boldness",
+    "example": "The professor's temerity explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "지나친 자신감 또는 대담함",
+      "zh": "过分自信或大胆",
+      "hi": "अत्यधिक आत्मविश्वास या साहस"
+    }
+  },
+  {
+    "id": 331,
+    "word": "temperance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "moderation in action",
+    "example": "The professor's temperance explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "절제의 실천",
+      "zh": "行动中的适度",
+      "hi": "कार्रवाई में संयम"
+    }
+  },
+  {
+    "id": 332,
+    "word": "tenacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "holding firmly",
+    "example": "The professor's tenacious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "단단히 잡고",
+      "zh": "紧紧握住",
+      "hi": "मजबूती से पकड़े हुए"
+    }
+  },
+  {
+    "id": 333,
+    "word": "tendentious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "expressing a strong opinion",
+    "example": "The professor's tendentious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "강한 의견을 표현하다",
+      "zh": "表达强烈意见",
+      "hi": "एक दृढ़ राय व्यक्त करना"
+    }
+  },
+  {
+    "id": 334,
+    "word": "tenuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "very weak or slight",
+    "example": "The professor's tenuous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 약하거나 경미함",
+      "zh": "非常弱或轻微",
+      "hi": "बहुत कमजोर या मामूली"
+    }
+  },
+  {
+    "id": 335,
+    "word": "terse",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sparing in use of words",
+    "example": "The professor's terse explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "말을 아끼는",
+      "zh": "用词简洁",
+      "hi": "शब्दों का संयमपूर्वक प्रयोग करना"
+    }
+  },
+  {
+    "id": 336,
+    "word": "timorous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing nervousness",
+    "example": "The professor's timorous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "긴장감을 드러내는 것",
+      "zh": "表现出紧张",
+      "hi": "घबराहट दिखाना"
+    }
+  },
+  {
+    "id": 337,
+    "word": "toady",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who flatters",
+    "example": "The professor's toady explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "아첨하는 사람",
+      "zh": "奉承的人",
+      "hi": "चापलूसी करने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 338,
+    "word": "torpid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "mentally or physically inactive",
+    "example": "The professor's torpid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "정신적으로 또는 신체적으로 활동적이지 않음",
+      "zh": "精神或身体上的不活跃",
+      "hi": "मानसिक या शारीरिक रूप से निष्क्रिय"
+    }
+  },
+  {
+    "id": 339,
+    "word": "tortuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "full of twists and turns",
+    "example": "The professor's tortuous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "반전으로 가득 차 있습니다",
+      "zh": "充满曲折离奇",
+      "hi": "उतार-चढ़ाव से भरपूर"
+    }
+  },
+  {
+    "id": 340,
+    "word": "tractable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easy to control",
+    "example": "The professor's tractable explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "조작하기 쉬움",
+      "zh": "易于控制",
+      "hi": "नियंत्रण में आसान"
+    }
+  },
+  {
+    "id": 341,
+    "word": "transgression",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "act that violates law",
+    "example": "The professor's transgression explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "법을 위반하는 행위",
+      "zh": "违反法律的行为",
+      "hi": "ऐसा कृत्य जो कानून का उल्लंघन करता हो"
+    }
+  },
+  {
+    "id": 342,
+    "word": "transient",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lasting only a short time",
+    "example": "The professor's transient explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "짧은 시간 동안만 지속됩니다",
+      "zh": "持续时间很短",
+      "hi": "केवल थोड़े समय तक चलने वाला"
+    }
+  },
+  {
+    "id": 343,
+    "word": "trenchant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "vigorous and articulate",
+    "example": "The professor's trenchant explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "활기차고 명확한",
+      "zh": "精力充沛且口齿伶俐",
+      "hi": "सशक्त और स्पष्ट"
+    }
+  },
+  {
+    "id": 344,
+    "word": "trite",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking originality",
+    "example": "The professor's trite explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "독창성이 부족함",
+      "zh": "缺乏原创性",
+      "hi": "मौलिकता का अभाव"
+    }
+  },
+  {
+    "id": 345,
+    "word": "truculent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "eager to fight",
+    "example": "The professor's truculent explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "싸우고 싶어하는",
+      "zh": "渴望战斗",
+      "hi": "लड़ने के लिए उत्सुक"
+    }
+  },
+  {
+    "id": 346,
+    "word": "tumultuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "making loud noise",
+    "example": "The professor's tumultuous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 소음을 내다",
+      "zh": "发出很大的声音",
+      "hi": "तेज आवाज करना"
+    }
+  },
+  {
+    "id": 347,
+    "word": "turgid",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "swollen; pompous",
+    "example": "The professor's turgid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "부풀어 오른; 거만한",
+      "zh": "肿胀的；自负的",
+      "hi": "फूला हुआ; आडंबरपूर्ण"
+    }
+  },
+  {
+    "id": 348,
+    "word": "turpitude",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "depravity; wickedness",
+    "example": "The professor's turpitude explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "타락; 악함",
+      "zh": "堕落；邪恶",
+      "hi": "दुराचार; दुष्टता"
+    }
+  },
+  {
+    "id": 349,
+    "word": "ubiquitous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "present everywhere",
+    "example": "The professor's ubiquitous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "어디에나 존재한다",
+      "zh": "无处不在",
+      "hi": "हर जगह मौजूद"
+    }
+  },
+  {
+    "id": 350,
+    "word": "umbrage",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "offense or annoyance",
+    "example": "The professor's umbrage explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌감 또는 짜증",
+      "zh": "冒犯或恼怒",
+      "hi": "अपराध या झुंझलाहट"
+    }
+  },
+  {
+    "id": 351,
+    "word": "unctuous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "excessively flattering",
+    "example": "The professor's unctuous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 아첨하는",
+      "zh": "过分奉承",
+      "hi": "अत्यधिक चापलूसी"
+    }
+  },
+  {
+    "id": 352,
+    "word": "undermine",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to weaken gradually",
+    "example": "The professor's undermine explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "점차 약해지다",
+      "zh": "逐渐减弱",
+      "hi": "धीरे-धीरे कमजोर होना"
+    }
+  },
+  {
+    "id": 353,
+    "word": "unequivocal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "leaving no doubt",
+    "example": "The professor's unequivocal explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "의심의 여지를 남기지 않고",
+      "zh": "毫无疑问",
+      "hi": "कोई संदेह नहीं छोड़ते हुए"
+    }
+  },
+  {
+    "id": 354,
+    "word": "unfettered",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not confined",
+    "example": "The professor's unfettered explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "제한되지 않음",
+      "zh": "不受限制",
+      "hi": "सीमित नहीं"
+    }
+  },
+  {
+    "id": 355,
+    "word": "unimpeachable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "entirely trustworthy",
+    "example": "The professor's unimpeachable explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 신뢰할 수 있음",
+      "zh": "完全值得信赖",
+      "hi": "पूरी तरह से भरोसेमंद"
+    }
+  },
+  {
+    "id": 356,
+    "word": "unprecedented",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "never done before",
+    "example": "The professor's unprecedented explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "이전에는 결코 해본 적 없는 일입니다",
+      "zh": "前所未有",
+      "hi": "ऐसा पहले कभी नहीं किया गया"
+    }
+  },
+  {
+    "id": 357,
+    "word": "unprepossessing",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not attractive",
+    "example": "The professor's unprepossessing explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "매력적이지 않음",
+      "zh": "不吸引人",
+      "hi": "आकर्षक नहीं"
+    }
+  },
+  {
+    "id": 358,
+    "word": "unscrupulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having no moral principles",
+    "example": "The professor's unscrupulous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적 원칙이 없다",
+      "zh": "缺乏道德原则",
+      "hi": "नैतिक सिद्धांतों का अभाव"
+    }
+  },
+  {
+    "id": 359,
+    "word": "untenable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be defended",
+    "example": "The professor's untenable explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "방어할 수 없음",
+      "zh": "无法防御",
+      "hi": "बचाव करने में सक्षम नहीं"
+    }
+  },
+  {
+    "id": 360,
+    "word": "upbraid",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to find fault with",
+    "example": "The professor's upbraid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "흠을 찾다",
+      "zh": "挑剔",
+      "hi": "दोष ढूंढना"
+    }
+  },
+  {
+    "id": 361,
+    "word": "urbane",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "suave and courteous",
+    "example": "The professor's urbane explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "세련되고 예의 바른",
+      "zh": "温文尔雅且彬彬有礼",
+      "hi": "विनम्र और शिष्ट"
+    }
+  },
+  {
+    "id": 362,
+    "word": "usurp",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to seize power wrongfully",
+    "example": "The professor's usurp explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "부당하게 권력을 장악하다",
+      "zh": "非法夺取政权",
+      "hi": "गलत तरीके से सत्ता हथियाना"
+    }
+  },
+  {
+    "id": 363,
+    "word": "vacillate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to alternate between opinions",
+    "example": "The professor's vacillate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "의견을 번갈아 가며",
+      "zh": "交替表达观点",
+      "hi": "विचारों के बीच अदला-बदली करना"
+    }
+  },
+  {
+    "id": 364,
+    "word": "vacuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having no content",
+    "example": "The professor's vacuous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "콘텐츠가 없음",
+      "zh": "没有内容",
+      "hi": "जिसमें कोई सामग्री नहीं है"
+    }
+  },
+  {
+    "id": 365,
+    "word": "vapid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "offering nothing stimulating",
+    "example": "The professor's vapid explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "아무런 자극도 주지 않습니다",
+      "zh": "没有任何刺激性的内容",
+      "hi": "कुछ भी उत्तेजक पेश नहीं करता"
+    }
+  },
+  {
+    "id": 366,
+    "word": "variegated",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "exhibiting different colors",
+    "example": "The professor's variegated explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "다양한 색상을 나타내다",
+      "zh": "呈现出不同的颜色",
+      "hi": "विभिन्न रंगों का प्रदर्शन"
+    }
+  },
+  {
+    "id": 367,
+    "word": "vehement",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing strong feeling",
+    "example": "The professor's vehement explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "강한 감정을 드러내다",
+      "zh": "表现出强烈的感情",
+      "hi": "तीव्र भावना दिखाना"
+    }
+  },
+  {
+    "id": 368,
+    "word": "venal",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "showing susceptibility to bribery",
+    "example": "The professor's venal explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "뇌물에 취약한 모습을 보임",
+      "zh": "表现出易受贿赂的倾向",
+      "hi": "रिश्वतखोरी के प्रति संवेदनशीलता दर्शाना"
+    }
+  },
+  {
+    "id": 369,
+    "word": "venerate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to regard with respect",
+    "example": "The professor's venerate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "존중하는 마음으로 여기다",
+      "zh": "以尊重的态度看待",
+      "hi": "आदरपूर्वक देखना"
+    }
+  },
+  {
+    "id": 370,
+    "word": "veracious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "speaking the truth",
+    "example": "The professor's veracious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "진실을 말하다",
+      "zh": "说实话",
+      "hi": "सच बोलना"
+    }
+  },
+  {
+    "id": 371,
+    "word": "verbose",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "using more words than needed",
+    "example": "The professor's verbose explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "필요 이상으로 많은 단어를 사용함",
+      "zh": "使用比所需更多的词语",
+      "hi": "आवश्यकता से अधिक शब्दों का प्रयोग करना"
+    }
+  },
+  {
+    "id": 372,
+    "word": "vestige",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "trace of something disappearing",
+    "example": "The professor's vestige explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가가 사라진 흔적",
+      "zh": "消失的痕迹",
+      "hi": "किसी चीज के लुप्त होने का निशान"
+    }
+  },
+  {
+    "id": 373,
+    "word": "vex",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make annoyed",
+    "example": "The professor's vex explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "짜증나게 하다",
+      "zh": "使恼怒",
+      "hi": "नाराज करना"
+    }
+  },
+  {
+    "id": 374,
+    "word": "viable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "capable of working successfully",
+    "example": "The professor's viable explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "성공적으로 일할 수 있는",
+      "zh": "能够成功工作",
+      "hi": "सफलतापूर्वक काम करने में सक्षम"
+    }
+  },
+  {
+    "id": 375,
+    "word": "vicarious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "experienced through another",
+    "example": "The professor's vicarious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 사람을 통해 경험한",
+      "zh": "通过另一个人的经历",
+      "hi": "किसी अन्य के माध्यम से अनुभव किया गया"
+    }
+  },
+  {
+    "id": 376,
+    "word": "vigilant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "keeping careful watch",
+    "example": "The professor's vigilant explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "주의 깊게 지켜보고 있습니다",
+      "zh": "密切关注",
+      "hi": "सावधानीपूर्वक निगरानी रखना"
+    }
+  },
+  {
+    "id": 377,
+    "word": "vilify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to speak ill of",
+    "example": "The professor's vilify explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "험담하다",
+      "zh": "说人坏话",
+      "hi": "किसी की बुराई करना"
+    }
+  },
+  {
+    "id": 378,
+    "word": "vindicate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to clear of blame",
+    "example": "The professor's vindicate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "비난을 없애기 위해",
+      "zh": "洗清罪责",
+      "hi": "दोषमुक्त करना"
+    }
+  },
+  {
+    "id": 379,
+    "word": "vindictive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having strong desire for revenge",
+    "example": "The professor's vindictive explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "복수에 대한 강한 욕망을 가지고",
+      "zh": "强烈的复仇欲望",
+      "hi": "बदला लेने की तीव्र इच्छा होना"
+    }
+  },
+  {
+    "id": 380,
+    "word": "virtuoso",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person highly skilled in music",
+    "example": "The professor's virtuoso explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "음악에 매우 능숙한 사람",
+      "zh": "音乐方面技艺精湛的人",
+      "hi": "संगीत में अत्यधिक कुशल व्यक्ति"
+    }
+  },
+  {
+    "id": 381,
+    "word": "virulent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely severe",
+    "example": "The professor's virulent explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 심각한",
+      "zh": "极其严重",
+      "hi": "अत्यंत गंभीर"
+    }
+  },
+  {
+    "id": 382,
+    "word": "visceral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to deep feelings",
+    "example": "The professor's visceral explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "깊은 감정과 관련된",
+      "zh": "与深层情感有关",
+      "hi": "गहरी भावनाओं से संबंधित"
+    }
+  },
+  {
+    "id": 383,
+    "word": "vitiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to spoil or impair",
+    "example": "The professor's vitiate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "망치다, 손상시키다",
+      "zh": "破坏或损害",
+      "hi": "बिगाड़ना या खराब करना"
+    }
+  },
+  {
+    "id": 384,
+    "word": "vitriolic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "filled with bitter criticism",
+    "example": "The professor's vitriolic explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "신랄한 비판으로 가득 차 있다",
+      "zh": "充满尖锐的批评",
+      "hi": "कड़वी आलोचना से भरा हुआ"
+    }
+  },
+  {
+    "id": 385,
+    "word": "vituperative",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "bitter and abusive",
+    "example": "The professor's vituperative explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "쓰라리고 모욕적인",
+      "zh": "苦涩而粗暴",
+      "hi": "कड़वा और अपमानजनक"
+    }
+  },
+  {
+    "id": 386,
+    "word": "vivacious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "attractively lively",
+    "example": "The professor's vivacious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "매력적으로 활기찬",
+      "zh": "生动迷人",
+      "hi": "आकर्षक रूप से जीवंत"
+    }
+  },
+  {
+    "id": 387,
+    "word": "vociferous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "vehement and loud",
+    "example": "The professor's vociferous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "격렬하고 큰 소리로",
+      "zh": "激烈而喧闹",
+      "hi": "उग्र और ज़ोरदार"
+    }
+  },
+  {
+    "id": 388,
+    "word": "volatile",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "liable to change rapidly",
+    "example": "The professor's volatile explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "급격하게 변할 가능성이 있음",
+      "zh": "容易快速变化",
+      "hi": "तेजी से बदलने की संभावना है"
+    }
+  },
+  {
+    "id": 389,
+    "word": "voracious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wanting great quantities",
+    "example": "The professor's voracious explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "많은 양을 원합니다",
+      "zh": "想要大量",
+      "hi": "बड़ी मात्रा में चाहना"
+    }
+  },
+  {
+    "id": 390,
+    "word": "warranted",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "justified or authorized",
+    "example": "The professor's warranted explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "정당하거나 승인된",
+      "zh": "正当或授权",
+      "hi": "उचित या अधिकृत"
+    }
+  },
+  {
+    "id": 391,
+    "word": "wary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling caution about danger",
+    "example": "The professor's wary explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "위험에 대해 경계하는 것",
+      "zh": "对危险保持警惕",
+      "hi": "खतरे के प्रति सतर्कता महसूस करना"
+    }
+  },
+  {
+    "id": 392,
+    "word": "whimsical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "playfully quaint",
+    "example": "The professor's whimsical explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "장난스럽고 고풍스러운",
+      "zh": "俏皮古雅",
+      "hi": "चंचल और विचित्र"
+    }
+  },
+  {
+    "id": 393,
+    "word": "wistful",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having melancholy longing",
+    "example": "The professor's wistful explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "애틋한 그리움을 품고",
+      "zh": "怀有忧郁的渴望",
+      "hi": "उदासी भरी लालसा होना"
+    }
+  },
+  {
+    "id": 394,
+    "word": "zealous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having great energy",
+    "example": "The professor's zealous explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "엄청난 에너지를 가지고",
+      "zh": "精力充沛",
+      "hi": "बहुत ऊर्जा होना"
+    }
+  },
+  {
+    "id": 395,
+    "word": "zenith",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "highest point reached",
+    "example": "The professor's zenith explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "최고점에 도달했습니다",
+      "zh": "到达的最高点",
+      "hi": "उच्चतम बिंदु तक पहुंचा गया"
+    }
+  },
+  {
+    "id": 396,
+    "word": "zephyr",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "soft gentle breeze",
+    "example": "The professor's zephyr explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "부드럽고 산들바람",
+      "zh": "轻柔的微风",
+      "hi": "हल्की, कोमल हवा"
+    }
+  },
+  {
+    "id": 397,
+    "word": "aberrant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "departing from accepted standard",
+    "example": "The professor's aberrant explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "통용되는 기준에서 벗어나",
+      "zh": "偏离公认标准",
+      "hi": "स्वीकृत मानक से विचलन"
+    }
+  },
+  {
+    "id": 398,
+    "word": "abjure",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to solemnly renounce",
+    "example": "The professor's abjure explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "엄숙히 포기하다",
+      "zh": "郑重放弃",
+      "hi": "पूरी निष्ठा से त्याग करना"
+    }
+  },
+  {
+    "id": 399,
+    "word": "abnegate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to renounce or reject",
+    "example": "The professor's abnegate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "포기하거나 거부하다",
+      "zh": "放弃或拒绝",
+      "hi": "त्याग देना या अस्वीकार करना"
+    }
+  },
+  {
+    "id": 400,
+    "word": "abrogate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to abolish or annul",
+    "example": "The professor's abrogate explanation helped students understand.",
+    "category": "General",
+    "translations": {
+      "ko": "폐지하거나 무효화하다",
+      "zh": "废除或取消",
+      "hi": "समाप्त करना या रद्द करना"
+    }
+  }
+]

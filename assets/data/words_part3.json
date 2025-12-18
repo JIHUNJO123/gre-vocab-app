@@ -1,0 +1,12 @@
+﻿[
+  {"id": 21, "word": "beguile", "level": "Advanced", "partOfSpeech": "verb", "definition": "to charm or deceive", "example": "She beguiled investors with false promises.", "category": "General"},
+  {"id": 22, "word": "bellicose", "level": "Advanced", "partOfSpeech": "adjective", "definition": "warlike; eager to fight", "example": "His bellicose rhetoric alarmed neighboring nations.", "category": "General"},
+  {"id": 23, "word": "blandishment", "level": "Expert", "partOfSpeech": "noun", "definition": "flattering speech intended to persuade", "example": "No blandishments could change her mind.", "category": "General"},
+  {"id": 24, "word": "calumny", "level": "Expert", "partOfSpeech": "noun", "definition": "false accusation; slander", "example": "He sued the newspaper for calumny.", "category": "General"},
+  {"id": 25, "word": "capricious", "level": "Advanced", "partOfSpeech": "adjective", "definition": "given to sudden changes of mood", "example": "The capricious weather ruined our plans.", "category": "General"},
+  {"id": 26, "word": "castigate", "level": "Advanced", "partOfSpeech": "verb", "definition": "to criticize severely", "example": "Critics castigated the film for its inaccuracies.", "category": "General"},
+  {"id": 27, "word": "chicanery", "level": "Expert", "partOfSpeech": "noun", "definition": "trickery or deception", "example": "Political chicanery undermined public trust.", "category": "General"},
+  {"id": 28, "word": "churlish", "level": "Advanced", "partOfSpeech": "adjective", "definition": "rude and bad-tempered", "example": "His churlish behavior offended the guests.", "category": "General"},
+  {"id": 29, "word": "circumlocution", "level": "Expert", "partOfSpeech": "noun", "definition": "using many words to avoid direct statement", "example": "Politicians often resort to circumlocution.", "category": "General"},
+  {"id": 30, "word": "coalesce", "level": "Advanced", "partOfSpeech": "verb", "definition": "to come together to form one whole", "example": "Several groups coalesced into a single movement.", "category": "General"}
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1601,
+    "word": "impenetrable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to pass through",
+    "example": "The outcome was impenetrable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "통과할 수 없음",
+      "zh": "无法通过",
+      "hi": "पार करना असंभव है"
+    }
+  },
+  {
+    "id": 1602,
+    "word": "impenitent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not feeling shame",
+    "example": "The outcome was impenitent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "부끄러움을 느끼지 않음",
+      "zh": "不感到羞耻",
+      "hi": "शर्म महसूस न करना"
+    }
+  },
+  {
+    "id": 1603,
+    "word": "imperative",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of vital importance",
+    "example": "The outcome was imperative given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 중요한",
+      "zh": "至关重要",
+      "hi": "अत्यंत महत्वपूर्ण"
+    }
+  },
+  {
+    "id": 1604,
+    "word": "imperceptible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to perceive",
+    "example": "The outcome was imperceptible given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "인지할 수 없음",
+      "zh": "无法感知",
+      "hi": "समझना असंभव है"
+    }
+  },
+  {
+    "id": 1605,
+    "word": "imperial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to empire",
+    "example": "The outcome was imperial given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "제국과 관련된",
+      "zh": "与帝国有关",
+      "hi": "साम्राज्य से संबंधित"
+    }
+  },
+  {
+    "id": 1606,
+    "word": "imperious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "assuming power",
+    "example": "The outcome was imperious given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "권력을 행사하다",
+      "zh": "假设权力",
+      "hi": "सत्ता ग्रहण करना"
+    }
+  },
+  {
+    "id": 1607,
+    "word": "impermeable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not allowing fluid to pass",
+    "example": "The outcome was impermeable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "액체가 통과하지 못하게 함",
+      "zh": "不允许液体通过",
+      "hi": "तरल पदार्थ को गुजरने नहीं दे रहा है"
+    }
+  },
+  {
+    "id": 1608,
+    "word": "impersonal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not influenced by feelings",
+    "example": "The outcome was impersonal given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "감정에 영향을 받지 않음",
+      "zh": "不受情绪影响",
+      "hi": "भावनाओं से प्रभावित नहीं"
+    }
+  },
+  {
+    "id": 1609,
+    "word": "impersonate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to pretend to be another",
+    "example": "The outcome was impersonate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 사람인 척하다",
+      "zh": "假扮成另一个人",
+      "hi": "किसी और के होने का दिखावा करना"
+    }
+  },
+  {
+    "id": 1610,
+    "word": "impertinent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not showing proper respect",
+    "example": "The outcome was impertinent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "적절한 존중을 표하지 않음",
+      "zh": "未表现出应有的尊重",
+      "hi": "उचित सम्मान नहीं दिखाना"
+    }
+  },
+  {
+    "id": 1611,
+    "word": "imperturbable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be upset",
+    "example": "The outcome was imperturbable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "화를 낼 수 없는",
+      "zh": "无法感到沮丧",
+      "hi": "परेशान होने में असमर्थ"
+    }
+  },
+  {
+    "id": 1612,
+    "word": "impervious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not allowing entrance",
+    "example": "The outcome was impervious given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "입장을 허용하지 않음",
+      "zh": "不允许进入",
+      "hi": "प्रवेश की अनुमति नहीं है"
+    }
+  },
+  {
+    "id": 1613,
+    "word": "impetuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "acting quickly without thought",
+    "example": "The outcome was impetuous given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "생각 없이 빠르게 행동하기",
+      "zh": "不假思索地迅速行动",
+      "hi": "बिना सोचे-समझे जल्दबाजी में काम करना"
+    }
+  },
+  {
+    "id": 1614,
+    "word": "impetus",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "force that makes something happen",
+    "example": "The outcome was impetus given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 일이 일어나게 하는 힘",
+      "zh": "使某事发生的力",
+      "hi": "वह बल जो किसी घटना को घटित करता है"
+    }
+  },
+  {
+    "id": 1615,
+    "word": "impiety",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "lack of piety",
+    "example": "The outcome was impiety given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "경건함의 부족",
+      "zh": "缺乏虔诚",
+      "hi": "धर्मपरायणता का अभाव"
+    }
+  },
+  {
+    "id": 1616,
+    "word": "impinge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to have effect on",
+    "example": "The outcome was impinge given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "영향을 미치다",
+      "zh": "对……产生影响",
+      "hi": "प्रभाव डालना"
+    }
+  },
+  {
+    "id": 1617,
+    "word": "impious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not showing respect for god",
+    "example": "The outcome was impious given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "신을 존중하지 않는 것",
+      "zh": "不尊重上帝",
+      "hi": "भगवान के प्रति सम्मान नहीं दिखाना"
+    }
+  },
+  {
+    "id": 1618,
+    "word": "implacable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be placated",
+    "example": "The outcome was implacable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "달랠 수 없는",
+      "zh": "无法安抚",
+      "hi": "शांत न हो पाने वाला"
+    }
+  },
+  {
+    "id": 1619,
+    "word": "implausible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not seeming reasonable",
+    "example": "The outcome was implausible given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "합리적으로 보이지 않음",
+      "zh": "似乎不合情理",
+      "hi": "तर्कसंगत नहीं लग रहा है"
+    }
+  },
+  {
+    "id": 1620,
+    "word": "implement",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to put into effect",
+    "example": "The outcome was implement given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "실행에 옮기다",
+      "zh": "付诸实施",
+      "hi": "लागू करना"
+    }
+  },
+  {
+    "id": 1621,
+    "word": "implicate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to show to be involved",
+    "example": "The outcome was implicate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "참여하고 있음을 보여주기 위해",
+      "zh": "表示参与",
+      "hi": "शामिल होने का प्रदर्शन करना"
+    }
+  },
+  {
+    "id": 1622,
+    "word": "implication",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "conclusion that can be drawn",
+    "example": "The outcome was implication given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "도출할 수 있는 결론",
+      "zh": "可以得出的结论",
+      "hi": "निष्कर्ष निकाला जा सकता है"
+    }
+  },
+  {
+    "id": 1623,
+    "word": "implicit",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "implied though not stated",
+    "example": "The outcome was implicit given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "명시적으로 언급되지는 않았지만 암시적으로",
+      "zh": "虽然未明说，但暗示了这一点。",
+      "hi": "स्पष्ट रूप से न कहने पर भी निहित है"
+    }
+  },
+  {
+    "id": 1624,
+    "word": "implore",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to beg earnestly",
+    "example": "The outcome was implore given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "간절히 구걸하다",
+      "zh": "恳切地乞求",
+      "hi": "गंभीरतापूर्वक भीख मांगना"
+    }
+  },
+  {
+    "id": 1625,
+    "word": "imply",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to strongly suggest",
+    "example": "The outcome was imply given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "강력히 시사하다",
+      "zh": "强烈建议",
+      "hi": "दृढ़ता से सुझाव देना"
+    }
+  },
+  {
+    "id": 1626,
+    "word": "impolitic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "failing to be wise",
+    "example": "The outcome was impolitic given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "현명하지 못함",
+      "zh": "缺乏智慧",
+      "hi": "बुद्धिमान होने में असफल होना"
+    }
+  },
+  {
+    "id": 1627,
+    "word": "import",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "meaning or significance",
+    "example": "The outcome was import given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "의미 또는 중요성",
+      "zh": "含义或重要性",
+      "hi": "अर्थ या महत्व"
+    }
+  },
+  {
+    "id": 1628,
+    "word": "importune",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to harass with requests",
+    "example": "The outcome was importune given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "요구로 괴롭히다",
+      "zh": "用请求进行骚扰",
+      "hi": "अनुरोधों से परेशान करना"
+    }
+  },
+  {
+    "id": 1629,
+    "word": "impose",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to force to be accepted",
+    "example": "The outcome was impose given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "받아들여지도록 강요하다",
+      "zh": "强迫接受",
+      "hi": "स्वीकार किए जाने के लिए मजबूर करना"
+    }
+  },
+  {
+    "id": 1630,
+    "word": "imposing",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "grand and impressive",
+    "example": "The outcome was imposing given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "웅장하고 인상적입니다",
+      "zh": "宏伟壮观",
+      "hi": "भव्य और प्रभावशाली"
+    }
+  },
+  {
+    "id": 1631,
+    "word": "impotent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to take effective action",
+    "example": "The outcome was impotent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "효과적인 조치를 취할 수 없음",
+      "zh": "无法采取有效行动",
+      "hi": "प्रभावी कार्रवाई करने में असमर्थ"
+    }
+  },
+  {
+    "id": 1632,
+    "word": "impoverish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make poor",
+    "example": "The outcome was impoverish given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "가난하게 만들다",
+      "zh": "使贫穷",
+      "hi": "गरीब बनाना"
+    }
+  },
+  {
+    "id": 1633,
+    "word": "impractical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not adapted for use",
+    "example": "The outcome was impractical given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "용도에 적합하지 않음",
+      "zh": "不适合使用",
+      "hi": "उपयोग के लिए अनुकूलित नहीं है"
+    }
+  },
+  {
+    "id": 1634,
+    "word": "imprecise",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking exactness",
+    "example": "The outcome was imprecise given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "정확성이 부족함",
+      "zh": "缺乏精确性",
+      "hi": "सटीकता का अभाव"
+    }
+  },
+  {
+    "id": 1635,
+    "word": "impregnable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be captured",
+    "example": "The outcome was impregnable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "포착할 수 없음",
+      "zh": "无法捕获",
+      "hi": "पकड़े जाने में असमर्थ"
+    }
+  },
+  {
+    "id": 1636,
+    "word": "impress",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make feel admiration",
+    "example": "The outcome was impress given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "감탄을 느끼게 하다",
+      "zh": "使人产生钦佩之情",
+      "hi": "प्रशंसा का भाव जगाना"
+    }
+  },
+  {
+    "id": 1637,
+    "word": "impressionable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily influenced",
+    "example": "The outcome was impressionable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 영향을 받는",
+      "zh": "容易受到影响",
+      "hi": "आसानी से प्रभावित होने वाला"
+    }
+  },
+  {
+    "id": 1638,
+    "word": "impromptu",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "done without preparation",
+    "example": "The outcome was impromptu given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "준비 없이 진행됨",
+      "zh": "未经准备",
+      "hi": "बिना तैयारी के किया गया"
+    }
+  },
+  {
+    "id": 1639,
+    "word": "improper",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not in accordance with rules",
+    "example": "The outcome was improper given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "규칙에 어긋남",
+      "zh": "不符合规则",
+      "hi": "नियमों के अनुसार नहीं"
+    }
+  },
+  {
+    "id": 1640,
+    "word": "improvident",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not providing for future",
+    "example": "The outcome was improvident given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "미래를 대비하지 않음",
+      "zh": "没有为未来做好准备",
+      "hi": "भविष्य के लिए प्रावधान नहीं करना"
+    }
+  },
+  {
+    "id": 1641,
+    "word": "improvise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to create without preparation",
+    "example": "The outcome was improvise given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "준비 없이 만들다",
+      "zh": "无需准备即可创造",
+      "hi": "बिना तैयारी के बनाना"
+    }
+  },
+  {
+    "id": 1642,
+    "word": "imprudent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not showing care",
+    "example": "The outcome was imprudent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "관심을 보이지 않음",
+      "zh": "不关心",
+      "hi": "परवाह नहीं दिखा रहा"
+    }
+  },
+  {
+    "id": 1643,
+    "word": "impudent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not showing due respect",
+    "example": "The outcome was impudent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "마땅한 존경심을 보이지 않음",
+      "zh": "未表现出应有的尊重",
+      "hi": "उचित सम्मान नहीं दिखाना"
+    }
+  },
+  {
+    "id": 1644,
+    "word": "impugn",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to dispute validity of",
+    "example": "The outcome was impugn given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "유효성에 이의를 제기하다",
+      "zh": "对有效性提出质疑",
+      "hi": "वैधता पर विवाद करने के लिए"
+    }
+  },
+  {
+    "id": 1645,
+    "word": "impulsive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "acting without forethought",
+    "example": "The outcome was impulsive given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "생각 없이 행동하기",
+      "zh": "行事缺乏深思熟虑",
+      "hi": "बिना सोचे-समझे कार्य करना"
+    }
+  },
+  {
+    "id": 1646,
+    "word": "impunity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "exemption from punishment",
+    "example": "The outcome was impunity given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "처벌 면제",
+      "zh": "免于处罚",
+      "hi": "सजा से छूट"
+    }
+  },
+  {
+    "id": 1647,
+    "word": "impute",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to attribute to cause",
+    "example": "The outcome was impute given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "원인에 귀속시키다",
+      "zh": "归因于",
+      "hi": "कारण बताना"
+    }
+  },
+  {
+    "id": 1648,
+    "word": "inadvertent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not resulting from attention",
+    "example": "The outcome was inadvertent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "주의력으로 인한 결과가 아님",
+      "zh": "并非由注意力所致",
+      "hi": "ध्यान के परिणामस्वरूप नहीं"
+    }
+  },
+  {
+    "id": 1649,
+    "word": "inalienable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be taken away",
+    "example": "The outcome was inalienable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "가져갈 수 없음",
+      "zh": "无法带走",
+      "hi": "ले जाया नहीं जा सकता"
+    }
+  },
+  {
+    "id": 1650,
+    "word": "inane",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "silly and pointless",
+    "example": "The outcome was inane given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "어리석고 무의미한",
+      "zh": "愚蠢且毫无意义",
+      "hi": "मूर्खतापूर्ण और निरर्थक"
+    }
+  },
+  {
+    "id": 1651,
+    "word": "inanimate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not alive",
+    "example": "The outcome was inanimate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "살아있지 않음",
+      "zh": "未出生",
+      "hi": "जीवित नहीं"
+    }
+  },
+  {
+    "id": 1652,
+    "word": "inarticulate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to speak distinctly",
+    "example": "The outcome was inarticulate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "또렷하게 말할 수 없음",
+      "zh": "说话含糊不清",
+      "hi": "स्पष्ट रूप से बोलने में असमर्थ"
+    }
+  },
+  {
+    "id": 1653,
+    "word": "inaugurate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to begin or introduce",
+    "example": "The outcome was inaugurate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "시작하다 또는 소개하다",
+      "zh": "开始或介绍",
+      "hi": "शुरू करना या परिचय देना"
+    }
+  },
+  {
+    "id": 1654,
+    "word": "incandescent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "emitting light when heated",
+    "example": "The outcome was incandescent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "가열될 때 빛을 방출합니다",
+      "zh": "加热时会发光",
+      "hi": "गर्म करने पर प्रकाश उत्सर्जित करना"
+    }
+  },
+  {
+    "id": 1655,
+    "word": "incantation",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "series of words said as spell",
+    "example": "The outcome was incantation given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "주문처럼 말하는 일련의 단어들",
+      "zh": "一系列词语被念诵成咒语",
+      "hi": "शब्दों की श्रृंखला को मंत्र के रूप में उच्चारित किया जाता है"
+    }
+  },
+  {
+    "id": 1656,
+    "word": "incapacitate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to prevent from functioning",
+    "example": "The outcome was incapacitate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "작동하지 못하도록 막기 위해",
+      "zh": "防止其发挥作用",
+      "hi": "कार्य करने से रोकने के लिए"
+    }
+  },
+  {
+    "id": 1657,
+    "word": "incarcerate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to imprison",
+    "example": "The outcome was incarcerate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "투옥하다",
+      "zh": "监禁",
+      "hi": "कैद करना"
+    }
+  },
+  {
+    "id": 1658,
+    "word": "incarnate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "embodied in flesh",
+    "example": "The outcome was incarnate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "육신으로 구현됨",
+      "zh": "具象化的肉身",
+      "hi": "शरीर में समाहित"
+    }
+  },
+  {
+    "id": 1659,
+    "word": "incendiary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tending to cause fires",
+    "example": "The outcome was incendiary given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "화재를 일으키는 경향이 있는",
+      "zh": "容易引发火灾",
+      "hi": "आग लगने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1660,
+    "word": "incense",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make very angry",
+    "example": "The outcome was incense given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 화나게 하다",
+      "zh": "使人非常生气",
+      "hi": "बहुत गुस्सा दिलाना"
+    }
+  },
+  {
+    "id": 1661,
+    "word": "incentive",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing that motivates",
+    "example": "The outcome was incentive given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "동기를 부여하는 것",
+      "zh": "激励因素",
+      "hi": "वह चीज जो प्रेरित करती है"
+    }
+  },
+  {
+    "id": 1662,
+    "word": "inception",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "establishment or starting point",
+    "example": "The outcome was inception given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "설립 또는 시작점",
+      "zh": "建立点或起点",
+      "hi": "स्थापना या आरंभिक बिंदु"
+    }
+  },
+  {
+    "id": 1663,
+    "word": "incessant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "continuing without pause",
+    "example": "The outcome was incessant given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "멈추지 않고 계속",
+      "zh": "继续不停歇",
+      "hi": "बिना रुके जारी रखना"
+    }
+  },
+  {
+    "id": 1664,
+    "word": "inchoate",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "just begun and undeveloped",
+    "example": "The outcome was inchoate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "이제 막 시작되었고 아직 개발되지 않았습니다.",
+      "zh": "刚刚起步，尚未开发",
+      "hi": "अभी शुरू हुआ है और अविकसित है"
+    }
+  },
+  {
+    "id": 1665,
+    "word": "incidence",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "occurrence or rate of occurrence",
+    "example": "The outcome was incidence given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "발생 또는 발생률",
+      "zh": "发生率或发生频率",
+      "hi": "घटना या घटना की दर"
+    }
+  },
+  {
+    "id": 1666,
+    "word": "incidental",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "accompanying but not major part",
+    "example": "The outcome was incidental given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "동반하는 부분이지만 주요 부분은 아닙니다.",
+      "zh": "伴随但非主要部分",
+      "hi": "साथ में, लेकिन प्रमुख भाग नहीं"
+    }
+  },
+  {
+    "id": 1667,
+    "word": "incipient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "in initial stage",
+    "example": "The outcome was incipient given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "초기 단계",
+      "zh": "初始阶段",
+      "hi": "प्रारंभिक चरण में"
+    }
+  },
+  {
+    "id": 1668,
+    "word": "incisive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "intelligently analytical",
+    "example": "The outcome was incisive given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "지능적으로 분석적",
+      "zh": "理性分析",
+      "hi": "बुद्धिमानी से विश्लेषणात्मक"
+    }
+  },
+  {
+    "id": 1669,
+    "word": "incite",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to encourage unlawful behavior",
+    "example": "The outcome was incite given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "불법 행위를 조장하다",
+      "zh": "鼓励非法行为",
+      "hi": "गैरकानूनी व्यवहार को प्रोत्साहित करना"
+    }
+  },
+  {
+    "id": 1670,
+    "word": "inclement",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unpleasantly cold or wet",
+    "example": "The outcome was inclement given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌하게 춥거나 습하다",
+      "zh": "令人不适的寒冷或潮湿",
+      "hi": "असहनीय रूप से ठंडा या गीला"
+    }
+  },
+  {
+    "id": 1671,
+    "word": "inclination",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "tendency to act in particular way",
+    "example": "The outcome was inclination given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "특정한 방식으로 행동하는 경향",
+      "zh": "倾向于以某种特定方式行事",
+      "hi": "किसी विशेष तरीके से कार्य करने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1672,
+    "word": "inclusive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "including all services",
+    "example": "The outcome was inclusive given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "모든 서비스를 포함하여",
+      "zh": "包括所有服务",
+      "hi": "सभी सेवाओं सहित"
+    }
+  },
+  {
+    "id": 1673,
+    "word": "incoherent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "expressed in incomprehensible way",
+    "example": "The outcome was incoherent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "이해할 수 없는 방식으로 표현됨",
+      "zh": "以令人费解的方式表达",
+      "hi": "समझ से परे तरीके से व्यक्त किया गया"
+    }
+  },
+  {
+    "id": 1674,
+    "word": "incompatible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to exist together",
+    "example": "The outcome was incompatible given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "함께 존재할 수 없다",
+      "zh": "无法共存",
+      "hi": "एक साथ अस्तित्व में रहने में असमर्थ"
+    }
+  },
+  {
+    "id": 1675,
+    "word": "incompetent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not having necessary skills",
+    "example": "The outcome was incompetent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "필요한 기술이 부족함",
+      "zh": "缺乏必要的技能",
+      "hi": "आवश्यक कौशल न होना"
+    }
+  },
+  {
+    "id": 1676,
+    "word": "inconclusive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not leading to firm conclusion",
+    "example": "The outcome was inconclusive given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "확실한 결론으로 이어지지 않음",
+      "zh": "未能得出明确结论",
+      "hi": "किसी ठोस निष्कर्ष पर नहीं पहुंच रहा है"
+    }
+  },
+  {
+    "id": 1677,
+    "word": "incongruous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not in harmony",
+    "example": "The outcome was incongruous given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "조화롭지 않음",
+      "zh": "不和谐",
+      "hi": "सामंजस्य में नहीं"
+    }
+  },
+  {
+    "id": 1678,
+    "word": "inconsequential",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not important",
+    "example": "The outcome was inconsequential given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "중요하지 않음",
+      "zh": "不重要",
+      "hi": "महत्वपूर्ण नहीं"
+    }
+  },
+  {
+    "id": 1679,
+    "word": "inconsistent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not staying the same",
+    "example": "The outcome was inconsistent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "그대로 남아있지 않다",
+      "zh": "不再保持不变",
+      "hi": "एक जैसा नहीं रह रहा है"
+    }
+  },
+  {
+    "id": 1680,
+    "word": "incontrovertible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be denied",
+    "example": "The outcome was incontrovertible given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "거부할 수 없음",
+      "zh": "无法否认",
+      "hi": "जिसे नकारा नहीं जा सकता"
+    }
+  },
+  {
+    "id": 1681,
+    "word": "incorporate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to take in or contain",
+    "example": "The outcome was incorporate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "받아들이거나 담다",
+      "zh": "包含或容纳",
+      "hi": "ग्रहण करना या समाहित करना"
+    }
+  },
+  {
+    "id": 1682,
+    "word": "incorrigible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be corrected",
+    "example": "The outcome was incorrigible given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "수정할 수 없음",
+      "zh": "无法纠正",
+      "hi": "सुधारा नहीं जा सकता"
+    }
+  },
+  {
+    "id": 1683,
+    "word": "incredulous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling to believe",
+    "example": "The outcome was incredulous given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "믿기 싫어함",
+      "zh": "不愿相信",
+      "hi": "विश्वास करने को तैयार नहीं"
+    }
+  },
+  {
+    "id": 1684,
+    "word": "increment",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "increase or addition",
+    "example": "The outcome was increment given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "증가 또는 추가",
+      "zh": "增加或添加",
+      "hi": "वृद्धि या जोड़"
+    }
+  },
+  {
+    "id": 1685,
+    "word": "incriminate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make appear guilty",
+    "example": "The outcome was incriminate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "유죄처럼 보이게 하다",
+      "zh": "使人看起来像有罪",
+      "hi": "दोषी साबित करना"
+    }
+  },
+  {
+    "id": 1686,
+    "word": "incumbent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "necessary as duty",
+    "example": "The outcome was incumbent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "의무로서 필요한 것",
+      "zh": "履行职责所必需",
+      "hi": "कर्तव्य के रूप में आवश्यक"
+    }
+  },
+  {
+    "id": 1687,
+    "word": "incur",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to become subject to",
+    "example": "The outcome was incur given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "~의 대상이 되다",
+      "zh": "成为……的",
+      "hi": "के अधीन हो जाना"
+    }
+  },
+  {
+    "id": 1688,
+    "word": "incursion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "invasion or attack",
+    "example": "The outcome was incursion given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "침략 또는 공격",
+      "zh": "入侵或攻击",
+      "hi": "आक्रमण या हमला"
+    }
+  },
+  {
+    "id": 1689,
+    "word": "indebted",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "owing gratitude",
+    "example": "The outcome was indebted given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "감사를 표하다",
+      "zh": "心存感激",
+      "hi": "कृतज्ञता व्यक्त करना"
+    }
+  },
+  {
+    "id": 1690,
+    "word": "indecipherable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be read",
+    "example": "The outcome was indecipherable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "읽을 수 없음",
+      "zh": "无法读取",
+      "hi": "पढ़ा नहीं जा सकता"
+    }
+  },
+  {
+    "id": 1691,
+    "word": "indecorous",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not in keeping with standards",
+    "example": "The outcome was indecorous given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "기준에 부합하지 않음",
+      "zh": "不符合标准",
+      "hi": "मानकों के अनुरूप नहीं"
+    }
+  },
+  {
+    "id": 1692,
+    "word": "indefatigable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "persisting tirelessly",
+    "example": "The outcome was indefatigable given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "지치지 않고 끈질기게 노력하다",
+      "zh": "坚持不懈",
+      "hi": "अथक प्रयास करते हुए"
+    }
+  },
+  {
+    "id": 1693,
+    "word": "indelible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be forgotten",
+    "example": "The outcome was indelible given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "잊을 수 없는",
+      "zh": "令人难以忘怀",
+      "hi": "भुलाया नहीं जा सकता"
+    }
+  },
+  {
+    "id": 1694,
+    "word": "indemnify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to compensate for harm",
+    "example": "The outcome was indemnify given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "피해를 보상하기 위해",
+      "zh": "补偿损害",
+      "hi": "नुकसान की भरपाई के लिए"
+    }
+  },
+  {
+    "id": 1695,
+    "word": "indeterminate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not exactly known",
+    "example": "The outcome was indeterminate given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "정확히 알려지지 않음",
+      "zh": "尚不清楚",
+      "hi": "ठीक से ज्ञात नहीं"
+    }
+  },
+  {
+    "id": 1696,
+    "word": "indicative",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "serving as sign",
+    "example": "The outcome was indicative given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "표지판 역할을 하는",
+      "zh": "用作标志",
+      "hi": "संकेत के रूप में कार्य करना"
+    }
+  },
+  {
+    "id": 1697,
+    "word": "indict",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to formally accuse of crime",
+    "example": "The outcome was indict given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "범죄 혐의로 공식 기소하다",
+      "zh": "正式指控犯罪",
+      "hi": "किसी पर औपचारिक रूप से अपराध का आरोप लगाना"
+    }
+  },
+  {
+    "id": 1698,
+    "word": "indifferent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having no interest",
+    "example": "The outcome was indifferent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "관심이 없음",
+      "zh": "毫无兴趣",
+      "hi": "कोई रुचि न होना"
+    }
+  },
+  {
+    "id": 1699,
+    "word": "indigenous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "originating naturally in place",
+    "example": "The outcome was indigenous given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "자연적으로 그 장소에서 유래함",
+      "zh": "原地自然形成",
+      "hi": "किसी स्थान पर स्वाभाविक रूप से उत्पन्न होना"
+    }
+  },
+  {
+    "id": 1700,
+    "word": "indigent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "poor and needy",
+    "example": "The outcome was indigent given the circumstances.",
+    "category": "General",
+    "translations": {
+      "ko": "가난하고 궁핍한",
+      "zh": "贫困和需要帮助的人",
+      "hi": "गरीब और जरूरतमंद"
+    }
+  }
+]

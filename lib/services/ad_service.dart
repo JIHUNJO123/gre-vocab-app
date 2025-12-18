@@ -1,0 +1,189 @@
+import 'dart:io';
+import 'package:flutter/foundation.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+class AdService {
+  static final AdService _instance = AdService._internal();
+  static AdService get instance => _instance;
+  AdService._internal();
+
+  bool _isInitialized = false;
+  bool _adsRemoved = false;
+  BannerAd? _bannerAd;
+  bool _isBannerAdLoaded = false;
+  InterstitialAd? _interstitialAd;
+  bool _isInterstitialAdLoaded = false;
+
+  // ?�제 광고 ID
+  // Android
+  static const String _androidBannerId =
+      'ca-app-pub-5837885590326347/7770705381';
+  static const String _androidInterstitialId =
+      'ca-app-pub-5837885590326347/6457623714';
+  // iOS
+  static const String _iosBannerId = 'ca-app-pub-5837885590326347/4233294368';
+  static const String _iosInterstitialId =
+      'ca-app-pub-5837885590326347/3525156858';
+
+  String get bannerAdUnitId {
+    if (Platform.isAndroid) {
+      return _androidBannerId;
+    } else if (Platform.isIOS) {
+      return _iosBannerId;
+    }
+    return '';
+  }
+
+  String get interstitialAdUnitId {
+    if (Platform.isAndroid) {
+      return _androidInterstitialId;
+    } else if (Platform.isIOS) {
+      return _iosInterstitialId;
+    }
+    return '';
+  }
+
+  bool get isInitialized => _isInitialized;
+  bool get adsRemoved => _adsRemoved;
+  bool get isBannerAdLoaded => _isBannerAdLoaded;
+  bool get isInterstitialAdLoaded => _isInterstitialAdLoaded;
+  BannerAd? get bannerAd => _bannerAd;
+
+  Future<void> initialize() async {
+    if (_isInitialized) return;
+
+    // 광고 ?�거 구매 ?��? ?�인
+    final prefs = await SharedPreferences.getInstance();
+    _adsRemoved = prefs.getBool('ads_removed') ?? false;
+
+    if (_adsRemoved) {
+      _isInitialized = true;
+      return;
+    }
+
+    // ???�는 ?�스?�톱?�서??광고 비활?�화
+    if (kIsWeb || (!Platform.isAndroid && !Platform.isIOS)) {
+      _isInitialized = true;
+      return;
+    }
+
+    await MobileAds.instance.initialize();
+    _isInitialized = true;
+  }
+
+  Future<void> loadBannerAd({Function()? onLoaded}) async {
+    debugPrint('loadBannerAd called');
+    debugPrint('  adsRemoved: $_adsRemoved');
+
+    if (_adsRemoved) {
+      debugPrint('  Ads removed, skipping banner load');
+      return;
+    }
+    if (kIsWeb || (!Platform.isAndroid && !Platform.isIOS)) {
+      debugPrint('  Not mobile platform, skipping');
+      return;
+    }
+
+    _bannerAd?.dispose();
+    _isBannerAdLoaded = false;
+
+    debugPrint('  Loading banner with adUnitId: $bannerAdUnitId');
+
+    _bannerAd = BannerAd(
+      adUnitId: bannerAdUnitId,
+      size: AdSize.banner,
+      request: const AdRequest(),
+      listener: BannerAdListener(
+        onAdLoaded: (ad) {
+          debugPrint('  BannerAd loaded successfully!');
+          _isBannerAdLoaded = true;
+          onLoaded?.call();
+        },
+        onAdFailedToLoad: (ad, error) {
+          debugPrint(
+            '  BannerAd failed to load: ${error.code} - ${error.message}',
+          );
+          ad.dispose();
+          _isBannerAdLoaded = false;
+        },
+      ),
+    );
+
+    await _bannerAd!.load();
+  }
+
+  void disposeBannerAd() {
+    _bannerAd?.dispose();
+    _bannerAd = null;
+    _isBannerAdLoaded = false;
+  }
+
+  // ?�면 광고 로드
+  Future<void> loadInterstitialAd() async {
+    if (_adsRemoved) return;
+    if (kIsWeb || (!Platform.isAndroid && !Platform.isIOS)) return;
+
+    await InterstitialAd.load(
+      adUnitId: interstitialAdUnitId,
+      request: const AdRequest(),
+      adLoadCallback: InterstitialAdLoadCallback(
+        onAdLoaded: (ad) {
+          _interstitialAd = ad;
+          _isInterstitialAdLoaded = true;
+
+          _interstitialAd!
+              .fullScreenContentCallback = FullScreenContentCallback(
+            onAdDismissedFullScreenContent: (ad) {
+              ad.dispose();
+              _isInterstitialAdLoaded = false;
+              loadInterstitialAd(); // ?�음 광고 미리 로드
+            },
+            onAdFailedToShowFullScreenContent: (ad, error) {
+              ad.dispose();
+              _isInterstitialAdLoaded = false;
+              loadInterstitialAd();
+            },
+          );
+        },
+        onAdFailedToLoad: (error) {
+          debugPrint('InterstitialAd failed to load: $error');
+          _isInterstitialAdLoaded = false;
+        },
+      ),
+    );
+  }
+
+  // ?�면 광고 ?�시
+  Future<void> showInterstitialAd() async {
+    if (_adsRemoved) return;
+    if (!_isInterstitialAdLoaded || _interstitialAd == null) return;
+
+    await _interstitialAd!.show();
+  }
+
+  void disposeInterstitialAd() {
+    _interstitialAd?.dispose();
+    _interstitialAd = null;
+    _isInterstitialAdLoaded = false;
+  }
+
+  // 광고 ?�거 구매 ???�출
+  Future<void> removeAds() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('ads_removed', true);
+    _adsRemoved = true;
+    disposeBannerAd();
+    disposeInterstitialAd();
+  }
+
+  // 광고 ?�거 복원 (IAP 복원??
+  Future<void> restoreAdsRemoved() async {
+    final prefs = await SharedPreferences.getInstance();
+    _adsRemoved = prefs.getBool('ads_removed') ?? false;
+    if (_adsRemoved) {
+      disposeBannerAd();
+      disposeInterstitialAd();
+    }
+  }
+}

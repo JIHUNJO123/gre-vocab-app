@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 2201,
+    "word": "panegyric",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "public speech of praise",
+    "example": "The panegyric quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적인 찬사",
+      "zh": "公开赞扬的演讲",
+      "hi": "सार्वजनिक प्रशंसा भाषण"
+    }
+  },
+  {
+    "id": 2202,
+    "word": "panoramic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "with wide view",
+    "example": "The panoramic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "넓은 시야로",
+      "zh": "视野开阔",
+      "hi": "विस्तृत दृश्य के साथ"
+    }
+  },
+  {
+    "id": 2203,
+    "word": "paradigm",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "typical example or pattern",
+    "example": "The paradigm quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "전형적인 예 또는 패턴",
+      "zh": "典型例子或模式",
+      "hi": "विशिष्ट उदाहरण या प्रतिरूप"
+    }
+  },
+  {
+    "id": 2204,
+    "word": "paradox",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "seemingly contradictory statement",
+    "example": "The paradox quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "겉보기에 모순되는 진술",
+      "zh": "看似矛盾的陈述",
+      "hi": "प्रतीत होता है विरोधाभासी कथन"
+    }
+  },
+  {
+    "id": 2205,
+    "word": "paragon",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "model of excellence",
+    "example": "The paragon quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "탁월함의 모델",
+      "zh": "卓越典范",
+      "hi": "उत्कृष्टता का आदर्श"
+    }
+  },
+  {
+    "id": 2206,
+    "word": "parallel",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "side by side",
+    "example": "The parallel quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "나란히",
+      "zh": "并排",
+      "hi": "अगल बगल"
+    }
+  },
+  {
+    "id": 2207,
+    "word": "paramount",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "more important than anything",
+    "example": "The paramount quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무엇보다 중요한 것",
+      "zh": "比什么都重要",
+      "hi": "किसी भी चीज़ से ज़्यादा महत्वपूर्ण"
+    }
+  },
+  {
+    "id": 2208,
+    "word": "paranoid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unreasonably anxious",
+    "example": "The paranoid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 불안해",
+      "zh": "过度焦虑",
+      "hi": "अकारण चिंतित"
+    }
+  },
+  {
+    "id": 2209,
+    "word": "paraphrase",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to express meaning differently",
+    "example": "The paraphrase quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "의미를 다르게 표현하기 위해",
+      "zh": "用不同的方式表达含义",
+      "hi": "अर्थ को अलग तरीके से व्यक्त करना"
+    }
+  },
+  {
+    "id": 2210,
+    "word": "parasite",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "organism living on another",
+    "example": "The parasite quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 생물체에 살고 있는",
+      "zh": "生活在另一个生物体上的生物",
+      "hi": "किसी अन्य जीव पर रहने वाला जीव"
+    }
+  },
+  {
+    "id": 2211,
+    "word": "parched",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "dried out with heat",
+    "example": "The parched quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "열에 의해 건조됨",
+      "zh": "被热烘干",
+      "hi": "गर्मी से सुखा दिया गया"
+    }
+  },
+  {
+    "id": 2212,
+    "word": "pariah",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "outcast",
+    "example": "The pariah quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "추방자",
+      "zh": "被排斥者",
+      "hi": "जाति से निकाला हुआ"
+    }
+  },
+  {
+    "id": 2213,
+    "word": "parity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of being equal",
+    "example": "The parity quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "동등한 상태",
+      "zh": "平等状态",
+      "hi": "समानता की स्थिति"
+    }
+  },
+  {
+    "id": 2214,
+    "word": "parlance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "particular way of speaking",
+    "example": "The parlance quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "특정한 말하는 방식",
+      "zh": "特殊的说话方式",
+      "hi": "बोलने का विशेष तरीका"
+    }
+  },
+  {
+    "id": 2215,
+    "word": "parochial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having limited outlook",
+    "example": "The parochial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "시야가 제한적이다",
+      "zh": "视野有限",
+      "hi": "सीमित दृष्टिकोण होना"
+    }
+  },
+  {
+    "id": 2216,
+    "word": "parody",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "imitation for comic effect",
+    "example": "The parody quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "코믹한 효과를 위한 모방",
+      "zh": "模仿以达到喜剧效果",
+      "hi": "हास्य प्रभाव के लिए नकल"
+    }
+  },
+  {
+    "id": 2217,
+    "word": "paroxysm",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "sudden attack or outburst",
+    "example": "The paroxysm quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 공격 또는 폭발",
+      "zh": "突然发作或爆发",
+      "hi": "अचानक हमला या विस्फोट"
+    }
+  },
+  {
+    "id": 2218,
+    "word": "parry",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to ward off weapon",
+    "example": "The parry quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무기를 막아내다",
+      "zh": "抵御武器",
+      "hi": "हथियार से बचाव करना"
+    }
+  },
+  {
+    "id": 2219,
+    "word": "parsimonious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling to spend money",
+    "example": "The parsimonious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "돈을 쓰기 싫어함",
+      "zh": "不愿花钱",
+      "hi": "पैसा खर्च करने को तैयार नहीं"
+    }
+  },
+  {
+    "id": 2220,
+    "word": "partial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "existing only in part",
+    "example": "The partial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "부분적으로만 존재함",
+      "zh": "仅部分存在",
+      "hi": "केवल आंशिक रूप से विद्यमान"
+    }
+  },
+  {
+    "id": 2221,
+    "word": "partisan",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "prejudiced in favor of cause",
+    "example": "The partisan quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "원인에 유리하게 편향된",
+      "zh": "偏袒一方",
+      "hi": "किसी कारण के पक्ष में पूर्वाग्रही"
+    }
+  },
+  {
+    "id": 2222,
+    "word": "passive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "accepting what happens",
+    "example": "The passive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "일어나는 일을 받아들이기",
+      "zh": "接受发生的一切",
+      "hi": "जो कुछ भी होता है उसे स्वीकार करना"
+    }
+  },
+  {
+    "id": 2223,
+    "word": "pastoral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "associated with countryside",
+    "example": "The pastoral quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "시골과 관련된",
+      "zh": "与乡村相关",
+      "hi": "ग्रामीण इलाकों से संबंधित"
+    }
+  },
+  {
+    "id": 2224,
+    "word": "patent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily recognizable",
+    "example": "The patent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 알아볼 수 있는",
+      "zh": "易于识别",
+      "hi": "आसानी से पहचाने जाने योग्य"
+    }
+  },
+  {
+    "id": 2225,
+    "word": "pathetic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "arousing pity",
+    "example": "The pathetic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "동정심을 불러일으키다",
+      "zh": "唤起怜悯",
+      "hi": "दया जगाना"
+    }
+  },
+  {
+    "id": 2226,
+    "word": "pathological",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to disease",
+    "example": "The pathological quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "질병과 관련된",
+      "zh": "与疾病相关的",
+      "hi": "बीमारी से संबंधित"
+    }
+  },
+  {
+    "id": 2227,
+    "word": "pathos",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "quality that evokes pity",
+    "example": "The pathos quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "연민을 불러일으키는 특성",
+      "zh": "令人怜悯的品质",
+      "hi": "वह गुण जो दया की भावना जगाता है"
+    }
+  },
+  {
+    "id": 2228,
+    "word": "patriarch",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "male head of family",
+    "example": "The patriarch quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "남성 가장",
+      "zh": "男性户主",
+      "hi": "परिवार का पुरुष मुखिया"
+    }
+  },
+  {
+    "id": 2229,
+    "word": "patrician",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person of high social rank",
+    "example": "The patrician quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사회적 지위가 높은 사람",
+      "zh": "社会地位高的人",
+      "hi": "उच्च सामाजिक पद का व्यक्ति"
+    }
+  },
+  {
+    "id": 2230,
+    "word": "patrimony",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "property inherited from father",
+    "example": "The patrimony quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "아버지로부터 상속받은 재산",
+      "zh": "从父亲那里继承的财产",
+      "hi": "पिता से विरासत में मिली संपत्ति"
+    }
+  },
+  {
+    "id": 2231,
+    "word": "patronize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to treat condescendingly",
+    "example": "The patronize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경멸적으로 대하다",
+      "zh": "居高临下地对待",
+      "hi": "तिरस्कारपूर्ण व्यवहार करना"
+    }
+  },
+  {
+    "id": 2232,
+    "word": "paucity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "presence of something in small quantity",
+    "example": "The paucity quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "소량으로 어떤 것이 존재하는 것",
+      "zh": "少量存在",
+      "hi": "किसी चीज की थोड़ी मात्रा में उपस्थिति"
+    }
+  },
+  {
+    "id": 2233,
+    "word": "pauper",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "very poor person",
+    "example": "The pauper quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 가난한 사람",
+      "zh": "非常贫穷的人",
+      "hi": "बहुत गरीब व्यक्ति"
+    }
+  },
+  {
+    "id": 2234,
+    "word": "pedestrian",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking inspiration",
+    "example": "The pedestrian quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "영감이 부족하다",
+      "zh": "缺乏灵感",
+      "hi": "प्रेरणा का अभाव"
+    }
+  },
+  {
+    "id": 2235,
+    "word": "pedantic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "excessively concerned with details",
+    "example": "The pedantic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "세부 사항에 지나치게 신경 쓰는 사람",
+      "zh": "过分关注细节",
+      "hi": "विवरणों के प्रति अत्यधिक चिंतित"
+    }
+  },
+  {
+    "id": 2236,
+    "word": "pejorative",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "expressing contempt",
+    "example": "The pejorative quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "경멸을 표현하며",
+      "zh": "表示蔑视",
+      "hi": "अवमानना व्यक्त करना"
+    }
+  },
+  {
+    "id": 2237,
+    "word": "penchant",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "strong liking for something",
+    "example": "The penchant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가에 대한 강한 호감",
+      "zh": "对某事物的强烈喜爱",
+      "hi": "किसी चीज के प्रति तीव्र पसंद"
+    }
+  },
+  {
+    "id": 2238,
+    "word": "penitent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "feeling sorrow for wrongdoing",
+    "example": "The penitent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못에 대해 슬픔을 느끼는 것",
+      "zh": "为自己的过错感到悲伤",
+      "hi": "गलत काम के लिए दुख महसूस करना"
+    }
+  },
+  {
+    "id": 2239,
+    "word": "pensive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "engaged in deep thought",
+    "example": "The pensive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "깊은 생각에 잠겨",
+      "zh": "陷入沉思",
+      "hi": "गहन चिंतन में लीन"
+    }
+  },
+  {
+    "id": 2240,
+    "word": "penury",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "extreme poverty",
+    "example": "The penury quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "극빈곤",
+      "zh": "极端贫困",
+      "hi": "दर्दनाक गरीबी"
+    }
+  },
+  {
+    "id": 2241,
+    "word": "perceptive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having keen insight",
+    "example": "The perceptive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "예리한 통찰력을 가지고",
+      "zh": "拥有敏锐的洞察力",
+      "hi": "गहरी अंतर्दृष्टि होना"
+    }
+  },
+  {
+    "id": 2242,
+    "word": "percipient",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having good insight",
+    "example": "The percipient quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "통찰력이 뛰어남",
+      "zh": "具有敏锐的洞察力",
+      "hi": "अच्छी अंतर्दृष्टि होना"
+    }
+  },
+  {
+    "id": 2243,
+    "word": "peremptory",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "insisting on immediate attention",
+    "example": "The peremptory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "즉각적인 조치를 요구하며",
+      "zh": "坚持立即关注",
+      "hi": "तत्काल ध्यान देने पर जोर देते हुए"
+    }
+  },
+  {
+    "id": 2244,
+    "word": "perennial",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lasting indefinitely",
+    "example": "The perennial quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무기한 지속되는",
+      "zh": "无限期地持续",
+      "hi": "अनिश्चित काल तक चलने वाला"
+    }
+  },
+  {
+    "id": 2245,
+    "word": "perfidious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "deceitful and untrustworthy",
+    "example": "The perfidious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "기만적이고 신뢰할 수 없는",
+      "zh": "欺骗性和不可信赖的",
+      "hi": "कपटी और अविश्वसनीय"
+    }
+  },
+  {
+    "id": 2246,
+    "word": "perfunctory",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "carried out with minimum effort",
+    "example": "The perfunctory quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "최소한의 노력으로 수행됨",
+      "zh": "以最小的努力完成",
+      "hi": "न्यूनतम प्रयास से संपन्न किया गया"
+    }
+  },
+  {
+    "id": 2247,
+    "word": "perilous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "full of danger",
+    "example": "The perilous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "위험으로 가득 찬",
+      "zh": "充满危险",
+      "hi": "खतरों से भरा हुआ"
+    }
+  },
+  {
+    "id": 2248,
+    "word": "peripheral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of secondary importance",
+    "example": "The peripheral quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "중요도가 부차적입니다.",
+      "zh": "次要的重要性",
+      "hi": "द्वितीयक महत्व का"
+    }
+  },
+  {
+    "id": 2249,
+    "word": "perjury",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "offense of lying under oath",
+    "example": "The perjury quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "선서 하에 거짓말을 한 죄",
+      "zh": "作伪证罪",
+      "hi": "शपथ के तहत झूठ बोलने का अपराध"
+    }
+  },
+  {
+    "id": 2250,
+    "word": "permeate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to spread throughout",
+    "example": "The permeate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "널리 퍼지다",
+      "zh": "蔓延开来",
+      "hi": "पूरे में फैलने के लिए"
+    }
+  },
+  {
+    "id": 2251,
+    "word": "pernicious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having harmful effect",
+    "example": "The pernicious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "유해한 영향을 미치는",
+      "zh": "具有有害影响",
+      "hi": "हानिकारक प्रभाव डालना"
+    }
+  },
+  {
+    "id": 2252,
+    "word": "perpetual",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "never ending",
+    "example": "The perpetual quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "끝없는",
+      "zh": "永无止境",
+      "hi": "कभी समाप्त न होना"
+    }
+  },
+  {
+    "id": 2253,
+    "word": "perpetuate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make continue indefinitely",
+    "example": "The perpetuate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무기한으로 계속되도록 하다",
+      "zh": "使无限期地持续下去",
+      "hi": "अनिश्चित काल तक जारी रखना"
+    }
+  },
+  {
+    "id": 2254,
+    "word": "perplexing",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "completely baffling",
+    "example": "The perplexing quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 당황스럽다",
+      "zh": "完全令人费解",
+      "hi": "पूरी तरह से हैरान करने वाला"
+    }
+  },
+  {
+    "id": 2255,
+    "word": "persevere",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to continue despite difficulty",
+    "example": "The persevere quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어려움에도 불구하고 계속 나아가다",
+      "zh": "尽管困难重重，也要继续前进",
+      "hi": "कठिनाइयों के बावजूद जारी रखना"
+    }
+  },
+  {
+    "id": 2256,
+    "word": "persistent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "continuing firmly",
+    "example": "The persistent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "확고하게 계속",
+      "zh": "继续坚定不移",
+      "hi": "दृढ़ता से जारी रखना"
+    }
+  },
+  {
+    "id": 2257,
+    "word": "personable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having pleasant manner",
+    "example": "The personable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "상냥한 태도를 지닌",
+      "zh": "举止得体",
+      "hi": "सुखद व्यवहार वाला"
+    }
+  },
+  {
+    "id": 2258,
+    "word": "perspicacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having keen mental perception",
+    "example": "The perspicacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "예리한 정신적 지각력을 지닌",
+      "zh": "拥有敏锐的感知力",
+      "hi": "तीव्र मानसिक बोध क्षमता होना"
+    }
+  },
+  {
+    "id": 2259,
+    "word": "pertinacious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "holding firmly to opinion",
+    "example": "The pertinacious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "자신의 의견을 굳게 고수함",
+      "zh": "坚定地坚持己见",
+      "hi": "अपनी राय पर दृढ़ रहना"
+    }
+  },
+  {
+    "id": 2260,
+    "word": "pertinent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relevant to matter",
+    "example": "The pertinent quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "사안과 관련됨",
+      "zh": "与此相关的事项",
+      "hi": "मामले से संबंधित"
+    }
+  },
+  {
+    "id": 2261,
+    "word": "perturb",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make anxious",
+    "example": "The perturb quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "불안하게 만들다",
+      "zh": "使焦虑",
+      "hi": "चिंतित करना"
+    }
+  },
+  {
+    "id": 2262,
+    "word": "peruse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to read thoroughly",
+    "example": "The peruse quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "꼼꼼히 읽다",
+      "zh": "仔细阅读",
+      "hi": "पूरी तरह से पढ़ने के लिए"
+    }
+  },
+  {
+    "id": 2263,
+    "word": "pervasive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "spreading widely",
+    "example": "The pervasive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "널리 퍼지고 있습니다",
+      "zh": "广泛传播",
+      "hi": "व्यापक रूप से फैल रहा है"
+    }
+  },
+  {
+    "id": 2264,
+    "word": "pessimist",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who expects worst",
+    "example": "The pessimist quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "최악의 상황을 예상하는 사람",
+      "zh": "总是往最坏处想的人",
+      "hi": "वह व्यक्ति जो सबसे बुरे की उम्मीद करता है"
+    }
+  },
+  {
+    "id": 2265,
+    "word": "petty",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of little importance",
+    "example": "The petty quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "별로 중요하지 않음",
+      "zh": "无关紧要",
+      "hi": "कम महत्व का"
+    }
+  },
+  {
+    "id": 2266,
+    "word": "petulant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "childishly sulky",
+    "example": "The petulant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "어린아이처럼 삐쳐",
+      "zh": "孩子气地闷闷不乐",
+      "hi": "बचकाने ढंग से रूठा हुआ"
+    }
+  },
+  {
+    "id": 2267,
+    "word": "philanthropic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "seeking to promote welfare",
+    "example": "The philanthropic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "복지 증진을 추구함",
+      "zh": "旨在促进福利",
+      "hi": "कल्याण को बढ़ावा देने का प्रयास करना"
+    }
+  },
+  {
+    "id": 2268,
+    "word": "philistine",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person hostile to culture",
+    "example": "The philistine quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "문화에 적대적인 사람",
+      "zh": "对文化抱有敌意的人",
+      "hi": "संस्कृति के प्रति शत्रुता रखने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 2269,
+    "word": "phlegmatic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having unemotional disposition",
+    "example": "The phlegmatic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "감정이 없는 성향을 지닌",
+      "zh": "具有冷漠的性格",
+      "hi": "भावहीन स्वभाव वाला"
+    }
+  },
+  {
+    "id": 2270,
+    "word": "pinnacle",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "highest point",
+    "example": "The pinnacle quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "최고점",
+      "zh": "最高点",
+      "hi": "सबसे ऊंचा स्थान"
+    }
+  },
+  {
+    "id": 2271,
+    "word": "pious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "devoutly religious",
+    "example": "The pious quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "독실한 종교인",
+      "zh": "虔诚的宗教人士",
+      "hi": "अत्यंत धार्मिक"
+    }
+  },
+  {
+    "id": 2272,
+    "word": "pique",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to stimulate interest",
+    "example": "The pique quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "관심을 불러일으키기 위해",
+      "zh": "为了激发兴趣",
+      "hi": "रुचि जगाने के लिए"
+    }
+  },
+  {
+    "id": 2273,
+    "word": "pithy",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "concise and forceful",
+    "example": "The pithy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "간결하고 강력함",
+      "zh": "简洁有力",
+      "hi": "संक्षिप्त और सशक्त"
+    }
+  },
+  {
+    "id": 2274,
+    "word": "pittance",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "very small amount",
+    "example": "The pittance quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "아주 적은 양",
+      "zh": "极少量",
+      "hi": "बहुत कम मात्रा"
+    }
+  },
+  {
+    "id": 2275,
+    "word": "pivotal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of crucial importance",
+    "example": "The pivotal quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 중요한",
+      "zh": "至关重要",
+      "hi": "अत्यंत महत्वपूर्ण"
+    }
+  },
+  {
+    "id": 2276,
+    "word": "placate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make less angry",
+    "example": "The placate quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "화를 덜 내게 하려면",
+      "zh": "减少愤怒",
+      "hi": "कम गुस्सा दिलाना"
+    }
+  },
+  {
+    "id": 2277,
+    "word": "placid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not easily upset",
+    "example": "The placid quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 화를 내지 않음",
+      "zh": "不容易生气",
+      "hi": "आसानी से परेशान नहीं होता"
+    }
+  },
+  {
+    "id": 2278,
+    "word": "plagiarize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to take another's work",
+    "example": "The plagiarize quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 사람의 일을 가져가다",
+      "zh": "窃取他人的作品",
+      "hi": "किसी और का काम लेना"
+    }
+  },
+  {
+    "id": 2279,
+    "word": "plaintiff",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who brings case",
+    "example": "The plaintiff quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "소송을 제기하는 사람",
+      "zh": "提起诉讼的人",
+      "hi": "मामला लाने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 2280,
+    "word": "plaintive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sounding sad",
+    "example": "The plaintive quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "슬픈 소리가 나네요",
+      "zh": "听起来很悲伤",
+      "hi": "उदास लग रहा है"
+    }
+  },
+  {
+    "id": 2281,
+    "word": "plastic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily shaped or molded",
+    "example": "The plastic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 모양을 만들거나 성형할 수 있는",
+      "zh": "易于成型或塑形",
+      "hi": "आसानी से आकार दिया जा सकता है या ढाला जा सकता है"
+    }
+  },
+  {
+    "id": 2282,
+    "word": "platitude",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "remark used too often",
+    "example": "The platitude quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "너무 자주 쓰이는 표현",
+      "zh": "这句话用得太频繁了",
+      "hi": "यह टिप्पणी बहुत बार इस्तेमाल की गई"
+    }
+  },
+  {
+    "id": 2283,
+    "word": "plausible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "seeming reasonable",
+    "example": "The plausible quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "합리적으로 보인다",
+      "zh": "看似合理",
+      "hi": "उचित प्रतीत होता है"
+    }
+  },
+  {
+    "id": 2284,
+    "word": "plebeian",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "of lower social classes",
+    "example": "The plebeian quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "하위 사회 계층",
+      "zh": "社会地位较低的阶层",
+      "hi": "निम्न सामाजिक वर्गों के"
+    }
+  },
+  {
+    "id": 2285,
+    "word": "plenary",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "unqualified or absolute",
+    "example": "The plenary quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무조건적 또는 절대적",
+      "zh": "不合格的或绝对的",
+      "hi": "अयोग्य या पूर्ण"
+    }
+  },
+  {
+    "id": 2286,
+    "word": "plethora",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excess of something",
+    "example": "The plethora quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "무언가의 과잉",
+      "zh": "过量",
+      "hi": "किसी चीज की अधिकता"
+    }
+  },
+  {
+    "id": 2287,
+    "word": "pliable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily bent",
+    "example": "The pliable quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 구부러짐",
+      "zh": "容易弯曲",
+      "hi": "आसानी से मुड़ने योग्य"
+    }
+  },
+  {
+    "id": 2288,
+    "word": "pliant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily influenced",
+    "example": "The pliant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 영향을 받는",
+      "zh": "容易受到影响",
+      "hi": "आसानी से प्रभावित होने वाला"
+    }
+  },
+  {
+    "id": 2289,
+    "word": "plight",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "dangerous situation",
+    "example": "The plight quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "위험한 상황",
+      "zh": "危险情况",
+      "hi": "खतरनाक स्थिति"
+    }
+  },
+  {
+    "id": 2290,
+    "word": "plodding",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "slow-moving and unexciting",
+    "example": "The plodding quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "진행이 느리고 재미없다",
+      "zh": "节奏缓慢，乏味无趣",
+      "hi": "धीमी गति से चलने वाला और नीरस"
+    }
+  },
+  {
+    "id": 2291,
+    "word": "ploy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "cunning plan",
+    "example": "The ploy quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "교활한 계획",
+      "zh": "狡猾的计划",
+      "hi": "चालाकीभरी योजना"
+    }
+  },
+  {
+    "id": 2292,
+    "word": "pluck",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "spirited courage",
+    "example": "The pluck quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "기백 있는 용기",
+      "zh": "英勇无畏",
+      "hi": "जोशीला साहस"
+    }
+  },
+  {
+    "id": 2293,
+    "word": "plummet",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to fall sharply",
+    "example": "The plummet quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "급격히 떨어지다",
+      "zh": "急剧下降",
+      "hi": "तेजी से गिरना"
+    }
+  },
+  {
+    "id": 2294,
+    "word": "plunder",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to steal goods",
+    "example": "The plunder quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "물건을 훔치다",
+      "zh": "偷窃物品",
+      "hi": "सामान चुराना"
+    }
+  },
+  {
+    "id": 2295,
+    "word": "pluralistic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of system allowing diversity",
+    "example": "The pluralistic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "다양성을 허용하는 시스템",
+      "zh": "允许多样性的系统",
+      "hi": "विविधता की अनुमति देने वाली प्रणाली"
+    }
+  },
+  {
+    "id": 2296,
+    "word": "poignant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "evoking sadness",
+    "example": "The poignant quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "슬픔을 불러일으키다",
+      "zh": "令人悲伤",
+      "hi": "उदासी जगाना"
+    }
+  },
+  {
+    "id": 2297,
+    "word": "poised",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having composed manner",
+    "example": "The poised quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "침착한 태도를 가지고",
+      "zh": "沉着冷静",
+      "hi": "शांत स्वभाव वाला"
+    }
+  },
+  {
+    "id": 2298,
+    "word": "polemic",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "strong verbal attack",
+    "example": "The polemic quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "강력한 언어 공격",
+      "zh": "强烈的言语攻击",
+      "hi": "जोरदार मौखिक हमला"
+    }
+  },
+  {
+    "id": 2299,
+    "word": "polished",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "accomplished and skillful",
+    "example": "The polished quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "능숙하고 숙련된",
+      "zh": "技艺精湛、能力出众",
+      "hi": "निपुण और कुशल"
+    }
+  },
+  {
+    "id": 2300,
+    "word": "pompous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "affectedly grand",
+    "example": "The pompous quality defined the entire project.",
+    "category": "General",
+    "translations": {
+      "ko": "꾸며낸 듯 웅장한",
+      "zh": "矫揉造作的盛大",
+      "hi": "बनावटी भव्य"
+    }
+  }
+]

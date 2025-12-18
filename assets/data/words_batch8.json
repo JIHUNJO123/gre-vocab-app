@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 501,
+    "word": "aversion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "strong dislike",
+    "example": "His aversion nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 싫어함",
+      "zh": "非常不喜欢",
+      "hi": "तीव्र नापसंद"
+    }
+  },
+  {
+    "id": 502,
+    "word": "avid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having keen interest",
+    "example": "His avid nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "깊은 관심을 가지고",
+      "zh": "非常感兴趣",
+      "hi": "गहरी रुचि होना"
+    }
+  },
+  {
+    "id": 503,
+    "word": "axiom",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "statement accepted as true",
+    "example": "His axiom nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "진술은 사실로 받아들여진다",
+      "zh": "声明被接受为真",
+      "hi": "कथन को सत्य मान लिया गया"
+    }
+  },
+  {
+    "id": 504,
+    "word": "banal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking originality",
+    "example": "His banal nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "독창성이 부족함",
+      "zh": "缺乏原创性",
+      "hi": "मौलिकता का अभाव"
+    }
+  },
+  {
+    "id": 505,
+    "word": "bane",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "cause of great distress",
+    "example": "His bane nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 고통의 원인",
+      "zh": "造成极大痛苦",
+      "hi": "अत्यधिक कष्ट का कारण"
+    }
+  },
+  {
+    "id": 506,
+    "word": "baroque",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "highly ornate and extravagant",
+    "example": "His baroque nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 화려하고 사치스러운",
+      "zh": "极其华丽且奢华",
+      "hi": "अत्यधिक अलंकृत और असाधारण"
+    }
+  },
+  {
+    "id": 507,
+    "word": "barrage",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "overwhelming quantity",
+    "example": "His barrage nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "압도적인 양",
+      "zh": "数量庞大",
+      "hi": "अत्यधिक मात्रा"
+    }
+  },
+  {
+    "id": 508,
+    "word": "bastion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "stronghold defending principle",
+    "example": "His bastion nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "요새 방어 원칙",
+      "zh": "坚守原则",
+      "hi": "गढ़ रक्षा सिद्धांत"
+    }
+  },
+  {
+    "id": 509,
+    "word": "beget",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to bring about",
+    "example": "His beget nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "~을 가져오다",
+      "zh": "促成",
+      "hi": "बांधने"
+    }
+  },
+  {
+    "id": 510,
+    "word": "begrudge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to envy someone's possession",
+    "example": "His begrudge nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "다른 사람의 소유물을 부러워하다",
+      "zh": "嫉妒某人的财产",
+      "hi": "किसी की संपत्ति से ईर्ष्या करना"
+    }
+  },
+  {
+    "id": 511,
+    "word": "beguile",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to charm or enchant",
+    "example": "His beguile nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "매혹하거나 홀리다",
+      "zh": "使着迷或陶醉",
+      "hi": "मोहित करना या मंत्रमुग्ध करना"
+    }
+  },
+  {
+    "id": 512,
+    "word": "behemoth",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "huge creature or thing",
+    "example": "His behemoth nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "거대한 생물 또는 사물",
+      "zh": "巨大的生物或物体",
+      "hi": "विशाल प्राणी या वस्तु"
+    }
+  },
+  {
+    "id": 513,
+    "word": "behold",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to see or observe",
+    "example": "His behold nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "보다 또는 관찰하다",
+      "zh": "观看或观察",
+      "hi": "देखना या अवलोकन करना"
+    }
+  },
+  {
+    "id": 514,
+    "word": "beholden",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "owing thanks or duty",
+    "example": "His beholden nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "감사나 의무를 다하다",
+      "zh": "应尽的谢意或义务",
+      "hi": "धन्यवाद या कर्तव्य का पालन करना"
+    }
+  },
+  {
+    "id": 515,
+    "word": "belie",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to fail to give true impression",
+    "example": "His belie nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "진정한 인상을 주지 못하다",
+      "zh": "未能给人留下真实印象",
+      "hi": "सही प्रभाव देने में विफल होना"
+    }
+  },
+  {
+    "id": 516,
+    "word": "belittle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make seem unimportant",
+    "example": "His belittle nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "중요하지 않게 보이게 하다",
+      "zh": "使其显得无关紧要",
+      "hi": "महत्वहीन प्रतीत कराना"
+    }
+  },
+  {
+    "id": 517,
+    "word": "bellicose",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "demonstrating aggression",
+    "example": "His bellicose nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "공격성을 드러내다",
+      "zh": "表现出攻击性",
+      "hi": "आक्रामकता का प्रदर्शन करना"
+    }
+  },
+  {
+    "id": 518,
+    "word": "belligerent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "hostile and aggressive",
+    "example": "His belligerent nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "적대적이고 공격적인",
+      "zh": "敌对且好斗",
+      "hi": "शत्रुतापूर्ण और आक्रामक"
+    }
+  },
+  {
+    "id": 519,
+    "word": "bemoan",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to express discontent",
+    "example": "His bemoan nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "불만을 표현하다",
+      "zh": "表达不满",
+      "hi": "असंतोष व्यक्त करना"
+    }
+  },
+  {
+    "id": 520,
+    "word": "bemused",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "puzzled or confused",
+    "example": "His bemused nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "당황하거나 혼란스러워",
+      "zh": "困惑或迷茫",
+      "hi": "हैरान या भ्रमित"
+    }
+  },
+  {
+    "id": 521,
+    "word": "benefactor",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who gives aid",
+    "example": "His benefactor nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "도움을 주는 사람",
+      "zh": "提供帮助的人",
+      "hi": "सहायता देने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 522,
+    "word": "beneficent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "generous and doing good",
+    "example": "His beneficent nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "관대하고 선행을 베푸는 사람",
+      "zh": "慷慨大方，乐善好施",
+      "hi": "उदार और अच्छे काम करने वाला"
+    }
+  },
+  {
+    "id": 523,
+    "word": "benevolent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "well meaning and kindly",
+    "example": "His benevolent nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "선의와 친절함",
+      "zh": "善意且和蔼",
+      "hi": "नेक इरादे और दयालु"
+    }
+  },
+  {
+    "id": 524,
+    "word": "benign",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "gentle and kindly",
+    "example": "His benign nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "온화하고 친절함",
+      "zh": "温柔和善",
+      "hi": "सौम्य और दयालु"
+    }
+  },
+  {
+    "id": 525,
+    "word": "bequeath",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to leave property by will",
+    "example": "His bequeath nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "유언으로 재산을 남기다",
+      "zh": "通过遗嘱留下财产",
+      "hi": "वसीयत के माध्यम से संपत्ति छोड़ना"
+    }
+  },
+  {
+    "id": 526,
+    "word": "berate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to scold angrily",
+    "example": "His berate nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "화를 내며 꾸짖다",
+      "zh": "生气地责骂",
+      "hi": "गुस्से से डांटना"
+    }
+  },
+  {
+    "id": 527,
+    "word": "bereft",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deprived of",
+    "example": "His bereft nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "박탈당한",
+      "zh": "被剥夺了",
+      "hi": "से वंचित"
+    }
+  },
+  {
+    "id": 528,
+    "word": "beset",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to trouble persistently",
+    "example": "His beset nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "끊임없이 문제를 일으키다",
+      "zh": "持续不断地制造麻烦",
+      "hi": "लगातार परेशान करना"
+    }
+  },
+  {
+    "id": 529,
+    "word": "besmirch",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to damage reputation",
+    "example": "His besmirch nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "평판을 손상시키다",
+      "zh": "损害声誉",
+      "hi": "प्रतिष्ठा को नुकसान पहुँचाने के लिए"
+    }
+  },
+  {
+    "id": 530,
+    "word": "bestow",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to confer gift or honor",
+    "example": "His bestow nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "선물이나 명예를 수여하다",
+      "zh": "授予礼物或荣誉",
+      "hi": "उपहार या सम्मान प्रदान करना"
+    }
+  },
+  {
+    "id": 531,
+    "word": "betray",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to expose to enemy",
+    "example": "His betray nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "적에게 노출시키다",
+      "zh": "暴露于敌人",
+      "hi": "दुश्मन के सामने उजागर करना"
+    }
+  },
+  {
+    "id": 532,
+    "word": "bewilder",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause perplexity",
+    "example": "His bewilder nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "혼란을 야기하다",
+      "zh": "引起困惑",
+      "hi": "उलझन पैदा करने के लिए"
+    }
+  },
+  {
+    "id": 533,
+    "word": "bias",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "prejudice for or against",
+    "example": "His bias nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "찬성 또는 반대하는 편견",
+      "zh": "对……的偏见",
+      "hi": "पूर्वाग्रह के पक्ष या विपक्ष में"
+    }
+  },
+  {
+    "id": 534,
+    "word": "bifurcate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to divide into two branches",
+    "example": "His bifurcate nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "두 갈래로 나뉘다",
+      "zh": "分成两个分支",
+      "hi": "दो शाखाओं में विभाजित करना"
+    }
+  },
+  {
+    "id": 535,
+    "word": "bigot",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person intolerant toward others",
+    "example": "His bigot nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "타인에게 관용적이지 않은 사람",
+      "zh": "对他人缺乏包容心的人",
+      "hi": "दूसरों के प्रति असहिष्णु व्यक्ति"
+    }
+  },
+  {
+    "id": 536,
+    "word": "bilateral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "involving two parties",
+    "example": "His bilateral nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "두 당사자가 관련된",
+      "zh": "涉及双方",
+      "hi": "दो पक्षों को शामिल करना"
+    }
+  },
+  {
+    "id": 537,
+    "word": "bilk",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cheat or defraud",
+    "example": "His bilk nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "속이거나 기만하다",
+      "zh": "欺骗或诈骗",
+      "hi": "धोखा देना या ठगी करना"
+    }
+  },
+  {
+    "id": 538,
+    "word": "blasphemy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "irreverent talk about religion",
+    "example": "His blasphemy nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "종교에 대한 불경스러운 이야기",
+      "zh": "对宗教的轻佻言论",
+      "hi": "धर्म के बारे में अनादरपूर्ण बातें"
+    }
+  },
+  {
+    "id": 539,
+    "word": "blatant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "completely obvious",
+    "example": "His blatant nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 명백함",
+      "zh": "完全显而易见",
+      "hi": "पूरी तरह स्पष्ट"
+    }
+  },
+  {
+    "id": 540,
+    "word": "blight",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing that impairs quality",
+    "example": "His blight nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "품질을 저해하는 것",
+      "zh": "损害质量的因素",
+      "hi": "वह चीज जो गुणवत्ता को खराब करती है"
+    }
+  },
+  {
+    "id": 541,
+    "word": "bliss",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "perfect happiness",
+    "example": "His bliss nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "완벽한 행복",
+      "zh": "完美幸福",
+      "hi": "परिपूर्ण खुशी"
+    }
+  },
+  {
+    "id": 542,
+    "word": "blithe",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing casual indifference",
+    "example": "His blithe nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "무심한 태도를 보이는 것",
+      "zh": "表现出漫不经心的态度",
+      "hi": "लापरवाही से उदासीनता दिखाना"
+    }
+  },
+  {
+    "id": 543,
+    "word": "blunder",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "stupid or careless mistake",
+    "example": "His blunder nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "어리석거나 부주의한 실수",
+      "zh": "愚蠢或粗心的错误",
+      "hi": "मूर्खतापूर्ण या लापरवाही भरी गलती"
+    }
+  },
+  {
+    "id": 544,
+    "word": "blunt",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "uncompromisingly forthright",
+    "example": "His blunt nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "타협하지 않고 솔직한",
+      "zh": "毫不妥协的直言不讳",
+      "hi": "निडरतापूर्वक स्पष्टवादी"
+    }
+  },
+  {
+    "id": 545,
+    "word": "boast",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to talk with excessive pride",
+    "example": "His boast nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "지나친 자만심을 가지고 말하다",
+      "zh": "说话时过于骄傲",
+      "hi": "अत्यधिक गर्व के साथ बात करना"
+    }
+  },
+  {
+    "id": 546,
+    "word": "bode",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be omen of outcome",
+    "example": "His bode nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "결과의 징조가 되다",
+      "zh": "预示着结果",
+      "hi": "परिणाम का शगुन होना"
+    }
+  },
+  {
+    "id": 547,
+    "word": "bogus",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not genuine",
+    "example": "His bogus nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "진짜가 아닙니다",
+      "zh": "并非真品",
+      "hi": "वास्तविक नहीं"
+    }
+  },
+  {
+    "id": 548,
+    "word": "boisterous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "noisy and energetic",
+    "example": "His boisterous nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "시끄럽고 활기찬",
+      "zh": "喧闹而充满活力",
+      "hi": "शोरगुल भरा और ऊर्जावान"
+    }
+  },
+  {
+    "id": 549,
+    "word": "bolster",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to support or strengthen",
+    "example": "His bolster nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "지지하거나 강화하기 위해",
+      "zh": "支持或加强",
+      "hi": "समर्थन करना या मजबूत करना"
+    }
+  },
+  {
+    "id": 550,
+    "word": "bombastic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "high-sounding but meaningless",
+    "example": "His bombastic nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "거창하게 들리지만 의미 없는",
+      "zh": "听起来高大上，但毫无意义",
+      "hi": "ऊँची-ऊँची बातें करने के बावजूद अर्थहीन"
+    }
+  },
+  {
+    "id": 551,
+    "word": "boon",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing that is helpful",
+    "example": "His boon nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "도움이 되는 것",
+      "zh": "有用的",
+      "hi": "जो चीज़ मददगार हो"
+    }
+  },
+  {
+    "id": 552,
+    "word": "bourgeois",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of middle class",
+    "example": "His bourgeois nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "중산층",
+      "zh": "中产阶级",
+      "hi": "मध्यम वर्ग का"
+    }
+  },
+  {
+    "id": 553,
+    "word": "bracing",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fresh and invigorating",
+    "example": "His bracing nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "신선하고 활력 넘치는",
+      "zh": "清新提神",
+      "hi": "ताज़ा और स्फूर्तिदायक"
+    }
+  },
+  {
+    "id": 554,
+    "word": "brandish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to wave or flourish",
+    "example": "His brandish nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "손을 흔들거나 번성하다",
+      "zh": "挥动或绽放",
+      "hi": "लहराना या फैलाना"
+    }
+  },
+  {
+    "id": 555,
+    "word": "brash",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "self-assertive in rude way",
+    "example": "His brash nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "무례한 방식으로 자기주장을 내세운다",
+      "zh": "以粗鲁的方式表现得自信。",
+      "hi": "असभ्य तरीके से आत्म-विश्वास दिखाना"
+    }
+  },
+  {
+    "id": 556,
+    "word": "bravado",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "bold manner to impress",
+    "example": "His bravado nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "대담한 태도로 깊은 인상을 남기다",
+      "zh": "以大胆的方式给人留下深刻印象",
+      "hi": "प्रभावित करने का साहसी तरीका"
+    }
+  },
+  {
+    "id": 557,
+    "word": "breach",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "gap in wall or barrier",
+    "example": "His breach nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "벽이나 장벽의 틈",
+      "zh": "墙壁或屏障上的缝隙",
+      "hi": "दीवार या अवरोध में अंतराल"
+    }
+  },
+  {
+    "id": 558,
+    "word": "brevity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "concise expression",
+    "example": "His brevity nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "간결한 표현",
+      "zh": "简洁的表达",
+      "hi": "संक्षिप्त अभिव्यक्ति"
+    }
+  },
+  {
+    "id": 559,
+    "word": "bridle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to show resentment",
+    "example": "His bridle nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "분개하다",
+      "zh": "表示不满",
+      "hi": "नाराजगी दिखाना"
+    }
+  },
+  {
+    "id": 560,
+    "word": "bristle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to react angrily",
+    "example": "His bristle nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "화를 내며 반응하다",
+      "zh": "愤怒地回应",
+      "hi": "गुस्से से प्रतिक्रिया करना"
+    }
+  },
+  {
+    "id": 561,
+    "word": "broach",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to raise subject for discussion",
+    "example": "His broach nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "토론 주제를 제기하다",
+      "zh": "提出讨论主题",
+      "hi": "चर्चा के लिए विषय उठाना"
+    }
+  },
+  {
+    "id": 562,
+    "word": "bromide",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "trite and unoriginal idea",
+    "example": "His bromide nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "진부하고 독창성 없는 아이디어",
+      "zh": "老套且缺乏新意的想法",
+      "hi": "घिसा-पिटा और मौलिकताहीन विचार"
+    }
+  },
+  {
+    "id": 563,
+    "word": "brook",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to tolerate or allow",
+    "example": "His brook nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "용인하다 또는 허용하다",
+      "zh": "容忍或允许",
+      "hi": "सहन करना या अनुमति देना"
+    }
+  },
+  {
+    "id": 564,
+    "word": "browbeat",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to intimidate with words",
+    "example": "His browbeat nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "말로 위협하다",
+      "zh": "用言语恐吓",
+      "hi": "शब्दों से डराना"
+    }
+  },
+  {
+    "id": 565,
+    "word": "brusque",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "abrupt in manner",
+    "example": "His brusque nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 태도",
+      "zh": "态度生硬",
+      "hi": "व्यवहार में अचानक"
+    }
+  },
+  {
+    "id": 566,
+    "word": "bucolic",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "relating to countryside",
+    "example": "His bucolic nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "시골과 관련된",
+      "zh": "与乡村有关",
+      "hi": "ग्रामीण इलाकों से संबंधित"
+    }
+  },
+  {
+    "id": 567,
+    "word": "buffoon",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "ridiculous but amusing person",
+    "example": "His buffoon nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "우스꽝스럽지만 재미있는 사람",
+      "zh": "一个荒诞但有趣的人",
+      "hi": "हास्यास्पद लेकिन मनोरंजक व्यक्ति"
+    }
+  },
+  {
+    "id": 568,
+    "word": "bulwark",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "defensive wall",
+    "example": "His bulwark nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "방어벽",
+      "zh": "防御墙",
+      "hi": "रक्षात्मक दीवार"
+    }
+  },
+  {
+    "id": 569,
+    "word": "bungle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to carry out task clumsily",
+    "example": "His bungle nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "일을 서투르게 수행하다",
+      "zh": "笨拙地执行任务",
+      "hi": "किसी कार्य को अनाड़ीपन से अंजाम देना"
+    }
+  },
+  {
+    "id": 570,
+    "word": "buoyant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "cheerful and optimistic",
+    "example": "His buoyant nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "쾌활하고 낙관적인",
+      "zh": "开朗乐观",
+      "hi": "हंसमुख और आशावादी"
+    }
+  },
+  {
+    "id": 571,
+    "word": "burgeon",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to begin to grow rapidly",
+    "example": "His burgeon nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "급속도로 성장하기 시작하다",
+      "zh": "开始快速增长",
+      "hi": "तेजी से बढ़ना शुरू करना"
+    }
+  },
+  {
+    "id": 572,
+    "word": "burnish",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to polish by rubbing",
+    "example": "His burnish nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "문질러서 광택을 내다",
+      "zh": "通过摩擦抛光",
+      "hi": "रगड़कर चमकाना"
+    }
+  },
+  {
+    "id": 573,
+    "word": "buttress",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to increase strength of",
+    "example": "His buttress nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "강도를 높이기 위해",
+      "zh": "增强力量",
+      "hi": "ताकत बढ़ाने के लिए"
+    }
+  },
+  {
+    "id": 574,
+    "word": "byzantine",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "excessively complicated",
+    "example": "His byzantine nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 복잡함",
+      "zh": "过于复杂",
+      "hi": "अत्यधिक जटिल"
+    }
+  },
+  {
+    "id": 575,
+    "word": "cache",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "hidden store of things",
+    "example": "His cache nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "숨겨진 물건들의 창고",
+      "zh": "隐藏的物品商店",
+      "hi": "चीजों का छिपा हुआ भंडार"
+    }
+  },
+  {
+    "id": 576,
+    "word": "cacophony",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "harsh discordant sound",
+    "example": "His cacophony nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "거칠고 불협화음적인 소리",
+      "zh": "刺耳不和谐的声音",
+      "hi": "कर्कश बेमेल ध्वनि"
+    }
+  },
+  {
+    "id": 577,
+    "word": "cadence",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "rhythmic flow of sequence",
+    "example": "His cadence nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "순서의 리드미컬한 흐름",
+      "zh": "序列的节奏流动",
+      "hi": "अनुक्रम का लयबद्ध प्रवाह"
+    }
+  },
+  {
+    "id": 578,
+    "word": "cajole",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to persuade by flattery",
+    "example": "His cajole nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "아첨으로 설득하다",
+      "zh": "用奉承来劝服",
+      "hi": "चापलूसी से राजी करना"
+    }
+  },
+  {
+    "id": 579,
+    "word": "calamity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "event causing great damage",
+    "example": "His calamity nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 피해를 초래한 사건",
+      "zh": "事件造成巨大损失",
+      "hi": "भारी नुकसान पहुंचाने वाली घटना"
+    }
+  },
+  {
+    "id": 580,
+    "word": "calibrate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to adjust precisely",
+    "example": "His calibrate nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "정확하게 조정하기 위해",
+      "zh": "精确调整",
+      "hi": "सटीक रूप से समायोजित करने के लिए"
+    }
+  },
+  {
+    "id": 581,
+    "word": "callous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing cruel disregard",
+    "example": "His callous nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "잔혹한 무시를 보이는",
+      "zh": "表现出残酷的漠视",
+      "hi": "क्रूर उपेक्षा प्रदर्शित करना"
+    }
+  },
+  {
+    "id": 582,
+    "word": "callow",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "inexperienced and immature",
+    "example": "His callow nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "경험이 부족하고 미성숙한",
+      "zh": "缺乏经验且不成熟",
+      "hi": "अनुभवहीन और अपरिपक्व"
+    }
+  },
+  {
+    "id": 583,
+    "word": "calumny",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "false statement to damage",
+    "example": "His calumny nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "손해를 입히기 위한 허위 진술",
+      "zh": "虚假陈述以造成损害",
+      "hi": "नुकसान पहुंचाने के लिए झूठा बयान"
+    }
+  },
+  {
+    "id": 584,
+    "word": "camaraderie",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "mutual trust among friends",
+    "example": "His camaraderie nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "친구 사이의 상호 신뢰",
+      "zh": "朋友间的互信",
+      "hi": "दोस्तों के बीच आपसी विश्वास"
+    }
+  },
+  {
+    "id": 585,
+    "word": "candid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "truthful and straightforward",
+    "example": "His candid nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "진실하고 솔직한",
+      "zh": "诚实坦率",
+      "hi": "सच्चा और स्पष्टवादी"
+    }
+  },
+  {
+    "id": 586,
+    "word": "candor",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "quality of being open",
+    "example": "His candor nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "개방적인 성향",
+      "zh": "开放的品质",
+      "hi": "खुला होने का गुण"
+    }
+  },
+  {
+    "id": 587,
+    "word": "canvass",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to seek opinion of",
+    "example": "His canvass nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "의견을 구하기 위해",
+      "zh": "征求意见",
+      "hi": "किसी की राय जानने के लिए"
+    }
+  },
+  {
+    "id": 588,
+    "word": "capacity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "maximum amount containable",
+    "example": "His capacity nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "최대 허용량",
+      "zh": "可容纳的最大量",
+      "hi": "अधिकतम समाहित करने योग्य मात्रा"
+    }
+  },
+  {
+    "id": 589,
+    "word": "capitulate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cease to resist",
+    "example": "His capitulate nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "저항을 멈추다",
+      "zh": "停止抵抗",
+      "hi": "प्रतिरोध करना बंद करना"
+    }
+  },
+  {
+    "id": 590,
+    "word": "capricious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "given to sudden change",
+    "example": "His capricious nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "갑작스러운 변화에 적응하는",
+      "zh": "容易发生突变",
+      "hi": "अचानक बदलाव के लिए प्रवण"
+    }
+  },
+  {
+    "id": 591,
+    "word": "captious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "tending to find fault",
+    "example": "His captious nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "흠을 찾으려는 경향이 있다",
+      "zh": "总是喜欢挑毛病",
+      "hi": "दोष ढूंढने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 592,
+    "word": "cardinal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of greatest importance",
+    "example": "His cardinal nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "가장 중요한",
+      "zh": "至关重要",
+      "hi": "सबसे अधिक महत्व का"
+    }
+  },
+  {
+    "id": 593,
+    "word": "caricature",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "exaggerated description",
+    "example": "His caricature nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "과장된 묘사",
+      "zh": "夸张的描述",
+      "hi": "अतिरंजित वर्णन"
+    }
+  },
+  {
+    "id": 594,
+    "word": "carping",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "difficult to please",
+    "example": "His carping nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "만족시키기 어려운",
+      "zh": "很难取悦",
+      "hi": "प्रसन्न करना कठिन है"
+    }
+  },
+  {
+    "id": 595,
+    "word": "castigate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to reprimand severely",
+    "example": "His castigate nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "심하게 질책하다",
+      "zh": "严厉训斥",
+      "hi": "कड़ी फटकार लगाना"
+    }
+  },
+  {
+    "id": 596,
+    "word": "catalyst",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person or thing precipitating change",
+    "example": "His catalyst nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "변화를 촉발하는 사람 또는 사물",
+      "zh": "引发变化的人或事",
+      "hi": "परिवर्तन लाने वाला व्यक्ति या वस्तु"
+    }
+  },
+  {
+    "id": 597,
+    "word": "categorical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unambiguously explicit",
+    "example": "His categorical nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "모호함 없이 명시적",
+      "zh": "明确无误",
+      "hi": "स्पष्ट रूप से"
+    }
+  },
+  {
+    "id": 598,
+    "word": "catharsis",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "release of strong emotions",
+    "example": "His catharsis nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "강렬한 감정의 해소",
+      "zh": "释放强烈的情绪",
+      "hi": "तीव्र भावनाओं की अभिव्यक्ति"
+    }
+  },
+  {
+    "id": 599,
+    "word": "caustic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "sarcastic in bitter way",
+    "example": "His caustic nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "비꼬는 듯하면서도 씁쓸한",
+      "zh": "以苦涩的方式讽刺",
+      "hi": "कड़वे अंदाज में व्यंग्यात्मक"
+    }
+  },
+  {
+    "id": 600,
+    "word": "cavalier",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing lack of proper concern",
+    "example": "His cavalier nature was evident in the meeting.",
+    "category": "General",
+    "translations": {
+      "ko": "적절한 관심이 부족함을 보여준다",
+      "zh": "表现出缺乏应有的关心",
+      "hi": "उचित चिंता का अभाव दर्शाना"
+    }
+  }
+]

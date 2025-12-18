@@ -1,0 +1,702 @@
+[
+  {
+    "id": 101,
+    "word": "harangue",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "lengthy aggressive speech",
+    "example": "The harangue situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "길고 공격적인 연설",
+      "zh": "冗长的攻击性言论",
+      "hi": "लंबा आक्रामक भाषण"
+    }
+  },
+  {
+    "id": 102,
+    "word": "hegemony",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "dominance of one group over another",
+    "example": "The hegemony situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "한 집단이 다른 집단을 지배하는 것",
+      "zh": "一个群体对另一个群体的支配地位",
+      "hi": "एक समूह का दूसरे समूह पर प्रभुत्व"
+    }
+  },
+  {
+    "id": 103,
+    "word": "heresy",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "belief contrary to accepted doctrine",
+    "example": "The heresy situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "정설에 반하는 믿음",
+      "zh": "与公认教义相悖的信念",
+      "hi": "मान्यता स्वीकृत सिद्धांत के विपरीत है"
+    }
+  },
+  {
+    "id": 104,
+    "word": "heterodox",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "not conforming to accepted beliefs",
+    "example": "The heterodox situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "통념에 부합하지 않음",
+      "zh": "不符合公认的信仰",
+      "hi": "स्वीकृत मान्यताओं के अनुरूप नहीं होना"
+    }
+  },
+  {
+    "id": 105,
+    "word": "histrionic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "overly theatrical or dramatic",
+    "example": "The histrionic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 연극적이거나 극적인",
+      "zh": "过于戏剧化或夸张",
+      "hi": "अत्यधिक नाटकीय या नाटकीय"
+    }
+  },
+  {
+    "id": 106,
+    "word": "homogeneous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "of the same kind; uniform",
+    "example": "The homogeneous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "같은 종류의; 균일한",
+      "zh": "同类的；统一的",
+      "hi": "एक ही प्रकार का; एकसमान"
+    }
+  },
+  {
+    "id": 107,
+    "word": "hubris",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "excessive pride or arrogance",
+    "example": "The hubris situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "지나친 자만심 또는 오만함",
+      "zh": "过度骄傲或傲慢",
+      "hi": "अत्यधिक गर्व या अहंकार"
+    }
+  },
+  {
+    "id": 108,
+    "word": "iconoclast",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "one who attacks established beliefs",
+    "example": "The iconoclast situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "기존의 믿음을 공격하는 사람",
+      "zh": "攻击既定信仰的人",
+      "hi": "वह व्यक्ति जो स्थापित मान्यताओं पर हमला करता है"
+    }
+  },
+  {
+    "id": 109,
+    "word": "idiosyncratic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "peculiar to an individual",
+    "example": "The idiosyncratic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "개인에게 특이한",
+      "zh": "个人特有的",
+      "hi": "किसी व्यक्ति विशेष के लिए विशिष्ट"
+    }
+  },
+  {
+    "id": 110,
+    "word": "ignominious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "deserving public disgrace",
+    "example": "The ignominious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적인 망신을 당할 만한",
+      "zh": "理应受到公开羞辱",
+      "hi": "सार्वजनिक अपमान के योग्य"
+    }
+  },
+  {
+    "id": 111,
+    "word": "immutable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unchanging over time",
+    "example": "The immutable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "시간이 지나도 변하지 않는",
+      "zh": "随时间保持不变",
+      "hi": "समय के साथ अपरिवर्तित"
+    }
+  },
+  {
+    "id": 112,
+    "word": "impassive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not feeling or showing emotion",
+    "example": "The impassive situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "감정을 느끼거나 표현하지 않음",
+      "zh": "没有感觉或表现出情绪",
+      "hi": "भावनाओं को महसूस न करना या न दिखाना"
+    }
+  },
+  {
+    "id": 113,
+    "word": "impecunious",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "having little or no money",
+    "example": "The impecunious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "돈이 거의 없거나 전혀 없는",
+      "zh": "几乎没有钱或没有钱",
+      "hi": "बहुत कम या बिल्कुल भी पैसा न होना"
+    }
+  },
+  {
+    "id": 114,
+    "word": "imperious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "arrogantly domineering",
+    "example": "The imperious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "오만하게 지배적인",
+      "zh": "傲慢专横",
+      "hi": "अहंकारी और दबंग"
+    }
+  },
+  {
+    "id": 115,
+    "word": "imperturbable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be upset",
+    "example": "The imperturbable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "화를 낼 수 없는",
+      "zh": "无法感到沮丧",
+      "hi": "परेशान होने में असमर्थ"
+    }
+  },
+  {
+    "id": 116,
+    "word": "impervious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not affected by",
+    "example": "The impervious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "영향을 받지 않음",
+      "zh": "不受",
+      "hi": "प्रभावित नहीं"
+    }
+  },
+  {
+    "id": 117,
+    "word": "implacable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unable to be appeased",
+    "example": "The implacable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "달랠 수 없는",
+      "zh": "无法安抚",
+      "hi": "जिसे शांत नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 118,
+    "word": "impugn",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to challenge as false",
+    "example": "The impugn situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "거짓이라고 반박하다",
+      "zh": "质疑其虚假性",
+      "hi": "झूठा साबित करने के लिए चुनौती देना"
+    }
+  },
+  {
+    "id": 119,
+    "word": "inchoate",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "just begun; not fully formed",
+    "example": "The inchoate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이제 막 시작했을 뿐, 아직 완전히 형성되지 않았습니다.",
+      "zh": "刚刚开始；尚未完全形成",
+      "hi": "अभी शुरू हुआ है; पूरी तरह से विकसित नहीं हुआ है"
+    }
+  },
+  {
+    "id": 120,
+    "word": "incongruous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not in harmony; inappropriate",
+    "example": "The incongruous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "조화롭지 않음; 부적절함",
+      "zh": "不协调；不恰当",
+      "hi": "सामंजस्य में नहीं; अनुपयुक्त"
+    }
+  },
+  {
+    "id": 121,
+    "word": "incorrigible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not able to be reformed",
+    "example": "The incorrigible situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "개혁될 수 없음",
+      "zh": "无法改革",
+      "hi": "सुधार योग्य नहीं"
+    }
+  },
+  {
+    "id": 122,
+    "word": "indefatigable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "persisting tirelessly",
+    "example": "The indefatigable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "지치지 않고 끈질기게 노력하다",
+      "zh": "坚持不懈",
+      "hi": "अथक प्रयास करते हुए"
+    }
+  },
+  {
+    "id": 123,
+    "word": "indigent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "poor; needy",
+    "example": "The indigent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "가난한; 궁핍한",
+      "zh": "贫困的；需要帮助的",
+      "hi": "गरीब; जरूरतमंद"
+    }
+  },
+  {
+    "id": 124,
+    "word": "indolent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wanting to avoid activity",
+    "example": "The indolent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "활동을 피하고 싶어함",
+      "zh": "想要避免活动",
+      "hi": "गतिविधि से बचना चाहते हैं"
+    }
+  },
+  {
+    "id": 125,
+    "word": "ineffable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "too great to be expressed",
+    "example": "The ineffable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "말로 다 표현할 수 없을 만큼 훌륭합니다.",
+      "zh": "太过伟大，难以言表。",
+      "hi": "इतना महान कि व्यक्त नहीं किया जा सकता"
+    }
+  },
+  {
+    "id": 126,
+    "word": "ineluctable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to avoid",
+    "example": "The ineluctable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "피할 수 없다",
+      "zh": "无法避免",
+      "hi": "टालना असंभव है"
+    }
+  },
+  {
+    "id": 127,
+    "word": "ingenuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "innocent and unsuspecting",
+    "example": "The ingenuous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "순진하고 의심하지 않는",
+      "zh": "天真无邪、毫无戒心",
+      "hi": "निर्दोष और अनभिज्ञ"
+    }
+  },
+  {
+    "id": 128,
+    "word": "inimical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "hostile; unfriendly",
+    "example": "The inimical situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "적대적인; 비우호적인",
+      "zh": "敌对的；不友好的",
+      "hi": "शत्रुतापूर्ण; अमित्र"
+    }
+  },
+  {
+    "id": 129,
+    "word": "innate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "inborn; natural",
+    "example": "The innate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "선천적인; 자연적인",
+      "zh": "天生的；天然的",
+      "hi": "जन्मजात; प्राकृतिक"
+    }
+  },
+  {
+    "id": 130,
+    "word": "innocuous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not harmful or offensive",
+    "example": "The innocuous situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "무해하거나 불쾌하지 않음",
+      "zh": "不具伤害性或冒犯性",
+      "hi": "हानिकारक या आपत्तिजनक नहीं"
+    }
+  },
+  {
+    "id": 131,
+    "word": "inscrutable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "impossible to understand",
+    "example": "The inscrutable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이해할 수 없음",
+      "zh": "难以理解",
+      "hi": "समझना असंभव है"
+    }
+  },
+  {
+    "id": 132,
+    "word": "insidious",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "gradually harmful",
+    "example": "The insidious situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "점진적으로 해로운",
+      "zh": "逐渐有害",
+      "hi": "धीरे-धीरे हानिकारक"
+    }
+  },
+  {
+    "id": 133,
+    "word": "insipid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking flavor or interest",
+    "example": "The insipid situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "맛이나 흥미가 부족하다",
+      "zh": "缺乏味道或趣味",
+      "hi": "स्वाद या रुचि का अभाव"
+    }
+  },
+  {
+    "id": 134,
+    "word": "intractable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "hard to control or deal with",
+    "example": "The intractable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "통제하거나 다루기 어렵습니다.",
+      "zh": "难以控制或处理",
+      "hi": "नियंत्रित करना या निपटना कठिन है"
+    }
+  },
+  {
+    "id": 135,
+    "word": "intransigent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unwilling to compromise",
+    "example": "The intransigent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "타협할 의사가 없다",
+      "zh": "不愿妥协",
+      "hi": "समझौता करने को तैयार नहीं"
+    }
+  },
+  {
+    "id": 136,
+    "word": "inundate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to overwhelm with things",
+    "example": "The inundate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "물건들로 압도하다",
+      "zh": "用各种事物淹没",
+      "hi": "चीजों से अभिभूत करना"
+    }
+  },
+  {
+    "id": 137,
+    "word": "inure",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to accustom to something unpleasant",
+    "example": "The inure situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 것에 익숙해지다",
+      "zh": "习惯不愉快的事情",
+      "hi": "किसी अप्रिय चीज़ की आदत डालना"
+    }
+  },
+  {
+    "id": 138,
+    "word": "invective",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "insulting abusive language",
+    "example": "The invective situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "모욕적인 언어",
+      "zh": "侮辱性辱骂性语言",
+      "hi": "अपमानजनक अपशब्द"
+    }
+  },
+  {
+    "id": 139,
+    "word": "inveterate",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "long-established; habitual",
+    "example": "The inveterate situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "오랜 역사를 가진; 습관적인",
+      "zh": "长期存在的；习惯性的",
+      "hi": "लंबे समय से स्थापित; अभ्यस्त"
+    }
+  },
+  {
+    "id": 140,
+    "word": "irascible",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "easily angered",
+    "example": "The irascible situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "쉽게 화를 내는",
+      "zh": "易怒",
+      "hi": "आसानी से क्रोधित हो जाने वाला"
+    }
+  },
+  {
+    "id": 141,
+    "word": "irresolute",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "showing hesitancy",
+    "example": "The irresolute situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "주저하는 모습을 보임",
+      "zh": "表现出犹豫",
+      "hi": "हिचकिचाहट दिखाना"
+    }
+  },
+  {
+    "id": 142,
+    "word": "itinerant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "traveling from place to place",
+    "example": "The itinerant situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "이곳저곳으로 여행하기",
+      "zh": "从一个地方到另一个地方",
+      "hi": "एक स्थान से दूसरे स्थान की यात्रा करना"
+    }
+  },
+  {
+    "id": 143,
+    "word": "jaundiced",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "affected by bitterness",
+    "example": "The jaundiced situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "쓴맛에 영향을 받음",
+      "zh": "受苦味影响",
+      "hi": "कड़वाहट से प्रभावित"
+    }
+  },
+  {
+    "id": 144,
+    "word": "jejune",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "naive, simplistic, dull",
+    "example": "The jejune situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "순진하고, 단순하고, 지루한",
+      "zh": "天真、简单、乏味",
+      "hi": "भोला, सरल, नीरस"
+    }
+  },
+  {
+    "id": 145,
+    "word": "juxtapose",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to place side by side",
+    "example": "The juxtapose situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "나란히 놓다",
+      "zh": "并排放置",
+      "hi": "अगल-बगल रखना"
+    }
+  },
+  {
+    "id": 146,
+    "word": "laconic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "using few words",
+    "example": "The laconic situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "몇 마디로",
+      "zh": "用寥寥数语",
+      "hi": "कम शब्दों का प्रयोग करते हुए"
+    }
+  },
+  {
+    "id": 147,
+    "word": "languid",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lacking energy",
+    "example": "The languid situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "에너지가 부족함",
+      "zh": "缺乏能量",
+      "hi": "ऊर्जा की कमी"
+    }
+  },
+  {
+    "id": 148,
+    "word": "lassitude",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "physical or mental weariness",
+    "example": "The lassitude situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "육체적 또는 정신적 피로",
+      "zh": "身体或精神疲劳",
+      "hi": "शारीरिक या मानसिक थकावट"
+    }
+  },
+  {
+    "id": 149,
+    "word": "latent",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "existing but not yet developed",
+    "example": "The latent situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "존재하지만 아직 개발되지 않음",
+      "zh": "已存在但尚未开发",
+      "hi": "मौजूद है लेकिन अभी तक विकसित नहीं हुआ है"
+    }
+  },
+  {
+    "id": 150,
+    "word": "laudable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "deserving praise",
+    "example": "The laudable situation required immediate attention.",
+    "category": "General",
+    "translations": {
+      "ko": "칭찬받을 만한",
+      "zh": "值得赞扬",
+      "hi": "प्रशंसा के योग्य"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+﻿[
+  {"id": 1, "word": "abstruse", "level": "Advanced", "partOfSpeech": "adjective", "definition": "difficult to understand; obscure", "example": "The professor's abstruse lecture confused most students.", "category": "General"},
+  {"id": 2, "word": "acerbic", "level": "Advanced", "partOfSpeech": "adjective", "definition": "sharp and harsh in tone or taste", "example": "Her acerbic wit often offended colleagues.", "category": "General"},
+  {"id": 3, "word": "acrimony", "level": "Advanced", "partOfSpeech": "noun", "definition": "bitterness or ill feeling", "example": "The divorce was filled with acrimony.", "category": "General"},
+  {"id": 4, "word": "adumbrate", "level": "Expert", "partOfSpeech": "verb", "definition": "to outline or foreshadow", "example": "The author adumbrated the tragedy in chapter one.", "category": "General"},
+  {"id": 5, "word": "aesthetic", "level": "Common", "partOfSpeech": "adjective", "definition": "concerned with beauty or art", "example": "The building has great aesthetic appeal.", "category": "General"},
+  {"id": 6, "word": "aggrandize", "level": "Advanced", "partOfSpeech": "verb", "definition": "to increase power or reputation", "example": "He sought to aggrandize himself through political office.", "category": "General"},
+  {"id": 7, "word": "alacrity", "level": "Advanced", "partOfSpeech": "noun", "definition": "brisk eagerness or enthusiasm", "example": "She accepted the offer with alacrity.", "category": "General"},
+  {"id": 8, "word": "amalgamate", "level": "Common", "partOfSpeech": "verb", "definition": "to combine or unite", "example": "The two companies amalgamated to form a conglomerate.", "category": "General"},
+  {"id": 9, "word": "ameliorate", "level": "Advanced", "partOfSpeech": "verb", "definition": "to make better or improve", "example": "The new policies ameliorated working conditions.", "category": "General"},
+  {"id": 10, "word": "anachronism", "level": "Advanced", "partOfSpeech": "noun", "definition": "something out of its proper time", "example": "A typewriter is an anachronism in the digital age.", "category": "General"}
+]

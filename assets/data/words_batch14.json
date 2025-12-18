@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1101,
+    "word": "entail",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to involve as necessary consequence",
+    "example": "The entail strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "필연적인 결과로 포함시키다",
+      "zh": "必要时会造成后果",
+      "hi": "आवश्यक परिणाम के रूप में शामिल करना"
+    }
+  },
+  {
+    "id": 1102,
+    "word": "entangle",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to become twisted",
+    "example": "The entangle strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "뒤틀리게 하다",
+      "zh": "使之扭曲",
+      "hi": "किसी चीज को विकृत करना"
+    }
+  },
+  {
+    "id": 1103,
+    "word": "enterprise",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "project or undertaking",
+    "example": "The enterprise strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "프로젝트 또는 사업",
+      "zh": "项目或事业",
+      "hi": "परियोजना या उपक्रम"
+    }
+  },
+  {
+    "id": 1104,
+    "word": "enthrall",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to capture fascinated attention",
+    "example": "The enthrall strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "매혹적인 관심을 사로잡기 위해",
+      "zh": "吸引人们的注意力",
+      "hi": "मोहित होकर ध्यान आकर्षित करना"
+    }
+  },
+  {
+    "id": 1105,
+    "word": "enthuse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to express eager enjoyment",
+    "example": "The enthuse strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "열렬한 즐거움을 표현하다",
+      "zh": "表达欣喜之情",
+      "hi": "उत्सुक आनंद व्यक्त करना"
+    }
+  },
+  {
+    "id": 1106,
+    "word": "entice",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to attract by offering pleasure",
+    "example": "The entice strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "즐거움을 선사하여 끌어당기다",
+      "zh": "通过提供愉悦来吸引人",
+      "hi": "सुख प्रदान करके आकर्षित करना"
+    }
+  },
+  {
+    "id": 1107,
+    "word": "entity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "thing with distinct existence",
+    "example": "The entity strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "뚜렷한 존재를 가진 것",
+      "zh": "具有独特存在的事物",
+      "hi": "विशिष्ट अस्तित्व वाली वस्तु"
+    }
+  },
+  {
+    "id": 1108,
+    "word": "entrance",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to fill with wonder",
+    "example": "The entrance strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "경이로움으로 가득 채우다",
+      "zh": "充满惊奇",
+      "hi": "आश्चर्य से भर देना"
+    }
+  },
+  {
+    "id": 1109,
+    "word": "entreat",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to ask earnestly",
+    "example": "The entreat strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "간절히 묻다",
+      "zh": "恳切地询问",
+      "hi": "गंभीरतापूर्वक पूछना"
+    }
+  },
+  {
+    "id": 1110,
+    "word": "entrepreneur",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person who sets up business",
+    "example": "The entrepreneur strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "사업을 시작하는 사람",
+      "zh": "创办企业的人",
+      "hi": "वह व्यक्ति जो व्यवसाय स्थापित करता है"
+    }
+  },
+  {
+    "id": 1111,
+    "word": "enumerate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to mention one by one",
+    "example": "The enumerate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "하나씩 언급하자면",
+      "zh": "逐一提及",
+      "hi": "एक-एक करके उल्लेख करने के लिए"
+    }
+  },
+  {
+    "id": 1112,
+    "word": "enunciate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to say or pronounce clearly",
+    "example": "The enunciate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하게 말하거나 발음하다",
+      "zh": "清晰地说或发音",
+      "hi": "स्पष्ट रूप से कहना या उच्चारण करना"
+    }
+  },
+  {
+    "id": 1113,
+    "word": "envision",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to imagine as future possibility",
+    "example": "The envision strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "미래의 가능성으로 상상하다",
+      "zh": "设想未来的可能性",
+      "hi": "भविष्य की संभावना के रूप में कल्पना करना"
+    }
+  },
+  {
+    "id": 1114,
+    "word": "ephemeral",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "lasting for very short time",
+    "example": "The ephemeral strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "아주 짧은 시간 동안 지속됩니다",
+      "zh": "持续时间很短",
+      "hi": "बहुत कम समय तक चलने वाला"
+    }
+  },
+  {
+    "id": 1115,
+    "word": "epic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "heroic or grand in scale",
+    "example": "The epic strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "영웅적이거나 웅장한 규모",
+      "zh": "规模宏大或英雄气概",
+      "hi": "वीरतापूर्ण या भव्य पैमाने का"
+    }
+  },
+  {
+    "id": 1116,
+    "word": "epicure",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "person who enjoys fine food",
+    "example": "The epicure strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "고급 음식을 즐기는 사람",
+      "zh": "喜欢美食的人",
+      "hi": "बढ़िया भोजन का आनंद लेने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1117,
+    "word": "epigram",
+    "level": "Expert",
+    "partOfSpeech": "noun",
+    "definition": "pithy saying",
+    "example": "The epigram strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "간결한 말",
+      "zh": "精辟的格言",
+      "hi": "संक्षिप्त कथन"
+    }
+  },
+  {
+    "id": 1118,
+    "word": "epilogue",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "section at end of book",
+    "example": "The epilogue strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "책 말미의 섹션",
+      "zh": "书末章节",
+      "hi": "पुस्तक के अंत में अनुभाग"
+    }
+  },
+  {
+    "id": 1119,
+    "word": "epitome",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "perfect example of quality",
+    "example": "The epitome strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "품질의 완벽한 예시",
+      "zh": "品质的完美典范",
+      "hi": "गुणवत्ता का उत्तम उदाहरण"
+    }
+  },
+  {
+    "id": 1120,
+    "word": "equable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "calm and even-tempered",
+    "example": "The equable strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "차분하고 온화한",
+      "zh": "冷静且性情温和",
+      "hi": "शांत और समभाव"
+    }
+  },
+  {
+    "id": 1121,
+    "word": "equanimity",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "mental calmness",
+    "example": "The equanimity strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "정신적 평온함",
+      "zh": "精神平静",
+      "hi": "मानसिक शांति"
+    }
+  },
+  {
+    "id": 1122,
+    "word": "equate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to consider one thing as equal",
+    "example": "The equate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "한 가지를 동등하게 여기다",
+      "zh": "将一件事视为等同",
+      "hi": "किसी एक वस्तु को समान मानना"
+    }
+  },
+  {
+    "id": 1123,
+    "word": "equilibrium",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of physical balance",
+    "example": "The equilibrium strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "신체적 균형 상태",
+      "zh": "身体平衡状态",
+      "hi": "शारीरिक संतुलन की स्थिति"
+    }
+  },
+  {
+    "id": 1124,
+    "word": "equitable",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "fair and impartial",
+    "example": "The equitable strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "공정하고 편견 없는",
+      "zh": "公平公正",
+      "hi": "निष्पक्ष और तटस्थ"
+    }
+  },
+  {
+    "id": 1125,
+    "word": "equivocal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "open to more than one interpretation",
+    "example": "The equivocal strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "여러 가지 해석이 가능하다",
+      "zh": "可以有多种解释",
+      "hi": "एक से अधिक व्याख्याओं के लिए खुला"
+    }
+  },
+  {
+    "id": 1126,
+    "word": "equivocate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to use ambiguous language",
+    "example": "The equivocate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "모호한 언어를 사용하다",
+      "zh": "使用含糊不清的语言",
+      "hi": "अस्पष्ट भाषा का प्रयोग करना"
+    }
+  },
+  {
+    "id": 1127,
+    "word": "eradicate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to destroy completely",
+    "example": "The eradicate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 파괴하다",
+      "zh": "彻底摧毁",
+      "hi": "ईंट से ईंट बज जाना"
+    }
+  },
+  {
+    "id": 1128,
+    "word": "erode",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to gradually destroy",
+    "example": "The erode strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "점진적으로 파괴하다",
+      "zh": "逐步摧毁",
+      "hi": "धीरे-धीरे नष्ट करना"
+    }
+  },
+  {
+    "id": 1129,
+    "word": "errant",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "erring or straying",
+    "example": "The errant strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못을 저지르거나 벗어나는",
+      "zh": "犯错或偏离",
+      "hi": "गलती करना या भटक जाना"
+    }
+  },
+  {
+    "id": 1130,
+    "word": "erratic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "not even or regular",
+    "example": "The erratic strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "심지어 평범하지도 않고, 규칙적이지도 않다.",
+      "zh": "甚至不规律",
+      "hi": "यहां तक कि या नियमित भी नहीं"
+    }
+  },
+  {
+    "id": 1131,
+    "word": "erroneous",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "wrong or incorrect",
+    "example": "The erroneous strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "잘못된 또는 부정확한",
+      "zh": "错误或不正确",
+      "hi": "गलत या अशुद्ध"
+    }
+  },
+  {
+    "id": 1132,
+    "word": "erudite",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "having great knowledge",
+    "example": "The erudite strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "뛰어난 지식을 가지고",
+      "zh": "拥有丰富的知识",
+      "hi": "बहुत ज्ञान होना"
+    }
+  },
+  {
+    "id": 1133,
+    "word": "escalate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to increase rapidly",
+    "example": "The escalate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "급격히 증가하다",
+      "zh": "快速增长",
+      "hi": "तेजी से बढ़ने के लिए"
+    }
+  },
+  {
+    "id": 1134,
+    "word": "eschew",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deliberately avoid",
+    "example": "The eschew strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "의도적으로 피하다",
+      "zh": "故意避免",
+      "hi": "जानबूझकर बचने के लिए"
+    }
+  },
+  {
+    "id": 1135,
+    "word": "esoteric",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "intended for small group",
+    "example": "The esoteric strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "소규모 그룹을 대상으로 합니다",
+      "zh": "适用于小团体",
+      "hi": "छोटे समूह के लिए अभिप्रेत"
+    }
+  },
+  {
+    "id": 1136,
+    "word": "espouse",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to adopt or support",
+    "example": "The espouse strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "입양하거나 지원하다",
+      "zh": "采纳或支持",
+      "hi": "अपनाना या समर्थन करना"
+    }
+  },
+  {
+    "id": 1137,
+    "word": "essence",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "intrinsic nature of something",
+    "example": "The essence strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "어떤 것의 본질적인 속성",
+      "zh": "某事物的内在本质",
+      "hi": "किसी चीज का आंतरिक स्वभाव"
+    }
+  },
+  {
+    "id": 1138,
+    "word": "essential",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "absolutely necessary",
+    "example": "The essential strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "절대적으로 필요합니다",
+      "zh": "绝对必要",
+      "hi": "बिल्कुल जरूरी"
+    }
+  },
+  {
+    "id": 1139,
+    "word": "esteem",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "respect and admiration",
+    "example": "The esteem strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "존경과 감탄",
+      "zh": "尊重和钦佩",
+      "hi": "सम्मान और प्रशंसा"
+    }
+  },
+  {
+    "id": 1140,
+    "word": "estrange",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cause to feel alienated",
+    "example": "The estrange strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "소외감을 느끼게 하다",
+      "zh": "使人感到疏离",
+      "hi": "अलगाव की भावना पैदा करना"
+    }
+  },
+  {
+    "id": 1141,
+    "word": "ethereal",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "extremely delicate",
+    "example": "The ethereal strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 섬세함",
+      "zh": "极其精细",
+      "hi": "अत्यंत नाजुक"
+    }
+  },
+  {
+    "id": 1142,
+    "word": "ethical",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "relating to moral principles",
+    "example": "The ethical strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "도덕적 원칙과 관련된",
+      "zh": "与道德原则相关的",
+      "hi": "नैतिक सिद्धांतों से संबंधित"
+    }
+  },
+  {
+    "id": 1143,
+    "word": "ethos",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "characteristic spirit of culture",
+    "example": "The ethos strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "문화의 특징적인 정신",
+      "zh": "文化特色精神",
+      "hi": "संस्कृति की विशिष्ट भावना"
+    }
+  },
+  {
+    "id": 1144,
+    "word": "eulogize",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to praise highly",
+    "example": "The eulogize strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "높이 칭찬하다",
+      "zh": "高度赞扬",
+      "hi": "अत्यधिक प्रशंसा करना"
+    }
+  },
+  {
+    "id": 1145,
+    "word": "euphemism",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "mild expression for unpleasant thing",
+    "example": "The euphemism strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 일을 완곡하게 표현한 말",
+      "zh": "委婉地表达不愉快的事情",
+      "hi": "अप्रिय चीज़ के लिए सौम्य अभिव्यक्ति"
+    }
+  },
+  {
+    "id": 1146,
+    "word": "euphoria",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "feeling of intense happiness",
+    "example": "The euphoria strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "강렬한 행복감",
+      "zh": "强烈的幸福感",
+      "hi": "तीव्र खुशी की भावना"
+    }
+  },
+  {
+    "id": 1147,
+    "word": "evanescent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "soon passing out of sight",
+    "example": "The evanescent strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "곧 시야에서 사라졌다",
+      "zh": "很快便消失在视线之外",
+      "hi": "जल्द ही आंखों से ओझल हो जाएगा"
+    }
+  },
+  {
+    "id": 1148,
+    "word": "evasive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "tending to avoid commitment",
+    "example": "The evasive strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "책임감을 회피하는 경향이 있다",
+      "zh": "倾向于逃避承诺",
+      "hi": "प्रतिबद्धता से बचने की प्रवृत्ति"
+    }
+  },
+  {
+    "id": 1149,
+    "word": "eventual",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "occurring at end of period",
+    "example": "The eventual strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "기간 말에 발생하는",
+      "zh": "发生在期末",
+      "hi": "अवधि के अंत में घटित होना"
+    }
+  },
+  {
+    "id": 1150,
+    "word": "evict",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to expel from property",
+    "example": "The evict strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "재산에서 쫓아내다",
+      "zh": "将某人驱逐出财产",
+      "hi": "संपत्ति से बेदखल करना"
+    }
+  },
+  {
+    "id": 1151,
+    "word": "evince",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to reveal presence of",
+    "example": "The evince strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "존재를 드러내기 위해",
+      "zh": "揭示存在",
+      "hi": "उपस्थिति प्रकट करने के लिए"
+    }
+  },
+  {
+    "id": 1152,
+    "word": "evoke",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to bring to mind",
+    "example": "The evoke strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "떠올리게 하다",
+      "zh": "唤起记忆",
+      "hi": "याद दिलाने के लिए"
+    }
+  },
+  {
+    "id": 1153,
+    "word": "exacerbate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make worse",
+    "example": "The exacerbate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "더 악화시키다",
+      "zh": "情况变得更糟",
+      "hi": "स्थिति और खराब करने के लिए"
+    }
+  },
+  {
+    "id": 1154,
+    "word": "exact",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to demand and obtain",
+    "example": "The exact strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "요구하고 얻다",
+      "zh": "要求并获得",
+      "hi": "मांग करना और प्राप्त करना"
+    }
+  },
+  {
+    "id": 1155,
+    "word": "exacting",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "making great demands",
+    "example": "The exacting strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "큰 요구를 하다",
+      "zh": "提出很高的要求",
+      "hi": "बड़ी मांगें करना"
+    }
+  },
+  {
+    "id": 1156,
+    "word": "exaggerate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to represent as greater",
+    "example": "The exaggerate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "더 큰 것으로 나타내다",
+      "zh": "表示为更大",
+      "hi": "अधिक के रूप में प्रतिनिधित्व करना"
+    }
+  },
+  {
+    "id": 1157,
+    "word": "exalt",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to hold in high regard",
+    "example": "The exalt strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "높이 평가하다",
+      "zh": "高度重视",
+      "hi": "किसी को बहुत सम्मान देना"
+    }
+  },
+  {
+    "id": 1158,
+    "word": "exasperate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to irritate intensely",
+    "example": "The exasperate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "몹시 짜증나게 하다",
+      "zh": "强烈刺激",
+      "hi": "बहुत ज्यादा परेशान करना"
+    }
+  },
+  {
+    "id": 1159,
+    "word": "excavate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make hollow by digging",
+    "example": "The excavate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "땅을 파서 움푹 패인 곳을 만들다",
+      "zh": "通过挖掘形成空心",
+      "hi": "खोदकर खोखला बनाना"
+    }
+  },
+  {
+    "id": 1160,
+    "word": "exceed",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be greater than",
+    "example": "The exceed strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "보다 크다",
+      "zh": "大于",
+      "hi": "से बड़ा होना"
+    }
+  },
+  {
+    "id": 1161,
+    "word": "exceptional",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unusual or outstanding",
+    "example": "The exceptional strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "특이한 또는 뛰어난",
+      "zh": "不寻常或突出",
+      "hi": "असामान्य या असाधारण"
+    }
+  },
+  {
+    "id": 1162,
+    "word": "excerpt",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "short extract from film",
+    "example": "The excerpt strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "영화에서 발췌한 짧은 부분",
+      "zh": "电影节选",
+      "hi": "फिल्म से लिया गया संक्षिप्त अंश"
+    }
+  },
+  {
+    "id": 1163,
+    "word": "excessive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "more than necessary",
+    "example": "The excessive strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "필요 이상으로",
+      "zh": "超出必要范围",
+      "hi": "आवश्यकता से अधिक"
+    }
+  },
+  {
+    "id": 1164,
+    "word": "excise",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cut out surgically",
+    "example": "The excise strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "외과적으로 잘라내다",
+      "zh": "手术切除",
+      "hi": "शल्य चिकित्सा द्वारा काटकर निकालना"
+    }
+  },
+  {
+    "id": 1165,
+    "word": "exclaim",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to cry out suddenly",
+    "example": "The exclaim strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "갑자기 소리치다",
+      "zh": "突然大喊",
+      "hi": "अचानक चिल्लाना"
+    }
+  },
+  {
+    "id": 1166,
+    "word": "exclude",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deny access to",
+    "example": "The exclude strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "접근을 거부하다",
+      "zh": "拒绝访问",
+      "hi": "पहुँच से इनकार करने के लिए"
+    }
+  },
+  {
+    "id": 1167,
+    "word": "excoriate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to criticize severely",
+    "example": "The excoriate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "심하게 비판하다",
+      "zh": "严厉批评",
+      "hi": "कड़ी आलोचना करना"
+    }
+  },
+  {
+    "id": 1168,
+    "word": "exculpate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to show not guilty",
+    "example": "The exculpate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "무죄를 입증하기 위해",
+      "zh": "证明无罪",
+      "hi": "निर्दोष साबित करने के लिए"
+    }
+  },
+  {
+    "id": 1169,
+    "word": "excursion",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "short journey",
+    "example": "The excursion strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "짧은 여행",
+      "zh": "短途旅行",
+      "hi": "छोटी यात्रा"
+    }
+  },
+  {
+    "id": 1170,
+    "word": "execrable",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "extremely bad",
+    "example": "The execrable strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "극도로 나쁨",
+      "zh": "极其糟糕",
+      "hi": "बेहद बुरा"
+    }
+  },
+  {
+    "id": 1171,
+    "word": "execute",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to carry out plan",
+    "example": "The execute strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "계획을 실행하다",
+      "zh": "执行计划",
+      "hi": "योजना को क्रियान्वित करने के लिए"
+    }
+  },
+  {
+    "id": 1172,
+    "word": "exemplary",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "serving as desirable model",
+    "example": "The exemplary strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "바람직한 모델 역할을 하다",
+      "zh": "可作为理想模型",
+      "hi": "वांछनीय मॉडल के रूप में कार्य करना"
+    }
+  },
+  {
+    "id": 1173,
+    "word": "exemplify",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to be typical example",
+    "example": "The exemplify strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "전형적인 예로",
+      "zh": "举个典型例子",
+      "hi": "एक विशिष्ट उदाहरण होने के लिए"
+    }
+  },
+  {
+    "id": 1174,
+    "word": "exempt",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "free from obligation",
+    "example": "The exempt strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "의무에서 벗어난",
+      "zh": "无需承担任何义务",
+      "hi": "दायित्व से मुक्त"
+    }
+  },
+  {
+    "id": 1175,
+    "word": "exert",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to apply or bring to bear",
+    "example": "The exert strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "적용하거나 적용하다",
+      "zh": "施加或使其生效",
+      "hi": "लागू करना या उपयोग में लाना"
+    }
+  },
+  {
+    "id": 1176,
+    "word": "exhaust",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to drain of resources",
+    "example": "The exhaust strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "자원의 고갈",
+      "zh": "耗尽资源",
+      "hi": "संसाधनों की निकासी"
+    }
+  },
+  {
+    "id": 1177,
+    "word": "exhaustive",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "examining all possibilities",
+    "example": "The exhaustive strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "모든 가능성을 검토하면서",
+      "zh": "考察所有可能性",
+      "hi": "सभी संभावनाओं की जांच करना"
+    }
+  },
+  {
+    "id": 1178,
+    "word": "exhibit",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to publicly display",
+    "example": "The exhibit strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "공개적으로 전시하다",
+      "zh": "公开展示",
+      "hi": "सार्वजनिक रूप से प्रदर्शित करने के लिए"
+    }
+  },
+  {
+    "id": 1179,
+    "word": "exhilarate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make feel very happy",
+    "example": "The exhilarate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "매우 행복하게 느끼게 하다",
+      "zh": "让人感到非常快乐",
+      "hi": "बहुत खुश महसूस कराना"
+    }
+  },
+  {
+    "id": 1180,
+    "word": "exhort",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to strongly encourage",
+    "example": "The exhort strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "강력히 권장하다",
+      "zh": "强烈鼓励",
+      "hi": "दृढ़तापूर्वक प्रोत्साहित करने के लिए"
+    }
+  },
+  {
+    "id": 1181,
+    "word": "exigent",
+    "level": "Expert",
+    "partOfSpeech": "adjective",
+    "definition": "pressing or demanding",
+    "example": "The exigent strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "압박감이나 요구가 많은",
+      "zh": "迫切的或要求的",
+      "hi": "दबाव डालने वाला या मांग करने वाला"
+    }
+  },
+  {
+    "id": 1182,
+    "word": "exile",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "state of being barred from country",
+    "example": "The exile strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "국가 입국이 금지된 상태",
+      "zh": "被禁止入境该国",
+      "hi": "देश में प्रवेश से प्रतिबंधित होने की स्थिति"
+    }
+  },
+  {
+    "id": 1183,
+    "word": "exonerate",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to absolve from blame",
+    "example": "The exonerate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "비난에서 벗어나게 하다",
+      "zh": "免除责备",
+      "hi": "दोषमुक्त करना"
+    }
+  },
+  {
+    "id": 1184,
+    "word": "exorbitant",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "unreasonably high",
+    "example": "The exorbitant strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "지나치게 높음",
+      "zh": "过高",
+      "hi": "अकारण उच्च"
+    }
+  },
+  {
+    "id": 1185,
+    "word": "exotic",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "originating in distant country",
+    "example": "The exotic strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "먼 나라에서 유래",
+      "zh": "源自遥远的国家",
+      "hi": "दूर देश से उत्पन्न"
+    }
+  },
+  {
+    "id": 1186,
+    "word": "expand",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to become larger",
+    "example": "The expand strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "더 커지다",
+      "zh": "变得更大",
+      "hi": "बड़ा होना"
+    }
+  },
+  {
+    "id": 1187,
+    "word": "expatiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to speak or write at length",
+    "example": "The expatiate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "길게 말하거나 길게 쓰다",
+      "zh": "长篇大论地说话或写作",
+      "hi": "विस्तार से बोलना या लिखना"
+    }
+  },
+  {
+    "id": 1188,
+    "word": "expatriate",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "person living abroad",
+    "example": "The expatriate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "해외에 거주하는 사람",
+      "zh": "居住在国外的人",
+      "hi": "विदेश में रहने वाला व्यक्ति"
+    }
+  },
+  {
+    "id": 1189,
+    "word": "expedient",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "convenient and practical",
+    "example": "The expedient strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "편리하고 실용적",
+      "zh": "方便实用",
+      "hi": "सुविधाजनक और व्यावहारिक"
+    }
+  },
+  {
+    "id": 1190,
+    "word": "expedite",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make action happen sooner",
+    "example": "The expedite strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "더 빨리 조치가 이루어지도록 하기 위해",
+      "zh": "为了尽快采取行动。",
+      "hi": "ताकि जल्द से जल्द कार्रवाई हो सके"
+    }
+  },
+  {
+    "id": 1191,
+    "word": "expel",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to deprive of membership",
+    "example": "The expel strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "회원 자격을 박탈하다",
+      "zh": "剥夺会员资格",
+      "hi": "सदस्यता से वंचित करना"
+    }
+  },
+  {
+    "id": 1192,
+    "word": "expertise",
+    "level": "Advanced",
+    "partOfSpeech": "noun",
+    "definition": "expert skill or knowledge",
+    "example": "The expertise strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "전문적인 기술 또는 지식",
+      "zh": "专业技能或知识",
+      "hi": "विशेषज्ञ कौशल या ज्ञान"
+    }
+  },
+  {
+    "id": 1193,
+    "word": "expiate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to atone for guilt",
+    "example": "The expiate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "죄책감을 속죄하기 위해",
+      "zh": "为了赎罪",
+      "hi": "अपराध बोध का प्रायश्चित करने के लिए"
+    }
+  },
+  {
+    "id": 1194,
+    "word": "explicit",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "stated clearly",
+    "example": "The explicit strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "명확하게 명시됨",
+      "zh": "明确陈述",
+      "hi": "स्पष्ट रूप से कहा गया"
+    }
+  },
+  {
+    "id": 1195,
+    "word": "exploit",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to make full use of",
+    "example": "The exploit strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "최대한 활용하기 위해",
+      "zh": "充分利用",
+      "hi": "पूरा उपयोग करने के लिए"
+    }
+  },
+  {
+    "id": 1196,
+    "word": "exponential",
+    "level": "Advanced",
+    "partOfSpeech": "adjective",
+    "definition": "increasing rapidly",
+    "example": "The exponential strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "빠르게 증가하고 있습니다",
+      "zh": "迅速增长",
+      "hi": "तेजी से बढ़ रहा है"
+    }
+  },
+  {
+    "id": 1197,
+    "word": "expound",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to present and explain theory",
+    "example": "The expound strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "이론을 제시하고 설명하다",
+      "zh": "介绍和解释理论",
+      "hi": "सिद्धांत को प्रस्तुत करना और समझाना"
+    }
+  },
+  {
+    "id": 1198,
+    "word": "expropriate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to take away from owner",
+    "example": "The expropriate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "주인에게서 빼앗다",
+      "zh": "从主人那里拿走",
+      "hi": "मालिक से छीन लेना"
+    }
+  },
+  {
+    "id": 1199,
+    "word": "expunge",
+    "level": "Advanced",
+    "partOfSpeech": "verb",
+    "definition": "to erase or remove completely",
+    "example": "The expunge strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "완전히 지우거나 제거하다",
+      "zh": "完全擦除或移除",
+      "hi": "पूरी तरह से मिटाना या हटाना"
+    }
+  },
+  {
+    "id": 1200,
+    "word": "expurgate",
+    "level": "Expert",
+    "partOfSpeech": "verb",
+    "definition": "to remove objectionable matter",
+    "example": "The expurgate strategy proved effective.",
+    "category": "General",
+    "translations": {
+      "ko": "불쾌한 부분을 제거하기 위해",
+      "zh": "清除不良物质",
+      "hi": "आपत्तिजनक सामग्री को हटाने के लिए"
+    }
+  }
+]
