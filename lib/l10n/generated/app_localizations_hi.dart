@@ -146,28 +146,28 @@ class AppLocalizationsHi extends AppLocalizations {
   }
 
   @override
-  String get basic => 'Basic';
+  String get basic => 'बनयद';
 
   @override
-  String get basicDesc => 'Foundation words - 500 words';
+  String get basicDesc => 'बनयद शबद - 500 शबद';
 
   @override
-  String get common => 'Common';
+  String get common => 'समनय';
 
   @override
-  String get commonDesc => 'Frequently tested - 1,000 words';
+  String get commonDesc => 'अकसर परकषत - 1,000 शब्द';
 
   @override
-  String get advanced => 'Advanced';
+  String get advanced => 'उननत';
 
   @override
-  String get advancedDesc => 'High-frequency GRE - 800 words';
+  String get advancedDesc => 'उचच आवतत GRE - 800 शबद';
 
   @override
-  String get expert => 'Expert';
+  String get expert => 'वशषजञ';
 
   @override
-  String get expertDesc => 'Challenging vocabulary - 500 words';
+  String get expertDesc => 'कठन शब्दवल - 500 शबद';
 
   @override
   String get alphabetical => 'Alphabetical';

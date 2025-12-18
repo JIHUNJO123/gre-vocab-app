@@ -146,28 +146,28 @@ class AppLocalizationsKo extends AppLocalizations {
   }
 
   @override
-  String get basic => 'Basic';
+  String get basic => '기초';
 
   @override
-  String get basicDesc => 'Foundation words - 500 words';
+  String get basicDesc => '기초 단어 - 500개';
 
   @override
-  String get common => 'Common';
+  String get common => '일반';
 
   @override
-  String get commonDesc => 'Frequently tested - 1,000 words';
+  String get commonDesc => '자주 출제 - 1,000개';
 
   @override
-  String get advanced => 'Advanced';
+  String get advanced => '고급';
 
   @override
-  String get advancedDesc => 'High-frequency GRE - 800 words';
+  String get advancedDesc => '고빈출 GRE - 800개';
 
   @override
-  String get expert => 'Expert';
+  String get expert => '전문가';
 
   @override
-  String get expertDesc => 'Challenging vocabulary - 500 words';
+  String get expertDesc => '어려운 어휘 - 500개';
 
   @override
   String get alphabetical => 'Alphabetical';

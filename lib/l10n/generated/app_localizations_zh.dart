@@ -146,28 +146,28 @@ class AppLocalizationsZh extends AppLocalizations {
   }
 
   @override
-  String get basic => 'Basic';
+  String get basic => '基础';
 
   @override
-  String get basicDesc => 'Foundation words - 500 words';
+  String get basicDesc => '基础词汇 - 500词';
 
   @override
-  String get common => 'Common';
+  String get common => '常见';
 
   @override
-  String get commonDesc => 'Frequently tested - 1,000 words';
+  String get commonDesc => '高频词汇 - 1,000词';
 
   @override
-  String get advanced => 'Advanced';
+  String get advanced => '高级';
 
   @override
-  String get advancedDesc => 'High-frequency GRE - 800 words';
+  String get advancedDesc => 'GRE高频 - 800词';
 
   @override
-  String get expert => 'Expert';
+  String get expert => '专家';
 
   @override
-  String get expertDesc => 'Challenging vocabulary - 500 words';
+  String get expertDesc => '挑战词汇 - 500词';
 
   @override
   String get alphabetical => 'Alphabetical';

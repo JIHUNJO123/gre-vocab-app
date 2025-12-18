@@ -218,10 +218,10 @@ class _WordListScreenState extends State<WordListScreen> {
     final l10n = AppLocalizations.of(context)!;
     final bands = [
       {'level': null, 'name': l10n.allWords, 'color': Colors.grey},
-      {'level': 'Basic', 'name': 'Basic', 'color': Colors.green},
-      {'level': 'Common', 'name': 'Common', 'color': Colors.blue},
-      {'level': 'Advanced', 'name': 'Advanced', 'color': Colors.orange},
-      {'level': 'Expert', 'name': 'Expert', 'color': Colors.red},
+      {'level': 'Basic', 'name': l10n.basic, 'color': Colors.green},
+      {'level': 'Common', 'name': l10n.common, 'color': Colors.blue},
+      {'level': 'Advanced', 'name': l10n.advanced, 'color': Colors.orange},
+      {'level': 'Expert', 'name': l10n.expert, 'color': Colors.red},
     ];
 
     showModalBottomSheet(
@@ -796,4 +796,5 @@ class _WordListScreenState extends State<WordListScreen> {
     );
   }
 }
+
 

@@ -1,4 +1,4 @@
-{
+﻿{
   "@@locale": "zh",
   "appTitle": "GRE Vocabulary Master",
   "todayWord": "Today's Word",
@@ -52,14 +52,14 @@
       }
     }
   },
-  "basic": "Basic",
-  "basicDesc": "Foundation words - 500 words",
-  "common": "Common",
-  "commonDesc": "Frequently tested - 1,000 words",
-  "advanced": "Advanced",
-  "advancedDesc": "High-frequency GRE - 800 words",
-  "expert": "Expert",
-  "expertDesc": "Challenging vocabulary - 500 words",
+  "basic": "基础",
+  "basicDesc": "基础词汇 - 500词",
+  "common": "常见",
+  "commonDesc": "高频词汇 - 1,000词",
+  "advanced": "高级",
+  "advancedDesc": "GRE高频 - 800词",
+  "expert": "专家",
+  "expertDesc": "挑战词汇 - 500词",
   "alphabetical": "Alphabetical",
   "random": "Random",
   "tapToFlip": "Tap to flip",
@@ -87,3 +87,4 @@
   "restoreComplete": "Restore complete",
   "noPurchaseFound": "No previous purchase found"
 }
+

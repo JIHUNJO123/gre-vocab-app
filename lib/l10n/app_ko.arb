@@ -1,4 +1,4 @@
-{
+﻿{
   "@@locale": "ko",
   "appTitle": "GRE Vocabulary Master",
   "todayWord": "Today's Word",
@@ -52,14 +52,14 @@
       }
     }
   },
-  "basic": "Basic",
-  "basicDesc": "Foundation words - 500 words",
-  "common": "Common",
-  "commonDesc": "Frequently tested - 1,000 words",
-  "advanced": "Advanced",
-  "advancedDesc": "High-frequency GRE - 800 words",
-  "expert": "Expert",
-  "expertDesc": "Challenging vocabulary - 500 words",
+  "basic": "기초",
+  "basicDesc": "기초 단어 - 500개",
+  "common": "일반",
+  "commonDesc": "자주 출제 - 1,000개",
+  "advanced": "고급",
+  "advancedDesc": "고빈출 GRE - 800개",
+  "expert": "전문가",
+  "expertDesc": "어려운 어휘 - 500개",
   "alphabetical": "Alphabetical",
   "random": "Random",
   "tapToFlip": "Tap to flip",
@@ -87,3 +87,4 @@
   "restoreComplete": "Restore complete",
   "noPurchaseFound": "No previous purchase found"
 }
+
