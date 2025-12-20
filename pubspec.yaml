@@ -2,7 +2,7 @@
 description: "GRE Vocabulary - Master GRE words for your graduate school admission"
 publish_to: 'none'
 
-version: 1.0.1+6
+version: 1.0.1+7
 
 environment:
   sdk: ^3.7.0
