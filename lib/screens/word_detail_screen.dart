@@ -6,8 +6,15 @@ import '../services/translation_service.dart';
 
 class WordDetailScreen extends StatefulWidget {
   final Word word;
+  final List<Word>? wordList;
+  final int? currentIndex;
 
-  const WordDetailScreen({super.key, required this.word});
+  const WordDetailScreen({
+    super.key,
+    required this.word,
+    this.wordList,
+    this.currentIndex,
+  });
 
   @override
   State<WordDetailScreen> createState() => _WordDetailScreenState();
@@ -15,6 +22,7 @@ class WordDetailScreen extends StatefulWidget {
 
 class _WordDetailScreenState extends State<WordDetailScreen> {
   late Word _word;
+  late int _currentIndex;
   String? _translatedDefinition;
   String? _translatedExample;
 
@@ -22,6 +30,7 @@ class _WordDetailScreenState extends State<WordDetailScreen> {
   void initState() {
     super.initState();
     _word = widget.word;
+    _currentIndex = widget.currentIndex ?? 0;
     _loadTranslations();
   }
 
@@ -31,7 +40,7 @@ class _WordDetailScreenState extends State<WordDetailScreen> {
 
     if (!translationService.needsTranslation) return;
 
-    // ?�장 번역�??�용 (API ?�출 ?�음)
+    // ?�장 번역�??�용 (API ?�출 ?�음)
     final langCode = translationService.currentLanguage;
     final embeddedDef = _word.getEmbeddedTranslation(langCode, 'definition');
     final embeddedEx = _word.getEmbeddedTranslation(langCode, 'example');
@@ -79,136 +88,203 @@ class _WordDetailScreenState extends State<WordDetailScreen> {
     }
   }
 
+  void _goToPreviousWord() {
+    if (widget.wordList != null && _currentIndex > 0) {
+      setState(() {
+        _currentIndex--;
+        _word = widget.wordList![_currentIndex];
+        _translatedDefinition = null;
+        _translatedExample = null;
+      });
+      _loadTranslations();
+    }
+  }
+
+  void _goToNextWord() {
+    if (widget.wordList != null &&
+        _currentIndex < widget.wordList!.length - 1) {
+      setState(() {
+        _currentIndex++;
+        _word = widget.wordList![_currentIndex];
+        _translatedDefinition = null;
+        _translatedExample = null;
+      });
+      _loadTranslations();
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context)!;
     final levelColor = _getLevelColor(_word.level);
+    final bool canGoPrevious = widget.wordList != null && _currentIndex > 0;
+    final bool canGoNext =
+        widget.wordList != null &&
+        _currentIndex < (widget.wordList?.length ?? 1) - 1;
 
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(l10n.wordDetail),
-        actions: [
-          IconButton(
-            icon: Icon(
-              _word.isFavorite ? Icons.favorite : Icons.favorite_border,
-              color: _word.isFavorite ? Colors.red : null,
-            ),
-            onPressed: _toggleFavorite,
+    return PopScope(
+      canPop: false,
+      onPopInvokedWithResult: (didPop, result) {
+        if (didPop) return;
+        Navigator.of(context).pop(_currentIndex);
+      },
+      child: Scaffold(
+        appBar: AppBar(
+          leading: IconButton(
+            icon: const Icon(Icons.arrow_back),
+            onPressed: () => Navigator.of(context).pop(_currentIndex),
           ),
-        ],
-      ),
-      body: SingleChildScrollView(
-        padding: const EdgeInsets.all(16.0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            // Header Card
-            Card(
-              elevation: 4,
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(16),
+          title: Text(l10n.wordDetail),
+          actions: [
+            IconButton(
+              icon: Icon(
+                _word.isFavorite ? Icons.favorite : Icons.favorite_border,
+                color: _word.isFavorite ? Colors.red : null,
               ),
-              child: Container(
-                width: double.infinity,
-                padding: const EdgeInsets.all(24.0),
-                decoration: BoxDecoration(
+              onPressed: _toggleFavorite,
+            ),
+          ],
+        ),
+        body: SingleChildScrollView(
+          padding: const EdgeInsets.all(16.0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              // Header Card
+              Card(
+                elevation: 4,
+                shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(16),
-                  gradient: LinearGradient(
-                    colors: [
-                      levelColor,
-                      levelColor.withAlpha((0.7 * 255).toInt()),
+                ),
+                child: Container(
+                  width: double.infinity,
+                  padding: const EdgeInsets.all(24.0),
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(16),
+                    gradient: LinearGradient(
+                      colors: [
+                        levelColor,
+                        levelColor.withAlpha((0.7 * 255).toInt()),
+                      ],
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                    ),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          Container(
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 12,
+                              vertical: 6,
+                            ),
+                            decoration: BoxDecoration(
+                              color: Colors.white.withAlpha(
+                                (0.2 * 255).toInt(),
+                              ),
+                              borderRadius: BorderRadius.circular(20),
+                            ),
+                            child: Text(
+                              _word.partOfSpeech,
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                          ),
+                          Row(
+                            children: [
+                              Container(
+                                padding: const EdgeInsets.symmetric(
+                                  horizontal: 8,
+                                  vertical: 4,
+                                ),
+                                decoration: BoxDecoration(
+                                  color: Colors.white.withAlpha(
+                                    (0.2 * 255).toInt(),
+                                  ),
+                                  borderRadius: BorderRadius.circular(12),
+                                ),
+                                child: Text(
+                                  _word.level,
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 20),
+                      Text(
+                        _word.word,
+                        style: const TextStyle(
+                          fontSize: 28,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                        ),
+                      ),
                     ],
-                    begin: Alignment.topLeft,
-                    end: Alignment.bottomRight,
                   ),
                 ),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
+              ),
+              const SizedBox(height: 24),
+
+              // Definition Section - 번역 ??(??글??, ?�어 ?�래 (?�색)
+              _buildDefinitionSection(
+                title: l10n.definition,
+                icon: Icons.book,
+                content: _word.definition,
+                translation: _translatedDefinition,
+              ),
+              const SizedBox(height: 16),
+
+              // Example Section - ?�어 ??(검?�??, 번역 ?�래 (?�색)
+              _buildExampleSection(
+                title: l10n.example,
+                icon: Icons.format_quote,
+                content: _word.example,
+                translation: _translatedExample,
+              ),
+              if (widget.wordList != null) ...[
+                const SizedBox(height: 24),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        Container(
-                          padding: const EdgeInsets.symmetric(
-                            horizontal: 12,
-                            vertical: 6,
-                          ),
-                          decoration: BoxDecoration(
-                            color: Colors.white.withAlpha((0.2 * 255).toInt()),
-                            borderRadius: BorderRadius.circular(20),
-                          ),
-                          child: Text(
-                            _word.partOfSpeech,
-                            style: const TextStyle(
-                              color: Colors.white,
-                              fontWeight: FontWeight.bold,
-                            ),
-                          ),
-                        ),
-                        Row(
-                          children: [
-                            Container(
-                              padding: const EdgeInsets.symmetric(
-                                horizontal: 8,
-                                vertical: 4,
-                              ),
-                              decoration: BoxDecoration(
-                                color: Colors.white.withAlpha(
-                                  (0.2 * 255).toInt(),
-                                ),
-                                borderRadius: BorderRadius.circular(12),
-                              ),
-                              child: Text(
-                                _word.level,
-                                style: const TextStyle(
-                                  color: Colors.white,
-                                  fontSize: 12,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                            ),
-                          ],
-                        ),
-                      ],
+                    ElevatedButton.icon(
+                      onPressed: canGoPrevious ? _goToPreviousWord : null,
+                      icon: const Icon(Icons.arrow_back),
+                      label: Text(l10n.previous),
                     ),
-                    const SizedBox(height: 20),
                     Text(
-                      _word.word,
+                      '${_currentIndex + 1} / ${widget.wordList!.length}',
                       style: const TextStyle(
-                        fontSize: 28,
+                        fontSize: 16,
                         fontWeight: FontWeight.bold,
-                        color: Colors.white,
                       ),
+                    ),
+                    ElevatedButton.icon(
+                      onPressed: canGoNext ? _goToNextWord : null,
+                      icon: const Icon(Icons.arrow_forward),
+                      label: Text(l10n.next),
                     ),
                   ],
                 ),
-              ),
-            ),
-            const SizedBox(height: 24),
-
-            // Definition Section - 번역 ??(??글??, ?�어 ?�래 (?�색)
-            _buildDefinitionSection(
-              title: l10n.definition,
-              icon: Icons.book,
-              content: _word.definition,
-              translation: _translatedDefinition,
-            ),
-            const SizedBox(height: 16),
-
-            // Example Section - ?�어 ??(검?�??, 번역 ?�래 (?�색)
-            _buildExampleSection(
-              title: l10n.example,
-              icon: Icons.format_quote,
-              content: _word.example,
-              translation: _translatedExample,
-            ),
-          ],
+              ],
+            ],
+          ),
         ),
       ),
     );
   }
 
-  // ?�의?? 번역 먼�? (??글??, ?�어 ?�래 (?�색)
+  // ?�의?? 번역 먼�? (??글??, ?�어 ?�래 (?�색)
   Widget _buildDefinitionSection({
     required String title,
     required IconData icon,
@@ -238,7 +314,7 @@ class _WordDetailScreenState extends State<WordDetailScreen> {
               ],
             ),
             const SizedBox(height: 12),
-            // 번역???�으�?번역 먼�? (??글??, ?�어 ?�래 (?�색)
+            // 번역???�으�?번역 먼�? (??글??, ?�어 ?�래 (?�색)
             if (translation != null) ...[
               Text(
                 translation,
@@ -265,7 +341,7 @@ class _WordDetailScreenState extends State<WordDetailScreen> {
     );
   }
 
-  // ?�문?? ?�어 먼�? (검?�??, 번역 ?�래 (?�색)
+  // ?�문?? ?�어 먼�? (검?�??, 번역 ?�래 (?�색)
   Widget _buildExampleSection({
     required String title,
     required IconData icon,
@@ -295,7 +371,7 @@ class _WordDetailScreenState extends State<WordDetailScreen> {
               ],
             ),
             const SizedBox(height: 12),
-            // ?�어 먼�? (검?�??, 번역 ?�래 (?�색)
+            // ?�어 먼�? (검?�??, 번역 ?�래 (?�색)
             Text(
               content,
               style: const TextStyle(
