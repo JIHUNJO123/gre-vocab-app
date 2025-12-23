@@ -92,5 +92,10 @@
   "restorePurchaseDesc": "पहल क खरदर पनरसथपत कर",
   "score": "सकर",
   "showResult": "परणम दखए",
-  "wordToMeaning": "शबद स अरथ"
+  "wordToMeaning": "शबद स अरथ",
+  "cancel": "रदद कर",
+  "selectWordRange": "शबद सम चन",
+  "allWordsOption": "सभ शबद",
+  "favoritesOnlyOption": "कवल पसदद",
+  "byLevel": "सतर क अनसर"
 }

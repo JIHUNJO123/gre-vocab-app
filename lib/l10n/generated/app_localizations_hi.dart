@@ -246,4 +246,19 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get noPurchaseFound => 'कई खरदर नह मल';
+
+  @override
+  String get cancel => 'रदद कर';
+
+  @override
+  String get selectWordRange => 'शबद सम चन';
+
+  @override
+  String get allWordsOption => 'सभ शबद';
+
+  @override
+  String get favoritesOnlyOption => 'कवल पसदद';
+
+  @override
+  String get byLevel => 'सतर क अनसर';
 }

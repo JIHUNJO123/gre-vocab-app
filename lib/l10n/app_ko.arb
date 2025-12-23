@@ -85,5 +85,10 @@
   "privacyPolicyContent": "이 앱은 개인정보를 수집, 저장 또는 공유하지 않습니다. 학습 진도와 즐겨찾기는 기기에만 저장됩니다.",
   "restorePurchaseDesc": "다른 기기에서 광고 제거를 구매했거나 앱 재설치 후 여기를 눌러 복원하세요.",
   "restoreComplete": "복원 완료",
-  "noPurchaseFound": "이전 구매 내역이 없습니다"
+  "noPurchaseFound": "이전 구매 내역이 없습니다",
+  "cancel": "취소",
+  "selectWordRange": "단어 범위 선택",
+  "allWordsOption": "전체 단어",
+  "favoritesOnlyOption": "즐겨찾기만",
+  "byLevel": "난이도별"
 }

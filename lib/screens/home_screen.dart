@@ -362,13 +362,7 @@ class _HomeScreenState extends State<HomeScreen> {
           subtitle: l10n.cardLearning,
           color: Colors.orange,
           onTap: () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                builder:
-                    (context) => const WordListScreen(isFlashcardMode: true),
-              ),
-            );
+            _showLevelSelectionDialog(isQuiz: false);
           },
         ),
         _buildMenuCard(
@@ -377,10 +371,7 @@ class _HomeScreenState extends State<HomeScreen> {
           subtitle: l10n.testYourself,
           color: Colors.green,
           onTap: () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(builder: (context) => const QuizScreen()),
-            );
+            _showLevelSelectionDialog(isQuiz: true);
           },
         ),
       ],
@@ -546,6 +537,107 @@ class _HomeScreenState extends State<HomeScreen> {
         },
       ),
     );
+  }
+
+  void _showLevelSelectionDialog({required bool isQuiz}) {
+    final l10n = AppLocalizations.of(context)!;
+
+    final levels = [
+      {'level': 'Basic', 'name': l10n.basic, 'color': Colors.green},
+      {'level': 'Common', 'name': l10n.common, 'color': Colors.blue},
+      {'level': 'Advanced', 'name': l10n.advanced, 'color': Colors.orange},
+      {'level': 'Expert', 'name': l10n.expert, 'color': Colors.red},
+    ];
+
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: Text(l10n.selectWordRange),
+        content: SingleChildScrollView(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              // 전체 단어
+              ListTile(
+                leading: const Icon(Icons.all_inclusive, color: Colors.purple),
+                title: Text(l10n.allWordsOption),
+                onTap: () {
+                  Navigator.pop(context);
+                  _navigateToScreen(isQuiz: isQuiz);
+                },
+              ),
+              // 즐겨찾기만
+              ListTile(
+                leading: const Icon(Icons.favorite, color: Colors.red),
+                title: Text(l10n.favoritesOnlyOption),
+                onTap: () {
+                  Navigator.pop(context);
+                  _navigateToScreen(isQuiz: isQuiz, favoritesOnly: true);
+                },
+              ),
+              const Divider(),
+              // 난이도별
+              Padding(
+                padding: const EdgeInsets.symmetric(vertical: 8.0),
+                child: Text(
+                  l10n.byLevel,
+                  style: const TextStyle(
+                    fontWeight: FontWeight.bold,
+                    color: Colors.grey,
+                  ),
+                ),
+              ),
+              ...levels.map((level) => ListTile(
+                leading: Icon(Icons.school, color: level['color'] as Color),
+                title: Text(level['name'] as String),
+                onTap: () {
+                  Navigator.pop(context);
+                  _navigateToScreen(
+                    isQuiz: isQuiz,
+                    level: level['level'] as String,
+                  );
+                },
+              )),
+            ],
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text(l10n.cancel),
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _navigateToScreen({
+    required bool isQuiz,
+    bool favoritesOnly = false,
+    String? level,
+  }) {
+    if (isQuiz) {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => QuizScreen(
+            level: level,
+            favoritesOnly: favoritesOnly,
+          ),
+        ),
+      );
+    } else {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => WordListScreen(
+            isFlashcardMode: true,
+            level: level,
+            favoritesOnly: favoritesOnly,
+          ),
+        ),
+      );
+    }
   }
 }
 
