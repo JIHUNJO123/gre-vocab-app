@@ -261,4 +261,20 @@ class AppLocalizationsHi extends AppLocalizations {
 
   @override
   String get byLevel => 'सतर क अनसर';
+
+  @override
+  String get lockedContent => 'Locked Content';
+
+  @override
+  String get watchAdToUnlock =>
+      'Watch a short video to unlock all words until midnight!';
+
+  @override
+  String get watchAd => 'Watch Ad';
+
+  @override
+  String get adNotReady => 'Ad is not ready yet. Please try again.';
+
+  @override
+  String get unlockedUntilMidnight => 'All words unlocked until midnight!';
 }

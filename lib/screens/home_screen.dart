@@ -1,6 +1,5 @@
 ﻿import 'package:flutter/material.dart';
 import 'package:gre_vocab_app/l10n/generated/app_localizations.dart';
-import 'package:google_mobile_ads/google_mobile_ads.dart';
 import '../db/database_helper.dart';
 import '../models/word.dart';
 import '../services/translation_service.dart';
@@ -22,14 +21,13 @@ class _HomeScreenState extends State<HomeScreen> {
   Word? _todayWord;
   String? _translatedDefinition;
   bool _isLoading = true;
-  bool _isBannerAdLoaded = false;
   String? _lastLanguage;
 
   @override
   void initState() {
     super.initState();
     _loadTodayWord();
-    _loadBannerAd();
+    AdService.instance.loadRewardedAd();
   }
 
   @override
@@ -40,23 +38,6 @@ class _HomeScreenState extends State<HomeScreen> {
       _loadTodayWord();
     }
     _lastLanguage = currentLanguage;
-  }
-
-  Future<void> _loadBannerAd() async {
-    final adService = AdService.instance;
-    await adService.initialize();
-
-    if (!adService.adsRemoved) {
-      await adService.loadBannerAd(
-        onLoaded: () {
-          if (mounted) {
-            setState(() {
-              _isBannerAdLoaded = true;
-            });
-          }
-        },
-      );
-    }
   }
 
   Future<void> _loadTodayWord() async {
@@ -110,7 +91,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   void dispose() {
-    AdService.instance.disposeBannerAd();
+    AdService.instance.dispose();
     super.dispose();
   }
 
@@ -177,27 +158,8 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
           ),
-          // 諛곕꼫 愿묎퀬
-          _buildBannerAd(),
         ],
       ),
-    );
-  }
-
-  Widget _buildBannerAd() {
-    final adService = AdService.instance;
-
-    if (adService.adsRemoved ||
-        !_isBannerAdLoaded ||
-        adService.bannerAd == null) {
-      return const SizedBox.shrink();
-    }
-
-    return Container(
-      width: adService.bannerAd!.size.width.toDouble(),
-      height: adService.bannerAd!.size.height.toDouble(),
-      alignment: Alignment.center,
-      child: AdWidget(ad: adService.bannerAd!),
     );
   }
 
@@ -479,9 +441,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder:
-                          (context) =>
-                              WordListScreen(level: level['level'] as String),
+                      builder: (context) =>
+                          WordListScreen(level: level['level'] as String),
                     ),
                   );
                 },
@@ -588,16 +549,16 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
               ),
               ...levels.map((level) => ListTile(
-                leading: Icon(Icons.school, color: level['color'] as Color),
-                title: Text(level['name'] as String),
-                onTap: () {
-                  Navigator.pop(context);
-                  _navigateToScreen(
-                    isQuiz: isQuiz,
-                    level: level['level'] as String,
-                  );
-                },
-              )),
+                    leading: Icon(Icons.school, color: level['color'] as Color),
+                    title: Text(level['name'] as String),
+                    onTap: () {
+                      Navigator.pop(context);
+                      _navigateToScreen(
+                        isQuiz: isQuiz,
+                        level: level['level'] as String,
+                      );
+                    },
+                  )),
             ],
           ),
         ),
@@ -640,5 +601,3 @@ class _HomeScreenState extends State<HomeScreen> {
     }
   }
 }
-
-
