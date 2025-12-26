@@ -1,4 +1,4 @@
-﻿{
+{
   "@@locale": "hi",
   "appTitle": "GRE शबदवल मसटर",
   "todayWord": "आज क शबद",
@@ -82,8 +82,7 @@
   "levelA2": "परथमक",
   "levelB1": "मधयवरत",
   "levelB2": "उचच मधयवरत",
-  "levelC1": "उननत"
-,
+  "levelC1": "उननत",
   "excellent": "उतकषट!",
   "finish": "समपत",
   "meaningToWord": "अरथ स शबद",
@@ -97,5 +96,10 @@
   "selectWordRange": "शबद सम चन",
   "allWordsOption": "सभ शबद",
   "favoritesOnlyOption": "कवल पसदद",
-  "byLevel": "सतर क अनसर"
+  "byLevel": "सतर क अनसर",
+  "lockedContent": "लॉक की गई सामग्री",
+  "watchAdToUnlock": "सभी शब्दों को आधी रात तक अनलॉक करने के लिए एक छोटा वीडियो देखें!",
+  "watchAd": "विज्ञापन देखें",
+  "adNotReady": "विज्ञापन अभी तैयार नहीं है। कृपया पुनः प्रयास करें।",
+  "unlockedUntilMidnight": "आधी रात तक सभी शब्द अनलॉक हो गए!"
 }
