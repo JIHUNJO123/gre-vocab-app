@@ -37,6 +37,7 @@ class _WordListScreenState extends State<WordListScreen> {
   bool _showBandBadge = true; // Band 諛곗? ?쒖떆 ?щ?
 
   final ScrollController _listScrollController = ScrollController();
+  bool _isAnimatingScroll = false;
 
   Map<int, String> _translatedDefinitions = {};
   Map<int, String> _translatedExamples = {};
@@ -561,7 +562,7 @@ class _WordListScreenState extends State<WordListScreen> {
   Widget _buildListView() {
     return NotificationListener<ScrollNotification>(
       onNotification: (notification) {
-        if (notification is ScrollEndNotification) {
+        if (notification is ScrollEndNotification && !_isAnimatingScroll) {
           final itemIndex = (_listScrollController.offset / 80.0).round();
           _savePosition(itemIndex);
         }
@@ -609,11 +610,16 @@ class _WordListScreenState extends State<WordListScreen> {
                 if (result != null && mounted) {
                   _savePosition(result);
                   if (result != index && _listScrollController.hasClients) {
-                    _listScrollController.animateTo(
-                      result * 80.0,
-                      duration: const Duration(milliseconds: 300),
-                      curve: Curves.easeInOut,
-                    );
+                    _isAnimatingScroll = true;
+                    _listScrollController
+                        .animateTo(
+                          result * 80.0,
+                          duration: const Duration(milliseconds: 300),
+                          curve: Curves.easeInOut,
+                        )
+                        .then((_) {
+                          _isAnimatingScroll = false;
+                        });
                   }
                 }
               },
