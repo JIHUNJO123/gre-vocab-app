@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:gre_vocab_app/l10n/generated/app_localizations.dart';
 import '../db/database_helper.dart';
 import '../models/word.dart';
+import '../services/ad_service.dart';
 import '../services/translation_service.dart';
 
 class WordDetailScreen extends StatefulWidget {
@@ -88,10 +89,22 @@ class _WordDetailScreenState extends State<WordDetailScreen> {
     }
   }
 
+  // 잠긴 단어인지 확인 (짝수 인덱스 = 2, 4, 6...)
+  bool _isWordLocked(int index) {
+    if (index % 2 == 0) return false;
+    return !AdService.instance.isUnlocked;
+  }
+
   void _goToPreviousWord() {
     if (widget.wordList != null && _currentIndex > 0) {
+      int newIndex = _currentIndex - 1;
+      while (newIndex > 0 && _isWordLocked(newIndex)) {
+        newIndex--;
+      }
+      if (_isWordLocked(newIndex)) return;
+
       setState(() {
-        _currentIndex--;
+        _currentIndex = newIndex;
         _word = widget.wordList![_currentIndex];
         _translatedDefinition = null;
         _translatedExample = null;
@@ -103,8 +116,15 @@ class _WordDetailScreenState extends State<WordDetailScreen> {
   void _goToNextWord() {
     if (widget.wordList != null &&
         _currentIndex < widget.wordList!.length - 1) {
+      int newIndex = _currentIndex + 1;
+      while (newIndex < widget.wordList!.length - 1 &&
+          _isWordLocked(newIndex)) {
+        newIndex++;
+      }
+      if (_isWordLocked(newIndex)) return;
+
       setState(() {
-        _currentIndex++;
+        _currentIndex = newIndex;
         _word = widget.wordList![_currentIndex];
         _translatedDefinition = null;
         _translatedExample = null;
