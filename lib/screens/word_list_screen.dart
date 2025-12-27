@@ -59,14 +59,6 @@ class _WordListScreenState extends State<WordListScreen> {
     });
   }
 
-  Future<void> _saveScrollPosition() async {
-    if (_listScrollController.hasClients) {
-      final prefs = await SharedPreferences.getInstance();
-      final itemIndex = (_listScrollController.offset / 80.0).round();
-      await prefs.setInt(_positionKey, itemIndex);
-    }
-  }
-
   @override
   void initState() {
     super.initState();
@@ -356,10 +348,11 @@ class _WordListScreenState extends State<WordListScreen> {
 
   @override
   void dispose() {
-    if (!widget.isFlashcardMode) {
-      _saveScrollPosition();
-    }
     _pageController.dispose();
+    if (!widget.isFlashcardMode && _listScrollController.hasClients) {
+      final itemIndex = (_listScrollController.offset / 80.0).round();
+      _savePosition(itemIndex);
+    }
     _listScrollController.dispose();
     if (widget.isFlashcardMode) {
       _savePosition(_currentFlashcardIndex);
